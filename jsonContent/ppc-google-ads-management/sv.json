@@ -1,0 +1,528 @@
+{
+  "pageMetadata": {
+    "routeSlugs": [
+      {
+        "path": "ppc-google-ads-management",
+        "slug": "ppc-google-ads-hantering"
+      },
+      {
+        "path": "services/ppc-google-ads-management",
+        "slug": "tjanster/ppc-google-ads-hantering"
+      }
+    ],
+    "routeMetadata": [
+      {
+        "path": "ppc-google-ads-management",
+        "title": "Google Ads-hantering | Webbly Media"
+      },
+      {
+        "path": "services/ppc-google-ads-management",
+        "title": "PPC och Google Ads-byra | Webbly Media"
+      }
+    ]
+  },
+  "benefits": {
+    "title": "Vilka är fördelarna med betald klickannonsering?",
+    "subtitle": "Betald klickmarknadsföring (PPC) hjälper företag att snabbt öka synlighet och driva försäljning. Här är några viktiga fördelar:",
+    "benefits": [
+      {
+        "title": "Få omedelbara resultat",
+        "description": "PPC-kampanjer placerar snabbt dina annonser på sökmotorer och annonsplattformar. Så snart dina annonser är aktiva börjar de locka besökare till din webbplats och hjälper dig att attrahera kunder direkt. Till skillnad från SEO, som tar tid, levererar PPC snabba resultat och är perfekt för företag som vill ha omedelbar effekt."
+      },
+      {
+        "title": "Nå rätt publik",
+        "description": "Med PPC kan du rikta in dig på specifika målgrupper baserat på nyckelord, plats, enhet och demografi. Detta innebär att dina annonser når personer som aktivt söker efter det du erbjuder. Som ett resultat är det mer sannolikt att du attraherar relevant, högkvalitativ trafik som är mer benägen att konvertera."
+      },
+      {
+        "title": "Betala bara för klick",
+        "description": "PPC är ett kostnadseffektivt sätt att annonsera eftersom du bara betalar när någon klickar på din annons. Detta hjälper dig att använda din budget klokt eftersom du bara betalar för faktiskt engagemang."
+      },
+      {
+        "title": "Öka konverteringar och försäljning",
+        "description": "PPC-annonser riktar sig till användare som är redo att köpa, vilket ofta leder till högre konverteringsfrekvenser. Oavsett om du säljer produkter eller tjänster lockar PPC intresserade besökare som vill agera."
+      },
+      {
+        "title": "Mät och optimera prestanda",
+        "description": "En av de bästa fördelarna med PPC är att du kan spåra och mäta hur bra din kampanj presterar. Med detaljerad analys kan du se vad som fungerar och vad som inte fungerar. Detta låter dig göra ändringar baserat på data direkt och förbättra dina kampanjer för bästa resultat."
+      }
+    ]
+  },
+  "marketingAgency": {
+    "title": "Varför behöver du professionella PPC-hanteringstjänster?",
+    "description": "På dagens konkurrensutsatta marknad behöver företag ansluta till rätt kunder för att öka försäljningen. Betald klickannonsering (PPC) hjälper ditt företag att synas direkt när potentiella kunder söker efter dina produkter eller tjänster. Detta ökar din synlighet, förbättrar konverteringar och stärker ditt varumärkes onlinenärvaro.",
+    "description2": "Våra PPC-hanteringstjänster hjälper dig att uppnå dessa fördelar. Vi bedömer dina mål, sätter upp exakt målgruppsinriktning och skapar kampanjer baserade på data som levererar tydliga resultat. Våra PPC-experter säkerställer att dina annonser når rätt publik och genererar lönsam intäkt.",
+    "image": {
+      "src": "/assets/images/PPC/business-discussion.jpg",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 600px",
+      "alt": "Digital Marketing Services",
+      "title": "Business Discussion",
+      "caption": "Bildresurs for business discussion i sektionen ppc.",
+      "description": "Visuell resurs som anvands pa Webbly Medias webbplats for ppc-innehall."
+    },
+    "backgroundImage": "/assets/images/rectangle1.png",
+    "backgroundImageSeo": {
+      "altText": "Bild for Rectangle1",
+      "title": "Rectangle1",
+      "caption": "Bildresurs for rectangle1 i sektionen images.",
+      "description": "Visuell resurs som anvands pa Webbly Medias webbplats for images-innehall."
+    }
+  },
+  "serviceCards1": [
+    {
+      "title": "Google Ads",
+      "description": "Våra Google Ads-tjänster hjälper dig att nå kunder som aktivt letar efter dina tjänster. Vi skapar och hanterar Google Ads för både sök- och displaykampanjer för att få ditt företag framför rätt publik. Våra experter optimerar dina nyckelord, annonstext och budstrategier. Vi ser till att dina annonser visas för rätt publik samtidigt som kostnaderna hålls effektiva. Vårt mål är att maximera din ROI genom att driva trafik, konverteringar och varumärkeskännedom."
+    },
+    {
+      "title": "E-handel PPC",
+      "description": "Våra e-handel PPC-tjänster är utformade för att öka onlineförsäljning och förbättra produktsynlighet. Vi optimerar dina Google Shopping-annonser för att se till att dina produkter visas framför kunder som aktivt söker att köpa. Vårt team fokuserar på frågor med hög köpavsikt, strategisk budgivning och målgruppssegmentering för att maximera din avkastning på annonsutgifter (ROAS). Genom att förfina din katalog hjälper vi dina produkter att sticka ut i shoppingresultat."
+    },
+    {
+      "title": "YouTube-videoannonser",
+      "description": "Vår YouTube-annonstjänst hjälper ditt varumärke att nå engagerade tittare med riktade videokampanjer. Vi skapar effektiva videoannonser som fokuserar på rätt publik baserat på deras intressen, demografi och onlinebeteende. Vårt team ser till att dina annonser når tittare som är mest benägna att engagera sig med ditt innehåll. Detta leder till högre konverteringar och mer exponering för ditt varumärke."
+    }
+  ],
+  "serviceCards2": [
+    {
+      "title": "Performance Max (PMax) Kampanjer",
+      "description": "Vi hanterar Performance Max-kampanjer som använder automation stödd av starka datasignaler. Genom att förbättra förstapartsdata, publiklistor och landningssidans relevans hjälper vi Google att förstå dina ideala kunder. Vårt team förfinar tillgångar, justerar budgivning och kör strukturerade tester för att förbättra konverteringar. Detta säkerställer bredare räckvidd och bättre prestanda över Googles kanaler."
+    },
+    {
+      "title": "Remarketing & Retargeting-annonser",
+      "description": "Våra remarketing-kampanjer återkopplar dig med användare som redan visat intresse för ditt företag. Vi segmenterar målgrupper efter beteende, besökta sidor och avsikt. Genom att leverera personliga annonser ökar vi återbesök och konverteringar. Vi optimerar också placeringar, timing och kreativt material så att ditt varumärke förblir synligt utan överspenderande."
+    },
+    {
+      "title": "Bing Ads-hantering",
+      "description": "Vi hanterar också Bing Ads för att hjälpa dig nå användare över Microsoft Search Network. Vi optimerar nyckelord, förbättrar annonsrelevans och anpassar budgivning efter prestandadata. Med lägre konkurrens och kvalitetspubliker kan Bing Ads generera kostnadseffektiva leads. Vårt team säkerställer konsekvent spårning och löpande optimering för att förbättra resultat och uppnå skalbar, hållbar betald annonsframgång."
+    }
+  ],
+  "otherHero": {
+    "pageName": "Topprankat PPC-byrå",
+    "title": "Uppnå 35%+ ROI från Google Ads-tjänster",
+    "description": "Maximera dina konverteringar, minska bortkastade annonsutgifter och generera kvalificerade leads med professionella PPC-tjänster från Webbly Media. Oavsett om du vill ha högre ROI, fler köpklara kunder eller en skalbar betald annonsstrategi, är vår expert PPC-byrå här för att hjälpa dig växa snabbare. Få din anpassade PPC-strategi idag och se hur snabbt vi kan förbättra dina resultat med datadriven Google Ads-hantering!",
+    "buttonText": "Boka ett samtal",
+    "mainImage": {
+      "src": "/assets/images/PPC/ppc-hero.jpg ",
+      "alt": "SEO hero image",
+      "title": "PPC Hero",
+      "caption": "Bildresurs for ppc hero i sektionen ppc.",
+      "description": "Visuell resurs som anvands pa Webbly Medias webbplats for ppc-innehall."
+    },
+    "floatingImageSrc": "/assets/images/seo-hero-float.svg",
+    "floatingImageAlt": "Side blur decoration",
+    "floatingImageTitle": "SEO Hero Flytande Ikon",
+    "floatingImageCaption": "Flytande ikon som anvands i SEO-hero.",
+    "floatingImageDescription": "Dekorativ SEO-symbol i hero-bilden."
+  },
+  "companyIntro": {
+    "brandName": "Webbly Media",
+    "title": "Din pålitliga partner för PPC-tjänster",
+    "description": "På Webbly Media skapar vi PPC-kampanjer som fokuserar på att förbättra din avkastning på investering (ROI). Som en pålitlig PPC-byrå använder vi avancerade Google Ads-tekniker och anpassade budstrategier för att driva riktad trafik till din webbplats. Vi optimerar varje kampanj för att öka din klickfrekvens (CTR) och minska kostnad per klick (CPC). Detta innebär att ditt företag kommer att se bättre resultat i att generera leads, öka konverteringar och förbättra kampanjprestanda överlag. Kontakta oss för en gratis konsultation idag!",
+    "buttonText": "Läs mer om oss",
+    "image1": "/assets/images/fist-trust.jpg",
+    "image1Seo": {
+      "altText": "Trust and partnership",
+      "title": "Fist Trust",
+      "caption": "Bildresurs for fist trust i sektionen images.",
+      "description": "Visuell resurs som anvands pa Webbly Medias webbplats for images-innehall."
+    },
+    "image2": "/assets/images/star-award.jpg",
+    "image2Seo": {
+      "altText": "Award and recognition",
+      "title": "Star Award",
+      "caption": "Bildresurs for star award i sektionen images.",
+      "description": "Visuell resurs som anvands pa Webbly Medias webbplats for images-innehall."
+    }
+  },
+  "contentImageSplit": {
+    "title": "Sluta slösa pengar på PPC-kampanjer som inte konverterar!",
+    "paragraphs": [
+      "Misslyckas dina betalda annonser med att ge leads, försäljning eller konsekventa resultat? Det är dags att sluta använda ooptimerade kampanjer som slösar din budget utan att ge verklig tillväxt.",
+      "Idag bryr sig Google mer om användarens avsikt än bara specifika nyckelord. Därför behöver du ge Google starka signaler, som din egen data och effektiva landningssidor. På Webbly Media fokuserar vi på dessa viktiga faktorer.",
+      "Vi analyserar sökavsikt, förfinar målgruppsinriktning, justerar budgivning och skapar annonser som matchar dina kunders behov. Varje steg vi tar syftar till att öka konverteringar, sänka förvärvskostnader och öka din övergripande ROI.",
+      "Vi skapar högpresterande kampanjer med hjälp av publikinsikter, strukturerad testning och löpande optimering. Våra experter övervakar prestanda, granskar användarbeteende och uppdaterar kampanjer för stadig förbättring. Ingen gissning, bara beprövade steg som driver ditt företag framåt. Detta säkerställer stadig förbättring och långsiktig lönsamhet.",
+      "Redo att få mer från dina annonsutgifter? Kontakta oss idag och låt Webbly Media förvandla din betalda trafik till konsekventa leads och skalbar intäkt!"
+    ],
+    "image": {
+      "src": "/assets/images/seo-question-image.png",
+      "alt": "Content Image Split",
+      "title": "SEO Question Image",
+      "caption": "Bildresurs for seo question image i sektionen images.",
+      "description": "Visuell resurs som anvands pa Webbly Medias webbplats for images-innehall."
+    }
+  },
+  "digitalServices": {
+    "mainTitle": "Webbly Medias PPC-tjänster inkluderar",
+    "mainDescription": "Som en professionell PPC-byrå erbjuder vi kompletta betalda annonslösningar för företag i alla storlekar. Läs om hur vi kan hjälpa dig uppnå bättre resultat på Google Ads och andra plattformar."
+  },
+  "cardSlider": {
+    "title": "Hur vi hjälper dig som en expert PPC-byrå",
+    "description": "Som ett pålitligt PPC-hanteringsföretag hjälper vi dig att maximera ROI för dina betalda marknadsföringskampanjer. Innan vi lanserar någon kampanj analyserar vi noggrant ditt företag och din marknadsposition. Vårt team använder datadrivna strategier för att skräddarsy kampanjer för din specifika publik och affärsmål. Så här kan vi hjälpa dig:",
+    "cards": [
+      {
+        "title": "PPC-kontogranskning & Åtgärd",
+        "description": "Vi börjar med en grundlig granskning av ditt nuvarande PPC-konto. Vi kontrollerar din annonslayout, målgruppsinriktning, nyckelord och budstrategier. Vi letar efter problem eller missade möjligheter, som annonser som inte presterar bra eller nyckelordsmatchningstyper som inte är effektiva. Efter att vi identifierat dessa problem åtgärdar vi dem för att skapa en mer effektiv kampanj som levererar bättre resultat.",
+        "image": "/assets/images/PPC/icons/docs-search-1.svg",
+        "imageSeo": {
+          "altText": "Bild for Docs Search 1",
+          "title": "Docs Search 1",
+          "caption": "Bildresurs for docs search 1 i sektionen icons.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for icons-innehall."
+        }
+      },
+      {
+        "title": "Nyckelordsforskning",
+        "description": "Nyckelordsforskning är avgörande för att skapa en framgångsrik PPC-kampanj. Vi letar efter de mest relevanta och högkonverterande nyckelorden för ditt företag. Vårt team hittar rätt mix av breda, exakta och långsvansade nyckelord att rikta in sig på. På så sätt visas dina annonser för användare som aktivt söker efter dina produkter eller tjänster.",
+        "image": "/assets/images/PPC/icons/keyword-research-2.svg",
+        "imageSeo": {
+          "altText": "Bild for Keyword Research 2",
+          "title": "Keyword Research 2",
+          "caption": "Bildresurs for keyword research 2 i sektionen icons.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for icons-innehall."
+        }
+      },
+      {
+        "title": "Målgruppsforskning & Segmentering",
+        "description": "För att skapa effektiva annonser är det viktigt att förstå din publik. Vi genomför detaljerad forskning för att identifiera dina ideala kundsegment, inklusive deras demografi, intressen och onlinebeteenden. Vi segmenterar sedan dessa målgrupper för att skräddarsy dina annonser för maximal relevans och engagemang.",
+        "image": "/assets/images/PPC/icons/audience-research-3.svg",
+        "imageSeo": {
+          "altText": "Ikon for malgruppsanalys",
+          "title": "Malgruppsanalys Ikon",
+          "caption": "Ikon som representerar malgrupps- och marknadsanalys.",
+          "description": "PPC-ikon for targeting och malgruppsinsikter."
+        }
+      },
+      {
+        "title": "Konkurrensannonsanalys",
+        "description": "Vi analyserar dina konkurrenters betalda annonsstrategier för att hitta deras styrkor och svagheter. Vi tittar på deras nyckelord, annonstexter och landningssidor för att upptäcka möjligheter där du kan göra det bättre. Vår analys hjälper oss att skapa starkare annonskampanjer som utnyttjar deras luckor och ger dig en fördel på marknaden.",
+        "image": "/assets/images/PPC/icons/competitor-analysis-4.svg",
+        "imageSeo": {
+          "altText": "Ikon for konkurrentanalys",
+          "title": "Konkurrentanalys Ikon",
+          "caption": "Ikon som representerar bevakning av konkurrenter.",
+          "description": "PPC-strategiikon for konkurrensanalys."
+        }
+      },
+      {
+        "title": "Konverteringsspårningsuppsättning",
+        "description": "För att mäta hur bra dina PPC-kampanjer presterar sätter vi upp konverteringsspårning med verktyg som Google Tag Manager (GTM), Google Analytics 4 (GA4) och Google Ads konverteringsspårning. Detta låter oss spåra viktiga åtgärder på din webbplats, som köp, registreringar och formulärinlämningar.",
+        "image": "/assets/images/PPC/icons/conversion-tracking-5.svg",
+        "imageSeo": {
+          "altText": "Bild for Conversion Tracking 5",
+          "title": "Conversion Tracking 5",
+          "caption": "Bildresurs for conversion tracking 5 i sektionen icons.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for icons-innehall."
+        }
+      },
+      {
+        "title": "Kampanjstruktur & Skapande",
+        "description": "Vi skapar och hanterar dina PPC-kampanjer baserat på dina affärsmål och målgrupp. Vårt team bygger riktade annonsgrupper, väljer de bästa nyckelorden och skriver anpassade annonstexter. Oavsett om det är Google Search, Display eller Shopping Ads designar vi varje kampanj för att uppnå bästa möjliga resultat.",
+        "image": "/assets/images/PPC/icons/campaign-structure-6.svg",
+        "imageSeo": {
+          "altText": "Bild for Campaign Structure 6",
+          "title": "Campaign Structure 6",
+          "caption": "Bildresurs for campaign structure 6 i sektionen icons.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for icons-innehall."
+        }
+      },
+      {
+        "title": "Annonsskrivning & Kreativ optimering",
+        "description": "Effektiv annonstext är avgörande för att få klick och konverteringar. Våra skickliga skribenter skapar tydliga och engagerande annonser som talar direkt till din publik. Vi förbättrar regelbundet våra annonser genom att testa olika versioner, rubriker och uppmaningar till handling (CTA) för att öka klickfrekvensen och övergripande annonsprestanda.",
+        "image": "/assets/images/PPC/icons/copywriting-optimization-7.svg",
+        "imageSeo": {
+          "altText": "Ikon for annonscopy-optimering",
+          "title": "Copy Optimering Ikon",
+          "caption": "Ikon som representerar copywriting och textforbattring.",
+          "description": "PPC-copyikon for annonstester och budskapsjustering."
+        }
+      },
+      {
+        "title": "Granskning & Optimering av landningssidor",
+        "description": "Vi säkerställer att dina landningssidor är optimerade för PPC-kampanjer och erbjuder användare en smidig upplevelse. Vårt team granskar siddesign, text och layout för att se till att de är relevanta för dina annonser. Vi fokuserar på att förbättra användarupplevelse (UX), sidladdningshastighet och tydliga CTA:er.",
+        "image": "/assets/images/PPC/icons/page-review-and-optimization-8.svg",
+        "imageSeo": {
+          "altText": "Bild for Page Review And Optimization 8",
+          "title": "Page Review And Optimization 8",
+          "caption": "Bildresurs for page review and optimization 8 i sektionen icons.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for icons-innehall."
+        }
+      },
+      {
+        "title": "Automatiserad budgivning & Optimering",
+        "description": "Vi optimerar dina budstrategier med automationsverktyg för att säkerställa att dina annonser visas vid rätt tidpunkt och till rätt kostnad. Vi justerar bud baserat på prestandadata, målgruppsmål och konkurrensanalys. Vårt mål är att maximera dina annonsutgifter och nå rätt publik utan att spendera för mycket.",
+        "image": "/assets/images/PPC/icons/automated-bidding-9.svg",
+        "imageSeo": {
+          "altText": "Ikon for automatiserad budgivning",
+          "title": "Automatiserad Budgivning Ikon",
+          "caption": "Ikon som representerar automatiserad budstrategi.",
+          "description": "PPC-optimeringsikon for smart budgivning."
+        }
+      },
+      {
+        "title": "A/B-testning för annonser & Landningssidor",
+        "description": "För att kontinuerligt förbättra prestanda kör vi A/B-tester på dina annonser och landningssidor. Detta låter oss jämföra olika versioner av din annonstext, kreativa material eller landningssideelement för att se vilken som presterar bäst.",
+        "image": "/assets/images/PPC/icons/testing-for-ads-10.svg",
+        "imageSeo": {
+          "altText": "Ikon for annonstestning",
+          "title": "Annonstestning Ikon",
+          "caption": "Ikon som representerar A/B-testning av annonser.",
+          "description": "PPC-testikon for experiment och iteration."
+        }
+      },
+      {
+        "title": "Budgethantering & Skalning",
+        "description": "Vi hanterar din PPC-budget noggrant och säkerställer att den spenderas effektivt på dina kampanjer. Vi allokerar rätt belopp till varje kampanj baserat på prestanda, vilket säkerställer bästa möjliga ROI. När dina kampanjer börjar prestera bra skalar vi dem för att öka trafik, leads och konverteringar.",
+        "image": "/assets/images/PPC/icons/budget-management-11.svg",
+        "imageSeo": {
+          "altText": "Ikon for budgethantering",
+          "title": "Budgethantering Ikon",
+          "caption": "Ikon som representerar budgetkontroll och fordeling.",
+          "description": "PPC-ekonomiikon for kampanjhantering."
+        }
+      },
+      {
+        "title": "Löpande övervakning & Prestandaoptimering",
+        "description": "PPC är en pågående process och vi kontrollerar dina kampanjer varje dag för att hitta sätt att förbättra dem. Vi tittar på prestandadata, justerar målgruppsinriktning, optimerar annonsplaceringar och fortsätter att förfina dina kampanjer.",
+        "image": "/assets/images/PPC/icons/performance-optimization-12.svg",
+        "imageSeo": {
+          "altText": "Ikon for prestandaoptimering",
+          "title": "Prestandaoptimering Ikon",
+          "caption": "Ikon som representerar forbattring av kampanjresultat.",
+          "description": "PPC-prestandaikon for optimeringsdelar."
+        }
+      }
+    ]
+  },
+  "workProcess": {
+    "title": "Vår betalda annonsprocess",
+    "description": "På Webbly Media har vi en tydlig betald annonsprocess för att hjälpa ditt företag uppnå lönsamma och mätbara resultat. Vårt tydliga arbetsflöde håller allt transparent och effektivt, vilket gör att du kan följa framstegen i varje steg. Så här fungerar vår PPC-process:",
+    "steps": [
+      {
+        "title": "Kampanjmålsdefinition & Forskning",
+        "description": "Först identifierar vi dina affärsmål, målgrupp och ideala kundprofil. Sedan analyserar vi sökavsikt, konkurrentannonser, befintliga data och marknadsmöjligheter. Detta hjälper oss att förstå exakt vad dina kampanjer behöver uppnå och hur vi kan nå rätt användare vid rätt tidpunkt."
+      },
+      {
+        "title": "Annonsstrategiutveckling",
+        "description": "När forskningen är klar skapar vi en detaljerad betald annonsstrategi. Detta inkluderar att välja kampanjtyper, välja budmetoder, organisera annonsgrupper och planera nyckelord eller målgruppssignaler med hög avsikt."
+      },
+      {
+        "title": "Annonsskapande & Lansering",
+        "description": "I detta steg bygger och lanserar våra experter dina kampanjer. Vi skapar effektiva annonstexter, väljer de bästa placeringarna och designar en strukturerad uppsättning i Google Ads. Vi integrerar också konverteringsspårning, förbättrar landningssidans relevans och säkerställer att varje element är optimerat för högre engagemang och bättre konverteringsfrekvenser."
+      },
+      {
+        "title": "Kontinuerlig övervakning & Optimering",
+        "description": "Vi övervakar regelbundet din kampanjprestanda, granskar söktermer, CPC-trender, konverteringsdata och användarbeteende. Vi gör löpande justeringar som att pausa svaga nyckelord, förfina målgruppsinriktning, testa nya kreativa material och förbättra bud."
+      },
+      {
+        "title": "Regelbunden rapportering & Prestandagranskning",
+        "description": "Transparens är viktigt för oss. Därför ger vi dig detaljerade rapporter med nyckelresultat, inklusive konverteringar, kostnadseffektivitet, trafikinsikter och uppdateringar om förbättringar. Med tydlig data och regelbundna granskningar vet du alltid hur dina kampanjer presterar."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Varför välja Webbly Media för Google Ads-tjänster",
+    "subtitle": "På Webbly Media skapar vi effektiva annonskampanjer som levererar verkliga resultat. Vårt team kombinerar data, strategi och kreativitet för att hjälpa företag växa.",
+    "benefits": [
+      {
+        "title": "7+ års bevisad expertis",
+        "description": "Med över 7 års erfarenhet inom PPC-marknadsföring har vi hjälpt många varumärken att generera högkvalitativa leads och driva försäljning. Vår djupa erfarenhet är vårt främsta verktyg."
+      },
+      {
+        "title": "5-stjärniga PPC-tjänster",
+        "description": "Kunder väljer oss eftersom vi fokuserar på att leverera mätbara resultat. Våra femstjärniga betyg speglar vårt engagemang för transparens och effektiva PPC-kampanjer."
+      },
+      {
+        "title": "Dedikerad onlinesupport dygnet runt",
+        "description": "Vi finns här för dig när du behöver oss. Från kampanjjusteringar till prestandaspårning erbjuder vårt team support dygnet runt för sinnesro."
+      },
+      {
+        "title": "Prisvärd & Transparent prissättning",
+        "description": "Vår prissättning är tydlig och rättvis, anpassad för att passa din budget. Du vet alltid vad du betalar för. Inga dolda avgifter, bara värdefulla PPC-lösningar."
+      },
+      {
+        "title": "Kundvänligt tillvägagångssätt",
+        "description": "Vi arbetar tillsammans med dig istället för att pressa dig att fatta beslut. Vårt vänliga tillvägagångssätt innebär att vi guidar dig steg för steg genom processen."
+      },
+      {
+        "title": "Kundnöjdhetsgaranti",
+        "description": "Din lycka är vår framgång. Vi ändrar våra strategier tills de fungerar för dig. Vi vill att ditt företag ska växa med förtroende och bestående resultat."
+      }
+    ],
+    "buttonText": "KOM IGÅNG NU"
+  },
+  "testimonials": {
+    "title": "Vad kunder säger om oss",
+    "subtitle": "\"Vi tar hand om våra kunder som familj\"",
+    "testimonials": [
+      {
+        "text": "Deras marknadsföringsstrategi för sociala medier förnyade helt vår varumärkesimage. Vi har sett en 200% ökning av engagemanget och en betydande ökning av kvalificerade leads. Teamet är responsivt, kreativt och förstår verkligen vår bransch.",
+        "name": "Artful Dodger",
+        "title": "VD",
+        "company": "Innovate Solutions",
+        "avatar": "/assets/avatars/avatar-1.png",
+        "avatarSeo": {
+          "altText": "Bild for Avatar 1",
+          "title": "Avatar 1",
+          "caption": "Bildresurs for avatar 1 i sektionen avatars.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for avatars-innehall."
+        }
+      },
+      {
+        "text": "UX/UI-designen de levererade var exceptionell. Vår apps användarengagemang har ökat med 45% sedan omdesignen. Det som skiljer dem åt är deras djupa förståelse för användarbeteende och engagemang för att skapa intuitiva upplevelser.",
+        "name": "Victoria Wotton",
+        "title": "Produktledare",
+        "company": "MobileFirst",
+        "avatar": "/assets/avatars/avatar-2.png",
+        "avatarSeo": {
+          "altText": "Bild for Avatar 2",
+          "title": "Avatar 2",
+          "caption": "Bildresurs for avatar 2 i sektionen avatars.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for avatars-innehall."
+        }
+      },
+      {
+        "text": "Att arbeta med detta team förvandlade hela vår digitala närvaro. Webbplatsen de designade ser inte bara fantastisk ut utan har också avsevärt förbättrat våra konverteringsgrader.",
+        "name": "Robert William",
+        "title": "Marknadsdirektör",
+        "company": "TechCorp",
+        "avatar": "/assets/avatars/avatar-3.png",
+        "avatarSeo": {
+          "altText": "Bild for Avatar 3",
+          "title": "Avatar 3",
+          "caption": "Bildresurs for avatar 3 i sektionen avatars.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for avatars-innehall."
+        }
+      }
+    ],
+    "quoteIcon": "/assets/icons/quote.png",
+    "quoteIconSeo": {
+      "altText": "Bild for Quote",
+      "title": "Quote",
+      "caption": "Bildresurs for quote i sektionen icons.",
+      "description": "Visuell resurs som anvands pa Webbly Medias webbplats for icons-innehall."
+    }
+  },
+  "partners": {
+    "title": "Vi är betrodda av toppvarumärken för PPC-kampanjer med hög effekt"
+  },
+  "caseStudies": {
+    "title": "Fallstudier som visar vår PPC-framgång",
+    "subtitle": "",
+    "description": "Som en topprankat marknadsföringsfirma tror vi att resultat talar högre än löften. Under de senaste sju åren har vi hjälpt många företag att förbättra sin onlinenärvaro med våra effektiva marknadsföringslösningar.",
+    "cases": [
+      {
+        "label": "Fall 1",
+        "projectName": "Prime Nest",
+        "description": "Användarcentrerad webbdesign för mobila hälsotjänster",
+        "image": "/assets/images/case-study1.png",
+        "imageSeo": {
+          "altText": "Bild for Case Study1",
+          "title": "Case Study1",
+          "caption": "Bildresurs for case study1 i sektionen images.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for images-innehall."
+        }
+      },
+      {
+        "label": "Fall 2",
+        "projectName": "Divine Home",
+        "description": "Varumärke & webbupplevelse för en allt-i-ett tjänstemarknadsplats",
+        "image": "/assets/images/case-study2.png",
+        "imageSeo": {
+          "altText": "Bild for Case Study2",
+          "title": "Case Study2",
+          "caption": "Bildresurs for case study2 i sektionen images.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for images-innehall."
+        }
+      },
+      {
+        "label": "Fall 3",
+        "projectName": "Kannom",
+        "description": "SaaS-applikationsdesign för plats- och recensionshantering",
+        "image": "/assets/images/case-study3.png",
+        "imageSeo": {
+          "altText": "Bild for Case Study3",
+          "title": "Case Study3",
+          "caption": "Bildresurs for case study3 i sektionen images.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for images-innehall."
+        }
+      }
+    ]
+  },
+  "additionalServices": {
+    "leftSection": {
+      "title": "Låt inte långsamma servrar döda din PPC-ROI (Snabb hosting = Högre konverteringar)",
+      "paragraphs": [
+        "Visste du att även perfekt optimerade PPC-kampanjer kan misslyckas om din webbplats laddas långsamt? Ja, många företag betalar för dyra klick, men förlorar potentiella kunder helt enkelt för att deras hosting inte klarar trafiken. När någon klickar på din annons och din webbplats tar för lång tid att ladda förlorar du pengar med varje sekunds fördröjning.",
+        "Men vi vill inte att din annonsbudget ska gå till spillo. Det är här WebblyHosting kommer in. WebblyHosting är vår premiumhostinglösning byggd för att stödja höghastighetsprestanda för PPC-kampanjer. Den säkerställer att dina landningssidor laddas snabbt och håller användare engagerade.",
+        "Med blixtsnabba servrar, hög drifttid och optimerad infrastruktur hjälper WebblyHosting dina landningssidor att konvertera fler besökare till leads och försäljning. Vår starka säkerhet, stabila prestanda och skalbara alternativ ger dina PPC-kampanjer det stöd de behöver för att uppnå högre ROI och leverera en smidig, pålitlig upplevelse för din publik."
+      ],
+      "buttonText": "UPPTÄCK WEBBLYHOST"
+    },
+    "rightSection": {
+      "title": "Vi erbjuder mer än bara PPC-tjänster",
+      "quote": "\"Förutom betalda annonslösningar tillhandahåller vi alla andra digitala tjänster du behöver för att växa ditt företag på flera plattformar. Utforska dem nedan:\"",
+      "services": [
+        {
+          "title": "Digital marknadsföring",
+          "link": "/services/digital-marketing-services",
+          "description": "Vi erbjuder digitala marknadsföringstjänster som ökar din synlighet, når en större publik och hjälper ditt företag att växa online."
+        },
+        {
+          "title": "Sökmotoroptimering",
+          "link": "/services/seo",
+          "description": "Våra SEO-tjänster hjälper dig att ranka högre i sökresultat. Vi åtgärdar tekniska problem för att säkerställa att du får stadig organisk trafik över tid."
+        },
+        {
+          "title": "Marknadsföring i sociala medier",
+          "link": "/services/social-media-marketing-services",
+          "description": "Våra marknadsföringstjänster för sociala medier hjälper dig att ansluta till din publik och bygga ditt varumärke. Vi stödjer dig från engagemang till konverteringar."
+        }
+      ],
+      "buttonText": "FÅ EN GRATIS OFFERT"
+    }
+  },
+  "contact": {
+    "title": "Maximera PPC-resultat och öka konverteringar med Webbly Media",
+    "description": "Vill du förbättra din Google Ads-prestanda? Vi är här för att ta på oss uppdraget. Kontakta oss idag för professionella PPC-marknadsförings- och hanteringstjänster!",
+    "contactInfo": {
+      "title": "Kontaktinfo",
+      "emailLabel": "E-post:",
+      "emailValue": "support@webblymedia.com",
+      "phoneLabel": "",
+      "phoneValue": ""
+    }
+  },
+  "faq": {
+    "title": "Vanliga frågor om PPC & Google Ads-tjänster",
+    "subtitle": "Om du har frågor om våra PPC-marknadsförings- och hanteringstjänster, kolla våra vanliga frågor. Du kan lära dig om våra priser och planer.",
+    "faqs": [
+      {
+        "question": "Vad gör Webbly Media annorlunda jämfört med andra PPC-byråer?",
+        "answer": "På Webbly Media utmärker vi oss genom att fokusera på datadrivna PPC-kampanjer som faktiskt konverterar. Vårt team använder publikinsikter, budstrategier och konverteringsoptimering för att få bästa resultat för dina annonsutgifter. Vi hanterar inte bara klick, vi genererar leads och försäljning som växer ditt företag."
+      },
+      {
+        "question": "Hur mycket kostar era Google Ads-tjänster?",
+        "answer": "Vår prissättning beror på dina affärsmål, bransch och annonsbudget. Vi erbjuder flexibla månadsplaner för att passa olika kampanjstorlekar. Innan vi börjar ger vi alltid en fullständig kostnadsuppdelning så att det inte finns några överraskningar. Kontakta oss idag för en gratis konsultation."
+      },
+      {
+        "question": "Hur mycket ROI kan jag förvänta mig från era PPC-tjänster?",
+        "answer": "ROI beror på din budget, bransch, konkurrens och kampanjtyp. Med en väloptimerad PPC-strategi ser kunder vanligtvis en 20-35% ökning av kvalificerade leads och konverteringar. Många företag märker mätbara förbättringar inom veckor när kampanjer är korrekt strukturerade och övervakade."
+      },
+      {
+        "question": "Vilka behöver PPC-hanteringstjänster mest?",
+        "answer": "Alla företag som behöver snabb synlighet, leads eller försäljning online kan dra nytta av PPC-marknadsföringstjänster. Detta är särskilt bäst för startups, e-handelsbutiker, lokala tjänster och B2B-företag."
+      },
+      {
+        "question": "När bör jag investera i betald klickmarknadsföring?",
+        "answer": "Om du vill ha omedelbar trafik, riktade leads eller mätbar försäljningstillväxt är det den perfekta tiden att investera. Tidig investering gör att du kan testa kampanjer, skala framgångsrika annonser och ligga före konkurrenterna samtidigt som du får insikter för långsiktig tillväxt."
+      },
+      {
+        "question": "Varför bör jag anlita en byrå istället för en frilansare för PPC-hjälp?",
+        "answer": "En byrå ger dig ett komplett team av PPC-experter som täcker annonsstrategi, kreativ utveckling, målgruppsinriktning, spårning och optimering. Till skillnad från frilansare erbjuder byråer kontinuerlig övervakning, avancerade verktyg och skalbara kampanjer som växer med ditt företag."
+      },
+      {
+        "question": "Hur skiljer sig PPC-annonsering från SEO?",
+        "answer": "PPC ger omedelbar synlighet genom betalda annonser, medan SEO bygger långsiktig organisk trafik. PPC riktar sig till användare som aktivt söker eller surfar efter din tjänst och konverterar snabbare, men det kostar per klick. SEO tar längre tid men kan ge hållbar trafik utan direkta annonsutgifter. Tillsammans kompletterar de varandra för maximal tillväxt."
+      }
+    ]
+  }
+}

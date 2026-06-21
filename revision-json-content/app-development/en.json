@@ -1,0 +1,315 @@
+{
+  "serviceHero": {
+    "badge": "App Development Services",
+    "headingMobile": ["Build Apps", "That Scale", "Globally"],
+    "headingDesktop": "Build Apps That Scale Globally",
+    "description": "Build fast, secure, and scalable mobile and web applications with Webbly Media's professional app development services. We create custom apps that deliver seamless experiences across all devices and platforms.",
+    "buttonText": "Build Your App",
+    "videoSrc": "/revision-images/web-development/ServiceHero/hero-video.mp4",
+    "splineUrl": "https://prod.spline.design/uEXBpVuveykV70S5/scene.splinecode"
+  },
+  "twoColumnSection": {
+    "badge": "A Reliable App Development Company",
+    "previewText": "At Webbly Media, we understand global digital standards and help businesses build powerful, modern applications. As an award-winning app development agency, we create custom mobile and web apps that are fast, secure, and easy to scale.",
+    "previewTextTablet": "At Webbly Media, we build powerful, modern applications with global digital standards. We design custom mobile and web apps that are fast, secure, and built to grow.",
+    "previewTextMobile": "At Webbly Media, we build modern, high-performance apps that are secure, scalable, and made for growth.",
+    "previewTail": "Our skilled developers write clean code........",
+    "fullContent": [
+      "At Webbly Media, we understand global digital standards and help businesses build powerful, modern applications. As an award-winning app development agency, we create custom mobile and web apps that are fast, secure, and easy to scale.",
+      "Our skilled developers write clean, maintainable code and design each interface for real users. From planning and UX to launch and optimization, we focus on performance, security, and long-term growth so your business can reach users everywhere with confidence."
+    ],
+    "modalTitle": "How We Build High-Impact Mobile & Web Applications",
+    "viewMoreText": "View More",
+    "imageSrc": "/revision-images/web-development/colleagues-selfie.webp",
+    "imageAlt": "Colleagues having a selfie in the office"
+  },
+  "marqueeSection": {
+    "logos": [
+      { "id": 1, "src": "/revision-images/web-development/marquee-logos/marquee-logo-1.svg", "alt": "Marquee brand logo 1", "width": 164 },
+      { "id": 2, "src": "/revision-images/web-development/marquee-logos/marquee-logo-2.svg", "alt": "Marquee brand logo 2", "width": 132 },
+      { "id": 3, "src": "/revision-images/web-development/marquee-logos/marquee-logo-3.svg", "alt": "Marquee brand logo 3", "width": 154 },
+      { "id": 4, "src": "/revision-images/web-development/marquee-logos/marquee-logo-4.svg", "alt": "Marquee brand logo 4", "width": 146 }
+    ],
+    "logoOrder": [1, 1, 2, 3, 1, 4]
+  },
+  "servicesShowcase": {
+    "badge": "Our Services",
+    "heading": "Our App Development Services Include",
+    "description": "As a professional app development agency, we offer complete mobile and web application solutions for businesses of all types. Learn how we can help you build a functional and dynamic app for your business:",
+    "services": [
+      {
+        "title": "Custom App Development",
+        "description": "Our custom app solutions focus on building mobile and web applications from scratch tailored to your unique business needs.",
+        "image": "/revision-images/web-development/slide-images/slide-image-1.webp"
+      },
+      {
+        "title": "Cross-Platform App Development",
+        "description": "We develop cross-platform applications that run seamlessly on both iOS and Android, saving time and cost.",
+        "image": "/revision-images/web-development/slide-images/slide-image-2.webp"
+      },
+      {
+        "title": "iOS App Development",
+        "description": "Our iOS development services create high-quality, feature-rich applications optimized for iPhone and iPad users.",
+        "image": "/revision-images/web-development/slide-images/slide-image-3.webp"
+      },
+      {
+        "title": "Android App Development",
+        "description": "We build robust Android applications that deliver great performance across a wide range of devices and screen sizes.",
+        "image": "/revision-images/web-development/slide-images/slide-image-4.webp"
+      },
+      {
+        "title": "Progressive Web Apps (PWA)",
+        "description": "Our PWA development services combine the best of web and mobile to deliver fast, reliable, and engaging app-like experiences.",
+        "image": "/revision-images/web-development/slide-images/slide-image-5.webp"
+      },
+      {
+        "title": "UI/UX Design for Apps",
+        "description": "We design intuitive, modern, and user-friendly interfaces that enhance user engagement and retention in your app.",
+        "image": "/revision-images/web-development/slide-images/slide-image-6.webp"
+      },
+      {
+        "title": "API Integration & Backend",
+        "description": "Our API integration and backend development services connect your app with third-party tools and ensure reliable data flow.",
+        "image": "/revision-images/web-development/slide-images/slide-image-7.webp"
+      },
+      {
+        "title": "App Testing & QA",
+        "description": "We perform thorough testing and quality assurance to ensure your app is bug-free, secure, and performs well under all conditions.",
+        "image": "/revision-images/web-development/slide-images/slide-image-8.webp"
+      },
+      {
+        "title": "App Maintenance & Support",
+        "description": "Our app maintenance services keep your application updated, secure, and running smoothly with ongoing technical support.",
+        "image": "/revision-images/web-development/slide-images/slide-image-9.webp"
+      }
+    ]
+  },
+  "mediaFeaturesSection": {
+    "badge": "Things To Expect from Our App Development Services",
+    "heading": "We Build Apps That You Must Like!",
+    "description": "At Webbly Media, we follow a clear and structured app development process to build applications that support real business growth. First, we learn about your goals and who will use your app.",
+    "videoOverlayTitle": "Redefining Digital Possibilities",
+    "videoOverlayDescription": "We design, build, and scale technology for the next generation.",
+    "videoSrc": "/revision-images/web-development/videos/webblyhosting-video.mp4",
+    "featureCards": [
+      {
+        "title": "Fully Responsive App",
+        "description": "We build fully responsive apps that work flawlessly across all devices and screen sizes.",
+        "icon": "/revision-images/web-development/icons/rocket-launch.svg"
+      },
+      {
+        "title": "App Performance Optimization",
+        "description": "App speed and performance matter for users and app store rankings.",
+        "icon": "/revision-images/web-development/icons/CPU.svg"
+      },
+      {
+        "title": "App Store Optimization",
+        "description": "We build apps with ASO best practices to maximize visibility and downloads.",
+        "icon": "/revision-images/web-development/icons/monitor.svg"
+      },
+      {
+        "title": "Clean and Intuitive Interface",
+        "description": "We create clean and easy-to-use interfaces for smooth app navigation and engagement.",
+        "icon": "/revision-images/web-development/icons/paint-tray.svg",
+        "wide": true
+      },
+      {
+        "title": "Advanced Security",
+        "description": "Security is a top priority in our app development process, protecting user data at every level.",
+        "icon": "/revision-images/web-development/icons/Handshake.svg",
+        "wide": true
+      }
+    ]
+  },
+  "stackMarquee": {
+    "heading": "We Offer Custom App Development Solutions",
+    "stacks": [
+      { "name": "REACT NATIVE", "src": "/revision-images/web-development/icons/stacks/react.svg" },
+      { "name": "FLUTTER", "src": "/revision-images/web-development/icons/stacks/django.svg" },
+      { "name": "SWIFT", "src": "/revision-images/web-development/icons/stacks/next-js.svg" },
+      { "name": "KOTLIN", "src": "/revision-images/web-development/icons/stacks/laravel.svg" },
+      { "name": "NEXT.JS", "src": "/revision-images/web-development/icons/stacks/next-js.svg" },
+      { "name": "NODE.JS", "src": "/revision-images/web-development/icons/stacks/mern-stack.svg" },
+      { "name": "REACT.JS", "src": "/revision-images/web-development/icons/stacks/react.svg" },
+      { "name": "TYPESCRIPT", "src": "/revision-images/web-development/icons/stacks/css.svg" },
+      { "name": "FIREBASE", "src": "/revision-images/web-development/icons/stacks/mysql.svg" },
+      { "name": "MONGODB", "src": "/revision-images/web-development/icons/stacks/mongodb.svg" },
+      { "name": "GRAPHQL", "src": "/revision-images/web-development/icons/stacks/php.svg" },
+      { "name": "AWS", "src": "/revision-images/web-development/icons/stacks/wix.svg" },
+      { "name": "DOCKER", "src": "/revision-images/web-development/icons/stacks/shopify.svg" },
+      { "name": "PYTHON", "src": "/revision-images/web-development/icons/stacks/python.svg" }
+    ]
+  },
+  "helpBuildWeb": {
+    "badge": "Our App Development Process",
+    "heading": "How We Help You as an Expert App Development Agency",
+    "processCards": [
+      {
+        "title": "Analysis & Research",
+        "description": "We start by understanding your business, goals, and target audience.",
+        "icon": "/revision-images/web-development/icons/HelpBuildWeb/content_paste_search.svg"
+      },
+      {
+        "title": "Modern UI/UX Design",
+        "description": "We design clean, modern, and user-friendly app interfaces and flows.",
+        "icon": "/revision-images/web-development/icons/HelpBuildWeb/brush.svg"
+      },
+      {
+        "title": "App Development",
+        "description": "After design approval, we turn ideas into a functional, high-performance application.",
+        "icon": "/revision-images/web-development/icons/HelpBuildWeb/ad_group.svg"
+      },
+      {
+        "title": "Testing & Launch",
+        "description": "Before launch, we test everything carefully across devices and platforms.",
+        "icon": "/revision-images/web-development/icons/HelpBuildWeb/bug_report.svg"
+      }
+    ]
+  },
+  "webAgencyWhyChooseUs": {
+    "badge": "Things To Expect from Our App Development Services",
+    "headingLine1": "Why Choose Us As Your",
+    "headingLine2": "App Development Agency",
+    "description": "At Webbly Media, we don't just build apps; we create reliable digital products that support long-term business growth and success. Our expert developers combine strategy, clean code, and modern design to deliver applications that perform and scale with confidence.",
+    "videoSrc": "/revision-images/web-development/videos/webblyhosting-video.mp4",
+    "experienceTitle": "Experience we've\nachieved",
+    "awardItems": [
+      "7+ Years of Experience",
+      "5-Star Rated App Solutions",
+      "Clear Communication & 24/7 Support",
+      "Client Satisfaction Commitment"
+    ],
+    "conversionValue": "41%",
+    "conversionLabel": "Conversion\nGrowth",
+    "conversionDescription": "We seamlessly integrate data insights into the design process, ensuring your app UX/UI is not just visually appealing but strategically aligned with your business goals.",
+    "hostingTitle": "Don't Let Poor Hosting\nRuin Your High-Quality\nApplication",
+    "hostingBackText": "Did you know that even a well-built application can fail because of poor hosting? Yes, many businesses invest in professional app development, but still face slow loading, downtime, and performance issues due to weak hosting infrastructure.\nWebblyHosting is our premium hosting service designed to support you.",
+    "hostingButtonText": "Discover WebblyHost",
+    "hostingImageSrc": "/revision-images/web-development/icons/WebAgencyWhyChooseUs/profile-pic.png",
+    "webblyIconSrc": "/revision-images/web-development/icons/WebAgencyWhyChooseUs/webbly-white-icon.svg",
+    "spiralBgSrc": "/revision-images/web-development/icons/WebAgencyWhyChooseUs/spairal.svg"
+  },
+  "stickySection": {
+    "headingLine1": "We Offer More Than Just",
+    "headingLine2": "App Development Services",
+    "items": [
+      {
+        "number": "01",
+        "title": "Web Development",
+        "description": "Our web development services create fast, secure, and scalable websites with responsive layouts and smooth navigation.",
+        "tags": ["Execution", "Planning"]
+      },
+      {
+        "number": "02",
+        "title": "Web Design",
+        "description": "Our web design services create clean, modern, and user-friendly interfaces with responsive layouts and smooth navigation.",
+        "tags": ["Execution", "Planning"]
+      },
+      {
+        "number": "03",
+        "title": "Digital Marketing",
+        "description": "Our digital marketing services help increase visibility, engagement, and leads through SEO, social media, and paid campaigns.",
+        "tags": ["Execution", "Planning"]
+      }
+    ],
+    "images": [
+      "/revision-images/web-development/StickySection/sticky-image-1.webp",
+      "/revision-images/web-development/StickySection/sticky-image-2.webp",
+      "/revision-images/web-development/StickySection/sticky-image-3.webp"
+    ]
+  },
+  "serviceKeyFacts": {
+    "headingLine1": "Key Facts to Know About",
+    "headingLine2": "App Development",
+    "subtitle": "App development helps businesses reach users on mobile and web platforms. Here are some key facts to understand:",
+    "videoSrc": "/revision-images/web-development/videos/webblyhosting-video.mp4",
+    "keyFacts": [
+      {
+        "id": "types-of-app-development-services",
+        "title": "Types of App Development Services",
+        "description": "App development services help businesses build functional, fast, and user-friendly applications. These services are mainly divided into native app development, cross-platform development, and progressive web apps, each suited to different business needs and budgets.",
+        "hasVideo": true
+      },
+      {
+        "id": "what-does-an-app-development-company-do",
+        "title": "What Does an App Development Company Do?",
+        "description": "An app development company like Webbly Media helps businesses build powerful, reliable, and growth-focused mobile and web applications. We take care of everything from planning and design to development, testing, and ongoing support.<br><br>Our aim is to build apps that look professional and perform well. We handle both front-end and back-end development to ensure your app is fast, secure, and scalable. We also ensure that your application is optimized for app stores, user-friendly, and built for high performance.<br><br>Before launching, we carefully test every feature across devices. After launch, we continue to provide maintenance, updates, and technical support. In short, we turn your ideas into effective digital solutions that help your business grow with confidence.",
+        "hasVideo": false
+      },
+      {
+        "id": "why-hire-an-app-development-firm",
+        "title": "Why Hire an App Development Firm?",
+        "description": "When it comes to building a professional application, hiring an agency like Webbly Media ensures your project is handled properly. We are your partner in digital growth, creating apps that support your business goals.<br><br>Our team helps you plan, design, and develop your application efficiently. We organize every step, from wireframes and design to coding and testing, ensuring high-quality results while saving you time.<br><br>We also address the technical challenges many businesses face. Our developers manage everything from front-end and back-end work to API integration, security, and performance optimization. This way, you can focus on running your business while we build a seamless app for you.<br><br>In summary, hiring an app development agency provides you with expertise, reliability, and ongoing support. With our help, your application will be optimized, scalable, and ready to help your brand grow across platforms.",
+        "hasVideo": false
+      },
+      {
+        "id": "benefits-of-hiring-an-app-agency",
+        "title": "Benefits of Hiring an App Development Agency",
+        "description": "Hiring a professional app development company offers clear benefits for businesses looking to create high-quality and scalable applications. Here are the main advantages:<br><br>Expert Team & Skills<br>Agencies have teams of designers, developers, and testers with different skills. This ensures your application is built efficiently and professionally.<br><br>Faster Delivery & Structured Process<br>With organized workflows and project management, agencies complete applications more quickly than individual freelancers while maintaining quality standards.<br><br>Custom & Scalable Solutions<br>Agencies create applications tailored to your business needs, unlike generic templates. Your app can grow and evolve as your business expands.<br><br>Better User Experience & Performance<br>App development companies focus on intuitive design, fast loading times, and smooth functionality to enhance user engagement and boost conversions.<br><br>Long-Term Support & Maintenance<br>Agencies provide ongoing updates, security patches, and technical support to keep your application running well.<br><br>Higher ROI & Reliability<br>A professionally built application attracts more users, leads, and revenue over time, delivering lasting value.",
+        "hasVideo": false
+      },
+      {
+        "id": "native-vs-cross-platform-development",
+        "title": "Native vs Cross-Platform App Development",
+        "description": "Native apps are built specifically for one platform (iOS or Android) using platform-specific languages like Swift or Kotlin. They offer the best performance and user experience but require separate codebases. Cross-platform apps use frameworks like React Native or Flutter to run on both platforms from a single codebase, saving time and cost. At Webbly Media, we help you choose the right approach based on your business goals, budget, and target audience.",
+        "hasVideo": false
+      },
+      {
+        "id": "importance-of-app-ui-ux-design",
+        "title": "Importance of App UI/UX Design",
+        "description": "Good UI/UX design is critical for app success. It determines how users interact with your application, affecting engagement, retention, and conversions. A well-designed app is intuitive, visually appealing, and easy to navigate. Poor design can frustrate users and lead to uninstalls. At Webbly Media, we prioritize user-centered design to create app interfaces that are both beautiful and functional, ensuring a positive experience that keeps users coming back.",
+        "hasVideo": false
+      },
+      {
+        "id": "why-is-app-performance-important",
+        "title": "Why Is App Performance Important?",
+        "description": "Users expect apps to load fast and respond instantly. Slow or laggy apps lead to poor reviews, low retention, and lost revenue. Performance optimization includes efficient code, optimized images, smart caching, and reliable backend infrastructure. A high-performing app improves user satisfaction, boosts app store rankings, and increases engagement. By focusing on performance from day one, your business stays competitive and delivers the smooth experience users demand.",
+        "hasVideo": false
+      }
+    ]
+  },
+  "getAQuote": {
+    "headingLine1": "Build High-Performance",
+    "headingLine2": "Apps With Webbly Media",
+    "description": "Whether you're a startup or an enterprise, we help you design, develop, and scale powerful mobile and web applications that drive growth.",
+    "buttonText": "GET A QUOTE",
+    "backgroundImage": "/revision-images/web-development/GetAQuote/CTA.webp",
+    "backgroundImageAlt": "Team collaborating on app development planning"
+  },
+  "revisionFaqSection": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "If you have questions about our app development and digital services, look at our FAQs. You can learn about our plans.",
+    "contactHeading": "Build High-\nPerformance Apps\nWith Webbly Media",
+    "email": "Webblymedia@gmail.se",
+    "phone": "+1-800-123-4567",
+    "askQuestionButton": "Asked A Questions",
+    "profileImage": "/revision-images/web-development/RevisionFaqSection/profile.png",
+    "faqs": [
+      {
+        "id": 1,
+        "question": "What Makes Webbly Media the Best App Development Agency?",
+        "answer": "Webbly Media stands out for expert service, proven results, and dedicated support. Our creative team combines innovation, strategy, and technology to help businesses build successful mobile and web applications."
+      },
+      {
+        "id": 2,
+        "question": "Can Webbly Media Develop Custom Mobile and Web Apps?",
+        "answer": "Yes, we specialize in building custom mobile and web applications tailored to your business needs. Our development team creates scalable, secure, and high-performance solutions from scratch for iOS, Android, and the web."
+      },
+      {
+        "id": 3,
+        "question": "Do You Build Apps for Both iOS and Android?",
+        "answer": "Absolutely. We develop native apps for both iOS and Android, as well as cross-platform solutions using React Native and Flutter to reach a wider audience efficiently."
+      },
+      {
+        "id": 4,
+        "question": "How Do You Work From Discovery To App Launch?",
+        "answer": "We follow a structured process: discovery, planning, design, development, testing, and launch. Each phase includes client collaboration to ensure the final product meets your expectations and performs flawlessly."
+      },
+      {
+        "id": 5,
+        "question": "Do You Provide Ongoing App Maintenance and Support?",
+        "answer": "Yes, we provide continuous maintenance, updates, bug fixes, and performance monitoring to ensure your app stays secure, up-to-date, and running smoothly after launch."
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+export const cookiePolicyContent = {
+    header: {
+        title: 'Cookies Policy',
+        lastUpdated: 'Last updated: 10 January 2026',
+        welcome: {
+            title: 'Welcome to Webbly Media',
+            text: 'This Cookies Policy explains how Webbly Media uses cookies and similar technologies on our website. It helps you understand what cookies are, how we use them, and how you can manage your preferences. By continuing to browse or use our website, you agree to the use of cookies as described in this policy.',
+        },
+    },
+    toc: [
+        { id: 'what-are-cookies', label: '1. What Are Cookies?' },
+        { id: 'how-we-use', label: '2. How We Use Cookies' },
+        { id: 'types-of-cookies', label: '3. Types of Cookies We Use' },
+        { id: 'third-party', label: '4. Third-Party Cookies' },
+        { id: 'control-cookies', label: '5. How You Can Control Cookies' },
+        { id: 'consent', label: '6. Consent to Use Cookies' },
+        { id: 'updates', label: '7. Updates to This Cookies Policy' },
+        { id: 'contact', label: '8. Contact Us' },
+    ],
+    sections: [
+        {
+            id: 'what-are-cookies',
+            title: '1. What Are Cookies?',
+            content: [
+                'Cookies are small text files stored on your device when you visit a website. They help websites remember your actions and preferences, making your browsing experience smoother and more efficient.',
+                'Cookies do not harm your device and do not give us access to your personal files or data.',
+            ],
+        },
+        {
+            id: 'how-we-use',
+            title: '2. How We Use Cookies',
+            content: [
+                'Webbly Media uses cookies to:',
+                '- Ensure the website functions properly',
+                '- Improve website performance and speed',
+                '- Understand user behavior and interaction',
+                '- Analyze traffic and usage patterns',
+                '- Enhance user experience and usability',
+                'Cookies help us deliver a better, more relevant experience for visitors.',
+            ],
+        },
+        {
+            id: 'types-of-cookies',
+            title: '3. Types of Cookies We Use',
+            content: [
+                '3.1 Essential Cookies',
+                'These cookies are necessary for the website to work correctly. They enable core features such as page navigation, form submissions, and security. Without these cookies, the website may not function properly.',
+                '3.2 Performance & Analytics Cookies',
+                'These cookies collect information about how visitors use our website, such as pages visited and time spent on the site. The data is aggregated and anonymous and helps us improve website performance and content quality.',
+                '3.3 Functional Cookies',
+                'Functional cookies allow the website to remember your preferences, such as language settings or form inputs, to provide a more personalized experience.',
+                '3.4 Marketing & Advertising Cookies',
+                'These cookies may be used to deliver relevant ads and track the effectiveness of marketing campaigns. They help ensure that advertisements shown to you are meaningful and relevant.',
+            ],
+        },
+        {
+            id: 'third-party',
+            title: '4. Third-Party Cookies',
+            content: [
+                'We may allow trusted third-party services, such as analytics or marketing tools, to place cookies on your device. These third parties may collect information according to their own privacy and cookie policies.',
+                'Webbly Media does not control third-party cookies, and we recommend reviewing their policies for more information.',
+            ],
+        },
+        {
+            id: 'control-cookies',
+            title: '5. How You Can Control Cookies',
+            content: [
+                'You can manage or disable cookies at any time through your browser settings. Most browsers allow you to:',
+                '- View cookies stored on your device',
+                '- Delete existing cookies',
+                '- Block all or specific cookies',
+                'Please note that disabling cookies may affect website functionality and your overall browsing experience.',
+            ],
+        },
+        {
+            id: 'consent',
+            title: '6. Consent to Use Cookies',
+            content: [
+                'When you first visit our website, you may see a cookie banner requesting your consent. By accepting or continuing to use the website, you agree to our use of cookies as described in this Cookies Policy.',
+                'You can withdraw your consent at any time by adjusting your browser settings.',
+            ],
+        },
+        {
+            id: 'updates',
+            title: '7. Updates to This Cookies Policy',
+            content: [
+                'We may update this Cookies Policy to reflect changes in technology, legal requirements, or how we use cookies. Any updates will be posted on this page with a revised date.',
+                'We encourage you to review this policy periodically.',
+            ],
+        },
+        {
+            id: 'contact',
+            title: '8. Contact Us',
+            content: [
+                'If you have any questions about this Cookie Policy or our use of cookies, please contact us:',
+                'Webbly Media',
+                'Email: info@webblymedia.com',
+                'Website: https://www.webblymedia.com',
+                'By using our website, you acknowledge that you have read and understood this Cookie Policy.',
+            ],
+        },
+    ],
+};

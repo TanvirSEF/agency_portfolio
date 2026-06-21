@@ -1,0 +1,141 @@
+{
+  "pageMetadata": {
+    "routeSlugs": [
+      {
+        "path": "cookie-policy",
+        "slug": "cookiepolicy"
+      }
+    ],
+    "routeMetadata": [
+      {
+        "path": "cookie-policy",
+        "title": "Cookiepolicy | Webbly Media"
+      }
+    ]
+  },
+  "header": {
+    "title": "Cookiepolicy",
+    "lastUpdated": "Senast uppdaterad: 10 januari 2026",
+    "welcome": {
+      "title": "Valkommen till Webbly Media",
+      "text": "Denna cookiepolicy forklarar hur Webbly Media anvander cookies och liknande tekniker pa var webbplats. Den hjalper dig att forsta vad cookies ar, hur vi anvander dem och hur du kan hantera dina installningar. Genom att fortsatta surfa pa eller anvanda var webbplats godkanner du anvandningen av cookies enligt denna policy."
+    }
+  },
+  "toc": [
+    {
+      "id": "what-are-cookies",
+      "label": "1. Vad ar cookies?"
+    },
+    {
+      "id": "how-we-use",
+      "label": "2. Hur vi anvander cookies"
+    },
+    {
+      "id": "types-of-cookies",
+      "label": "3. Typer av cookies vi anvander"
+    },
+    {
+      "id": "third-party",
+      "label": "4. Tredjepartscookies"
+    },
+    {
+      "id": "control-cookies",
+      "label": "5. Hur du kan kontrollera cookies"
+    },
+    {
+      "id": "consent",
+      "label": "6. Samtycke till anvandning av cookies"
+    },
+    {
+      "id": "updates",
+      "label": "7. Uppdateringar av denna cookiepolicy"
+    },
+    {
+      "id": "contact",
+      "label": "8. Kontakta oss"
+    }
+  ],
+  "sections": [
+    {
+      "id": "what-are-cookies",
+      "title": "1. Vad ar cookies?",
+      "content": [
+        "Cookies ar sma textfiler som lagras pa din enhet nar du besoker en webbplats. De hjalper webbplatser att komma ihag dina handlingar och installningar, vilket gor din surfupplevelse smidigare och mer effektiv.",
+        "Cookies skadar inte din enhet och ger oss inte tillgang till dina personliga filer eller data."
+      ]
+    },
+    {
+      "id": "how-we-use",
+      "title": "2. Hur vi anvander cookies",
+      "content": [
+        "Webbly Media anvander cookies for att:",
+        "- Sakerstalla att webbplatsen fungerar korrekt",
+        "- Forbattra webbplatsens prestanda och hastighet",
+        "- Forsta anvandarbeteende och interaktion",
+        "- Analysera trafik och anvandningsmonster",
+        "- Forbattra anvandarupplevelse och anvandbarhet",
+        "Cookies hjalper oss att leverera en battre och mer relevant upplevelse for besokare."
+      ]
+    },
+    {
+      "id": "types-of-cookies",
+      "title": "3. Typer av cookies vi anvander",
+      "content": [
+        "3.1 Nodvandiga cookies",
+        "Dessa cookies ar nodvandiga for att webbplatsen ska fungera korrekt. De mojliggor grundlaggande funktioner som sidnavigering, formularinskickning och sakerhet. Utan dessa cookies kanske webbplatsen inte fungerar korrekt.",
+        "3.2 Prestanda- och analyticscookies",
+        "Dessa cookies samlar information om hur besokare anvander var webbplats, sasom besokta sidor och tid pa webbplatsen. Data ar aggregerad och anonym och hjalper oss att forbattra webbplatsens prestanda och innehallskvalitet.",
+        "3.3 Funktionella cookies",
+        "Funktionella cookies gor att webbplatsen kan komma ihag dina installningar, sasom sprakinstellningar eller formulaifalt, for att ge en mer personlig upplevelse.",
+        "3.4 Marknadsforings- och annonscookies",
+        "Dessa cookies kan anvandas for att leverera relevanta annonser och spara effektiviteten av marknadsforingskampanjer. De hjalper till att sakerstalla att annonser som visas for dig ar meningsfulla och relevanta."
+      ]
+    },
+    {
+      "id": "third-party",
+      "title": "4. Tredjepartscookies",
+      "content": [
+        "Vi kan tillata betrodda tredjepartstjanster, sasom analys- eller marknadsforingsverktyg, att placera cookies pa din enhet. Dessa tredje parter kan samla information enligt sina egna integritets- och cookiepolicyer.",
+        "Webbly Media kontrollerar inte tredjepartscookies, och vi rekommenderar att du granskar deras policyer for mer information."
+      ]
+    },
+    {
+      "id": "control-cookies",
+      "title": "5. Hur du kan kontrollera cookies",
+      "content": [
+        "Du kan hantera eller inaktivera cookies nar som helst via dina webblasarinstallningar. De flesta webblasar later dig:",
+        "- Visa cookies lagrade pa din enhet",
+        "- Radera befintliga cookies",
+        "- Blockera alla eller specifika cookies",
+        "Observera att inaktivering av cookies kan paverka webbplatsens funktionalitet och din overgripande surfupplevelse."
+      ]
+    },
+    {
+      "id": "consent",
+      "title": "6. Samtycke till anvandning av cookies",
+      "content": [
+        "Nar du forst besoker var webbplats kan du se en cookiebanner som begar ditt samtycke. Genom att acceptera eller fortsatta anvanda webbplatsen godkanner du var anvandning av cookies enligt denna cookiepolicy.",
+        "Du kan nar som helst aterkalla ditt samtycke genom att justera dina webblasarinstallningar."
+      ]
+    },
+    {
+      "id": "updates",
+      "title": "7. Uppdateringar av denna cookiepolicy",
+      "content": [
+        "Vi kan uppdatera denna cookiepolicy for att aterge forandringar i teknik, juridiska krav eller hur vi anvander cookies. Eventuella uppdateringar publiceras pa denna sida med ett reviderat datum.",
+        "Vi uppmanar dig att granska denna policy regelbundet."
+      ]
+    },
+    {
+      "id": "contact",
+      "title": "8. Kontakta oss",
+      "content": [
+        "Om du har fragor om denna cookiepolicy eller var anvandning av cookies, kontakta oss:",
+        "Webbly Media",
+        "E-post: info@webblymedia.com",
+        "Webbplats: https://www.webblymedia.com",
+        "Genom att anvanda var webbplats bekraftar du att du har last och forstat denna cookiepolicy."
+      ]
+    }
+  ]
+}

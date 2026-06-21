@@ -1,0 +1,556 @@
+{
+  "pageMetadata": {
+    "routeSlugs": [
+      {
+        "path": "app-development",
+        "slug": "app-utveckling"
+      },
+      {
+        "path": "services/app-development",
+        "slug": "tjanster/app-utveckling"
+      }
+    ],
+    "routeMetadata": [
+      {
+        "path": "app-development",
+        "title": "Apputvecklingstjanster | Webbly Media"
+      },
+      {
+        "path": "services/app-development",
+        "title": "Apputvecklingsbyra | Webbly Media"
+      }
+    ]
+  },
+  "serviceCards": [
+    {
+      "title": "Webbapplikationsutveckling",
+      "description": "Vi utvecklar kraftfulla webbapplikationer som stodjer komplexa affarsprocesser och interaktiva anvandarupplevelser. Vara webbappar byggs med skalbar arkitektur, saker datahantering och smidig funktionalitet."
+    },
+    {
+      "title": "Mobilapplikationsutveckling",
+      "description": "Vara mobilapplikationsutvecklingstjanster fokuserar pa att leverera nativa Android- och iOS-applikationer som ar snabba, palitliga och engagerande. Vi prioriterar prestanda, sakerhet och anvandarupplevelse pa alla enheter."
+    },
+    {
+      "title": "Plattformsoberoende apputveckling",
+      "description": "Vi skapar plattformsoberoende appar med moderna ramverk som fungerar pa flera enheter. Detta tillvagagangssatt hjalper foretag att na fler malgrupper med konsekvent prestanda och minskad utvecklingstid."
+    },
+    {
+      "title": "Foretagsapputveckling",
+      "description": "Vara foretagsapplosningar ar utformade for att stodja storskaliga affarsverksamheter. Vi bygger appar med saker infrastruktur, skalbar arkitektur och integrationer som okar produktiviteten."
+    },
+    {
+      "title": "Molnbaserad apputveckling",
+      "description": "Vi anvander molnteknik for att skapa appar som ar latta att skala, sakra och kan nas var som helst. Molnbaserade appar ger flexibilitet, realtidsuppdateringar och palitlig prestanda."
+    },
+    {
+      "title": "App-backendutveckling",
+      "description": "Vara backendutvecklingstjanster driver dina applikationer bakom kulisserna. Vi designar sakra serversidosystem, databaser och API:er som sakerstaller skalbarhet, palitlighet och smidigt dataflode."
+    },
+    {
+      "title": "App-frontendutveckling",
+      "description": "Vi bygger responsiva och intuitiva frontendgranssnitt som skapar engagerande upplevelser for anvandare. Vara frontendutvecklare fokuserar pa hastighet, anvandbarhet och smidig interaktion pa alla enheter."
+    },
+    {
+      "title": "UI/UX-design for mobilappar",
+      "description": "Vi designar visuellt tilltalande och anvandarvnliga granssnitt for mobilappar. Vara UI/UX-designers prioriterar anvandbarhet, tillganglighet och interaktiva element som okar engagemang och nojdhet."
+    },
+    {
+      "title": "API-utveckling och integration",
+      "description": "Vi utvecklar och integrerar sakra API:er for att ansluta dina appar med tredjepartstjanster, databaser och interna system. Vara API-losningar sakerstaller smidigt datautbyte och forbattrar den overgripande funktionaliteten."
+    }
+  ],
+  "companyPotentials": {
+    "subtitle": "Saker att forvanta sig fran vara apputvecklingstjanster",
+    "title": "Vi bygger applikationer som du maste gilla!",
+    "features": [
+      {
+        "title": "SKRADDARSYDD APPUTVECKLING",
+        "description": "Vi skapar skraddarsydda mobilappar anpassade efter dina affärsbehov. Oavsett om det ar en mobil- eller webbapp fokuserar vi pa att bygga hogpresterande losningar som overensstammer med dina mal."
+      },
+      {
+        "title": "PIXELPERFEKT UI/UX",
+        "description": "Vi designar pixelperfekt UI/UX for varje app, med fokus pa intuitiv navigering och engagerande visuella element. Detta forbattrar anvandarbarheten och skapar en positiv upplevelse pa alla enheter."
+      },
+      {
+        "title": "PLATTFORMSOBEROENDE KOMPATIBILITET",
+        "description": "Vi bygger appar som fungerar smidigt pa iOS, Android och webbplattformar. Genom att anvanda plattformsoberoende ramverk sakerstaller vi att din app ger en konsekvent upplevelse for anvandarna."
+      },
+      {
+        "title": "API- OCH TREDJEPARTSINTEGRATIONER",
+        "description": "Vi integrerar API:er och tredjepartsverktyg i din app for att forbattra funktionaliteten och effektivisera affarsverksamheten. Fran betalningslosningar till CRM-system sakerstaller vi smidiga integrationer."
+      },
+      {
+        "title": "SAKRA OCH DATASKYDDADE APPLIKATIONER",
+        "description": "Sakerhet ar en toppprioritet i var apputvecklingsprocess. Med kryptering, saker autentisering och standiga uppdateringar garanterar vi sakerheten for din app och dess data."
+      },
+      {
+        "title": "APP STORE- OCH PLAY STORE-EFTERLEVNAD",
+        "description": "Vi sakerstaller att din app uppfyller alla nodvandiga riktlinjer for publicering pa App Store och Google Play. Var process sakerstaller korrekt testning och prestandastandarder."
+      }
+    ]
+  },
+  "benefits": {
+    "title": "Viktiga fakta att kanna till om apputvecklingstjanster",
+    "benefits": [
+      {
+        "title": "Typer av applikationsutvecklingstjanster",
+        "description": "Apputvecklingstjanster delas huvudsakligen in i tre typer baserat pa hur applikationer byggs och distribueras. <br /><br /> Nativ apputveckling<br /> Nativa appar byggs specifikt for en enda plattform, sasom iOS eller Android. Dessa appar levererar hog prestanda, battre sakerhet och en smidigare anvandarupplevelse. Nativ utveckling ar idealisk for applikationer som kraver avancerade funktioner, komplex funktionalitet eller djup integration med enhetens hardvara.<br /><br /> Plattformsoberoende apputveckling<br /> Plattformsoberoende utveckling gor att appar kan koras pa flera plattformar med en enda kodbas. Detta tillvagagangssatt minskar utvecklingstid och kostnad samtidigt som konsekvent prestanda behalls. Det ar lampligt for foretag som vill na en bredare publik snabbt utan att kompromissa med kvaliteten.<br /><br /> Progressiva webbappar (PWA)<br /> Progressiva webbappar kombinerar funktionerna hos mobilappar och webbplatser. De fungerar via webblasare men erbjuder appliknande upplevelser, sasom offlineaccess och push-notiser. PWA:er ar kostnadseffektiva och idealiska for foretag som vill ha snabb driftsattning och enkelt underhall.<br /><br /> Varje typ spelar en viktig roll i att bygga skalbara, hogpresterande applikationer som overensstammer med affarsmal."
+      },
+      {
+        "title": "Vad gor apputvecklingsforetag?",
+        "description": "En apputvecklingsbyr som Webbly Media hjalper foretag att omvandla ideer till fullt funktionella mobilapplikationer. Vi hanterar hela utvecklingslivscykeln, fran konceptplanering och UI/UX-design till utveckling, testning och driftsattning. <br /><br /> Vart team sakerstaller att din app ar snabb, saker och skalbar. Vi hanterar bade frontend- och backendutveckling och integrerar viktiga funktioner och tredjepartstjanster. Vi fokuserar ocksa pa prestandaoptimering, sakerhet och efterlevnad av appbutiksstandarder. <br /><br /> Innan lansering testar vi appen noggrant. Efter driftsattning tillhandahaller vi lopande underhall, uppdateringar och teknisk support for att sakerstalla langsiktig framgang och smidig prestanda."
+      },
+      {
+        "title": "Varfor anlita en byra for applikationsutvecklingstjanster?",
+        "description": "Att bygga en mobilapplikation kraver teknisk expertis, strukturerad planering och lopande support. Att anlita en byra sakerstaller att ditt projekt hanteras professionellt och effektivt. <br /><br /> Pa Webbly Media vgleder vi dig genom varje steg av apputvecklingen. Fran att definiera krav till att designa granssnitt och bygga funktioner hanterar vi processen smidigt samtidigt som vi sparar din tid och dina resurser. <br /><br /> Vi hanterar ocksa komplexa tekniska utmaningar sasom prestandaoptimering, sakerhetsimplementation och plattformsspecifika krav. Detta gor att du kan fokusera pa ditt foretag medan vi hanterar utvecklingsuppgifterna."
+      },
+      {
+        "title": "Fordelar med att anlita ett professionellt apputvecklingsforetag",
+        "description": "Att arbeta med professionella apputvecklingsforetag erbjuder manga fordelar for foretag som vill bygga hogkvalitativa applikationer. <br /><br /> Expertteam och tekniska fardigheter<br /> Apputvecklingsbyraer har erfarna designers, utvecklare och testare. Detta sakerstaller att din app byggs effektivt med beprövade tekniker och basta praxis. <br /><br /> Snabbare utveckling och tydlig process<br /> Med strukturerade arbetsfloden och projektledning levererar byraer appar snabbare samtidigt som kvalitets- och prestandastandarder bibehalls.<br /><br /> Skraddarsydda och skalbara losningar<br /> Professionella foretag bygger appar anpassade efter dina affärsbehov. Din app kan skalas, utvecklas och anpassas nar ditt foretag vaxer.<br /><br /> Battre prestanda och anvandarupplevelse<br /> Byraer fokuserar pa hastighet, stabilitet och anvandbarhet. Detta leder till hogre anvandarengagemang, battre recensioner och forbattrad bevarande.<br /><br /> Lopande support och underhall<br /> Efter lansering far du uppdateringar, sakerhetskorrigeringar och prestandaforbattringar for att halla din app igong smidigt.<br /><br /> Hogre avkastning och langsiktigt varde<br /> En valbygd app attraherar anvandare, okar engagemang och stodjer affarstillvaxt over tid."
+      },
+      {
+        "title": "Hur skraddarsydd apputveckling skiljer sig fran fardiga appar",
+        "description": "Skraddarsydd apputveckling fokuserar pa att skapa appar specifikt for dina affärsbehov och anvandarforvanningar. Detta ger dig full kontroll over design, funktionalitet och prestanda. De passar bra med dina system och kan vaxa nar ditt foretag forandras. Å andra sidan ar fardiga appar generiska, har begransade funktioner och kan vara svara att skala. <br /><br /> Pa Webbly Media skapar vi skraddarsydda applikationer som ger battre anvandarupplevelser, starkare varumarkesbyggande och langsiktig flexibilitet jamfort med standardlosningar."
+      },
+      {
+        "title": "Vikten av prestandaoptimerad apputveckling",
+        "description": "Appens prestanda har en betydande inverkan pa anvandarnojdhet och bevarande. Om en app laddar langsamt, kraschar eller inte svarar kan anvandare sluta anvanda den. <br /><br /> Att utveckla appar for optimal prestanda innebar att de laddas snabbt, kors smidigt och anvander resurser effektivt. Hogpresterande appar anvander mindre batteri, hanterar tung trafik mer effektivt och levererar en konsekvent upplevelse pa olika enheter. Bra prestanda leder ocksa till battre appbutiksbetyg och bygger anvandarfortroende."
+      },
+      {
+        "title": "Varfor ar mobilappens anvandarupplevelse (UX) sa viktig?",
+        "description": "Anvandarupplevelse ar viktig for en apps framgang. En vdeldesignad UX hjalper anvandare att navigera i appen enkelt, forsta funktioner snabbt och slutfora handlingar smidigt. <br /><br /> Bra UX minskar hinder, okar engagemang och uppmanar anvandare att komma tillbaka. Dalig UX, a andra sidan, orsakar frustration och leder till avinstallationer. Genom att fokusera pa enkel design, tydlig navigering och snabba svar kan mobilappar skapa battre anvandaranslutningar och uppna forbattrade affarsresultat."
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Apputvecklingsforetag vs. enskild apputvecklare",
+    "agencyData": {
+      "title": "Apputvecklingsbyr",
+      "pros": [
+        "Tillgang till ett komplett team av appdesigners, utvecklare och QA-testare",
+        "Snabbare leverans med strukturerad projektledning",
+        "Beprövad apputvecklingsprocess och moderna ramverk",
+        "Enkel hantering av komplexa, skalbara och multiplattformsappar",
+        "Appbutiksefterlevnad, sakerhet och prestandaoptimering",
+        "Langsiktig support, uppdateringar och dokumentation"
+      ],
+      "cons": [
+        "Kostar nagot mer an att anlita en enskild utvecklare"
+      ]
+    },
+    "freelancerData": {
+      "title": "Apputvecklare",
+      "pros": [
+        "Lagre kostnad och flexibla prisalternativ",
+        "Direkt kommunikation med en person"
+      ],
+      "cons": [
+        "Begransade fardigheter inom UI/UX, backend och testning",
+        "Langsammare leverans for komplexa eller plattformsoberoende appar",
+        "Ingen backup om utvecklaren ar otillganglig",
+        "Begransad skalbarhet, underhall och langsiktig support"
+      ]
+    }
+  },
+  "otherHero": {
+    "pageName": "Apputvecklingstjanster",
+    "title": "Bygg appar som skalar globalt",
+    "description": "Bygg snabba, sakra och skalbara mobilappar med Webbly Medias professionella apputvecklingstjanster. Vi skapar skraddarsydda appar som levererar smidiga anvandarupplevelser pa Android, iOS och plattformsoberoende enheter. Oavsett om du behover en foretagsapp, en e-handelsapp eller en foretagslosning kan vart apputvecklingsforetag hjalpa dig. Fa en skraddarsydd plan idag och lansera en app som stodjer din langsiktiga affarstillvaxt.",
+    "buttonText": "Boka ett samtal",
+    "mainImage": {
+      "src": "/assets/images/app-development/app-dev-hero.jpg",
+      "alt": "App development hero image",
+      "title": "APP Dev Hero",
+      "caption": "Bildresurs for app dev hero i sektionen app development.",
+      "description": "Visuell resurs som anvands pa Webbly Medias webbplats for app development-innehall."
+    },
+    "floatingImageSrc": "/assets/images/seo-hero-float.svg",
+    "floatingImageAlt": "Side blur decoration",
+    "floatingImageTitle": "SEO Hero Flytande Ikon",
+    "floatingImageCaption": "Flytande ikon som anvands i SEO-hero.",
+    "floatingImageDescription": "Dekorativ SEO-symbol i hero-bilden."
+  },
+  "companyIntro": {
+    "brandName": "Webbly Media",
+    "title": "Ett branschledande apputvecklingsforetag",
+    "description": "Pa Webbly Media forstar vi den globala digitala standarden och hjalper foretag att bygga kraftfulla, moderna mobilapplikationer. Som en prisvinnande apputvecklingsbyr skapar vi skraddarsydda appar som ar snabba, sakra och skalbara. Vara skickliga utvecklare skriver ren, effektiv kod och anvander moderna ramverk for att designa anvandarvnliga appar for Android, iOS och plattformsoberoende enheter. Vi fokuserar pa prestanda, appbutiksoptimering (ASO) och anvandarengagemang genom hela var utvecklingsprocess. Kunder valjer Webbly Media for att vi uppfyller deras forvanningar. Kontakta oss idag for en gratis konsultation och borja bygga din nasta generations mobilapplikation.",
+    "buttonText": "Las mer om oss",
+    "image1": "/assets/images/fist-trust.jpg",
+    "image1Seo": {
+      "altText": "Trust and partnership",
+      "title": "Fist Trust",
+      "caption": "Bildresurs for fist trust i sektionen images.",
+      "description": "Visuell resurs som anvands pa Webbly Medias webbplats for images-innehall."
+    },
+    "image2": "/assets/images/star-award.jpg",
+    "image2Seo": {
+      "altText": "Award and recognition",
+      "title": "Star Award",
+      "caption": "Bildresurs for star award i sektionen images.",
+      "description": "Visuell resurs som anvands pa Webbly Medias webbplats for images-innehall."
+    }
+  },
+  "contentImageSplit": {
+    "title": "Sluta anvanda trega appar som frustrerar anvandare och driver bort dem",
+    "paragraphs": [
+      "Har din app problem med att leverera en smidig anvandarupplevelse? Problem som lag prestanda, buggar och dalig funktionalitet kan frustrera anvandare och fa dem att lamna din app. Om din app inte fungerar bra skadar det inte bara anvandarnas nojdhet utan aven ditt varumarkes rykte och paverkar bevarandegraden.",
+      "Pa Webbly Media skapar vi moderna, hogpresterande mobilapplikationer som glader anvandare och driver resultat. Vart apputvecklingsteam prioriterar hastighet, smidig UX och skalbar arkitektur. Oavsett om du behover atgarda prestandaproblem eller skapa en ny app fran grunden kan vi hjalpa till.",
+      "Varje app vi bygger foljer palitliga utvecklingsmetoder och prestandaoptimering. Vara experter forbereder din app for appbutiker, langsiktig tillvaxt och uppdateringar. Vi undviker onnodig kod och genvagar och fokuserar istallet pa att skapa appar som ar palitliga, snabba och engagerande.",
+      "Redo att gora din app till ett hogpresterande verktyg? Kontakta Webbly Media idag och lat oss skapa en app som far anvandare att komma tillbaka."
+    ],
+    "image": {
+      "src": "/assets/images/seo-question-image.png",
+      "alt": "Content Image Split",
+      "title": "SEO Question Image",
+      "caption": "Bildresurs for seo question image i sektionen images.",
+      "description": "Visuell resurs som anvands pa Webbly Medias webbplats for images-innehall."
+    }
+  },
+  "digitalServices": {
+    "mainTitle": "Vara apputvecklingstjanster inkluderar",
+    "mainDescription": "Som ett ledande apputvecklingsforetag erbjuder vi kompletta apputvecklingslosningar for foretag av alla typer. Upptack hur vi kan hjalpa dig att skapa funktionella, skalbara och anvandarvnliga mobil- och webbapplikationer:"
+  },
+  "cardSlider": {
+    "subtitle": "Teknik vi anvander",
+    "title": "Vi erbjuder skraddarsydda apputvecklingstjanster",
+    "cards": [
+      {
+        "title": "Swift",
+        "description": "Vi anvander Swift for att bygga snabba, sakra och hogpresterande iOS-applikationer. Det hjalper oss att leverera smidiga anvandarupplevelser och underhalla rena, skalbara kodbaser.",
+        "image": "/assets/images/PPC/icons/docs-search-1.svg",
+        "imageSeo": {
+          "altText": "Bild for Docs Search 1",
+          "title": "Docs Search 1",
+          "caption": "Bildresurs for docs search 1 i sektionen icons.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for icons-innehall."
+        }
+      },
+      {
+        "title": "Kotlin",
+        "description": "Vi anvander Kotlin for att skapa palitliga, effektiva och moderna Android-appar. Dess koncisa syntax och starka sakerhetsfunktioner hjalper till att minska fel och forbattra appens prestanda.",
+        "image": "/assets/images/PPC/icons/keyword-research-2.svg",
+        "imageSeo": {
+          "altText": "Bild for Keyword Research 2",
+          "title": "Keyword Research 2",
+          "caption": "Bildresurs for keyword research 2 i sektionen icons.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for icons-innehall."
+        }
+      },
+      {
+        "title": "Objective-C",
+        "description": "Vi anvander Objective-C for att underhalla och uppgradera aldre iOS-applikationer. Det stodjer befintliga iOS-appar, sakerstaller stabilitet och implementerar nya funktioner utan att bryta funktionaliteten.",
+        "image": "/assets/images/PPC/icons/audience-research-3.svg",
+        "imageSeo": {
+          "altText": "Ikon for malgruppsanalys",
+          "title": "Malgruppsanalys Ikon",
+          "caption": "Ikon som representerar malgrupps- och marknadsanalys.",
+          "description": "PPC-ikon for targeting och malgruppsinsikter."
+        }
+      },
+      {
+        "title": "Java",
+        "description": "Vi anvander Java for Android- och foretagsapplikationsutveckling. Det hjalper oss att bygga sakra, skalbara och hogpresterande appar som hanterar komplex logik och stora anvandarbaser.",
+        "image": "/assets/images/PPC/icons/competitor-analysis-4.svg",
+        "imageSeo": {
+          "altText": "Ikon for konkurrentanalys",
+          "title": "Konkurrentanalys Ikon",
+          "caption": "Ikon som representerar bevakning av konkurrenter.",
+          "description": "PPC-strategiikon for konkurrensanalys."
+        }
+      },
+      {
+        "title": "Flutter",
+        "description": "Flutter ar ett plattformsoberoende ramverk fran Google som gor att vi kan bygga appar for Android och iOS. Vi anvander Flutter for att leverera snabb utveckling, konsekvent UI och smidig prestanda.",
+        "image": "/assets/images/PPC/icons/conversion-tracking-5.svg",
+        "imageSeo": {
+          "altText": "Bild for Conversion Tracking 5",
+          "title": "Conversion Tracking 5",
+          "caption": "Bildresurs for conversion tracking 5 i sektionen icons.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for icons-innehall."
+        }
+      },
+      {
+        "title": "React Native",
+        "description": "React Native gor att vi kan utveckla mobilappar med JavaScript och React. Vi anvander det for att skapa plattformsoberoende appar med nativliknande prestanda och utmarkta anvandarupplevelser.",
+        "image": "/assets/images/PPC/icons/campaign-structure-6.svg",
+        "imageSeo": {
+          "altText": "Bild for Campaign Structure 6",
+          "title": "Campaign Structure 6",
+          "caption": "Bildresurs for campaign structure 6 i sektionen icons.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for icons-innehall."
+        }
+      },
+      {
+        "title": "Xamarin",
+        "description": "Xamarin ar ett Microsoft-stott ramverk for att bygga plattformsoberoende appar med C#. Vi anvander Xamarin for att utveckla sakra, skalbara mobilapplikationer som delar kod mellan plattformar.",
+        "image": "/assets/images/PPC/icons/copywriting-optimization-7.svg",
+        "imageSeo": {
+          "altText": "Ikon for annonscopy-optimering",
+          "title": "Copy Optimering Ikon",
+          "caption": "Ikon som representerar copywriting och textforbattring.",
+          "description": "PPC-copyikon for annonstester och budskapsjustering."
+        }
+      },
+      {
+        "title": "Firebase",
+        "description": "Firebase ar en kraftfull backendplattform for mobil- och webbappar. Vi anvander Firebase for realtidsdatabaser, autentisering, molnfunktioner och push-notiser, vilket sakerstaller snabb prestanda.",
+        "image": "/assets/images/PPC/icons/page-review-and-optimization-8.svg",
+        "imageSeo": {
+          "altText": "Bild for Page Review And Optimization 8",
+          "title": "Page Review And Optimization 8",
+          "caption": "Bildresurs for page review and optimization 8 i sektionen icons.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for icons-innehall."
+        }
+      },
+      {
+        "title": "Node.js",
+        "description": "Node.js ar en serversidokorningsmiljo som vi anvander for att bygga skalbara appbackends och API:er. Det stodjer realtidsfunktioner, snabb databehandling och smidig kommunikation mellan appar och servrar.",
+        "image": "/assets/images/PPC/icons/automated-bidding-9.svg",
+        "imageSeo": {
+          "altText": "Ikon for automatiserad budgivning",
+          "title": "Automatiserad Budgivning Ikon",
+          "caption": "Ikon som representerar automatiserad budstrategi.",
+          "description": "PPC-optimeringsikon for smart budgivning."
+        }
+      },
+      {
+        "title": "REST & GraphQL API:er",
+        "description": "Vi anvander REST och GraphQL API:er for att ansluta mobilappar med servrar, databaser och tredjepartstjanster. Dessa API:er mojliggor sakert, effektivt datautbyte och stodjer flexibel appfunktionalitet.",
+        "image": "/assets/images/PPC/icons/testing-for-ads-10.svg",
+        "imageSeo": {
+          "altText": "Ikon for annonstestning",
+          "title": "Annonstestning Ikon",
+          "caption": "Ikon som representerar A/B-testning av annonser.",
+          "description": "PPC-testikon for experiment och iteration."
+        }
+      },
+      {
+        "title": "AWS / Google Cloud",
+        "description": "AWS och Google Cloud tillhandahaller palitlig molninfrastruktur for apphosting och skalning. Vi anvander molntjanster for att bygga sakra, skalbara och hogtillgangliga applikationer.",
+        "image": "/assets/images/PPC/icons/budget-management-11.svg",
+        "imageSeo": {
+          "altText": "Ikon for budgethantering",
+          "title": "Budgethantering Ikon",
+          "caption": "Ikon som representerar budgetkontroll och fordeling.",
+          "description": "PPC-ekonomiikon for kampanjhantering."
+        }
+      },
+      {
+        "title": "MySQL & PostgreSQL",
+        "description": "MySQL och PostgreSQL ar kraftfulla relationsdatabaser som vi anvander for att lagra och hantera strukturerad appdata. De sakerstaller dataintegritet, sakerhet och palitlig prestanda for moderna applikationer.",
+        "image": "/assets/images/PPC/icons/performance-optimization-12.svg",
+        "imageSeo": {
+          "altText": "Ikon for prestandaoptimering",
+          "title": "Prestandaoptimering Ikon",
+          "caption": "Ikon som representerar forbattring av kampanjresultat.",
+          "description": "PPC-prestandaikon for optimeringsdelar."
+        }
+      },
+      {
+        "title": "MongoDB",
+        "description": "MongoDB ar en NoSQL-databas idealisk for att hantera stora volymer ostrukturerad data. Vi anvander den for att bygga flexibla, skalbara appar som kraver snabb datatillgang och hog tillganglighet.",
+        "image": "/assets/images/PPC/icons/docs-search-1.svg",
+        "imageSeo": {
+          "altText": "Bild for Docs Search 1",
+          "title": "Docs Search 1",
+          "caption": "Bildresurs for docs search 1 i sektionen icons.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for icons-innehall."
+        }
+      }
+    ]
+  },
+  "workProcess": {
+    "subtitle": "Var apputvecklingsprocess",
+    "title": "Hur vi hjalper dig som en expert apputvecklingsbyr",
+    "description": "Pa Webbly Media foljer vi en strukturerad och transparent process for att skapa en app som driver affarsframgang. Forst forstar vi dina mal och malanvandare; sedan gar vi vidare till att designa, utveckla, testa och lansera din app. Vart steg-for-steg-tillvagagangssatt sakerstaller effektivitet och tydlighet, sa att du alltid vet vad som hander.",
+    "steps": [
+      {
+        "title": "Analys och forskning",
+        "description": "Vi borjar med att forsta ditt foretag, dina mal och behoven hos din malgrupp. Vart team genomfor djupgaende forskning for att analysera konkurrenter, anvandarforvanningar och tekniska krav. Denna insikt gor att vi kan planera den perfekta appstrukturen, funktionerna och strategin innan utvecklingen borjar."
+      },
+      {
+        "title": "UI/UX-design for appen",
+        "description": "Vart designteam skapar intuitiva, rena och engagerande appgranssnitt som forbattrar anvandarupplevelsen. Vi fokuserar pa att gora appen latt att navigera, visuellt tilltalande och i linje med din varumarkesidentitet. Varje designelement syftar till att forbattra anvandarbarheten, bygga fortroende och driva anvandarengagemang."
+      },
+      {
+        "title": "Apputveckling",
+        "description": "Efter att designen ar klar utvecklar vi din app med moderna tekniker och ren kod. Vi fokuserar pa att skapa snabba, sakra och skalbara applikationer som uppfyller dina affärsbehov. Var utvecklingsprocess sakerstaller att appen ar funktionell, effektiv och redo att hantera framtida tillvaxt."
+      },
+      {
+        "title": "Testning och kvalitetssakring",
+        "description": "Innan lansering testar vi appen noggrant for buggar, prestandaproblem och kompatibilitet pa olika enheter. Vart QA-team sakerstaller att appen fungerar smidigt och uppfyller hoga standarder for hastighet, sakerhet och anvandarupplevelse. Vi siktar pa att leverera en app som ar redo for felfri anvandning."
+      },
+      {
+        "title": "Driftsattning och lansering",
+        "description": "Nar allt ar testat och optimerat lanserar vi din app pa onskade plattformar (App Store, Google Play eller webb). Vi hanterar hela driftsattningsprocessen och sakerstaller att appen gar live smidigt och ar tillganglig for anvandare utan problem."
+      },
+      {
+        "title": "Lopande support och underhall",
+        "description": "Efter lansering tillhandahaller vi lopande support och underhall for att halla din app uppdaterad, saker och presterande optimalt. Vi overvakar appens prestanda, atgardar buggar, slapper uppdateringar och implementerar nya funktioner for att sakerstalla langsiktig framgang och anvandarnojdhet."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Varfor valja Webbly Media for apputvecklingsstod",
+    "subtitle": "Pa Webbly Media skapar vi webb- och mobilappar som hjalper foretag att vaxa. Vara skickliga apputvecklare fokuserar pa strategi, ren kod och anvandarvnlig design for att bygga appar som fungerar bra pa alla plattformar och kan vaxa med dina behov.",
+    "benefits": [
+      {
+        "title": "7+ ars erfarenhet",
+        "description": "Med over 7 ars erfarenhet av apputveckling har vi levererat mobil- och webbapplikationer for foretag i flera branscher. Var praktiska expertis hjalper oss att bygga sakra, skalbara och framtidsakra applosningar."
+      },
+      {
+        "title": "Certifierat apputvecklingsteam",
+        "description": "Vart team inkluderar certifierade Android-, iOS- och plattformsoberoende utvecklare. Detta sakerstaller att varje app byggs med basta praxis, moderna ramverk och testade utvecklingsstandarder."
+      },
+      {
+        "title": "5-stjarnigt betygsatta applosningar",
+        "description": "Kunder litar pa oss for att vi fokuserar pa prestanda, anvandbarhet och resultat. Vara femstjarniga betyg aterspeglar vart engagemang for att leverera palitliga, hogkvalitativa applosningar som uppfyller affarsmal."
+      },
+      {
+        "title": "Tydlig kommunikation och 24/7 support",
+        "description": "Vi bibehaller tydlig kommunikation genom hela apputvecklingsprocessen. Vart team ar alltid tillgangligt for att ge uppdateringar, svara pa fragor och ge lopande support vid behov."
+      },
+      {
+        "title": "Prisvard och transparent prissattning",
+        "description": "Var prissattning ar arlig och latt att forsta. Du vet exakt vad du betalar for, utan dolda avgifter. Vi tillhandahaller kostnadseffektiva applosningar som levererar riktigt varde."
+      },
+      {
+        "title": "Engagemang for kundnojdhet",
+        "description": "Din nojdhet ar var prioritet. Vi forfinr, optimerar och stodjer din applikation tills den fungerar exakt som du och dina anvandare forvantar sig."
+      }
+    ],
+    "buttonText": "KOM IGANG NU"
+  },
+  "testimonials": {
+    "title": "Vad kunder sager om oss",
+    "subtitle": "\"Vi tar hand om vara kunder som familj\"",
+    "quoteIcon": "/assets/icons/quote.png",
+    "quoteIconSeo": {
+      "altText": "Bild for Quote",
+      "title": "Quote",
+      "caption": "Bildresurs for quote i sektionen icons.",
+      "description": "Visuell resurs som anvands pa Webbly Medias webbplats for icons-innehall."
+    }
+  },
+  "partners": {
+    "title": "Vi ar betrodda av ledande globala varumarken for apputvecklingsexcellens"
+  },
+  "caseStudies": {
+    "title": "Fallstudier som avslöjar var apputvecklingsframgang",
+    "description": "Som ett toppbetygsatt apputvecklingsforetag tror vi att resultat talar hogre an loften. Under de senaste sju aren har vi hjlpt foretag att lansera, skala och forbattra hogpresterande webb- och mobilapplikationer med vara beprövade apputvecklingslosningar. Har ar fallstudierna du kan utforska:",
+    "cases": [
+      {
+        "label": "Fall 1",
+        "projectName": "Prime Nest",
+        "description": "Anvandarcentrerad webbdesign for mobila halsa-tjanster",
+        "image": "/assets/images/case-study1.png",
+        "imageSeo": {
+          "altText": "Bild for Case Study1",
+          "title": "Case Study1",
+          "caption": "Bildresurs for case study1 i sektionen images.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for images-innehall."
+        }
+      },
+      {
+        "label": "Fall 2",
+        "projectName": "Divine Home",
+        "description": "Varumarke och webbupplevelse for en alltiett-tjanstemarknadsplats",
+        "image": "/assets/images/case-study2.png",
+        "imageSeo": {
+          "altText": "Bild for Case Study2",
+          "title": "Case Study2",
+          "caption": "Bildresurs for case study2 i sektionen images.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for images-innehall."
+        }
+      },
+      {
+        "label": "Fall 3",
+        "projectName": "Kannom",
+        "description": "SaaS-applikationsdesign for plats- och recensionshantering",
+        "image": "/assets/images/case-study3.png",
+        "imageSeo": {
+          "altText": "Bild for Case Study3",
+          "title": "Case Study3",
+          "caption": "Bildresurs for case study3 i sektionen images.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for images-innehall."
+        }
+      }
+    ]
+  },
+  "additionalServices": {
+    "leftSection": {
+      "title": "Lat inte dalig hosting forstora din appupplevelse",
+      "paragraphs": [
+        "Visste du att aven en valbygd app kan misslyckas pa grund av dalig hosting? Manga foretag investerar i professionell apputveckling men staller fortfarande infor langsamma API:er, driftstopp, krascher och prestandaproblem pa grund av svag serverinfrastruktur.\n\n            Vi vill inte att det ska handa din app. Dar kommer WebblyHosting in som ratt losning. WebblyHosting ar var premiumhostingtjanst byggd for att stodja hogpresterande mobilapplikationer med hastighet, stabilitet och palitlighet.\n\n            Med snabb serverrespons, hog drifttid och optimerad molnprestanda haller WebblyHosting din app igng smidigt hela tiden. Avancerad sakerhet, skalbara resurser och palitlig infrastruktur sakerstaller att din app forblir skyddad, presterar konsekvent och levererar en smidig upplevelse for varje anvandare."
+      ],
+      "buttonText": "UPPTACK WEBBLYHOST"
+    },
+    "rightSection": {
+      "title": "Vi erbjuder mer an bara apputvecklingslosningar",
+      "quote": "\"Utover apputvecklingslosningar erbjuder vi en rad viktiga digitala tjanster for att hjalpa ditt foretag att vaxa online. Utforska dem nedan:\"",
+      "services": [
+        {
+          "title": "Webbutveckling",
+          "link": "/services/web-development",
+          "description": "Vara webbutvecklingstjanster fokuserar pa att bygga snabba, sakra och skalbara webbplatser som stodjer affarstillvaxt och levererar stark prestanda."
+        },
+        {
+          "title": "Webbdesign",
+          "link": "/services/web-design",
+          "description": "Vara webbdesigntjanster skapar rena, moderna och anvandarvnliga granssnitt med responsiva layouter och smidig navigering pa alla enheter."
+        },
+        {
+          "title": "Digital marknadsforing",
+          "link": "/services/digital-marketing-services",
+          "description": "Vara digitala marknadsforingstjanster hjalper till att oka online-synlighet, anvandarengagemang och konverteringar genom SEO, marknadsforing i sociala medier och betalda annonskampanjer."
+        }
+      ],
+      "buttonText": "FA EN GRATIS OFFERT"
+    }
+  },
+  "contact": {
+    "title": "Bygg hogkvalitativa, buggfria appar med Webbly Media",
+    "description": "Vill du ha en app som presterar felfritt och levererar en exceptionell anvandarupplevelse? Vi ar har for att gora det mojligt. Kontakta oss idag for en gratis konsultation och expertguidning!",
+    "contactInfo": {
+      "title": "Kontaktinfo",
+      "emailLabel": "E-post:",
+      "emailValue": "support@webblymedia.com",
+      "phoneLabel": "",
+      "phoneValue": ""
+    }
+  },
+  "faq": {
+    "title": "Vanliga fragor om vara apputvecklingstjanster",
+    "subtitle": "Om du har fragor om vara mobil- och webbapplikationsutvecklingslosningar, titta pa vara vanliga fragor. Du kan lara dig om vara priser och planer.",
+    "faqs": [
+      {
+        "question": "Vad gor Webbly Media annorlunda fran andra apputvecklingsforetag?",
+        "answer": "Pa Webbly Media utmarker vi oss for att vi tillhandahaller certifierade apputvecklingsteam, tydlig kommunikation, moderna tekniker och prestandafokuserade applikationer. Var strukturerade process, uppmärksamhet pa detaljer och lopande support hjalper foretag att lansera appar som de faktiskt vill ha."
+      },
+      {
+        "question": "Hur mycket kostar era apputvecklingstjanster?",
+        "answer": "Var apputvecklingsprissattning beror pa dina projektkrav, plattform, funktioner och komplexitet. Vi erbjuder flexibel och transparent prissattning anpassad efter dina behov. Innan vi borjar tillhandahaller vi en tydlig kostnadsfordelning, sa att du vet exakt vad du betalar for. Kontakta oss for en gratis konsultation och skraddarsydd offert."
+      },
+      {
+        "question": "Vilken ar tidsramen for er apputvecklingsprocess?",
+        "answer": "Utvecklingstidslinjen varierar beroende pa projektets omfattning och komplexitet. Enkla appar kan ta nagra veckor, medan komplexa eller foretagsklassade applikationer kan ta flera manader. Vi foljer en strukturerad process for att sakerstalla leverans i tid utan att kompromissa med kvaliteten."
+      },
+      {
+        "question": "Vem behover apputvecklingstjanster mest?",
+        "answer": "Alla foretag som vill engagera kunder, effektivisera verksamheten eller expandera digitalt kan dra nytta av apputveckling. Startups, vaxande foretag och storforetag behover alla snabba, palitliga och anvandarvnliga applikationer for att konkurrera effektivt pa dagens mobilforsta marknad."
+      },
+      {
+        "question": "Nar bor jag investera i applikationsutveckling?",
+        "answer": "Du bor investera i apputveckling nar du lanserar en ny produkt, skalar ditt foretag eller forbattrar kundengagemanget. Tidig investering sakerstaller en stark digital grund och hjalper ditt foretag att forbli konkurrenskraftigt i ett snabbt vaxande mobilt ekosystem."
+      },
+      {
+        "question": "Hur sakerstaller ni sakerhet for apparna?",
+        "answer": "Vi implementerar basta praxis for att skydda dina applikationer fran hot. Detta inkluderar saker kodning, krypterad datalagring, regelbundna uppdateringar och prestandaovervakning. Sakerhet ar inbyggd i varje steg av apputvecklingsprocessen for att sakerstalla palitlighet och fortroende."
+      },
+      {
+        "question": "Kan ni fixa och designa om min nuvarande app?",
+        "answer": "Ja. Vi kan designa om, optimera och uppgradera dina befintliga applikationer for att forbattra prestanda, anvandarupplevelse, sakerhet och overgripande funktionalitet. Vart team sakerstaller att din app forblir modern, responsiv och redo att uppfylla anvandarnas forvanningar."
+      }
+    ]
+  }
+}

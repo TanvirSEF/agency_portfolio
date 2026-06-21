@@ -1,0 +1,315 @@
+{
+  "serviceHero": {
+    "badge": "Webbutvecklingstjänster",
+    "headingMobile": ["Bygg Anpassade", "Webbplatser Som", "Driver Tillväxt"],
+    "headingDesktop": "Bygg Anpassade Webbplatser Som Driver Tillväxt",
+    "description": "Bygg snabba, säkra och skalbara webbplatser med Webbly Medias professionella webbutvecklingstjänster. Vi skapar anpassade webbplatser som ser bra ut och fungerar bra på alla enheter.",
+    "buttonText": "Bygg Din Webbplats",
+    "videoSrc": "/revision-images/web-development/ServiceHero/hero-video.mp4",
+    "splineUrl": "https://prod.spline.design/uEXBpVuveykV70S5/scene.splinecode"
+  },
+  "twoColumnSection": {
+    "badge": "Ett Pålitligt Webbutvecklingsföretag",
+    "previewText": "På Webbly Media förstår vi globala digitala standarder och hjälper företag att bygga kraftfulla, moderna webbplatser. Som en prisbelönt webbutvecklingsbyrå skapar vi anpassade webbapplikationer som är snabba, säkra och lätta att skala.",
+    "previewTextTablet": "På Webbly Media bygger vi kraftfulla, moderna webbplatser med globala digitala standarder. Vi designar anpassade webbapplikationer som är snabba, säkra och byggda för tillväxt.",
+    "previewTextMobile": "På Webbly Media bygger vi moderna, högpresterande webbplatser som är säkra, skalbara och gjorda för tillväxt.",
+    "previewTail": "Våra skickliga utvecklare skriver ren kod........",
+    "fullContent": [
+      "På Webbly Media förstår vi globala digitala standarder och hjälper företag att bygga kraftfulla, moderna webbplatser. Som en prisbelönt webbutvecklingsbyrå skapar vi anpassade webbapplikationer som är snabba, säkra och lätta att skala.",
+      "Våra skickliga utvecklare skriver ren, underhållbar kod och designar varje gränssnitt för riktiga användare. Från planering och UX till lansering och optimering fokuserar vi på prestanda, säkerhet och långsiktig tillväxt så att ditt företag kan röra sig snabbare med tillförsikt."
+    ],
+    "modalTitle": "Hur Vi Bygger Digitala Produkter Med Stor Genomslagskraft",
+    "viewMoreText": "Visa Mer",
+    "imageSrc": "/revision-images/web-development/colleagues-selfie.webp",
+    "imageAlt": "Kollegor tar en selfie på kontoret"
+  },
+  "marqueeSection": {
+    "logos": [
+      { "id": 1, "src": "/revision-images/web-development/marquee-logos/marquee-logo-1.svg", "alt": "Varumärkeslogotyp 1", "width": 164 },
+      { "id": 2, "src": "/revision-images/web-development/marquee-logos/marquee-logo-2.svg", "alt": "Varumärkeslogotyp 2", "width": 132 },
+      { "id": 3, "src": "/revision-images/web-development/marquee-logos/marquee-logo-3.svg", "alt": "Varumärkeslogotyp 3", "width": 154 },
+      { "id": 4, "src": "/revision-images/web-development/marquee-logos/marquee-logo-4.svg", "alt": "Varumärkeslogotyp 4", "width": 146 }
+    ],
+    "logoOrder": [1, 1, 2, 3, 1, 4]
+  },
+  "servicesShowcase": {
+    "badge": "Våra Tjänster",
+    "heading": "Våra Webbutvecklingstjänster Inkluderar",
+    "description": "Som en professionell webbyrå erbjuder vi kompletta webbutvecklingslösningar för företag av alla typer. Läs om hur vi kan hjälpa dig att få en funktionell och dynamisk webbplats för ditt företag:",
+    "services": [
+      {
+        "title": "Anpassad Webbutveckling",
+        "description": "Våra anpassade webblösningar fokuserar på att bygga webbplatser från grunden.",
+        "image": "/revision-images/web-development/slide-images/slide-image-1.webp"
+      },
+      {
+        "title": "Webbapplikationsutveckling",
+        "description": "Vi utvecklar kraftfulla webbapplikationer som stöder komplexa affärsprocesser.",
+        "image": "/revision-images/web-development/slide-images/slide-image-2.webp"
+      },
+      {
+        "title": "E-handelsutveckling",
+        "description": "Våra e-handelstjänster hjälper dig att sälja online med tillförsikt.",
+        "image": "/revision-images/web-development/slide-images/slide-image-3.webp"
+      },
+      {
+        "title": "Front-End Design & Utveckling",
+        "description": "Front-end design och utveckling påverkar hur användare interagerar med din webbplats.",
+        "image": "/revision-images/web-development/slide-images/slide-image-4.webp"
+      },
+      {
+        "title": "Back-End Webbutveckling",
+        "description": "Våra back-end webbutvecklingstjänster driver din webbplats bakom kulisserna.",
+        "image": "/revision-images/web-development/slide-images/slide-image-5.webp"
+      },
+      {
+        "title": "Innehållshanteringssystem",
+        "description": "Vi utvecklar lätthanterliga innehållshanteringssystem som ger dig full kontroll över din webbplats.",
+        "image": "/revision-images/web-development/slide-images/slide-image-6.webp"
+      },
+      {
+        "title": "API-utveckling och Integration",
+        "description": "Våra API-utvecklings- och integrationstjänster kopplar din webbplats till tredjepartsverktyg.",
+        "image": "/revision-images/web-development/slide-images/slide-image-7.webp"
+      },
+      {
+        "title": "Lågkodutveckling",
+        "description": "Lågkodutveckling hjälper företag att lansera lösningar snabbare med minskad komplexitet.",
+        "image": "/revision-images/web-development/slide-images/slide-image-8.webp"
+      },
+      {
+        "title": "Webbplatsunderhåll",
+        "description": "Våra underhållstjänster håller din webbplats säker, uppdaterad och igång smidigt.",
+        "image": "/revision-images/web-development/slide-images/slide-image-9.webp"
+      }
+    ]
+  },
+  "mediaFeaturesSection": {
+    "badge": "Vad Du Kan Förvänta Dig Av Våra Webbutvecklingstjänster",
+    "heading": "Vi Bygger Webbplatser Som Du Kommer Att Älska!",
+    "description": "På Webbly Media följer vi en tydlig och strukturerad webbutvecklingsprocess för att bygga webbplatser som stöder verklig affärstillväxt. Först lär vi oss om dina mål och vem som kommer att använda din webbplats.",
+    "videoOverlayTitle": "Omdefinierar Digitala Möjligheter",
+    "videoOverlayDescription": "Vi designar, bygger och skalar teknik för nästa generation.",
+    "videoSrc": "/revision-images/web-development/videos/webblyhosting-video.mp4",
+    "featureCards": [
+      {
+        "title": "Helt Responsiv Webbplats",
+        "description": "Vi bygger helt responsiva webbplatser",
+        "icon": "/revision-images/web-development/icons/rocket-launch.svg"
+      },
+      {
+        "title": "Hastighetsoptimering",
+        "description": "Webbplatshastighet är viktigt för användare och sökmotorer.",
+        "icon": "/revision-images/web-development/icons/CPU.svg"
+      },
+      {
+        "title": "SEO-vänlig Webbplats",
+        "description": "Vi bygger webbplatser med bästa SEO-praxis.",
+        "icon": "/revision-images/web-development/icons/monitor.svg"
+      },
+      {
+        "title": "Rent och Fräscht Dashboard",
+        "description": "Vi skapar rena och lättanvända dashboards för smidig webbplatshantering.",
+        "icon": "/revision-images/web-development/icons/paint-tray.svg",
+        "wide": true
+      },
+      {
+        "title": "Avancerad Säkerhet",
+        "description": "Säkerhet är en topprioritet i vår webbutvecklingsprocess.",
+        "icon": "/revision-images/web-development/icons/Handshake.svg",
+        "wide": true
+      }
+    ]
+  },
+  "stackMarquee": {
+    "heading": "Vi Erbjuder Anpassade Webbutvecklingslösningar",
+    "stacks": [
+      { "name": "PHP", "src": "/revision-images/web-development/icons/stacks/php.svg" },
+      { "name": "LARAVEL", "src": "/revision-images/web-development/icons/stacks/laravel.svg" },
+      { "name": "PYTHON", "src": "/revision-images/web-development/icons/stacks/python.svg" },
+      { "name": "DJANGO", "src": "/revision-images/web-development/icons/stacks/django.svg" },
+      { "name": "NEXT.JS", "src": "/revision-images/web-development/icons/stacks/next-js.svg" },
+      { "name": "MERN STACK", "src": "/revision-images/web-development/icons/stacks/mern-stack.svg" },
+      { "name": "REACT.JS", "src": "/revision-images/web-development/icons/stacks/react.svg" },
+      { "name": "TAILWIND CSS", "src": "/revision-images/web-development/icons/stacks/css.svg" },
+      { "name": "MYSQL", "src": "/revision-images/web-development/icons/stacks/mysql.svg" },
+      { "name": "MONGODB", "src": "/revision-images/web-development/icons/stacks/mongodb.svg" },
+      { "name": "WORDPRESS", "src": "/revision-images/web-development/icons/stacks/word-press.svg" },
+      { "name": "WIX", "src": "/revision-images/web-development/icons/stacks/wix.svg" },
+      { "name": "SHOPIFY", "src": "/revision-images/web-development/icons/stacks/shopify.svg" },
+      { "name": "SQUARESPACE", "src": "/revision-images/web-development/icons/stacks/squarespace.svg" }
+    ]
+  },
+  "helpBuildWeb": {
+    "badge": "Vår Webbutvecklingsprocess",
+    "heading": "Hur Vi Hjälper Dig Som Expert Webbutvecklingsbyrå",
+    "processCards": [
+      {
+        "title": "Analys & Forskning",
+        "description": "Vi börjar med att förstå ditt företag och dina mål.",
+        "icon": "/revision-images/web-development/icons/HelpBuildWeb/content_paste_search.svg"
+      },
+      {
+        "title": "Modern UI/UX Design",
+        "description": "Vi designar rena, moderna och användarvänliga layouter.",
+        "icon": "/revision-images/web-development/icons/HelpBuildWeb/brush.svg"
+      },
+      {
+        "title": "Webbutveckling",
+        "description": "Efter designgodkännande förvandlar vi idéer till en funktionell webbplats.",
+        "icon": "/revision-images/web-development/icons/HelpBuildWeb/ad_group.svg"
+      },
+      {
+        "title": "Testning & Lansering",
+        "description": "Innan lansering testar vi allt noggrant.",
+        "icon": "/revision-images/web-development/icons/HelpBuildWeb/bug_report.svg"
+      }
+    ]
+  },
+  "webAgencyWhyChooseUs": {
+    "badge": "Vad Du Kan Förvänta Dig Av Våra Webbutvecklingstjänster",
+    "headingLine1": "Varför Välja Oss Som Din",
+    "headingLine2": "Webbyrå",
+    "description": "På Webbly Media bygger vi inte bara webbplatser; vi skapar pålitliga digitala plattformar som stöder långsiktig affärstillväxt och framgång. Våra expertudvecklare kombinerar strategi, ren kod och modern design för att leverera webbplatser som presterar och skalar med tillförsikt.",
+    "videoSrc": "/revision-images/web-development/videos/webblyhosting-video.mp4",
+    "experienceTitle": "Erfarenhet vi har\nuppnått",
+    "awardItems": [
+      "7+ Års Erfarenhet",
+      "5-Stjärniga Webblösningar",
+      "Tydlig Kommunikation & Support Dygnet Runt",
+      "Kundnöjdhetsgaranti"
+    ],
+    "conversionValue": "41%",
+    "conversionLabel": "Konverterings-\ntillväxt",
+    "conversionDescription": "Vi integrerar sömlöst datainsikter i designprocessen och säkerställer att din webb-UX/UI inte bara är visuellt tilltalande utan strategiskt anpassad till dina affärsmål.",
+    "hostingTitle": "Låt Inte Dålig Hosting\nFörstöra Din Högkvalitativa\nWebbplats",
+    "hostingBackText": "Visste du att även en välbyggd webbplats kan misslyckas på grund av dålig hosting? Ja, många företag investerar i professionell webbutveckling, men upplever ändå långsam laddning, driftstopp och prestandaproblem på grund av svag hostinginfrastruktur.\nWebblyHosting är vår premiumhostingtjänst designad för att stödja dig.",
+    "hostingButtonText": "Upptäck WebblyHost",
+    "hostingImageSrc": "/revision-images/web-development/icons/WebAgencyWhyChooseUs/profile-pic.png",
+    "webblyIconSrc": "/revision-images/web-development/icons/WebAgencyWhyChooseUs/webbly-white-icon.svg",
+    "spiralBgSrc": "/revision-images/web-development/icons/WebAgencyWhyChooseUs/spairal.svg"
+  },
+  "stickySection": {
+    "headingLine1": "Vi Erbjuder Mer Än Bara",
+    "headingLine2": "Webbutvecklingstjänster",
+    "items": [
+      {
+        "number": "01",
+        "title": "Webbdesign",
+        "description": "Våra webbdesigntjänster skapar rena, moderna och användarvänliga gränssnitt med responsiva layouter och smidig navigering.",
+        "tags": ["Utförande", "Planering"]
+      },
+      {
+        "number": "02",
+        "title": "Apputveckling",
+        "description": "Våra apputvecklingstjänster förvandlar idéer till pålitliga mobil- och webbapplikationer med smidig prestanda och bra användarupplevelse.",
+        "tags": ["Utförande", "Planering"]
+      },
+      {
+        "number": "03",
+        "title": "Digital Marknadsföring",
+        "description": "Våra digitala marknadsföringstjänster hjälper till att öka synlighet, engagemang och leads genom SEO, sociala medier och betalda kampanjer.",
+        "tags": ["Utförande", "Planering"]
+      }
+    ],
+    "images": [
+      "/revision-images/web-development/StickySection/sticky-image-1.webp",
+      "/revision-images/web-development/StickySection/sticky-image-2.webp",
+      "/revision-images/web-development/StickySection/sticky-image-3.webp"
+    ]
+  },
+  "serviceKeyFacts": {
+    "headingLine1": "Viktiga Fakta Att Känna Till Om",
+    "headingLine2": "Webbutveckling",
+    "subtitle": "Webbutveckling hjälper företag att snabbt öka synligheten och driva försäljning. Här är några viktiga fördelar:",
+    "videoSrc": "/revision-images/web-development/videos/webblyhosting-video.mp4",
+    "keyFacts": [
+      {
+        "id": "types-of-website-development-services",
+        "title": "Typer av Webbutvecklingstjänster",
+        "description": "Webbutvecklingstjänster hjälper företag att bygga funktionella, snabba och användarvänliga webbplatser. Dessa tjänster delas huvudsakligen in i tre typer baserat på hur en webbplats skapas och hanteras.",
+        "hasVideo": true
+      },
+      {
+        "id": "what-does-a-web-development-company-do",
+        "title": "Vad Gör Ett Webbutvecklingsföretag?",
+        "description": "Ett webbutvecklingsföretag som Webbly Media hjälper företag att bygga kraftfulla, pålitliga och tillväxtfokuserade webbplatser. Vi tar hand om allt från planering och design till utveckling, testning och support.<br><br>Vårt mål är att bygga webbplatser som ser professionella ut och presterar bra. Vi hanterar både front-end och back-end utveckling för att säkerställa att din webbplats är snabb, säker och skalbar. Vi ser också till att din webbplats är SEO-vänlig, mobilresponsiv och optimerad för prestanda.<br><br>Innan lansering testar vi noggrant varje funktion. Efter lansering fortsätter vi att erbjuda underhåll, uppdateringar och teknisk support. Kort sagt, vi förvandlar dina idéer till effektiva digitala lösningar som hjälper ditt företag att växa online med tillförsikt.",
+        "hasVideo": false
+      },
+      {
+        "id": "why-hire-a-web-development-firm",
+        "title": "Varför Anlita En Webbutvecklingsbyrå?",
+        "description": "När det gäller att bygga en professionell webbplats säkerställer en byrå som Webbly Media att ditt projekt hanteras korrekt. Vi är din partner i digital tillväxt och skapar webbplatser som stöder dina affärsmål.<br><br>Vårt team hjälper dig att planera, designa och utveckla din webbplats effektivt. Vi organiserar varje steg, från layout och design till kodning och testning, och säkerställer högkvalitativa resultat samtidigt som vi sparar tid åt dig.<br><br>Vi tar också itu med de tekniska utmaningar som många företag möter. Våra utvecklare hanterar allt från front-end och back-end arbete till databasinstallation, säkerhet och prestandaoptimering. På så sätt kan du fokusera på att driva ditt företag medan vi bygger en sömlös webbplats åt dig.<br><br>Sammanfattningsvis ger anlitandet av en webbyrå dig expertis, pålitlighet och löpande support. Med vår hjälp kommer din webbplats att vara optimerad, skalbar och redo att hjälpa ditt varumärke växa online.",
+        "hasVideo": false
+      },
+      {
+        "id": "benefits-of-hiring-a-web-agency",
+        "title": "Fördelar Med Att Anlita En Webbyrå",
+        "description": "Att anlita ett professionellt webbutvecklingsföretag erbjuder tydliga fördelar för företag som vill skapa högkvalitativa och skalbara webbplatser. Här är de huvudsakliga fördelarna:<br><br>Expertteam & Kompetens<br>Byråer har team av designers, utvecklare och testare med olika kompetenser. Detta säkerställer att din webbplats byggs effektivt och professionellt.<br><br>Snabbare Leverans & Strukturerad Process<br>Med organiserade arbetsflöden och projektledning slutför byråer webbplatser snabbare än enskilda frilansare samtidigt som kvalitetsstandarder upprätthålls.<br><br>Anpassade & Skalbara Lösningar<br>Byråer skapar webbplatser skräddarsydda efter dina affärsbehov, till skillnad från mallar. Din webbplats kan växa och förändras i takt med att ditt företag expanderar.<br><br>Bättre Användarupplevelse & Prestanda<br>Webbutvecklingsföretag fokuserar på responsiv design, snabba laddningstider och smidig funktionalitet för att öka användarengagemang och konverteringar.<br><br>Långsiktig Support & Underhåll<br>Byråer tillhandahåller löpande uppdateringar, säkerhet och teknisk support för att hålla din webbplats igång bra.<br><br>Högre ROI & Pålitlighet<br>En professionellt byggd webbplats attraherar fler användare, leads och försäljning över tid och levererar bestående värde.",
+        "hasVideo": false
+      },
+      {
+        "id": "how-custom-solutions-differ-from-templates",
+        "title": "Hur Anpassade Lösningar Skiljer Sig Från Mallar",
+        "description": "Anpassade webbplatser är designade specifikt för dina affärsmål, varumärke och användarbehov. Medan mallar är snabbare och billigare är de generiska och begränsade i funktioner. Anpassade lösningar ger dig full frihet i design, funktionalitet och prestanda. De kan växa med ditt företag och hjälpa till att skapa en unik identitet. På Webbly Media skapar vi anpassade webbplatser som förbättrar användarupplevelsen, ökar konverteringar och gör att ditt varumärke sticker ut online, till skillnad från standardmallar.",
+        "hasVideo": false
+      },
+      {
+        "id": "importance-of-responsive-website-design",
+        "title": "Vikten Av Responsiv Webbdesign",
+        "description": "Responsiv design säkerställer att din webbplats ser bra ut och fungerar bra på alla enheter, som stationära datorer, surfplattor och smartphones. Den anpassar sin layout, bilder och innehåll efter den enhet som används. Detta hjälper användare att få en bättre upplevelse, minskar chansen att de lämnar webbplatsen och ökar engagemanget. Att ha en responsiv webbplats är också viktigt för SEO-rankningar, eftersom sökmotorer föredrar mobilvänliga, välorganiserade webbplatser. Med responsiv design kan din webbplats nå fler användare, hålla dem intresserade och stärka din online-närvaro.",
+        "hasVideo": false
+      },
+      {
+        "id": "why-is-a-mobile-friendly-website-important",
+        "title": "Varför Är En Mobilvänlig Webbplats Viktig?",
+        "description": "De flesta användare besöker nu webbplatser via mobila enheter. En mobilvänlig webbplats laddar snabbt, är lätt att navigera och levererar en smidig upplevelse på små skärmar. Mobiloptimering förbättrar SEO, ökar engagemang och konverteringar. Långsamma eller icke-responsiva webbplatser kan frustrera användare och driva bort dem. Genom att säkerställa mobilvänlighet förblir ditt företag konkurrenskraftigt, ger en bättre användarupplevelse och når en bredare publik effektivt.",
+        "hasVideo": false
+      }
+    ]
+  },
+  "getAQuote": {
+    "headingLine1": "Bygg Högpresterande",
+    "headingLine2": "Webbplatser Med Webbly Media",
+    "description": "Oavsett om du är en startup eller ett stort företag hjälper vi dig att designa, utveckla och skala kraftfulla digitala produkter som driver tillväxt.",
+    "buttonText": "FÅ EN OFFERT",
+    "backgroundImage": "/revision-images/web-development/GetAQuote/CTA.webp",
+    "backgroundImageAlt": "Team som samarbetar kring webbutvecklingsplanering"
+  },
+  "revisionFaqSection": {
+    "title": "Vanliga Frågor",
+    "subtitle": "Om du har frågor om våra webb- och digitala marknadsföringstjänster, titta på våra vanliga frågor. Du kan lära dig om våra planer.",
+    "contactHeading": "Bygg Hög-\npresterande Webbplatser\nMed Webbly Media",
+    "email": "Webblymedia@gmail.se",
+    "phone": "+1-800-123-4567",
+    "askQuestionButton": "Ställ En Fråga",
+    "profileImage": "/revision-images/web-development/RevisionFaqSection/profile.png",
+    "faqs": [
+      {
+        "id": 1,
+        "question": "Vad Gör Webbly Media Till Den Bästa Webb- och Digitala Marknadsföringsbyrån?",
+        "answer": "Webbly Media utmärker sig genom expertservice, bevisade resultat och dedikerad support. Vårt kreativa team kombinerar innovation, strategi och teknik för att hjälpa företag att växa framgångsrikt online."
+      },
+      {
+        "id": 2,
+        "question": "Kan Webbly Media Utveckla Anpassade Webbplatser och Appar?",
+        "answer": "Ja, vi är specialiserade på att bygga anpassade webbplatser och applikationer skräddarsydda efter dina affärsbehov. Vårt utvecklingsteam skapar skalbara, säkra och högpresterande lösningar från grunden."
+      },
+      {
+        "id": 3,
+        "question": "Erbjuder Webbly Media Skräddarsydda Digitala Marknadsföringsstrategier?",
+        "answer": "Absolut. Vi skapar personliga digitala marknadsföringsstrategier baserade på din bransch, dina mål och din målgrupp för att maximera din online-närvaro och ROI."
+      },
+      {
+        "id": 4,
+        "question": "Hur Arbetar Ni Från Upptäckt Till Projektlansering?",
+        "answer": "Vi följer en strukturerad process: upptäckt, planering, design, utveckling, testning och lansering. Varje fas inkluderar samarbete med klienten för att säkerställa att slutprodukten uppfyller dina förväntningar."
+      },
+      {
+        "id": 5,
+        "question": "Hur Säkerställer Ni Framgången Av Marknadsföringskampanjer?",
+        "answer": "Vi använder datadrivna strategier, kontinuerlig övervakning, A/B-testning och prestandaoptimering för att säkerställa att varje marknadsföringskampanj levererar mätbara resultat."
+      }
+    ]
+  }
+}

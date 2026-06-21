@@ -1,0 +1,203 @@
+{
+  "pageMetadata": {
+    "routeSlugs": [
+      {
+        "path": "pay-it-forward",
+        "slug": "ge-vidare"
+      }
+    ],
+    "routeMetadata": [
+      {
+        "path": "pay-it-forward",
+        "title": "Pay It Forward-initiativ | Webbly Media"
+      }
+    ]
+  },
+  "otherHero": {
+    "pageName": "Ge vidare",
+    "title": "Stod samhallen, forandra liv",
+    "description": "Folj med Webbly Media i att ge tillbaka. Genom Ge vidare investerar vi en del av varje projekt i att hjalpa manniskor att bygga tryggare och mer inkluderande samhallen.",
+    "buttonText": "Boka ett samtal",
+    "mainImage": {
+      "src": "/assets/images/all-hero/Pay-it-forward.jpg",
+      "alt": "Pay it forward hero",
+      "title": "Pay It Forward",
+      "caption": "Bildresurs for pay it forward i sektionen all hero.",
+      "description": "Visuell resurs som anvands pa Webbly Medias webbplats for all hero-innehall."
+    },
+    "floatingImageSrc": "/assets/images/seo-hero-float.svg",
+    "floatingImageAlt": "Side blur decoration",
+    "floatingImageTitle": "SEO Hero Flytande Ikon",
+    "floatingImageCaption": "Flytande ikon som anvands i SEO-hero.",
+    "floatingImageDescription": "Dekorativ SEO-symbol i hero-bilden."
+  },
+  "leftThreeImage": {
+    "title": "En dold kris",
+    "description": [
+      "Samhallet verkar ofta framgangsrikt, men manga manniskor kampar med beroende och medberoende. Dessa problem paverkar manniskor i alla aldrar och bakgrunder och orsakar allvarlig skada for individer och familjer.",
+      "\n <br> <br>",
+      "Till exempel kan spelberoende lamma barn – kanske dina egna vanners barn – utan mat hemma for att en forlder forlorade alla sina pengar. Vi kliver in for att tillhandahalla mat och visa familjer att hjalp finns tillganglig om de ar redo for forandring."
+    ],
+    "images": [
+      {
+        "src": "/assets/layer-component-Images/set2/image1.jpg",
+        "alt": "Bild for Image1",
+        "title": "Image1",
+        "caption": "Bildresurs for image1 i sektionen set2.",
+        "description": "Visuell resurs som anvands pa Webbly Medias webbplats for set2-innehall."
+      },
+      {
+        "src": "/assets/layer-component-Images/set2/image2.jpg",
+        "alt": "Bild for Image2",
+        "title": "Image2",
+        "caption": "Bildresurs for image2 i sektionen set2.",
+        "description": "Visuell resurs som anvands pa Webbly Medias webbplats for set2-innehall."
+      },
+      {
+        "src": "/assets/layer-component-Images/set2/image3.jpg",
+        "alt": "Bild for Image3",
+        "title": "Image3",
+        "caption": "Bildresurs for image3 i sektionen set2.",
+        "description": "Visuell resurs som anvands pa Webbly Medias webbplats for set2-innehall."
+      }
+    ]
+  },
+  "rightThreeImage": {
+    "title": "Bortom ekonomiskt stod",
+    "description": [
+      "Utover ekonomiskt stod engagerar var personal sig i det lokala samhallet. Vi organiserar regelbundna matutdelningar, delar information for att oka medvetenheten om missbruk och erbjuder stod och mentorskap till manniskor som har det tufft.",
+      "\n <br> <br>",
+      "Genom att vara engagerade bygger vi meningsfulla relationer och forbattrar verkligen manniskors liv."
+    ],
+    "images": [
+      {
+        "src": "/assets/layer-component-Images/set3/image1.jpg",
+        "alt": "Bild for Image1",
+        "title": "Image1",
+        "caption": "Bildresurs for image1 i sektionen set3.",
+        "description": "Visuell resurs som anvands pa Webbly Medias webbplats for set3-innehall."
+      },
+      {
+        "src": "/assets/layer-component-Images/set3/image2.jpg",
+        "alt": "Bild for Image2",
+        "title": "Image2",
+        "caption": "Bildresurs for image2 i sektionen set3.",
+        "description": "Visuell resurs som anvands pa Webbly Medias webbplats for set3-innehall."
+      },
+      {
+        "src": "/assets/layer-component-Images/set3/image3.jpg",
+        "alt": "Bild for Image3",
+        "title": "Image3",
+        "caption": "Bildresurs for image3 i sektionen set3.",
+        "description": "Visuell resurs som anvands pa Webbly Medias webbplats for set3-innehall."
+      }
+    ]
+  },
+  "leftThreeImage2": {
+    "title": "Ditt val gor stor skillnad",
+    "description": "Att losa varldens problem kan kanas overvaldigt, men sma handlingar spelar roll. Nar du valjer Webbly Media hjalper du till att gora varlden till en battre plats att leva pa.\nVi donerar upp till 15% av vara vinster till valgorenhet. Varje kop hjalper till att skapa ett rattvisare samhalle. Tillsammans gor vi en riktig skillnad.",
+    "images": [
+      {
+        "src": "/assets/layer-component-Images/set4/image1.jpg",
+        "alt": "Bild for Image1",
+        "title": "Image1",
+        "caption": "Bildresurs for image1 i sektionen set4.",
+        "description": "Visuell resurs som anvands pa Webbly Medias webbplats for set4-innehall."
+      },
+      {
+        "src": "/assets/layer-component-Images/set4/image2.jpg",
+        "alt": "Bild for Image2",
+        "title": "Image2",
+        "caption": "Bildresurs for image2 i sektionen set4.",
+        "description": "Visuell resurs som anvands pa Webbly Medias webbplats for set4-innehall."
+      },
+      {
+        "src": "/assets/layer-component-Images/set4/image3.jpg",
+        "alt": "Bild for Image3",
+        "title": "Image3",
+        "caption": "Bildresurs for image3 i sektionen set4.",
+        "description": "Visuell resurs som anvands pa Webbly Medias webbplats for set4-innehall."
+      }
+    ]
+  },
+  "rightThreeImage2": {
+    "title": "En vaxande rorelse",
+    "description": [
+      "Vi tror att vart exempel kan inspirera andra att gora detsamma. Det ar en kedjereaktion – en 'ge vidare'-vag dar goda garningar sprids. Tillsammans kan vi bygga ett samhalle dar alla kan na sin potential och stodja varandras framgang.",
+      "\n <br> <br>",
+      "Varje bidrag raknas. Tillsammans skapar vi positiv forandring genom att vara ett foredome for andra att folja."
+    ],
+    "images": [
+      {
+        "src": "/assets/layer-component-Images/set1/image1.jpg",
+        "alt": "Bild for Image1",
+        "title": "Image1",
+        "caption": "Bildresurs for image1 i sektionen set1.",
+        "description": "Visuell resurs som anvands pa Webbly Medias webbplats for set1-innehall."
+      },
+      {
+        "src": "/assets/layer-component-Images/set1/image2.jpg",
+        "alt": "Bild for Image2",
+        "title": "Image2",
+        "caption": "Bildresurs for image2 i sektionen set1.",
+        "description": "Visuell resurs som anvands pa Webbly Medias webbplats for set1-innehall."
+      },
+      {
+        "src": "/assets/layer-component-Images/set1/image3.jpg",
+        "alt": "Bild for Image3",
+        "title": "Image3",
+        "caption": "Bildresurs for image3 i sektionen set1.",
+        "description": "Visuell resurs som anvands pa Webbly Medias webbplats for set1-innehall."
+      }
+    ]
+  },
+  "joinUsHelping": {
+    "title": "Vill du vara med och distribuera och hjalpa?",
+    "description": "Som volontar eller lokal representant ansluter du dig till ett samhalle som ar dedikerat till att gora gott. Vi brinner for att forbattra var omgivning och gora en positiv inverkan. Tillsammans bygger vi tryggare, mer inkluderande och valmaende samhallen for alla.",
+    "contactText": "Kontakta oss pa info@webblymedia.se for att komma igang. Ga med i vart community och Ge vidare idag!",
+    "image": {
+      "src": "/assets/images/pay-it-forward/cute-girl.svg",
+      "alt": "Bild for Cute Girl",
+      "title": "Cute Girl",
+      "caption": "Bildresurs for cute girl i sektionen pay it forward.",
+      "description": "Visuell resurs som anvands pa Webbly Medias webbplats for pay it forward-innehall."
+    }
+  },
+  "wePayItForward": {
+    "title": "VI GER VIDARE",
+    "description": "Att valja Webbly Media innebar mer an att fa en bra webb- och marknadsforingslosning. Du ansluter dig till en storre insats for att leverera tjanster av hogsta kvalitet samtidigt som vi ger tillbaka till samhallet."
+  },
+  "videoSection": {
+    "title": "Mer an bara en digital byra",
+    "description": "Webbly Media erbjuder mer an bara marknadsforing och utveckling. Vi tillhandahaller ocksa sakra och palitliga hostinglosningar genom var plattform, WebblyHosting. WebblyHosting ar byggt for prestanda och stabilitet, vilket ger dig sinnesro. Det ger ditt foretag en stark digital grund och ett paliligt ekosystem for hela din onlinenarvaro.",
+    "buttonText": "Upptack WebblyHost"
+  },
+  "bookConsultant": {
+    "title": "Boka en konsultation med vara radgivare",
+    "description": "Trafifa en av vara erfarna radgivare for att diskutera dina digitala utmaningar och mal. Vi erbjuder vardefulla insikter och skraddarsydd vagledning for att hjalpa dig att starka din digitala narvaro.",
+    "buttonText": "Kom igang nu",
+    "images": [
+      {
+        "src": "/assets/images/pay-it-forward/first-image1.jpg",
+        "alt": "Bild for First Image1",
+        "title": "First Image1",
+        "caption": "Bildresurs for first image1 i sektionen pay it forward.",
+        "description": "Visuell resurs som anvands pa Webbly Medias webbplats for pay it forward-innehall."
+      },
+      {
+        "src": "/assets/images/pay-it-forward/middle-image2.jpg",
+        "alt": "Bild for Middle Image2",
+        "title": "Middle Image2",
+        "caption": "Bildresurs for middle image2 i sektionen pay it forward.",
+        "description": "Visuell resurs som anvands pa Webbly Medias webbplats for pay it forward-innehall."
+      },
+      {
+        "src": "/assets/images/pay-it-forward/last-image3.jpg",
+        "alt": "Bild for Last Image3",
+        "title": "Last Image3",
+        "caption": "Bildresurs for last image3 i sektionen pay it forward.",
+        "description": "Visuell resurs som anvands pa Webbly Medias webbplats for pay it forward-innehall."
+      }
+    ]
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "serviceHero": {
+    "badge": "WordPress Development Services",
+    "headingMobile": ["Build Custom", "Websites That", "Drive Growth"],
+    "headingDesktop": "Build Custom Websites That Drive Growth",
+    "description": "Build fast, secure, and scalable WordPress websites with Webbly Media's professional WordPress development services. We create custom WordPress solutions that look great, load fast, and work perfectly on all devices. From business sites to e-commerce stores, our WordPress experts deliver results you can count on.",
+    "buttonText": "Build Your Website",
+    "videoSrc": "/revision-images/web-development/ServiceHero/hero-video.mp4",
+    "splineUrl": "https://prod.spline.design/uEXBpVuveykV70S5/scene.splinecode"
+  },
+  "twoColumnSection": {
+    "badge": "A WordPress Development Company",
+    "previewText": "At Webbly Media, we understand global digital standards and help businesses build powerful, modern WordPress websites. As a trusted WordPress development agency, we create custom WordPress solutions that are fast, secure, and easy to manage. Our skilled developers build clean,",
+    "previewTextTablet": "At Webbly Media, we help businesses build powerful WordPress websites. As a trusted WordPress development agency, we create custom solutions that are fast, secure, and easy to manage. Our skilled developers build clean,",
+    "previewTextMobile": "At Webbly Media, we build powerful WordPress websites that are fast, secure, and easy to manage. Our skilled developers build clean,",
+    "previewTail": "scalable WordPress sites........",
+    "fullContent": [
+      "At Webbly Media, we understand global digital standards and help businesses build powerful, modern WordPress websites. As a trusted WordPress development agency, we create custom WordPress solutions that are fast, secure, and easy to manage.",
+      "Our skilled developers build clean, scalable WordPress sites and design each interface for real users. From theme customization and plugin development to WooCommerce integration and performance optimization, we focus on delivering WordPress websites that support long-term business growth with confidence."
+    ],
+    "modalTitle": "How We Build High-Impact WordPress Solutions",
+    "viewMoreText": "View More",
+    "imageSrc": "/revision-images/web-development/colleagues-selfie.webp",
+    "imageAlt": "Colleagues having a selfie in the office"
+  },
+  "marqueeSection": {
+    "logos": [
+      { "id": 1, "src": "/revision-images/web-development/marquee-logos/marquee-logo-1.svg", "alt": "Marquee brand logo 1", "width": 164 },
+      { "id": 2, "src": "/revision-images/web-development/marquee-logos/marquee-logo-2.svg", "alt": "Marquee brand logo 2", "width": 132 },
+      { "id": 3, "src": "/revision-images/web-development/marquee-logos/marquee-logo-3.svg", "alt": "Marquee brand logo 3", "width": 154 },
+      { "id": 4, "src": "/revision-images/web-development/marquee-logos/marquee-logo-4.svg", "alt": "Marquee brand logo 4", "width": 146 }
+    ],
+    "logoOrder": [1, 1, 2, 3, 1, 4]
+  },
+  "servicesShowcase": {
+    "badge": "Our Services",
+    "heading": "Our WordPress Development Services Include",
+    "description": "As an expert WordPress development company, we offer complete WordPress solutions for businesses of all sizes. Here's how we can help you build a powerful WordPress website:",
+    "services": [
+      {
+        "title": "Custom WordPress Website Development",
+        "description": "We build custom WordPress websites tailored to your brand, goals, and target audience from the ground up.",
+        "image": "/revision-images/web-development/slide-images/slide-image-1.webp"
+      },
+      {
+        "title": "WordPress Theme Development",
+        "description": "We design and develop custom WordPress themes that reflect your brand identity and deliver seamless user experiences.",
+        "image": "/revision-images/web-development/slide-images/slide-image-2.webp"
+      },
+      {
+        "title": "WooCommerce Development",
+        "description": "Our WooCommerce development services help you build powerful online stores with secure payments and smooth checkout.",
+        "image": "/revision-images/web-development/slide-images/slide-image-3.webp"
+      },
+      {
+        "title": "WordPress Plugin Development",
+        "description": "We develop custom WordPress plugins to add unique features and functionality to your website.",
+        "image": "/revision-images/web-development/slide-images/slide-image-4.webp"
+      },
+      {
+        "title": "WordPress Migration & Transfer",
+        "description": "We safely migrate your existing website to WordPress without losing data, SEO rankings, or functionality.",
+        "image": "/revision-images/web-development/slide-images/slide-image-5.webp"
+      },
+      {
+        "title": "WordPress Speed Optimization",
+        "description": "We optimize your WordPress site for faster loading times, better performance, and improved user experience.",
+        "image": "/revision-images/web-development/slide-images/slide-image-6.webp"
+      },
+      {
+        "title": "WordPress Security & Maintenance",
+        "description": "Our WordPress security and maintenance services keep your site protected, updated, and running smoothly.",
+        "image": "/revision-images/web-development/slide-images/slide-image-7.webp"
+      },
+      {
+        "title": "WordPress Multisite Development",
+        "description": "We set up and manage WordPress multisite networks for businesses that need multiple sites under one dashboard.",
+        "image": "/revision-images/web-development/slide-images/slide-image-8.webp"
+      },
+      {
+        "title": "WordPress API Integration",
+        "description": "We integrate third-party APIs and services into your WordPress site for extended functionality and automation.",
+        "image": "/revision-images/web-development/slide-images/slide-image-9.webp"
+      }
+    ]
+  },
+  "mediaFeaturesSection": {
+    "badge": "Things To Expect from Our WordPress Development Services",
+    "heading": "We Build WordPress Websites That You Must Like!",
+    "description": "At Webbly Media, we follow a clear and structured WordPress development process to build websites that support real business growth. First, we learn about your goals and who will use your site.",
+    "videoOverlayTitle": "Redefining Digital Possibilities",
+    "videoOverlayDescription": "We design, build, and scale technology for the next generation.",
+    "videoSrc": "/revision-images/web-development/videos/webblyhosting-video.mp4",
+    "featureCards": [
+      {
+        "title": "Full Responsive WordPress Website",
+        "description": "We build fully responsive WordPress websites",
+        "icon": "/revision-images/web-development/icons/rocket-launch.svg"
+      },
+      {
+        "title": "WordPress Speed Optimization",
+        "description": "Website speed matters for users and search engines.",
+        "icon": "/revision-images/web-development/icons/CPU.svg"
+      },
+      {
+        "title": "SEO-friendly WordPress Website",
+        "description": "We build WordPress websites with SEO best practices.",
+        "icon": "/revision-images/web-development/icons/monitor.svg"
+      },
+      {
+        "title": "Clean & Easy WordPress Dashboard",
+        "description": "We create clean and easy-to-use WordPress dashboards for smooth management.",
+        "icon": "/revision-images/web-development/icons/paint-tray.svg",
+        "wide": true
+      },
+      {
+        "title": "Advanced WordPress Security",
+        "description": "Security is a top priority in our WordPress development process.",
+        "icon": "/revision-images/web-development/icons/Handshake.svg",
+        "wide": true
+      }
+    ]
+  },
+  "stackMarquee": {
+    "heading": "We Offer Custom WordPress Development Solutions",
+    "stacks": [
+      { "name": "WORDPRESS", "src": "/revision-images/web-development/icons/stacks/word-press.svg" },
+      { "name": "WOOCOMMERCE", "src": "/revision-images/web-development/icons/stacks/shopify.svg" },
+      { "name": "ELEMENTOR", "src": "/revision-images/web-development/icons/stacks/laravel.svg" },
+      { "name": "PHP", "src": "/revision-images/web-development/icons/stacks/php.svg" },
+      { "name": "MYSQL", "src": "/revision-images/web-development/icons/stacks/mysql.svg" },
+      { "name": "JAVASCRIPT", "src": "/revision-images/web-development/icons/stacks/next-js.svg" },
+      { "name": "HTML5", "src": "/revision-images/web-development/icons/stacks/mern-stack.svg" },
+      { "name": "CSS3", "src": "/revision-images/web-development/icons/stacks/css.svg" },
+      { "name": "GUTENBERG", "src": "/revision-images/web-development/icons/stacks/react.svg" },
+      { "name": "ACF", "src": "/revision-images/web-development/icons/stacks/django.svg" },
+      { "name": "YOAST SEO", "src": "/revision-images/web-development/icons/stacks/python.svg" },
+      { "name": "WPML", "src": "/revision-images/web-development/icons/stacks/mongodb.svg" },
+      { "name": "REST API", "src": "/revision-images/web-development/icons/stacks/wix.svg" },
+      { "name": "CLOUDFLARE", "src": "/revision-images/web-development/icons/stacks/squarespace.svg" }
+    ]
+  },
+  "helpBuildWeb": {
+    "badge": "Our WordPress Development Process",
+    "heading": "How We Help You as an Expert WordPress Development Company",
+    "processCards": [
+      {
+        "title": "Analysis & Research",
+        "description": "We start by understanding your business, goals, and WordPress requirements.",
+        "icon": "/revision-images/web-development/icons/HelpBuildWeb/content_paste_search.svg"
+      },
+      {
+        "title": "Modern UI/UX Design",
+        "description": "We design clean, modern, and user-friendly WordPress layouts.",
+        "icon": "/revision-images/web-development/icons/HelpBuildWeb/brush.svg"
+      },
+      {
+        "title": "WordPress Development",
+        "description": "After design approval, we build your WordPress site with custom themes and plugins.",
+        "icon": "/revision-images/web-development/icons/HelpBuildWeb/ad_group.svg"
+      },
+      {
+        "title": "Testing & Launch",
+        "description": "Before launch, we test every feature, plugin, and page carefully.",
+        "icon": "/revision-images/web-development/icons/HelpBuildWeb/bug_report.svg"
+      }
+    ]
+  },
+  "webAgencyWhyChooseUs": {
+    "badge": "Things To Expect from Our WordPress Development Services",
+    "headingLine1": "Why Choose Us As Your",
+    "headingLine2": "WordPress Development Company",
+    "description": "At Webbly Media, we don't just build WordPress websites; we create reliable digital platforms that support long-term business growth and success. Our expert WordPress developers combine strategy, clean code, and modern design to deliver websites that perform and scale with confidence.",
+    "videoSrc": "/revision-images/web-development/videos/webblyhosting-video.mp4",
+    "experienceTitle": "Experience we've\nachieved",
+    "awardItems": [
+      "7+ Years of Experience",
+      "5-Star Rated Web Solutions",
+      "Clear Communication & 24/7 Support",
+      "Client Satisfaction Commitment"
+    ],
+    "conversionValue": "41%",
+    "conversionLabel": "Conversion\nGrowth",
+    "conversionDescription": "We seamlessly integrate data insights into the design process, ensuring your web UX/UI is just virtually appealing but strategically aligned with your business goals.",
+    "hostingTitle": "Don't Let Poor Hosting\nRuin Your High-Quality\nWebsite",
+    "hostingBackText": "Did you know that even a well-built website can fail because of poor hosting? Yes, many businesses invest in professional WordPress development, but still face slow loading, downtime, and performance issues due to weak hosting infrastructure.\nWebblyHosting is our premium hosting service designed to support you.",
+    "hostingButtonText": "Discover WebblyHost",
+    "hostingImageSrc": "/revision-images/web-development/icons/WebAgencyWhyChooseUs/profile-pic.png",
+    "webblyIconSrc": "/revision-images/web-development/icons/WebAgencyWhyChooseUs/webbly-white-icon.svg",
+    "spiralBgSrc": "/revision-images/web-development/icons/WebAgencyWhyChooseUs/spairal.svg"
+  },
+  "stickySection": {
+    "headingLine1": "We Offer More Than Just",
+    "headingLine2": "WordPress Development Services",
+    "items": [
+      {
+        "number": "01",
+        "title": "Web Design",
+        "description": "Our web design services create clean, modern, and user-friendly interfaces with responsive layouts and smooth navigation.",
+        "tags": ["Execution", "Planning"]
+      },
+      {
+        "number": "02",
+        "title": "App Development",
+        "description": "Our app development services turn ideas into reliable mobile and web applications with smooth performance and great user experience.",
+        "tags": ["Execution", "Planning"]
+      },
+      {
+        "number": "03",
+        "title": "Digital Marketing",
+        "description": "Our digital marketing services help increase visibility, engagement, and leads through SEO, social media, and paid campaigns.",
+        "tags": ["Execution", "Planning"]
+      }
+    ],
+    "images": [
+      "/revision-images/web-development/StickySection/sticky-image-1.webp",
+      "/revision-images/web-development/StickySection/sticky-image-2.webp",
+      "/revision-images/web-development/StickySection/sticky-image-3.webp"
+    ]
+  },
+  "serviceKeyFacts": {
+    "headingLine1": "Key Facts to Know About",
+    "headingLine2": "WordPress Development Services",
+    "subtitle": "WordPress powers over 40% of the internet and is the most popular CMS in the world. Here are some important facts about professional WordPress development:",
+    "videoSrc": "/revision-images/web-development/videos/webblyhosting-video.mp4",
+    "keyFacts": [
+      {
+        "id": "types-of-wordpress-development-services",
+        "title": "Types of WordPress Development Services",
+        "description": "WordPress development services help businesses build functional, fast, and user-friendly websites using the world's most popular CMS. These services include custom theme development, plugin development, WooCommerce setup, WordPress migration, multisite management, and ongoing maintenance. Each service type caters to different business needs and website goals.",
+        "hasVideo": true
+      },
+      {
+        "id": "what-does-a-wordpress-development-company-do",
+        "title": "What Does a WordPress Development Company Do?",
+        "description": "A WordPress development company like Webbly Media helps businesses build powerful, reliable, and growth-focused websites on the WordPress platform. We handle everything from planning and design to theme development, plugin integration, and ongoing support.<br><br>Our goal is to build WordPress websites that look professional and perform well. We handle custom theme creation, plugin development, WooCommerce integration, and performance optimization to ensure your site is fast, secure, and scalable.<br><br>Before launching, we carefully test every feature, plugin, and page. After launch, we continue to provide WordPress maintenance, security updates, and technical support. In short, we turn your ideas into effective WordPress solutions that help your business grow online with confidence.",
+        "hasVideo": false
+      },
+      {
+        "id": "why-hire-a-wordpress-development-agency",
+        "title": "Why Hire a Professional WordPress Development Agency?",
+        "description": "When it comes to building a professional WordPress website, hiring an agency like Webbly Media ensures your project is handled with expertise. We are your partner in digital growth, creating WordPress solutions that support your business goals.<br><br>Our team helps you plan, design, and develop your WordPress website efficiently. We organize every step, from theme selection and customization to plugin integration and testing, ensuring high-quality results while saving you time.<br><br>We also address the technical challenges many businesses face with WordPress. Our developers manage everything from custom theme development and plugin conflicts to database optimization, security hardening, and performance tuning. This way, you can focus on running your business while we build a seamless WordPress website for you.<br><br>In summary, hiring a WordPress development agency provides you with expertise, reliability, and ongoing support. With our help, your WordPress site will be optimized, scalable, and ready to help your brand grow online.",
+        "hasVideo": false
+      },
+      {
+        "id": "benefits-of-hiring-a-wordpress-development-company",
+        "title": "Benefits of Hiring a WordPress Development Company",
+        "description": "Hiring a professional WordPress development company offers clear benefits for businesses looking to build high-quality and scalable websites. Here are the main advantages:<br><br>Expert WordPress Team<br>Agencies have teams of WordPress developers, designers, and testers with specialized skills. This ensures your website is built efficiently and professionally.<br><br>Faster Delivery & Structured Process<br>With organized workflows and WordPress-specific expertise, agencies complete websites more quickly than individual freelancers while maintaining quality standards.<br><br>Custom Themes & Scalable Solutions<br>Agencies create custom WordPress themes tailored to your business needs, unlike generic templates. Your site can grow and evolve as your business expands.<br><br>Better Performance & User Experience<br>WordPress development companies focus on speed optimization, responsive design, and smooth functionality to enhance user engagement and boost conversions.<br><br>Long-Term Support & Maintenance<br>Agencies provide ongoing WordPress updates, security patches, and technical support to keep your website running smoothly.<br><br>Higher ROI & Reliability<br>A professionally built WordPress website attracts more users, generates leads, and drives sales over time, delivering lasting value.",
+        "hasVideo": false
+      },
+      {
+        "id": "how-custom-wordpress-solutions-differ-from-templates",
+        "title": "How Custom WordPress Solutions Differ From Templates",
+        "description": "Custom WordPress websites are designed specifically for your business goals, brand identity, and user needs. While pre-made themes are faster and less expensive, they are generic and limited in customization. Custom WordPress solutions give you full freedom in design, functionality, and performance. They can grow with your business and help create a unique online identity. At Webbly Media, we create custom WordPress websites that improve user experience, increase conversions, and make your brand stand out online, unlike standard WordPress templates.",
+        "hasVideo": false
+      },
+      {
+        "id": "importance-of-wordpress-website-security",
+        "title": "Importance of WordPress Website Security",
+        "description": "WordPress security is essential to protect your website from hackers, malware, and data breaches. As the most popular CMS, WordPress is a common target for cyberattacks. Proper security measures include regular updates, strong passwords, SSL certificates, security plugins, and firewall protection. A secure WordPress website builds trust with your visitors, protects sensitive data, and ensures uninterrupted business operations. At Webbly Media, we implement comprehensive WordPress security practices to keep your site safe and your business protected.",
+        "hasVideo": false
+      },
+      {
+        "id": "why-is-wordpress-the-best-cms-for-business",
+        "title": "Why Is WordPress the Best CMS for Business?",
+        "description": "WordPress is the best CMS for business because it offers flexibility, scalability, and ease of use. It powers over 40% of all websites globally, from small blogs to large enterprise sites. WordPress provides thousands of themes and plugins, making it highly customizable. It is SEO-friendly, mobile-responsive, and supports e-commerce through WooCommerce. With a large community and regular updates, WordPress ensures long-term reliability. Whether you need a simple business site or a complex web application, WordPress delivers the tools and flexibility to grow your online presence effectively.",
+        "hasVideo": false
+      }
+    ]
+  },
+  "getAQuote": {
+    "headingLine1": "Build High-Performance",
+    "headingLine2": "Websites With Webbly Media",
+    "description": "Whether you're a startup or an enterprise, we help you design, develop, and scale powerful digital products that drive growth.",
+    "buttonText": "GET A QUOTE",
+    "backgroundImage": "/revision-images/web-development/GetAQuote/CTA.webp",
+    "backgroundImageAlt": "Team collaborating on WordPress development planning"
+  },
+  "revisionFaqSection": {
+    "title": "FAQs About Our WordPress Development Services",
+    "subtitle": "Have questions about our WordPress development solutions? Check our FAQs below to learn about our process, pricing, and support.",
+    "contactHeading": "Build High-\nPerformance Websites\nWith Webbly Media",
+    "email": "Webblymedia@gmail.se",
+    "phone": "+1-800-123-4567",
+    "askQuestionButton": "Asked A Questions",
+    "profileImage": "/revision-images/web-development/RevisionFaqSection/profile.png",
+    "faqs": [
+      {
+        "id": 1,
+        "question": "What Makes Webbly Media Stand Out From Other WordPress Development Agencies?",
+        "answer": "Webbly Media stands out because our certified WordPress developers focus on your business goals and user needs. We build modern, high-performance WordPress websites that help you grow. Our clear process and ongoing support give you long-term value."
+      },
+      {
+        "id": 2,
+        "question": "How Much Do Your WordPress Development Services Cost?",
+        "answer": "Our WordPress development pricing varies based on project scope, complexity, and features required. We offer flexible packages tailored to different business sizes and budgets. Contact us for a free consultation and customized quote."
+      },
+      {
+        "id": 3,
+        "question": "What Is The Time Frame for Your WordPress Development Process?",
+        "answer": "The timeline depends on project complexity. A standard WordPress website typically takes 2 to 6 weeks, including planning, design, development, testing, and launch. We ensure quality at every stage without rushing the process."
+      },
+      {
+        "id": 4,
+        "question": "Who Needs WordPress Development Solutions The Most?",
+        "answer": "Businesses of all sizes benefit from professional WordPress development, especially startups, small businesses, bloggers, e-commerce brands, and companies looking for an easy-to-manage CMS. If you need a scalable, flexible website, WordPress is the ideal choice."
+      },
+      {
+        "id": 5,
+        "question": "Can You Migrate My Existing Website to WordPress?",
+        "answer": "Yes, we specialize in WordPress migration services. We safely transfer your existing website to WordPress without losing content, SEO rankings, or functionality. Our team handles the entire migration process including data transfer, URL mapping, and post-migration testing."
+      },
+      {
+        "id": 6,
+        "question": "How Do You Ensure Security For WordPress Websites?",
+        "answer": "We implement comprehensive WordPress security measures including SSL certificates, security plugins, firewall protection, regular updates, strong authentication, and malware scanning. We also provide ongoing security monitoring and maintenance to keep your site protected."
+      },
+      {
+        "id": 7,
+        "question": "Can You Redesign My Current WordPress Website?",
+        "answer": "Yes, we specialize in WordPress website redesigns. We analyze your current site, identify areas for improvement, and create a fresh, modern design that aligns with your brand and business goals while preserving your existing content and SEO value."
+      }
+    ]
+  }
+}

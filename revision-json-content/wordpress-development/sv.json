@@ -1,0 +1,325 @@
+{
+  "serviceHero": {
+    "badge": "WordPress-utvecklingstjänster",
+    "headingMobile": ["Bygg Anpassade", "Webbplatser Som", "Driver Tillväxt"],
+    "headingDesktop": "Bygg Anpassade Webbplatser Som Driver Tillväxt",
+    "description": "Bygg snabba, säkra och skalbara WordPress-webbplatser med Webbly Medias professionella WordPress-utvecklingstjänster. Vi skapar anpassade WordPress-lösningar som ser bra ut, laddar snabbt och fungerar perfekt på alla enheter. Från företagssidor till e-handelsbutiker levererar våra WordPress-experter resultat du kan lita på.",
+    "buttonText": "Bygg Din Webbplats",
+    "videoSrc": "/revision-images/web-development/ServiceHero/hero-video.mp4",
+    "splineUrl": "https://prod.spline.design/uEXBpVuveykV70S5/scene.splinecode"
+  },
+  "twoColumnSection": {
+    "badge": "Ett WordPress-utvecklingsföretag",
+    "previewText": "På Webbly Media förstår vi globala digitala standarder och hjälper företag att bygga kraftfulla, moderna WordPress-webbplatser. Som en pålitlig WordPress-utvecklingsbyrå skapar vi anpassade WordPress-lösningar som är snabba, säkra och lätta att hantera. Våra skickliga utvecklare bygger rena,",
+    "previewTextTablet": "På Webbly Media hjälper vi företag att bygga kraftfulla WordPress-webbplatser. Som en pålitlig WordPress-utvecklingsbyrå skapar vi anpassade lösningar som är snabba, säkra och lätta att hantera. Våra skickliga utvecklare bygger rena,",
+    "previewTextMobile": "På Webbly Media bygger vi kraftfulla WordPress-webbplatser som är snabba, säkra och lätta att hantera. Våra skickliga utvecklare bygger rena,",
+    "previewTail": "skalbara WordPress-webbplatser........",
+    "fullContent": [
+      "På Webbly Media förstår vi globala digitala standarder och hjälper företag att bygga kraftfulla, moderna WordPress-webbplatser. Som en pålitlig WordPress-utvecklingsbyrå skapar vi anpassade WordPress-lösningar som är snabba, säkra och lätta att hantera.",
+      "Våra skickliga utvecklare bygger rena, skalbara WordPress-webbplatser och designar varje gränssnitt för riktiga användare. Från temaanpassning och pluginutveckling till WooCommerce-integration och prestandaoptimering fokuserar vi på att leverera WordPress-webbplatser som stöder långsiktig affärstillväxt med tillförsikt."
+    ],
+    "modalTitle": "Hur Vi Bygger Högeffektiva WordPress-lösningar",
+    "viewMoreText": "Visa Mer",
+    "imageSrc": "/revision-images/web-development/colleagues-selfie.webp",
+    "imageAlt": "Kollegor tar en selfie på kontoret"
+  },
+  "marqueeSection": {
+    "logos": [
+      { "id": 1, "src": "/revision-images/web-development/marquee-logos/marquee-logo-1.svg", "alt": "Varumärkeslogotyp 1", "width": 164 },
+      { "id": 2, "src": "/revision-images/web-development/marquee-logos/marquee-logo-2.svg", "alt": "Varumärkeslogotyp 2", "width": 132 },
+      { "id": 3, "src": "/revision-images/web-development/marquee-logos/marquee-logo-3.svg", "alt": "Varumärkeslogotyp 3", "width": 154 },
+      { "id": 4, "src": "/revision-images/web-development/marquee-logos/marquee-logo-4.svg", "alt": "Varumärkeslogotyp 4", "width": 146 }
+    ],
+    "logoOrder": [1, 1, 2, 3, 1, 4]
+  },
+  "servicesShowcase": {
+    "badge": "Våra Tjänster",
+    "heading": "Våra WordPress-utvecklingstjänster Inkluderar",
+    "description": "Som ett expert WordPress-utvecklingsföretag erbjuder vi kompletta WordPress-lösningar för företag av alla storlekar. Så här kan vi hjälpa dig att bygga en kraftfull WordPress-webbplats:",
+    "services": [
+      {
+        "title": "Anpassad WordPress-webbutveckling",
+        "description": "Vi bygger anpassade WordPress-webbplatser skräddarsydda för ditt varumärke, dina mål och din målgrupp från grunden.",
+        "image": "/revision-images/web-development/slide-images/slide-image-1.webp"
+      },
+      {
+        "title": "WordPress-temautveckling",
+        "description": "Vi designar och utvecklar anpassade WordPress-teman som speglar din varumärkesidentitet och levererar sömlösa användarupplevelser.",
+        "image": "/revision-images/web-development/slide-images/slide-image-2.webp"
+      },
+      {
+        "title": "WooCommerce-utveckling",
+        "description": "Våra WooCommerce-utvecklingstjänster hjälper dig att bygga kraftfulla webbutiker med säkra betalningar och smidig kassaköp.",
+        "image": "/revision-images/web-development/slide-images/slide-image-3.webp"
+      },
+      {
+        "title": "WordPress-pluginutveckling",
+        "description": "Vi utvecklar anpassade WordPress-plugins för att lägga till unika funktioner och funktionalitet på din webbplats.",
+        "image": "/revision-images/web-development/slide-images/slide-image-4.webp"
+      },
+      {
+        "title": "WordPress-migrering & Överföring",
+        "description": "Vi migrerar säkert din befintliga webbplats till WordPress utan att förlora data, SEO-rankningar eller funktionalitet.",
+        "image": "/revision-images/web-development/slide-images/slide-image-5.webp"
+      },
+      {
+        "title": "WordPress-hastighetsoptimering",
+        "description": "Vi optimerar din WordPress-webbplats för snabbare laddningstider, bättre prestanda och förbättrad användarupplevelse.",
+        "image": "/revision-images/web-development/slide-images/slide-image-6.webp"
+      },
+      {
+        "title": "WordPress-säkerhet & Underhåll",
+        "description": "Våra WordPress-säkerhets- och underhållstjänster håller din webbplats skyddad, uppdaterad och igång smidigt.",
+        "image": "/revision-images/web-development/slide-images/slide-image-7.webp"
+      },
+      {
+        "title": "WordPress Multisite-utveckling",
+        "description": "Vi skapar och hanterar WordPress multisite-nätverk för företag som behöver flera webbplatser under en instrumentpanel.",
+        "image": "/revision-images/web-development/slide-images/slide-image-8.webp"
+      },
+      {
+        "title": "WordPress API-integration",
+        "description": "Vi integrerar tredjepartstjänster och API:er i din WordPress-webbplats för utökad funktionalitet och automatisering.",
+        "image": "/revision-images/web-development/slide-images/slide-image-9.webp"
+      }
+    ]
+  },
+  "mediaFeaturesSection": {
+    "badge": "Vad Du Kan Förvänta Dig Av Våra WordPress-utvecklingstjänster",
+    "heading": "Vi Bygger WordPress-webbplatser Som Du Kommer Att Älska!",
+    "description": "På Webbly Media följer vi en tydlig och strukturerad WordPress-utvecklingsprocess för att bygga webbplatser som stöder verklig affärstillväxt. Först lär vi oss om dina mål och vem som kommer att använda din webbplats.",
+    "videoOverlayTitle": "Omdefinierar Digitala Möjligheter",
+    "videoOverlayDescription": "Vi designar, bygger och skalar teknik för nästa generation.",
+    "videoSrc": "/revision-images/web-development/videos/webblyhosting-video.mp4",
+    "featureCards": [
+      {
+        "title": "Helt Responsiv WordPress-webbplats",
+        "description": "Vi bygger helt responsiva WordPress-webbplatser",
+        "icon": "/revision-images/web-development/icons/rocket-launch.svg"
+      },
+      {
+        "title": "WordPress-hastighetsoptimering",
+        "description": "Webbplatshastighet är viktigt för användare och sökmotorer.",
+        "icon": "/revision-images/web-development/icons/CPU.svg"
+      },
+      {
+        "title": "SEO-vänlig WordPress-webbplats",
+        "description": "Vi bygger WordPress-webbplatser med bästa SEO-praxis.",
+        "icon": "/revision-images/web-development/icons/monitor.svg"
+      },
+      {
+        "title": "Ren & Enkel WordPress-instrumentpanel",
+        "description": "Vi skapar rena och lättanvända WordPress-instrumentpaneler för smidig hantering.",
+        "icon": "/revision-images/web-development/icons/paint-tray.svg",
+        "wide": true
+      },
+      {
+        "title": "Avancerad WordPress-säkerhet",
+        "description": "Säkerhet är en topprioritet i vår WordPress-utvecklingsprocess.",
+        "icon": "/revision-images/web-development/icons/Handshake.svg",
+        "wide": true
+      }
+    ]
+  },
+  "stackMarquee": {
+    "heading": "Vi Erbjuder Anpassade WordPress-utvecklingslösningar",
+    "stacks": [
+      { "name": "WORDPRESS", "src": "/revision-images/web-development/icons/stacks/word-press.svg" },
+      { "name": "WOOCOMMERCE", "src": "/revision-images/web-development/icons/stacks/shopify.svg" },
+      { "name": "ELEMENTOR", "src": "/revision-images/web-development/icons/stacks/laravel.svg" },
+      { "name": "PHP", "src": "/revision-images/web-development/icons/stacks/php.svg" },
+      { "name": "MYSQL", "src": "/revision-images/web-development/icons/stacks/mysql.svg" },
+      { "name": "JAVASCRIPT", "src": "/revision-images/web-development/icons/stacks/next-js.svg" },
+      { "name": "HTML5", "src": "/revision-images/web-development/icons/stacks/mern-stack.svg" },
+      { "name": "CSS3", "src": "/revision-images/web-development/icons/stacks/css.svg" },
+      { "name": "GUTENBERG", "src": "/revision-images/web-development/icons/stacks/react.svg" },
+      { "name": "ACF", "src": "/revision-images/web-development/icons/stacks/django.svg" },
+      { "name": "YOAST SEO", "src": "/revision-images/web-development/icons/stacks/python.svg" },
+      { "name": "WPML", "src": "/revision-images/web-development/icons/stacks/mongodb.svg" },
+      { "name": "REST API", "src": "/revision-images/web-development/icons/stacks/wix.svg" },
+      { "name": "CLOUDFLARE", "src": "/revision-images/web-development/icons/stacks/squarespace.svg" }
+    ]
+  },
+  "helpBuildWeb": {
+    "badge": "Vår WordPress-utvecklingsprocess",
+    "heading": "Hur Vi Hjälper Dig Som Expert WordPress-utvecklingsföretag",
+    "processCards": [
+      {
+        "title": "Analys & Forskning",
+        "description": "Vi börjar med att förstå ditt företag, dina mål och WordPress-krav.",
+        "icon": "/revision-images/web-development/icons/HelpBuildWeb/content_paste_search.svg"
+      },
+      {
+        "title": "Modern UI/UX Design",
+        "description": "Vi designar rena, moderna och användarvänliga WordPress-layouter.",
+        "icon": "/revision-images/web-development/icons/HelpBuildWeb/brush.svg"
+      },
+      {
+        "title": "WordPress-utveckling",
+        "description": "Efter designgodkännande bygger vi din WordPress-webbplats med anpassade teman och plugins.",
+        "icon": "/revision-images/web-development/icons/HelpBuildWeb/ad_group.svg"
+      },
+      {
+        "title": "Testning & Lansering",
+        "description": "Innan lansering testar vi varje funktion, plugin och sida noggrant.",
+        "icon": "/revision-images/web-development/icons/HelpBuildWeb/bug_report.svg"
+      }
+    ]
+  },
+  "webAgencyWhyChooseUs": {
+    "badge": "Vad Du Kan Förvänta Dig Av Våra WordPress-utvecklingstjänster",
+    "headingLine1": "Varför Välja Oss Som Ditt",
+    "headingLine2": "WordPress-utvecklingsföretag",
+    "description": "På Webbly Media bygger vi inte bara WordPress-webbplatser; vi skapar pålitliga digitala plattformar som stöder långsiktig affärstillväxt och framgång. Våra expert WordPress-utvecklare kombinerar strategi, ren kod och modern design för att leverera webbplatser som presterar och skalar med tillförsikt.",
+    "videoSrc": "/revision-images/web-development/videos/webblyhosting-video.mp4",
+    "experienceTitle": "Erfarenhet vi har\nuppnått",
+    "awardItems": [
+      "7+ Års Erfarenhet",
+      "5-Stjärniga Webblösningar",
+      "Tydlig Kommunikation & Support Dygnet Runt",
+      "Kundnöjdhetsgaranti"
+    ],
+    "conversionValue": "41%",
+    "conversionLabel": "Konverterings-\ntillväxt",
+    "conversionDescription": "Vi integrerar sömlöst datainsikter i designprocessen och säkerställer att din webb-UX/UI inte bara är visuellt tilltalande utan strategiskt anpassad till dina affärsmål.",
+    "hostingTitle": "Låt Inte Dålig Hosting\nFörstöra Din Högkvalitativa\nWebbplats",
+    "hostingBackText": "Visste du att även en välbyggd webbplats kan misslyckas på grund av dålig hosting? Ja, många företag investerar i professionell WordPress-utveckling, men upplever ändå långsam laddning, driftstopp och prestandaproblem på grund av svag hostinginfrastruktur.\nWebblyHosting är vår premiumhostingtjänst designad för att stödja dig.",
+    "hostingButtonText": "Upptäck WebblyHost",
+    "hostingImageSrc": "/revision-images/web-development/icons/WebAgencyWhyChooseUs/profile-pic.png",
+    "webblyIconSrc": "/revision-images/web-development/icons/WebAgencyWhyChooseUs/webbly-white-icon.svg",
+    "spiralBgSrc": "/revision-images/web-development/icons/WebAgencyWhyChooseUs/spairal.svg"
+  },
+  "stickySection": {
+    "headingLine1": "Vi Erbjuder Mer Än Bara",
+    "headingLine2": "WordPress-utvecklingstjänster",
+    "items": [
+      {
+        "number": "01",
+        "title": "Webbdesign",
+        "description": "Våra webbdesigntjänster skapar rena, moderna och användarvänliga gränssnitt med responsiva layouter och smidig navigering.",
+        "tags": ["Utförande", "Planering"]
+      },
+      {
+        "number": "02",
+        "title": "Apputveckling",
+        "description": "Våra apputvecklingstjänster förvandlar idéer till pålitliga mobil- och webbapplikationer med smidig prestanda och bra användarupplevelse.",
+        "tags": ["Utförande", "Planering"]
+      },
+      {
+        "number": "03",
+        "title": "Digital Marknadsföring",
+        "description": "Våra digitala marknadsföringstjänster hjälper till att öka synlighet, engagemang och leads genom SEO, sociala medier och betalda kampanjer.",
+        "tags": ["Utförande", "Planering"]
+      }
+    ],
+    "images": [
+      "/revision-images/web-development/StickySection/sticky-image-1.webp",
+      "/revision-images/web-development/StickySection/sticky-image-2.webp",
+      "/revision-images/web-development/StickySection/sticky-image-3.webp"
+    ]
+  },
+  "serviceKeyFacts": {
+    "headingLine1": "Viktiga Fakta Att Känna Till Om",
+    "headingLine2": "WordPress-utvecklingstjänster",
+    "subtitle": "WordPress driver över 40% av internet och är det mest populära CMS:et i världen. Här är några viktiga fakta om professionell WordPress-utveckling:",
+    "videoSrc": "/revision-images/web-development/videos/webblyhosting-video.mp4",
+    "keyFacts": [
+      {
+        "id": "types-of-wordpress-development-services",
+        "title": "Typer av WordPress-utvecklingstjänster",
+        "description": "WordPress-utvecklingstjänster hjälper företag att bygga funktionella, snabba och användarvänliga webbplatser med världens mest populära CMS. Dessa tjänster inkluderar anpassad temautveckling, pluginutveckling, WooCommerce-installation, WordPress-migrering, multisite-hantering och löpande underhåll. Varje tjänstetyp tillgodoser olika affärsbehov och webbplatsmål.",
+        "hasVideo": true
+      },
+      {
+        "id": "what-does-a-wordpress-development-company-do",
+        "title": "Vad Gör Ett WordPress-utvecklingsföretag?",
+        "description": "Ett WordPress-utvecklingsföretag som Webbly Media hjälper företag att bygga kraftfulla, pålitliga och tillväxtfokuserade webbplatser på WordPress-plattformen. Vi tar hand om allt från planering och design till temautveckling, plugin-integration och löpande support.<br><br>Vårt mål är att bygga WordPress-webbplatser som ser professionella ut och presterar bra. Vi hanterar anpassad temaskapande, pluginutveckling, WooCommerce-integration och prestandaoptimering för att säkerställa att din webbplats är snabb, säker och skalbar.<br><br>Innan lansering testar vi noggrant varje funktion, plugin och sida. Efter lansering fortsätter vi att erbjuda WordPress-underhåll, säkerhetsuppdateringar och teknisk support. Kort sagt förvandlar vi dina idéer till effektiva WordPress-lösningar som hjälper ditt företag att växa online med tillförsikt.",
+        "hasVideo": false
+      },
+      {
+        "id": "why-hire-a-wordpress-development-agency",
+        "title": "Varför Anlita En Professionell WordPress-utvecklingsbyrå?",
+        "description": "När det gäller att bygga en professionell WordPress-webbplats säkerställer en byrå som Webbly Media att ditt projekt hanteras med expertis. Vi är din partner i digital tillväxt och skapar WordPress-lösningar som stöder dina affärsmål.<br><br>Vårt team hjälper dig att planera, designa och utveckla din WordPress-webbplats effektivt. Vi organiserar varje steg, från temaval och anpassning till plugin-integration och testning, och säkerställer högkvalitativa resultat samtidigt som vi sparar tid åt dig.<br><br>Vi tar också itu med de tekniska utmaningar som många företag möter med WordPress. Våra utvecklare hanterar allt från anpassad temautveckling och plugin-konflikter till databasoptimering, säkerhetshärdning och prestandajustering. På så sätt kan du fokusera på att driva ditt företag medan vi bygger en sömlös WordPress-webbplats åt dig.<br><br>Sammanfattningsvis ger anlitandet av en WordPress-utvecklingsbyrå dig expertis, pålitlighet och löpande support. Med vår hjälp kommer din WordPress-webbplats att vara optimerad, skalbar och redo att hjälpa ditt varumärke växa online.",
+        "hasVideo": false
+      },
+      {
+        "id": "benefits-of-hiring-a-wordpress-development-company",
+        "title": "Fördelar Med Att Anlita Ett WordPress-utvecklingsföretag",
+        "description": "Att anlita ett professionellt WordPress-utvecklingsföretag erbjuder tydliga fördelar för företag som vill bygga högkvalitativa och skalbara webbplatser. Här är de huvudsakliga fördelarna:<br><br>Expert WordPress-team<br>Byråer har team av WordPress-utvecklare, designers och testare med specialiserade kompetenser. Detta säkerställer att din webbplats byggs effektivt och professionellt.<br><br>Snabbare Leverans & Strukturerad Process<br>Med organiserade arbetsflöden och WordPress-specifik expertis slutför byråer webbplatser snabbare än enskilda frilansare samtidigt som kvalitetsstandarder upprätthålls.<br><br>Anpassade Teman & Skalbara Lösningar<br>Byråer skapar anpassade WordPress-teman skräddarsydda efter dina affärsbehov, till skillnad från generiska mallar. Din webbplats kan växa och utvecklas i takt med att ditt företag expanderar.<br><br>Bättre Prestanda & Användarupplevelse<br>WordPress-utvecklingsföretag fokuserar på hastighetsoptimering, responsiv design och smidig funktionalitet för att öka användarengagemang och konverteringar.<br><br>Långsiktig Support & Underhåll<br>Byråer tillhandahåller löpande WordPress-uppdateringar, säkerhetspatchar och teknisk support för att hålla din webbplats igång smidigt.<br><br>Högre ROI & Pålitlighet<br>En professionellt byggd WordPress-webbplats attraherar fler användare, genererar leads och driver försäljning över tid och levererar bestående värde.",
+        "hasVideo": false
+      },
+      {
+        "id": "how-custom-wordpress-solutions-differ-from-templates",
+        "title": "Hur Anpassade WordPress-lösningar Skiljer Sig Från Mallar",
+        "description": "Anpassade WordPress-webbplatser är designade specifikt för dina affärsmål, varumärkesidentitet och användarbehov. Medan färdiga teman är snabbare och billigare är de generiska och begränsade i anpassning. Anpassade WordPress-lösningar ger dig full frihet i design, funktionalitet och prestanda. De kan växa med ditt företag och hjälpa till att skapa en unik online-identitet. På Webbly Media skapar vi anpassade WordPress-webbplatser som förbättrar användarupplevelsen, ökar konverteringar och gör att ditt varumärke sticker ut online, till skillnad från standard WordPress-mallar.",
+        "hasVideo": false
+      },
+      {
+        "id": "importance-of-wordpress-website-security",
+        "title": "Vikten Av WordPress-webbplatssäkerhet",
+        "description": "WordPress-säkerhet är avgörande för att skydda din webbplats från hackare, skadlig programvara och dataintrång. Som det mest populära CMS:et är WordPress ett vanligt mål för cyberattacker. Korrekta säkerhetsåtgärder inkluderar regelbundna uppdateringar, starka lösenord, SSL-certifikat, säkerhetsplugins och brandväggsskydd. En säker WordPress-webbplats bygger förtroende hos dina besökare, skyddar känslig data och säkerställer oavbruten affärsverksamhet. På Webbly Media implementerar vi omfattande WordPress-säkerhetspraxis för att hålla din webbplats säker och ditt företag skyddat.",
+        "hasVideo": false
+      },
+      {
+        "id": "why-is-wordpress-the-best-cms-for-business",
+        "title": "Varför Är WordPress Det Bästa CMS:et För Företag?",
+        "description": "WordPress är det bästa CMS:et för företag eftersom det erbjuder flexibilitet, skalbarhet och användarvänlighet. Det driver över 40% av alla webbplatser globalt, från små bloggar till stora företagssidor. WordPress erbjuder tusentals teman och plugins, vilket gör det mycket anpassningsbart. Det är SEO-vänligt, mobilresponsivt och stöder e-handel genom WooCommerce. Med en stor community och regelbundna uppdateringar säkerställer WordPress långsiktig pålitlighet. Oavsett om du behöver en enkel företagssida eller en komplex webbapplikation levererar WordPress verktygen och flexibiliteten för att växa din online-närvaro effektivt.",
+        "hasVideo": false
+      }
+    ]
+  },
+  "getAQuote": {
+    "headingLine1": "Bygg Högpresterande",
+    "headingLine2": "Webbplatser Med Webbly Media",
+    "description": "Oavsett om du är en startup eller ett stort företag hjälper vi dig att designa, utveckla och skala kraftfulla digitala produkter som driver tillväxt.",
+    "buttonText": "FÅ EN OFFERT",
+    "backgroundImage": "/revision-images/web-development/GetAQuote/CTA.webp",
+    "backgroundImageAlt": "Team som samarbetar kring WordPress-utvecklingsplanering"
+  },
+  "revisionFaqSection": {
+    "title": "Vanliga Frågor Om Våra WordPress-utvecklingstjänster",
+    "subtitle": "Har du frågor om våra WordPress-utvecklingslösningar? Kolla våra vanliga frågor nedan för att lära dig om vår process, prissättning och support.",
+    "contactHeading": "Bygg Hög-\npresterande Webbplatser\nMed Webbly Media",
+    "email": "Webblymedia@gmail.se",
+    "phone": "+1-800-123-4567",
+    "askQuestionButton": "Ställ En Fråga",
+    "profileImage": "/revision-images/web-development/RevisionFaqSection/profile.png",
+    "faqs": [
+      {
+        "id": 1,
+        "question": "Vad Gör Webbly Media Unik Jämfört Med Andra WordPress-utvecklingsbyråer?",
+        "answer": "Webbly Media utmärker sig eftersom våra certifierade WordPress-utvecklare fokuserar på dina affärsmål och användarbehov. Vi bygger moderna, högpresterande WordPress-webbplatser som hjälper dig att växa. Vår tydliga process och löpande support ger dig långsiktigt värde."
+      },
+      {
+        "id": 2,
+        "question": "Hur Mycket Kostar Era WordPress-utvecklingstjänster?",
+        "answer": "Vår WordPress-utvecklingsprissättning varierar beroende på projektomfattning, komplexitet och önskade funktioner. Vi erbjuder flexibla paket anpassade till olika företagsstorlekar och budgetar. Kontakta oss för en gratis konsultation och skräddarsydd offert."
+      },
+      {
+        "id": 3,
+        "question": "Vad Är Tidsramen För Er WordPress-utvecklingsprocess?",
+        "answer": "Tidslinjen beror på projektets komplexitet. En standard WordPress-webbplats tar vanligtvis 2 till 6 veckor, inklusive planering, design, utveckling, testning och lansering. Vi säkerställer kvalitet i varje steg utan att stressa processen."
+      },
+      {
+        "id": 4,
+        "question": "Vem Behöver WordPress-utvecklingslösningar Mest?",
+        "answer": "Företag av alla storlekar drar nytta av professionell WordPress-utveckling, särskilt startups, småföretag, bloggare, e-handelsvarumärken och företag som söker ett lätthanterligt CMS. Om du behöver en skalbar, flexibel webbplats är WordPress det ideala valet."
+      },
+      {
+        "id": 5,
+        "question": "Kan Ni Migrera Min Befintliga Webbplats Till WordPress?",
+        "answer": "Ja, vi är specialiserade på WordPress-migreringstjänster. Vi överför säkert din befintliga webbplats till WordPress utan att förlora innehåll, SEO-rankningar eller funktionalitet. Vårt team hanterar hela migreringsprocessen inklusive dataöverföring, URL-mappning och testning efter migrering."
+      },
+      {
+        "id": 6,
+        "question": "Hur Säkerställer Ni Säkerhet För WordPress-webbplatser?",
+        "answer": "Vi implementerar omfattande WordPress-säkerhetsåtgärder inklusive SSL-certifikat, säkerhetsplugins, brandväggsskydd, regelbundna uppdateringar, stark autentisering och skanning av skadlig programvara. Vi erbjuder också löpande säkerhetsövervakning och underhåll för att hålla din webbplats skyddad."
+      },
+      {
+        "id": 7,
+        "question": "Kan Ni Designa Om Min Nuvarande WordPress-webbplats?",
+        "answer": "Ja, vi är specialiserade på WordPress-webbplatsomdesign. Vi analyserar din nuvarande webbplats, identifierar förbättringsområden och skapar en fräsch, modern design som stämmer överens med ditt varumärke och dina affärsmål samtidigt som ditt befintliga innehåll och SEO-värde bevaras."
+      }
+    ]
+  }
+}

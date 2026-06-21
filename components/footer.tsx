@@ -1,0 +1,185 @@
+import NextLink from 'next/link';
+import Image from 'next/image';
+import { Link } from '@/i18n/routing';
+import { getTranslations } from 'next-intl/server';
+import {
+  Facebook,
+  Instagram,
+  Youtube,
+  Linkedin,
+} from 'lucide-react';
+
+export default async function Footer() {
+  const t = await getTranslations('footer');
+  const currentYear = new Date().getFullYear();
+
+  const linkClass =
+    'text-[13px] font-normal leading-[2.1] text-[#94a3b8] transition-colors hover:text-white';
+  const headingClass =
+    'mb-4 text-[14px] font-semibold tracking-wide text-white';
+
+  return (
+    <footer className="relative mt-auto w-full overflow-hidden bg-[#0f1629]">
+      <h2 className="sr-only">{t('companyName')} footer navigation</h2>
+
+      {/* Decorative arc */}
+      <div
+        className="pointer-events-none absolute -bottom-[280px] -right-[140px] hidden h-[520px] w-[520px] rounded-full border border-[#1e2a45] lg:block"
+        aria-hidden="true"
+      />
+      <div
+        className="pointer-events-none absolute -bottom-[340px] -right-[170px] hidden h-[640px] w-[640px] rounded-full border border-[#1e2a45]/60 lg:block"
+        aria-hidden="true"
+      />
+
+      {/* Main content */}
+      <div className="relative z-10 mx-auto max-w-[1260px] px-6 pb-6 pt-14 sm:px-8 md:pt-16 lg:px-10">
+        <div className="flex flex-col gap-10 md:flex-row md:gap-8 lg:gap-0">
+          {/* Logo column */}
+          <div className="shrink-0 md:w-[200px] lg:w-[240px]">
+            <Link href="/">
+              <Image
+                src="/assets/images/logo-white.svg"
+                alt="Webbly Media Logo"
+                width={177}
+                height={32}
+                className="h-auto w-[150px] md:w-[170px]"
+              />
+            </Link>
+          </div>
+
+          {/* Links grid */}
+          <div className="grid flex-1 grid-cols-2 gap-8 sm:grid-cols-2 md:grid-cols-4 md:gap-6 lg:gap-10">
+            {/* Products */}
+            <div>
+              <h3 className={headingClass}>{t('products')}</h3>
+              <ul>
+                {[
+                  { href: 'https://webblyhosting.com/', label: t('domainHosting'), external: true },
+                  { href: '/blogs', label: t('pressReleases') },
+                  { href: '/about-us', label: t('environment') },
+                  { href: '/pay-it-forward', label: t('jobs') },
+                  { href: '/privacy-policy', label: t('privacyPolicy') },
+                  { href: '/contact', label: t('contactUsLink') },
+                ].map((item) => (
+                  <li key={item.href}>
+                    {'external' in item && item.external ? (
+                      <NextLink
+                        href={item.href}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className={linkClass}
+                      >
+                        {item.label}
+                      </NextLink>
+                    ) : (
+                      <Link href={item.href} className={linkClass}>
+                        {item.label}
+                      </Link>
+                    )}
+                  </li>
+                ))}
+              </ul>
+            </div>
+
+            {/* Our Services */}
+            <div>
+              <h3 className={headingClass}>{t('ourServices')}</h3>
+              <ul>
+                {[
+                  { href: '/services/web-development', label: t('webDevelopment') },
+                  { href: '/services/digital-marketing-services', label: t('digitalMarketing') },
+                  { href: '/services/social-media-marketing-services', label: t('socialMediaManagement') },
+                ].map((item) => (
+                  <li key={item.href}>
+                    <Link href={item.href} className={linkClass}>
+                      {item.label}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+
+            {/* Contact Us */}
+            <div>
+              <h3 className={headingClass}>{t('contactUs')}</h3>
+              <ul>
+                {t('phone') && (
+                  <li className="flex items-baseline gap-2">
+                    <span className="whitespace-nowrap text-[13px] font-normal text-[#94a3b8]">
+                      {t('phoneLabel')}
+                    </span>
+                    <NextLink
+                      href={`tel:${t('phone')}`}
+                      className={linkClass}
+                    >
+                      {t('phone')}
+                    </NextLink>
+                  </li>
+                )}
+                {t('email') && (
+                  <li className="flex items-baseline gap-2">
+                    <span className="whitespace-nowrap text-[13px] font-normal text-[#94a3b8]">
+                      {t('emailLabel')}
+                    </span>
+                    <NextLink
+                      href={`mailto:${t('email')}`}
+                      className={linkClass}
+                    >
+                      {t('email')}
+                    </NextLink>
+                  </li>
+                )}
+              </ul>
+            </div>
+
+            {/* Social */}
+            <div>
+              <h3 className={headingClass}>{t('social')}</h3>
+              <div className="flex items-center gap-3">
+                {[
+                  { href: 'https://facebook.com', icon: Facebook, label: 'Facebook' },
+                  { href: 'https://instagram.com', icon: Instagram, label: 'Instagram' },
+                  {
+                    href: 'https://x.com',
+                    label: 'X',
+                    customIcon: (
+                      <svg viewBox="0 0 24 24" className="h-[14px] w-[14px] fill-current">
+                        <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
+                      </svg>
+                    ),
+                  },
+                  { href: 'https://youtube.com', icon: Youtube, label: 'YouTube' },
+                  { href: 'https://linkedin.com', icon: Linkedin, label: 'LinkedIn' },
+                ].map((item) => (
+                  <NextLink
+                    key={item.label}
+                    href={item.href}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="flex h-8 w-8 items-center justify-center rounded-full bg-[#1e2a45] text-[#94a3b8] transition-colors hover:bg-[#2a3a5c] hover:text-white"
+                    aria-label={item.label}
+                  >
+                    {'customIcon' in item ? (
+                      item.customIcon
+                    ) : (
+                      <item.icon className="h-[14px] w-[14px]" />
+                    )}
+                  </NextLink>
+                ))}
+              </div>
+            </div>
+          </div>
+        </div>
+
+        {/* Divider */}
+        <div className="mt-12 border-t border-[#1e2a45]" />
+
+        {/* Copyright */}
+        <p className="mt-6 text-center text-[13px] font-normal text-[#94a3b8]/70">
+          &copy; {currentYear} {t('companyName')} | {t('copyright')}
+        </p>
+      </div>
+    </footer>
+  );
+}

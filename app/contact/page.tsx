@@ -1,0 +1,241 @@
+'use client';
+
+import Image from '@/components/common/SeoImage';
+import { motion } from 'framer-motion';
+import ContactSection from '@/components/contactSection';
+import LandingFaq from '@/components/landingFaq';
+import ScrollReveal from '@/components/common/ScrollReveal';
+import {
+  MapPin,
+  Phone,
+  Mail,
+  Clock,
+  ArrowDown,
+} from 'lucide-react';
+import { Button } from '@/components/ui/button';
+import { scrollToContact } from '@/lib/scrollToContact';
+import { useMessages } from 'next-intl';
+
+const easeOut = [0.22, 1, 0.36, 1] as const;
+
+const defaultHero = {
+  badge: 'Get In Touch',
+  title: "Let's Build Something",
+  titleHighlight: 'Great Together',
+  description: "Have a project in mind or want to learn how Webbly Media can grow your brand? Reach out — we'd love to hear from you.",
+  buttonText: 'Send Us a Message',
+};
+
+const defaultHighlights = [
+  { title: 'Email Us', description: 'Drop us a line anytime', value: 'Webblymedia@gmail.se' },
+  { title: 'Call Us', description: 'Speak with our team', value: '+1-800-123-4567' },
+  { title: 'Visit Us', description: 'Come say hello', value: '123 Digital Avenue, Tech City, 10011' },
+  { title: 'Business Hours', description: 'We are available', value: 'Mon – Fri: 9 AM – 6 PM' },
+];
+
+const highlightMeta = [
+  { icon: Mail, href: 'mailto:Webblymedia@gmail.se' },
+  { icon: Phone, href: 'tel:+18001234567' },
+  { icon: MapPin, href: null },
+  { icon: Clock, href: null },
+];
+
+function useContactContent() {
+  let messages: Record<string, any> | null = null;
+  try {
+    messages = useMessages() as Record<string, any>;
+  } catch {
+    messages = null;
+  }
+  const t = messages?.contact as Record<string, any> | undefined;
+  const hero = { ...defaultHero, ...t?.hero };
+  const highlights = (t?.highlights ?? defaultHighlights).map((h: any, i: number) => ({
+    ...h,
+    icon: highlightMeta[i]?.icon ?? Mail,
+    href: highlightMeta[i]?.href ?? null,
+  }));
+  return { hero, highlights };
+}
+
+export default function ContactPage() {
+  const { hero, highlights } = useContactContent();
+  return (
+    <div className="bg-[#F2F3F6]">
+      {/* Dark Hero Section */}
+      <motion.section
+        className="relative overflow-hidden bg-[#06010E]"
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ duration: 0.55, ease: easeOut }}
+      >
+        {/* Background decorative asset */}
+        <Image
+          src="/assets/images/top-assets.png"
+          alt=""
+          width={500}
+          height={500}
+          className="pointer-events-none absolute top-[-100px] right-1/2 z-0 lg:left-[-130px] lg:right-auto"
+          style={{ objectFit: 'contain', maxHeight: '120%' }}
+          aria-hidden="true"
+        />
+
+        {/* Purple radial glow */}
+        <div
+          className="pointer-events-none absolute left-1/2 top-[30%] z-0 h-[500px] w-[700px] -translate-x-1/2 -translate-y-1/2 rounded-full opacity-[0.12]"
+          style={{
+            background: 'radial-gradient(circle, #8C52FF 0%, transparent 70%)',
+          }}
+        />
+
+        <div className="container relative z-10 mx-auto px-4 pb-20 pt-16 sm:px-6 lg:px-10 lg:pb-28 lg:pt-24">
+          {/* Top label */}
+          <motion.div
+            className="flex justify-center"
+            initial={{ y: 14, opacity: 0 }}
+            animate={{ y: 0, opacity: 1 }}
+            transition={{ delay: 0.08, duration: 0.5, ease: easeOut }}
+          >
+            <span
+              className="inline-flex items-center gap-2 rounded-full border border-[#8C52FF]/30 bg-[#8C52FF]/10 px-5 py-2 text-xs font-semibold uppercase tracking-[0.2em] text-[#C4A0FF]"
+              style={{ fontFamily: 'var(--font-poppins)' }}
+            >
+              <span className="inline-block h-1.5 w-1.5 rounded-full bg-[#8C52FF]" />
+              {hero.badge}
+            </span>
+          </motion.div>
+
+          {/* Headline */}
+          <motion.h1
+            className="mx-auto mt-8 max-w-4xl text-center font-bold text-white"
+            style={{
+              fontSize: 'clamp(2.25rem, 6vw, 3.75rem)',
+              lineHeight: '1.1',
+              fontFamily: 'var(--font-poppins)',
+            }}
+            initial={{ y: 30, opacity: 0 }}
+            animate={{ y: 0, opacity: 1 }}
+            transition={{ delay: 0.16, duration: 0.7, ease: easeOut }}
+          >
+            {hero.title}{' '}
+            <span className="bg-gradient-to-r from-[#8C52FF] to-[#C084FC] bg-clip-text text-transparent">
+              {hero.titleHighlight}
+            </span>
+          </motion.h1>
+
+          {/* Description */}
+          <motion.p
+            className="mx-auto mt-6 max-w-xl text-center leading-relaxed text-[#A0A3B1]"
+            style={{
+              fontSize: 'clamp(0.95rem, 2vw, 1.125rem)',
+              fontFamily: 'var(--font-poppins)',
+            }}
+            initial={{ y: 20, opacity: 0 }}
+            animate={{ y: 0, opacity: 1 }}
+            transition={{ delay: 0.26, duration: 0.55, ease: easeOut }}
+          >
+            {hero.description}
+          </motion.p>
+
+          {/* CTA Button */}
+          <motion.div
+            className="mt-8 flex justify-center"
+            initial={{ y: 14, scale: 0.97, opacity: 0 }}
+            animate={{ y: 0, scale: 1, opacity: 1 }}
+            transition={{ delay: 0.34, duration: 0.5, ease: easeOut }}
+          >
+            <Button
+              onClick={scrollToContact}
+              className="group h-auto bg-[#8C52FF] px-8 w-[240px] py-4 text-base font-semibold text-white transition-all hover:bg-[#7941E6] hover:shadow-[0_0_30px_rgba(140,82,255,0.4)]"
+              style={{ fontFamily: 'var(--font-poppins)' }}
+            >
+              {hero.buttonText}
+              <ArrowDown className="ml-2 h-4 w-4 transition-transform group-hover:translate-y-0.5" />
+            </Button>
+          </motion.div>
+
+          {/* Contact Highlight Cards */}
+          <h2 className="sr-only">Contact options</h2>
+          <motion.div
+            className="mx-auto mt-16 grid max-w-5xl grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-4"
+            initial={{ y: 30, opacity: 0 }}
+            animate={{ y: 0, opacity: 1 }}
+            transition={{ delay: 0.44, duration: 0.65, ease: easeOut }}
+          >
+            {highlights.map((item: any, idx: number) => (
+              <motion.div
+                key={item.title}
+                className="group relative flex flex-col items-center gap-4 rounded-2xl border border-white/[0.07] bg-gradient-to-b from-white/[0.06] to-white/[0.02] px-6 py-8 text-center transition-all duration-300 hover:-translate-y-1 hover:border-[#8C52FF]/30 hover:shadow-[0_8px_32px_rgba(140,82,255,0.12)]"
+                initial={{ y: 20, opacity: 0 }}
+                animate={{ y: 0, opacity: 1 }}
+                transition={{ delay: 0.5 + idx * 0.08, duration: 0.5, ease: easeOut }}
+              >
+                {/* Icon */}
+                <div className="flex h-14 w-14 items-center justify-center rounded-xl bg-[#8C52FF]/15 ring-1 ring-[#8C52FF]/20 transition-all duration-300 group-hover:bg-[#8C52FF]/25 group-hover:ring-[#8C52FF]/40">
+                  <item.icon className="h-6 w-6 text-[#8C52FF] transition-colors group-hover:text-[#A875FF]" />
+                </div>
+
+                {/* Title */}
+                <h3
+                  className="text-[15px] font-semibold text-white"
+                  style={{ fontFamily: 'var(--font-poppins)' }}
+                >
+                  {item.title}
+                </h3>
+
+                {/* Description */}
+                <p
+                  className="-mt-2 text-xs tracking-wide text-[#667085]"
+                  style={{ fontFamily: 'var(--font-poppins)' }}
+                >
+                  {item.description}
+                </p>
+
+                {/* Value */}
+                {item.href ? (
+                  <a
+                    href={item.href}
+                    className="text-sm font-medium leading-relaxed text-[#C4A0FF] transition-colors hover:text-[#8C52FF]"
+                    style={{ fontFamily: 'var(--font-poppins)' }}
+                  >
+                    {item.value}
+                  </a>
+                ) : (
+                  <span
+                    className="text-sm leading-relaxed text-[#A0A3B1]"
+                    style={{ fontFamily: 'var(--font-poppins)' }}
+                  >
+                    {item.value}
+                  </span>
+                )}
+              </motion.div>
+            ))}
+          </motion.div>
+        </div>
+
+        {/* Bottom curve separator */}
+        <div className="absolute bottom-0 left-0 right-0 z-10">
+          <svg
+            viewBox="0 0 1440 60"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+            className="block w-full"
+            preserveAspectRatio="none"
+          >
+            <path
+              d="M0 60V30C240 5 480 0 720 10C960 20 1200 45 1440 30V60H0Z"
+              fill="#F2F3F6"
+            />
+          </svg>
+        </div>
+      </motion.section>
+
+      {/* Contact Form Section */}
+      <ScrollReveal>
+        <ContactSection contentPath="contactSection" />
+      </ScrollReveal>
+
+      {/* FAQ Section */}
+      <LandingFaq contentPath="landingFaq" />
+    </div>
+  );
+}

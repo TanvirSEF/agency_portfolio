@@ -1,0 +1,315 @@
+{
+  "serviceHero": {
+    "badge": "Web Development Services",
+    "headingMobile": ["Build Custom", "Websites That", "Drive Growth"],
+    "headingDesktop": "Build Custom Websites That Drive Growth",
+    "description": "Build fast, secure, and scalable websites with Webbly Media's professional web development services. We create custom websites that look great and work well on all devices.",
+    "buttonText": "Build Your Website",
+    "videoSrc": "/revision-images/web-development/ServiceHero/hero-video.mp4",
+    "splineUrl": "https://prod.spline.design/uEXBpVuveykV70S5/scene.splinecode"
+  },
+  "twoColumnSection": {
+    "badge": "An Reliable Web Development Company",
+    "previewText": "At Webbly Media, we understand global digital standards and help businesses build powerful, modern websites. As an award-winning website development agency, we create custom web applications that are fast, secure, and easy to grow.",
+    "previewTextTablet": "At Webbly Media, we build powerful, modern websites with global digital standards. We design custom web applications that are fast, secure, and built to grow.",
+    "previewTextMobile": "At Webbly Media, we build modern, high-performance websites that are secure, scalable, and made for growth.",
+    "previewTail": "Our skilled developers write clean code........",
+    "fullContent": [
+      "At Webbly Media, we understand global digital standards and help businesses build powerful, modern websites. As an award-winning website development agency, we create custom web applications that are fast, secure, and easy to scale.",
+      "Our skilled developers write clean, maintainable code and design each interface for real users. From planning and UX to launch and optimization, we focus on performance, security, and long-term growth so your business can move faster with confidence."
+    ],
+    "modalTitle": "How We Build High-Impact Digital Products",
+    "viewMoreText": "View More",
+    "imageSrc": "/revision-images/web-development/colleagues-selfie.webp",
+    "imageAlt": "Colleagues having a selfie in the office"
+  },
+  "marqueeSection": {
+    "logos": [
+      { "id": 1, "src": "/revision-images/web-development/marquee-logos/marquee-logo-1.svg", "alt": "Marquee brand logo 1", "width": 164 },
+      { "id": 2, "src": "/revision-images/web-development/marquee-logos/marquee-logo-2.svg", "alt": "Marquee brand logo 2", "width": 132 },
+      { "id": 3, "src": "/revision-images/web-development/marquee-logos/marquee-logo-3.svg", "alt": "Marquee brand logo 3", "width": 154 },
+      { "id": 4, "src": "/revision-images/web-development/marquee-logos/marquee-logo-4.svg", "alt": "Marquee brand logo 4", "width": 146 }
+    ],
+    "logoOrder": [1, 1, 2, 3, 1, 4]
+  },
+  "servicesShowcase": {
+    "badge": "Our Services",
+    "heading": "Our Web Development Services Include",
+    "description": "As a professional Web agency, we offer complete web development solutions for businesses of all types. Learn how we can help you have a functional and dynamic website for your business:",
+    "services": [
+      {
+        "title": "Custom Website Development",
+        "description": "Our custom web solutions focus on building websites from scratch.",
+        "image": "/revision-images/web-development/slide-images/slide-image-1.webp"
+      },
+      {
+        "title": "Web Application Development",
+        "description": "We develop powerful web applications that support complex business processes.",
+        "image": "/revision-images/web-development/slide-images/slide-image-2.webp"
+      },
+      {
+        "title": "E-commerce Development",
+        "description": "Our e-commerce development services help you sell online with confidence.",
+        "image": "/revision-images/web-development/slide-images/slide-image-3.webp"
+      },
+      {
+        "title": "Front-End Design & Development",
+        "description": "Front-end design and development affect how users interact with your website.",
+        "image": "/revision-images/web-development/slide-images/slide-image-4.webp"
+      },
+      {
+        "title": "Back-End Web Development",
+        "description": "Our back-end web development services power your website behind the scenes.",
+        "image": "/revision-images/web-development/slide-images/slide-image-5.webp"
+      },
+      {
+        "title": "Content Management Systems",
+        "description": "We develop easy-to-manage content management systems that give you full control over your website.",
+        "image": "/revision-images/web-development/slide-images/slide-image-6.webp"
+      },
+      {
+        "title": "API Development and Integration",
+        "description": "Our API development and integration services connect your website with third-party tools.",
+        "image": "/revision-images/web-development/slide-images/slide-image-7.webp"
+      },
+      {
+        "title": "Low-Code Development",
+        "description": "Low-code development helps businesses launch solutions faster with reduced complexity.",
+        "image": "/revision-images/web-development/slide-images/slide-image-8.webp"
+      },
+      {
+        "title": "Website Maintenance",
+        "description": "Our website maintenance services keep your site secure, up to date, and running smoothly.",
+        "image": "/revision-images/web-development/slide-images/slide-image-9.webp"
+      }
+    ]
+  },
+  "mediaFeaturesSection": {
+    "badge": "Things To Expect from Our Web Development Services",
+    "heading": "We Build Websites That You Must Like!",
+    "description": "At Webbly Media, we follow a clear and structured web development process to build websites that support real business growth. First, we learn about your goals and who will use your site.",
+    "videoOverlayTitle": "Redefining Digital Possibilities",
+    "videoOverlayDescription": "We design, build, and scale technology for the next generation.",
+    "videoSrc": "/revision-images/web-development/videos/webblyhosting-video.mp4",
+    "featureCards": [
+      {
+        "title": "Full Responsive Website",
+        "description": "We build fully responsive websites",
+        "icon": "/revision-images/web-development/icons/rocket-launch.svg"
+      },
+      {
+        "title": "Website Speed Optimization",
+        "description": "Website speed matters for users and search engines.",
+        "icon": "/revision-images/web-development/icons/CPU.svg"
+      },
+      {
+        "title": "SEO-friendly Website",
+        "description": "We build websites with SEO best practices.",
+        "icon": "/revision-images/web-development/icons/monitor.svg"
+      },
+      {
+        "title": "Clean and Fresh Dashboard",
+        "description": "We create clean and easy-to-use dashboards for smooth website.",
+        "icon": "/revision-images/web-development/icons/paint-tray.svg",
+        "wide": true
+      },
+      {
+        "title": "Advanced Security",
+        "description": "Security is a top priority in our web development process.",
+        "icon": "/revision-images/web-development/icons/Handshake.svg",
+        "wide": true
+      }
+    ]
+  },
+  "stackMarquee": {
+    "heading": "We Offer Custom Web Development Solutions",
+    "stacks": [
+      { "name": "PHP", "src": "/revision-images/web-development/icons/stacks/php.svg" },
+      { "name": "LARAVEL", "src": "/revision-images/web-development/icons/stacks/laravel.svg" },
+      { "name": "PYTHON", "src": "/revision-images/web-development/icons/stacks/python.svg" },
+      { "name": "DJANGO", "src": "/revision-images/web-development/icons/stacks/django.svg" },
+      { "name": "NEXT.JS", "src": "/revision-images/web-development/icons/stacks/next-js.svg" },
+      { "name": "MERN STACK", "src": "/revision-images/web-development/icons/stacks/mern-stack.svg" },
+      { "name": "REACT.JS", "src": "/revision-images/web-development/icons/stacks/react.svg" },
+      { "name": "TAILWIND CSS", "src": "/revision-images/web-development/icons/stacks/css.svg" },
+      { "name": "MYSQL", "src": "/revision-images/web-development/icons/stacks/mysql.svg" },
+      { "name": "MONGODB", "src": "/revision-images/web-development/icons/stacks/mongodb.svg" },
+      { "name": "WORDPRESS", "src": "/revision-images/web-development/icons/stacks/word-press.svg" },
+      { "name": "WIX", "src": "/revision-images/web-development/icons/stacks/wix.svg" },
+      { "name": "SHOPIFY", "src": "/revision-images/web-development/icons/stacks/shopify.svg" },
+      { "name": "SQUARESPACE", "src": "/revision-images/web-development/icons/stacks/squarespace.svg" }
+    ]
+  },
+  "helpBuildWeb": {
+    "badge": "Our Web Development Process",
+    "heading": "How We Help You as an Expert Web Development Agency",
+    "processCards": [
+      {
+        "title": "Analysis & Research",
+        "description": "We start by understanding your business, goals.",
+        "icon": "/revision-images/web-development/icons/HelpBuildWeb/content_paste_search.svg"
+      },
+      {
+        "title": "Modern UI/UX Design",
+        "description": "We design clean, modern, and user-friendly layouts.",
+        "icon": "/revision-images/web-development/icons/HelpBuildWeb/brush.svg"
+      },
+      {
+        "title": "Website Development",
+        "description": "After design approval, we turn ideas into a functional website.",
+        "icon": "/revision-images/web-development/icons/HelpBuildWeb/ad_group.svg"
+      },
+      {
+        "title": "Testing & Launch",
+        "description": "Before launch, we test everything carefully.",
+        "icon": "/revision-images/web-development/icons/HelpBuildWeb/bug_report.svg"
+      }
+    ]
+  },
+  "webAgencyWhyChooseUs": {
+    "badge": "Things To Expect from Our Web Development Services",
+    "headingLine1": "Why Choose Us As Your",
+    "headingLine2": "Web Agency",
+    "description": "At Webbly Media, we don't just build websites; we create reliable digital platforms that support long-term business growth and success. Our expert developers combine strategy, clean code, and modern design to deliver websites that perform and scale with confidence.",
+    "videoSrc": "/revision-images/web-development/videos/webblyhosting-video.mp4",
+    "experienceTitle": "Experience we've\nachieved",
+    "awardItems": [
+      "7+ Years of Experienceest",
+      "5-Star Rated Web Solutions",
+      "Clear Communication & 24/7 Support",
+      "Client Satisfaction Commitment"
+    ],
+    "conversionValue": "41%",
+    "conversionLabel": "Conversion\nGrowth",
+    "conversionDescription": "We seamlessly integrate data insights into the design process, ensuring your web UX/UI is just virtually appealing but strategically aligned with your business goals.",
+    "hostingTitle": "Don't Let Poor Hosting\nRuin Your High-Quality\nWebsite",
+    "hostingBackText": "Did you know that even a well-built website can fail because of poor hosting? Yes, many businesses invest in professional web development, but still face slow loading, downtime, and performance issues due to weak hosting infrastructure.\nWebblyHosting is our premium hosting service designed to support you.",
+    "hostingButtonText": "Discover WebblyHost",
+    "hostingImageSrc": "/revision-images/web-development/icons/WebAgencyWhyChooseUs/profile-pic.png",
+    "webblyIconSrc": "/revision-images/web-development/icons/WebAgencyWhyChooseUs/webbly-white-icon.svg",
+    "spiralBgSrc": "/revision-images/web-development/icons/WebAgencyWhyChooseUs/spairal.svg"
+  },
+  "stickySection": {
+    "headingLine1": "We Offer More Than Just",
+    "headingLine2": "Web Development Services",
+    "items": [
+      {
+        "number": "01",
+        "title": "Web Design",
+        "description": "Our web design services create clean, modern, and user-friendly interfaces with responsive layouts and smooth navigation.",
+        "tags": ["Execution", "Planning"]
+      },
+      {
+        "number": "02",
+        "title": "App Development",
+        "description": "Our app development services turn ideas into reliable mobile and web applications with smooth performance and great user experience.",
+        "tags": ["Execution", "Planning"]
+      },
+      {
+        "number": "03",
+        "title": "Digital Marketing",
+        "description": "Our digital marketing services help increase visibility, engagement, and leads through SEO, social media, and paid campaigns.",
+        "tags": ["Execution", "Planning"]
+      }
+    ],
+    "images": [
+      "/revision-images/web-development/StickySection/sticky-image-1.webp",
+      "/revision-images/web-development/StickySection/sticky-image-2.webp",
+      "/revision-images/web-development/StickySection/sticky-image-3.webp"
+    ]
+  },
+  "serviceKeyFacts": {
+    "headingLine1": "Key Facts to Know About",
+    "headingLine2": "Web Development",
+    "subtitle": "Pay-Per-Click (PPC) marketing helps businesses quickly increase visibility and drive sales. Here are some key benefits:",
+    "videoSrc": "/revision-images/web-development/videos/webblyhosting-video.mp4",
+    "keyFacts": [
+      {
+        "id": "types-of-website-development-services",
+        "title": "Types of Website Development Services",
+        "description": "Web development services help businesses build functional, fast, and user-friendly websites. These services are mainly divided into three types based on how a website is created and managed.",
+        "hasVideo": true
+      },
+      {
+        "id": "what-does-a-web-development-company-do",
+        "title": "What Does a Web Development Company Do?",
+        "description": "A web development company like Webbly Media helps businesses build powerful, reliable, and growth-focused websites. We take care of everything from planning and design to development, testing, and ongoing support.<br><br>Our aim is to build websites that look professional and perform well. We handle both front-end and back-end development to ensure your site is fast, secure, and scalable. We also ensure that your website is SEO-friendly, mobile-responsive, and optimized for performance.<br><br>Before launching, we carefully test every feature. After launch, we continue to provide maintenance, updates, and technical support. In short, we turn your ideas into effective digital solutions that help your business grow online with confidence.",
+        "hasVideo": false
+      },
+      {
+        "id": "why-hire-a-web-development-firm",
+        "title": "Why hire a Web Development Firm?",
+        "description": "When it comes to building a professional website, hiring an agency like Webbly Media ensures your project is handled properly. We are your partner in digital growth, creating websites that support your business goals.<br><br>Our team helps you plan, design, and develop your website efficiently. We organize every step, from layout and design to coding and testing, ensuring high-quality results while saving you time.<br><br>We also address the technical challenges many businesses face. Our developers manage everything from front-end and back-end work to database setup, security, and performance optimization. This way, you can focus on running your business while we build a seamless website for you.<br><br>In summary, hiring a web agency provides you with expertise, reliability, and ongoing support. With our help, your website will be optimized, scalable, and ready to help your brand grow online.",
+        "hasVideo": false
+      },
+      {
+        "id": "benefits-of-hiring-a-web-agency",
+        "title": "Benefits of Hiring a Web Agency",
+        "description": "Hiring a professional website development company offers clear benefits for businesses looking to create high-quality and scalable websites. Here are the main advantages:<br><br>Expert Team & Skills<br>Agencies have teams of designers, developers, and testers with different skills. This ensures your website is built efficiently and professionally.<br><br>Faster Delivery & Structured Process<br>With organized workflows and project management, agencies complete websites more quickly than individual freelancers while maintaining quality standards.<br><br>Custom & Scalable Solutions<br>Agencies create websites tailored to your business needs, unlike templates. Your site can grow and change as your business expands.<br><br>Better User Experience & Performance<br>Web development companies focus on responsive design, fast loading times, and smooth functionality to enhance user engagement and boost conversions.<br><br>Long-Term Support & Maintenance<br>Agencies provide ongoing updates, security, and technical support to keep your website running well.<br><br>Higher ROI & Reliability<br>A professionally built website attracts more users, leads, and sales over time, delivering lasting value.",
+        "hasVideo": false
+      },
+      {
+        "id": "how-custom-solutions-differ-from-templates",
+        "title": "How Custom Solutions Differ From Templates",
+        "description": "Custom websites are designed specifically for your business goals, brand, and user needs. While templates are faster and less expensive, they are generic and limited in features. Custom solutions give you full freedom in design, functionality, and performance. They can grow with your business and help create a unique identity. At Webbly Media, we create custom websites that improve user experience, increase conversions, and make your brand stand out online, unlike standard templates.",
+        "hasVideo": false
+      },
+      {
+        "id": "importance-of-responsive-website-design",
+        "title": "Importance of Responsive Website Design",
+        "description": "Responsive design makes sure your website looks good and works well on all devices, like desktops, tablets, and smartphones. It adapts its layout, images, and content to the device being used. This helps users have a better experience, reduces the chances they will leave the site, and increases their engagement. Having a responsive website is also important for SEO rankings, as search engines favor mobile-friendly, well-organized sites. With responsive design, your website can reach more users, keep them interested, and strengthen your online presence.",
+        "hasVideo": false
+      },
+      {
+        "id": "why-is-a-mobile-friendly-website-important",
+        "title": "Why is a Mobile-friendly Website Important?",
+        "description": "Most users now access websites via mobile devices. A mobile-friendly website loads fast, is easy to navigate, and delivers a smooth experience on small screens. Mobile optimization improves SEO, increases engagement, and boosts conversions. Slow or non-responsive websites can frustrate users and drive them away. By ensuring mobile-friendliness, your business stays competitive, provides a better user experience, and reaches a wider audience effectively.",
+        "hasVideo": false
+      }
+    ]
+  },
+  "getAQuote": {
+    "headingLine1": "Build High-Performance",
+    "headingLine2": "Websites With Webbly Media",
+    "description": "Whether you're a startup or an enterprise, we help you design, develop, and scale powerful digital products that drive growth.",
+    "buttonText": "GET A QUOTE",
+    "backgroundImage": "/revision-images/web-development/GetAQuote/CTA.webp",
+    "backgroundImageAlt": "Team collaborating on web development planning"
+  },
+  "revisionFaqSection": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "If you have questions about our web and digital marketing services, look at our FAQs. You can learn about our plans.",
+    "contactHeading": "Build High-\nPerformance Websites\nWith Webbly Media",
+    "email": "Webblymedia@gmail.se",
+    "phone": "+1-800-123-4567",
+    "askQuestionButton": "Asked A Questions",
+    "profileImage": "/revision-images/web-development/RevisionFaqSection/profile.png",
+    "faqs": [
+      {
+        "id": 1,
+        "question": "What Makes Webbly Media the Best Web and Digital Marketing Agency?",
+        "answer": "Webbly Media stands out for expert service, proven results, and dedicated support. Our creative team combines innovation, strategy, and technology to help businesses grow successfully online."
+      },
+      {
+        "id": 2,
+        "question": "Can Webbly Media Develop Custom Websites and Apps?",
+        "answer": "Yes, we specialize in building custom websites and applications tailored to your business needs. Our development team creates scalable, secure, and high-performance solutions from scratch."
+      },
+      {
+        "id": 3,
+        "question": "Does Webbly Media Provide Tailored Digital Marketing Strategies?",
+        "answer": "Absolutely. We create personalized digital marketing strategies based on your industry, goals, and target audience to maximize your online presence and ROI."
+      },
+      {
+        "id": 4,
+        "question": "How Do You Work From Discovery To Project Launch?",
+        "answer": "We follow a structured process: discovery, planning, design, development, testing, and launch. Each phase includes client collaboration to ensure the final product meets your expectations."
+      },
+      {
+        "id": 5,
+        "question": "How Do You Ensure The Success of Marketing Campaigns?",
+        "answer": "We use data-driven strategies, continuous monitoring, A/B testing, and performance optimization to ensure every marketing campaign delivers measurable results."
+      }
+    ]
+  }
+}

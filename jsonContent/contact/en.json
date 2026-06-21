@@ -1,0 +1,58 @@
+{
+  "pageMetadata": {
+    "routeSlugs": [
+      {
+        "path": "contact",
+        "slug": "contact"
+      }
+    ],
+    "routeMetadata": [
+      {
+        "path": "contact",
+        "title": "Contact Webbly Media | Start Your Project"
+      }
+    ]
+  },
+  "hero": {
+    "badge": "Get In Touch",
+    "title": "Let's Build Something",
+    "titleHighlight": "Great Together",
+    "description": "Have a project in mind or want to learn how Webbly Media can grow your brand? Reach out — we'd love to hear from you.",
+    "buttonText": "Send Us a Message"
+  },
+  "highlights": [
+    {
+      "title": "Email Us",
+      "description": "Drop us a line anytime",
+      "value": "support@webblymedia.com"
+    },
+    {
+      "title": "Schedule a call",
+      "description": "Speak with our team",
+      "value": ""
+    },
+    {
+      "title": "Visit Us",
+      "description": "Come say hello",
+      "value": "Calle bruselas 3, 29649 Mijas, Spain"
+    },
+    {
+      "title": "Business Hours",
+      "description": "We are available",
+      "value": "Mon – Fri: 10 AM – 21 PM"
+    }
+  ],
+  "form": {
+    "nameLabel": "Name",
+    "firstNamePlaceholder": "First Name",
+    "lastNamePlaceholder": "Last Name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "your.email@example.com",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Your message here...",
+    "submitButton": "Submit",
+    "sendingButton": "Sending...",
+    "successMessage": "Message sent successfully!",
+    "errorMessage": "Failed to send. Please try again."
+  }
+}

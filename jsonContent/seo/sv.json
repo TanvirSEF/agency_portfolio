@@ -1,0 +1,404 @@
+{
+  "pageMetadata": {
+    "routeSlugs": [
+      {
+        "path": "seo",
+        "slug": "seo"
+      },
+      {
+        "path": "services/seo",
+        "slug": "tjanster/seo"
+      }
+    ],
+    "routeMetadata": [
+      {
+        "path": "seo",
+        "title": "SEO-tjanster for tillvaxt | Webbly Media"
+      },
+      {
+        "path": "services/seo",
+        "title": "SEO-byra tjanster | Webbly Media"
+      }
+    ]
+  },
+  "otherHero": {
+    "pageName": "Sökmotoroptimering",
+    "title": "Öka organisk trafik med 40%+",
+    "description": "Förbättra din söksynlighet, överträffa konkurrenter och driv konsekvent organisk trafik med professionella SEO-tjänster från Webbly Media. Oavsett om du vill ha högre Google-rankningar, fler kvalificerade webbplatsbesökare eller starkare varumärkesauktoritet, är vår expert SEO-byrå redo att hjälpa dig växa. Få ditt anpassade strategiförslag idag och se hur snabbt vi kan hjälpa dig klättra i rankningarna!",
+    "buttonText": "Boka ett samtal",
+    "mainImage": {
+      "src": "/assets/images/seo-hero-img.jpg",
+      "alt": "SEO hero image",
+      "title": "SEO Hero Img",
+      "caption": "Bildresurs for seo hero img i sektionen images.",
+      "description": "Visuell resurs som anvands pa Webbly Medias webbplats for images-innehall."
+    },
+    "floatingImageSrc": "/assets/images/seo-hero-float.svg",
+    "floatingImageAlt": "Side blur decoration",
+    "floatingImageTitle": "SEO Hero Flytande Ikon",
+    "floatingImageCaption": "Flytande ikon som anvands i SEO-hero.",
+    "floatingImageDescription": "Dekorativ SEO-symbol i hero-bilden."
+  },
+  "companyIntro": {
+    "brandName": "Webbly Media",
+    "title": "En erkänd SEO-byrå i branschen",
+    "description": "På Webbly Media förstår vi den globala marknaden och stärker företag med banbrytande SEO-lösningar. Som en branschledande SEO-byrå levererar vi resultat som förbättrar rankningar och konverteringar. Vi värdesätter öppen kommunikation och löpande support, så att du kan få en smidig och tillfredsställande upplevelse. Våra certifierade SEO-experter fokuserar på smarta strategier och white hat-metoder för att förbättra din webbplats ranking och driva mer organisk trafik. Våra kunder stannar hos oss eftersom vi levererar de resultat de vill ha. Lita på oss för att ta dina SEO-rankningar till nästa nivå. Kontakta oss idag och få en gratis konsultation!",
+    "buttonText": "Läs mer om oss",
+    "image1": "/assets/images/fist-trust.jpg",
+    "image1Seo": {
+      "altText": "Trust and partnership",
+      "title": "Fist Trust",
+      "caption": "Bildresurs for fist trust i sektionen images.",
+      "description": "Visuell resurs som anvands pa Webbly Medias webbplats for images-innehall."
+    },
+    "image2": "/assets/images/star-award.jpg",
+    "image2Seo": {
+      "altText": "Award and recognition",
+      "title": "Star Award",
+      "caption": "Bildresurs for star award i sektionen images.",
+      "description": "Visuell resurs som anvands pa Webbly Medias webbplats for images-innehall."
+    }
+  },
+  "contentImageSplit": {
+    "title": "Sluta förlita dig på föråldrade SEO-strategier som inte fungerar!",
+    "paragraphs": [
+      "Misslyckas dina SEO-insatser med att ge trafik, leads eller rankningar? Sluta förlita dig på gamla tekniker som Google inte längre belönar. De skadar bara din tillväxt och slösar din investering.",
+      "På Webbly Media använder vi moderna, datadrivna SEO-strategier som faktiskt levererar resultat. Vi analyserar dina konkurrenter, åtgärdar tekniska problem, optimerar din webbplatsstruktur och skapar innehåll som lockar dina ideala kunder. Varje optimering vi gör är utformad för att förbättra din ranking, synlighet och konverteringar.",
+      "Vi bygger högpresterande SEO-kampanjer stödda av verklig forskning och avancerad analys. Våra experter spårar nyckelordspositioner, övervakar webbplatsens hälsa och finjusterar din strategi för kontinuerlig förbättring. Ingen gissning, bara beprövade metoder som driver ditt företag framåt.",
+      "Redo att ranka högre och växa snabbare? Kontakta oss idag och låt Webbly Media förvandla din webbplats till en kraftfull källa för organisk trafik och intäkter!"
+    ],
+    "image": {
+      "src": "/assets/images/seo-question-image.png",
+      "alt": "Content Image Split",
+      "title": "SEO Question Image",
+      "caption": "Bildresurs for seo question image i sektionen images.",
+      "description": "Visuell resurs som anvands pa Webbly Medias webbplats for images-innehall."
+    }
+  },
+  "digitalServices": {
+    "mainTitle": "Webbly Medias SEO-tjänster inkluderar",
+    "mainDescription": "Som en professionell SEO-byrå erbjuder vi kompletta SEO-lösningar för alla typer av företag. Läs om hur vi kan hjälpa dig att sticka ut i sökmotorer."
+  },
+  "serviceCards1": [
+    {
+      "title": "Lokal SEO",
+      "description": "Våra lokala SEO-tjänster hjälper ditt företag att nå kunder i närheten. Vi optimerar din Google Business-profil, lokala citeringar och NAP-konsistens för att attrahera kunder i ditt område. Från platsbaserad nyckelordsoptimering till lokala bakåtlänkar och recensionshantering gör våra SEO-experter allt för att ranka ditt företag i Google Maps och lokala sökningar."
+    },
+    {
+      "title": "Nationell SEO",
+      "description": "Om du vill nå människor över hela landet är vår nationella SEO-tjänst en utmärkt lösning. Vi gör att din webbplats rankar högre för populära nyckelord, så att du kan nå en större publik. Vi stärker din webbplats med stark on-page-optimering, teknisk SEO och auktoritativ länkbyggning."
+    },
+    {
+      "title": "Flerspråkig & Internationell SEO",
+      "description": "För att expandera globalt behöver du flerspråkiga eller internationella SEO-metoder. Vi optimerar hreflang-taggar och skapar lokaliserat innehåll för olika länder. Vårt SEO-team arbetar för att säkerställa att din webbplats rankar bra i sökmotorer världen över."
+    }
+  ],
+  "serviceCards2": [
+    {
+      "title": "Startup & Företags-SEO",
+      "description": "Oavsett om du driver en liten startup eller ett stort företag skapar vi SEO-strategier som passar dina behov. För startups fokuserar vi på synlighet och leadsgenerering. För större företag prioriterar vi automation, skalbarhet och detaljerad analys."
+    },
+    {
+      "title": "E-handel SEO",
+      "description": "Våra e-handel SEO-tjänster hjälper nätbutiker att bli mer synliga och öka försäljningen. Vi optimerar produktsidor, kategoristrukturer, schema-markup och interna länkar för att göra det enklare för sökmotorer att genomsöka din webbplats."
+    },
+    {
+      "title": "B2B SaaS SEO",
+      "description": "B2B SaaS SEO kräver en datadriven strategi. Vi optimerar din webbplats för relevanta branschnyckelord, förbättrar UX för konverteringar och bygger tematisk auktoritet genom högkvalitativt innehåll."
+    }
+  ],
+  "cardSlider": {
+    "title": "Hur vi hjälper dig som ett expert SEO-företag",
+    "description": "När vi pratar om sökmotoroptimering (SEO) fokuserar vi främst på Google SEO eftersom över 89% av onlineanvändare använder Google för sina sökningar. Innan vi börjar analyserar vi ditt företag och din webbplats noggrant. Vi identifierar dina styrkor, svagheter och din marknadsposition. Baserat på dessa insikter bygger vi en datadriven SEO-strategi för att ranka din webbplats för rätt nyckelord.",
+    "cards": [
+      {
+        "title": "SEO-GRANSKNING & ÅTGÄRD",
+        "description": "Vi börjar med att göra en komplett SEO-granskning av din webbplats. Vi kontrollerar tekniska problem, brutna länkar, sidhastighet och on-page-fel som kan skada din SEO. Sedan åtgärdar vi dessa problem för att skapa en stark grund för bättre rankningar.",
+        "image": "/slide-card/audit-fix.svg",
+        "imageSeo": {
+          "altText": "Ikon for audit och atgarder",
+          "title": "Audit Atgard Ikon",
+          "caption": "Ikon som representerar audits och tekniska atgarder.",
+          "description": "Slide-kortsikon for audit och forbattringssteg."
+        }
+      },
+      {
+        "title": "TEKNISK SEO-IMPLEMENTERING",
+        "description": "Efter att ha åtgärdat grunderna förbättrar vi din webbplats tekniska SEO. Det innebär att vi förbättrar din webbplats struktur, XML-sitemap, robots.txt och schema-markup för att hjälpa sökmotorer att indexera din webbplats bättre.",
+        "image": "/slide-card/seo-implementation.svg",
+        "imageSeo": {
+          "altText": "Ikon for SEO-implementering",
+          "title": "SEO Implementering Ikon",
+          "caption": "Ikon som representerar SEO-installation och implementation.",
+          "description": "Slide-kortsikon for genomforande av SEO."
+        }
+      },
+      {
+        "title": "MOBIL SEO-TJÄNSTER",
+        "description": "Eftersom de flesta användare söker från mobila enheter är mobil SEO avgörande. Vi optimerar din webbplats för mobile-first-indexering, responsiv design och sidladdningshastighet.",
+        "image": "/slide-card/mobile-development.svg",
+        "imageSeo": {
+          "altText": "Ikon for mobilutveckling",
+          "title": "Mobilutveckling Ikon",
+          "caption": "Ikon som representerar mobilforst utveckling.",
+          "description": "Slide-kortsikon for mobilutvecklingsservice."
+        }
+      },
+      {
+        "title": "NYCKELORDSFORSKNING & MAPPNING",
+        "description": "Vi genomför grundlig nyckelordsforskning för att ta reda på vad din publik letar efter. Sedan skapar vi en nyckelordsmappningsplan för att matcha varje webbsida med rätt nyckelord och användarbehov.",
+        "image": "/slide-card/research.svg",
+        "imageSeo": {
+          "altText": "Ikon for research",
+          "title": "Research Ikon",
+          "caption": "Ikon som representerar research och discovery.",
+          "description": "Slide-kortsikon for researchsteg."
+        }
+      },
+      {
+        "title": "KONKURRENTANALYS",
+        "description": "Vi analyserar dina främsta konkurrenter för att se vad som gör dem framgångsrika. Detta inkluderar att titta på deras nyckelord, bakåtlänkar och hur deras innehåll presterar.",
+        "image": "/slide-card/competitor-analysis.svg",
+        "imageSeo": {
+          "altText": "Ikon for konkurrentanalys i slide",
+          "title": "Konkurrentanalys Slide Ikon",
+          "caption": "Ikon for konkurrentanalys i process-slides.",
+          "description": "Slide-kortsikon for konkurrenssteg."
+        }
+      },
+      {
+        "title": "INNEHÅLLSPLANERING & SKRIVANDE",
+        "description": "Innehåll är kärnan i SEO. Vi skapar en tydlig innehållsplan baserad på nyckelordsforskning och publikens avsikt. Våra expertskribenter producerar SEO-optimerade artiklar, bloggar och landningssidor som lockar besökare och förbättrar din sökranking.",
+        "image": "/slide-card/idea.svg",
+        "imageSeo": {
+          "altText": "Ikon for ide och strategi",
+          "title": "Ide Ikon",
+          "caption": "Ikon som representerar idearbete och strategiplanering.",
+          "description": "Slide-kortsikon for planering och idefas."
+        }
+      },
+      {
+        "title": "On-page Optimering",
+        "description": "On-page SEO hjälper sökmotorer att förstå ditt innehåll tydligt. Vi optimerar metatitlar, beskrivningar, rubriker, URL:er och intern länkning.",
+        "image": "/slide-card/optimization.svg",
+        "imageSeo": {
+          "altText": "Ikon for optimering",
+          "title": "Optimering Ikon",
+          "caption": "Ikon som representerar optimering och forbattring.",
+          "description": "Slide-kortsikon for optimeringsfaser."
+        }
+      },
+      {
+        "title": "Länkbyggnad / Off-page SEO",
+        "description": "Slutligen bygger vi högkvalitativa bakåtlänkar genom etiska länkbyggnadsmetoder. Våra off-page SEO-strategier inkluderar gästinlägg, outreach och digital PR för att förbättra din domänauktoritet.",
+        "image": "/slide-card/off-page-seo.svg",
+        "imageSeo": {
+          "altText": "Bild for Off Page SEO",
+          "title": "Off Page SEO",
+          "caption": "Bildresurs for off page seo i sektionen slide card.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for slide card-innehall."
+        }
+      }
+    ]
+  },
+  "workProcess": {
+    "title": "Vår SEO-arbetsprocess",
+    "description": "På Webbly Media skapar vi en tydlig och enkel SEO-plan för att hjälpa ditt företag att växa online över tid. Vi börjar med att förstå dina affärsmål, sedan förbättrar vi din webbplats på alla möjliga sätt. Vår steg-för-steg-process håller saker tydliga och effektiva.",
+    "steps": [
+      {
+        "title": "Webbplatskontroll och analys",
+        "description": "Vi börjar med att kontrollera din webbplats nuvarande SEO-hälsa, struktur och nyckelordspositioner. Vi använder SEO-verktyg för att hitta luckor, fel och förbättringsområden."
+      },
+      {
+        "title": "SEO-strategiskapande",
+        "description": "Baserat på vår analys skapar vi en anpassad SEO-strategi skräddarsydd för dina affärsmål. Detta inkluderar nyckelordsforskning, innehållsplanering, tekniska SEO-förbättringar och en färdplan för att uppnå bättre sökrankningar."
+      },
+      {
+        "title": "Implementering och optimering",
+        "description": "Vi implementerar SEO-strategin genom att optimera din webbplats on-page-element, förbättra webbplatshastighet, åtgärda tekniska problem och skapa högkvalitativt innehåll."
+      },
+      {
+        "title": "Regelbundna uppdateringar och rapportering",
+        "description": "Vi ger regelbundna uppdateringar om dina SEO-framsteg genom detaljerade månadsrapporter. Dessa rapporter visar nyckelordsrankningar, trafiktillväxt, konverteringsförbättringar och andra viktiga mätvärden."
+      },
+      {
+        "title": "Övervakning med GSC och GA4",
+        "description": "Vi övervakar kontinuerligt din webbplats prestanda med Google Search Console (GSC) och Google Analytics 4 (GA4). Detta hjälper oss att spåra sökvisningar, klickfrekvenser, användarbeteende och konverteringsdata."
+      }
+    ]
+  },
+  "benefits": {
+    "title": "Vilka är fördelarna med sökmotoroptimering?",
+    "subtitle": "Sökmotoroptimering erbjuder betydande fördelar för företag som vill ha långsiktig tillväxt, högre synlighet och kvalificerad trafik. Här är några viktiga fördelar:",
+    "benefits": [
+      {
+        "title": "Öka organisk synlighet",
+        "description": "SEO hjälper din webbplats att synas högre på Google när människor söker efter dina produkter eller tjänster. Genom att optimera ditt innehåll och rikta in dig på rätt nyckelord blir ditt företag lättare att hitta."
+      },
+      {
+        "title": "Driv högkvalitativ trafik",
+        "description": "SEO lockar besökare som redan söker efter det du erbjuder. Till skillnad från slumpmässig trafik eller kalla målgrupper har dessa användare verklig avsikt."
+      },
+      {
+        "title": "Bygg förtroende & Trovärdighet",
+        "description": "Webbplatser som rankar högt i sökmotorer ses ofta som mer pålitliga. Genom att använda stark SEO, som bra innehåll, tekniska förbättringar och kvalitativa bakåtlänkar, kan du bygga din auktoritet inom ditt område."
+      },
+      {
+        "title": "Generera fler leads & Konverteringar",
+        "description": "Eftersom SEO lockar motiverad och avsiktsdriven trafik ökar det naturligt leads och försäljning. Oavsett om du erbjuder tjänster eller säljer produkter attraherar din webbplats människor som är redo att agera."
+      },
+      {
+        "title": "Öka långsiktig ROI",
+        "description": "SEO är en av de mest kostnadseffektiva digitala marknadsföringskanalerna. Till skillnad från betalda annonser behöver du inte spendera pengar varje gång någon klickar. När din webbplats rankar bra fortsätter den att ge trafik och leads i månader eller till och med år."
+      }
+    ]
+  },
+  "marketingAgency": {
+    "title": "Varför behöver du professionella SEO-tjänster?",
+    "description": "På Webbly Media förstår vi kundbeteende, marknadstrender och det digitala landskapet. Som ett professionellt webb- och digitalt marknadsföringsföretag hanterar vi varje projekt med passion, precision och kreativitet. Vår tydliga kommunikation och support säkerställer en smidig, pålitlig och tillfredsställande upplevelse.",
+    "description2": "Våra professionella SEO-tjänster säkerställer alla dessa fördelar för ditt företag. Vi tittar på dina mål, åtgärdar eventuella tekniska problem och skapar effektiva SEO-planer som ger verkliga resultat. Våra SEO-experter ser till att ditt varumärke uppmärksammas av rätt publik.",
+    "image": {
+      "src": "/assets/images/seo-image.png",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 600px",
+      "alt": "Digital Marketing Services",
+      "title": "SEO Image",
+      "caption": "Bildresurs for seo image i sektionen images.",
+      "description": "Visuell resurs som anvands pa Webbly Medias webbplats for images-innehall."
+    },
+    "backgroundImage": "/assets/images/rectangle1.png",
+    "backgroundImageSeo": {
+      "altText": "Bild for Rectangle1",
+      "title": "Rectangle1",
+      "caption": "Bildresurs for rectangle1 i sektionen images.",
+      "description": "Visuell resurs som anvands pa Webbly Medias webbplats for images-innehall."
+    }
+  },
+  "testimonials": {
+    "title": "Vad våra SEO-kunder säger om oss",
+    "subtitle": "\"Vi tar hand om våra kunder som familj\"",
+    "testimonials": [
+      {
+        "text": "Deras marknadsföringsstrategi för sociala medier förnyade helt vår varumärkesimage. Vi har sett en 200% ökning av engagemanget och en betydande ökning av kvalificerade leads.",
+        "name": "Artful Dodger",
+        "title": "VD",
+        "company": "Innovate Solutions",
+        "avatar": "/assets/avatars/avatar-1.png",
+        "avatarSeo": {
+          "altText": "Bild for Avatar 1",
+          "title": "Avatar 1",
+          "caption": "Bildresurs for avatar 1 i sektionen avatars.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for avatars-innehall."
+        }
+      },
+      {
+        "text": "UX/UI-designen de levererade var exceptionell. Vår apps användarengagemang har ökat med 45% sedan omdesignen.",
+        "name": "Victoria Wotton",
+        "title": "Produktledare",
+        "company": "MobileFirst",
+        "avatar": "/assets/avatars/avatar-2.png",
+        "avatarSeo": {
+          "altText": "Bild for Avatar 2",
+          "title": "Avatar 2",
+          "caption": "Bildresurs for avatar 2 i sektionen avatars.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for avatars-innehall."
+        }
+      },
+      {
+        "text": "Att arbeta med detta team förvandlade hela vår digitala närvaro. Webbplatsen de designade ser inte bara fantastisk ut utan har också avsevärt förbättrat våra konverteringsgrader.",
+        "name": "Robert William",
+        "title": "Marknadsdirektör",
+        "company": "TechCorp",
+        "avatar": "/assets/avatars/avatar-3.png",
+        "avatarSeo": {
+          "altText": "Bild for Avatar 3",
+          "title": "Avatar 3",
+          "caption": "Bildresurs for avatar 3 i sektionen avatars.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for avatars-innehall."
+        }
+      }
+    ],
+    "quoteIcon": "/assets/icons/quote.png",
+    "quoteIconSeo": {
+      "altText": "Bild for Quote",
+      "title": "Quote",
+      "caption": "Bildresurs for quote i sektionen icons.",
+      "description": "Visuell resurs som anvands pa Webbly Medias webbplats for icons-innehall."
+    }
+  },
+  "caseStudies": {
+    "title": "Fallstudier som visar vår SEO-framgång",
+    "subtitle": "",
+    "description": "Som en topprankat SEO-firma tror vi att resultat talar högre än löften. Under de senaste sju åren har vi hjälpt många företag att förbättra sin onlinenärvaro med våra effektiva SEO-lösningar. Här är fallstudierna du kan utforska:",
+    "cases": [
+      {
+        "label": "Fall 1",
+        "projectName": "Prime Nest",
+        "description": "Användarcentrerad webbdesign för mobila hälsotjänster",
+        "image": "/assets/images/case-study1.png",
+        "imageSeo": {
+          "altText": "Bild for Case Study1",
+          "title": "Case Study1",
+          "caption": "Bildresurs for case study1 i sektionen images.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for images-innehall."
+        }
+      },
+      {
+        "label": "Fall 2",
+        "projectName": "Divine Home",
+        "description": "Varumärke & webbupplevelse för en allt-i-ett tjänstemarknadsplats",
+        "image": "/assets/images/case-study2.png",
+        "imageSeo": {
+          "altText": "Bild for Case Study2",
+          "title": "Case Study2",
+          "caption": "Bildresurs for case study2 i sektionen images.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for images-innehall."
+        }
+      },
+      {
+        "label": "Fall 3",
+        "projectName": "Kannom",
+        "description": "SaaS-applikationsdesign för plats- och recensionshantering",
+        "image": "/assets/images/case-study3.png",
+        "imageSeo": {
+          "altText": "Bild for Case Study3",
+          "title": "Case Study3",
+          "caption": "Bildresurs for case study3 i sektionen images.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for images-innehall."
+        }
+      }
+    ]
+  },
+  "additionalServices": {
+    "leftSection": {
+      "title": "Säg adjö till långsam hosting som dödar dina Google-rankningar",
+      "paragraphs": [
+        "Visste du att en långsam webbplats kan sänka dina Google-rankningar även om din SEO-strategi är stark? Ja, många företag investerar kraftigt i SEO men misslyckas med att se resultat helt enkelt för att deras hosting saktar ner webbplatsens prestanda.",
+        "Men vi vill inte att du ska stöta på samma problem. Därför byggde vi WebblyHost, en premiumhostinglösning skapad för att avsevärt öka din webbplats hastighet och stabilitet.",
+        "Med snabba laddningstider och hög drifttid hjälper WebblyHost din webbplats att fungera bra och hålla användare intresserade. Våra optimerade servrar, starka säkerhetsfunktioner och flexibla infrastruktur ger din webbplats den boost den behöver för att ranka högre och ge en smidig, pålitlig upplevelse för besökare."
+      ],
+      "buttonText": "UPPTÄCK WEBBLYHOST"
+    },
+    "rightSection": {
+      "title": "Vi erbjuder mer än bara SEO-tjänster",
+      "quote": "\"Förutom sökmotoroptimeringslösningar erbjuder vi alla andra digitala tjänster för att hjälpa dig växa online. Titta på dem nedan:\"",
+      "services": [
+        {
+          "title": "Digital marknadsföring",
+          "link": "/services/digital-marketing-services",
+          "description": "Våra digitala marknadsföringstjänster erbjuder varje lösning du behöver för att växa ditt företag systematiskt i alla typer av kanaler."
+        },
+        {
+          "title": "Marknadsföring i sociala medier",
+          "link": "/services/social-media-marketing-services",
+          "description": "Från engagemang till konverteringar hjälper våra marknadsföringstjänster för sociala medier dig att ansluta till din publik."
+        },
+        {
+          "title": "Google Ads",
+          "link": "/services/ppc-google-ads-management",
+          "description": "Om du vill ha omedelbar synlighet i Googles sökresultat är våra Google Ads-hanteringstjänster din bästa lösning."
+        }
+      ],
+      "buttonText": "FÅ EN GRATIS OFFERT"
+    }
+  }
+}

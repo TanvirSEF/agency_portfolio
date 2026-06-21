@@ -1,0 +1,219 @@
+{
+  "pageMetadata": {
+    "routeSlugs": [
+      {
+        "path": "terms-and-conditions",
+        "slug": "anvandarvillkor"
+      }
+    ],
+    "routeMetadata": [
+      {
+        "path": "terms-and-conditions",
+        "title": "Anvandarvillkor | Webbly Media"
+      }
+    ]
+  },
+  "header": {
+    "title": "Villkor",
+    "lastUpdated": "Senast uppdaterad: 10 januari 2026",
+    "welcome": {
+      "title": "Valkommen till Webbly Media",
+      "text": "Dessa villkor styr din tillgang till och anvandning av var webbplats, vara tjanster och vart innehall. Genom att besoka var webbplats eller anvanda vara tjanster godkanner du att folja och vara bunden av dessa villkor. Om du inte godkanner, anvand inte var webbplats eller vara tjanster."
+    }
+  },
+  "toc": [
+    {
+      "id": "about",
+      "label": "1. Om Webbly Media"
+    },
+    {
+      "id": "use-of-website",
+      "label": "2. Anvandning av var webbplats"
+    },
+    {
+      "id": "intellectual-property",
+      "label": "3. Immaterialrattsliga rattigheter"
+    },
+    {
+      "id": "services-engagement",
+      "label": "4. Tjanster och projektengagemang"
+    },
+    {
+      "id": "payments-pricing",
+      "label": "5. Betalningar och priser"
+    },
+    {
+      "id": "client-responsibilities",
+      "label": "6. Klientens ansvar"
+    },
+    {
+      "id": "revisions-approvals",
+      "label": "7. Revisioner och godkannanden"
+    },
+    {
+      "id": "confidentiality",
+      "label": "8. Sekretess"
+    },
+    {
+      "id": "third-party",
+      "label": "9. Tredjepartsverktyg och tjanster"
+    },
+    {
+      "id": "limitation-liability",
+      "label": "10. Ansvarsbegransning"
+    },
+    {
+      "id": "warranties",
+      "label": "11. Garantier och ansvarsfriskrivningar"
+    },
+    {
+      "id": "termination",
+      "label": "12. Uppsagning"
+    },
+    {
+      "id": "governing-law",
+      "label": "13. Tillamplig lag"
+    },
+    {
+      "id": "changes",
+      "label": "14. Andringar av dessa villkor"
+    },
+    {
+      "id": "contact",
+      "label": "15. Kontaktinformation"
+    }
+  ],
+  "sections": [
+    {
+      "id": "about",
+      "title": "1. Om Webbly Media",
+      "content": [
+        "Webbly Media ar en digital byra som tillhandahaller tjanster inklusive webbdesign, webbutveckling, apputveckling, grafisk design, digital marknadsforing och relaterade digitala losningar.",
+        "Alla tjanster erbjuds i enlighet med dessa villkor."
+      ]
+    },
+    {
+      "id": "use-of-website",
+      "title": "2. Anvandning av var webbplats",
+      "content": [
+        "Genom att anvanda var webbplats godkanner du att:",
+        "- Anvanda webbplatsen enbart for lagliga andamal",
+        "- Inte missbruka, stora eller forsoka fa obehorig atkomst till webbplatsen",
+        "- Inte kopiera, distribuera eller utnyttja webbplatsinnehall utan skriftligt tillstand",
+        "Vi forbehaller oss ratten att begransa eller avsluta atkomst om dessa villkor bryts."
+      ]
+    },
+    {
+      "id": "intellectual-property",
+      "title": "3. Immaterialrattsliga rattigheter",
+      "content": [
+        "Allt innehall pa denna webbplats, inklusive text, grafik, logotyper, design, bilder, ikoner och kod, ar Webbly Medias immateriella egendom om inte annat anges.",
+        "Du far inte reproducera, modifiera, distribuera eller anvanda nagot innehall utan foregaende skriftligt samtycke fran Webbly Media."
+      ]
+    },
+    {
+      "id": "services-engagement",
+      "title": "4. Tjanster och projektengagemang",
+      "content": [
+        "Tjanstedetaljer, omfattning, tidsramar, priser och leveranser definieras i individuella forslag, avtal eller fakturor.",
+        "Eventuella andringar av projektomfanget kan paverka kostnad och tidsramar och maste avtalas skriftligen av bada parter."
+      ]
+    },
+    {
+      "id": "payments-pricing",
+      "title": "5. Betalningar och priser",
+      "content": [
+        "- Alla priser kommuniceras tydligt innan projektstart",
+        "- Betalningar maste goras enligt det overenskomna schemat",
+        "- Sena betalningar kan resultera i projektforseningar eller avbrott av tjanster",
+        "Avgifter aterbetalas inte om det inte uttryckligen anges i ett skriftligt avtal."
+      ]
+    },
+    {
+      "id": "client-responsibilities",
+      "title": "6. Klientens ansvar",
+      "content": [
+        "Klienter godkanner att:",
+        "- Tillhandahalla korrekt information och snabb aterkopping",
+        "- Leverera nodvandigt innehall, material och godkannanden i tid",
+        "- Sakerstalla aganderatt eller anvandningsratt for det tillhandahallna materialet",
+        "Forseningar orsakade av saknad information eller godkannanden kan paverka projekttidsramar."
+      ]
+    },
+    {
+      "id": "revisions-approvals",
+      "title": "7. Revisioner och godkannanden",
+      "content": [
+        "Vi erbjuder revisioner baserat pa det overenskomna arbetsomfanget. Ytterligare revisioner utover omfattningen kan medfora extra kostnader.",
+        "Slutgiltigt godkannande bekraftar acceptans av leveranser och slutforande av projektfasen."
+      ]
+    },
+    {
+      "id": "confidentiality",
+      "title": "8. Sekretess",
+      "content": [
+        "Bada parter godkanner att halla konfidentiell all kanslig affarsmassig, teknisk eller projektrelaterad information som delas under uppdraget, om inte utlamnande kravs enligt lag."
+      ]
+    },
+    {
+      "id": "third-party",
+      "title": "9. Tredjepartsverktyg och tjanster",
+      "content": [
+        "Webbly Media kan anvanda tredjepartsverktyg, plattformar eller tjanster for att leverera projekt. Vi ansvarar inte for villkor, prestanda eller policyer hos tredjepartsleverantorer.",
+        "Klienter uppmanar att granska tredjepartsvillkor separat."
+      ]
+    },
+    {
+      "id": "limitation-liability",
+      "title": "10. Ansvarsbegransning",
+      "content": [
+        "Webbly Media ska inte vara ansvarig for:",
+        "- Indirekta, tillfallinga eller foljdskador",
+        "- Forlust av data, intakter eller affarsmojligheter",
+        "- Problem orsakade av tredjepartstjanster eller klienttillhandahallet material",
+        "Vart ansvar ar begransat till det belopp som betalats for den specifika tjansten."
+      ]
+    },
+    {
+      "id": "warranties",
+      "title": "11. Garantier och ansvarsfriskrivningar",
+      "content": [
+        "Alla tjanster och webbplatsinnehall tillhandahalls \"i befintligt skick\" utan garantier av nagot slag. Vi garanterar inte specifika resultat, rankningar eller prestandautfall om det inte uttryckligen anges skriftligen."
+      ]
+    },
+    {
+      "id": "termination",
+      "title": "12. Uppsagning",
+      "content": [
+        "Endera parten kan saga upp tjanster med skriftligt meddelande. Eventuellt slutfort arbete fram till uppsagningsdatumet maste betalas i sin helhet.",
+        "Uppsagning befriar inte fran utestaende betalningsskyldigheter."
+      ]
+    },
+    {
+      "id": "governing-law",
+      "title": "13. Tillamplig lag",
+      "content": [
+        "Dessa villkor styrs av och tolkas i enlighet med tillamplig lag. Eventuella tvister ska losas under relevant juridisk jurisdiktion."
+      ]
+    },
+    {
+      "id": "changes",
+      "title": "14. Andringar av dessa villkor",
+      "content": [
+        "Webbly Media kan uppdatera dessa villkor nar som helst. Andringar publiceras pa denna sida med ett uppdaterat datum.",
+        "Fortsatt anvandning av webbplatsen efter andringar innebar att de uppdaterade villkoren accepteras."
+      ]
+    },
+    {
+      "id": "contact",
+      "title": "15. Kontaktinformation",
+      "content": [
+        "Om du har fragor om dessa villkor, kontakta oss:",
+        "Webbly Media",
+        "E-post: info@webblymedia.com",
+        "Webbplats: https://www.webblymedia.com",
+        "Genom att anvanda var webbplats eller vara tjanster bekraftar du att du har last, forstat och godkant dessa villkor."
+      ]
+    }
+  ]
+}

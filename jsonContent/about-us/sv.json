@@ -1,0 +1,518 @@
+{
+  "pageMetadata": {
+    "routeSlugs": [
+      {
+        "path": "about-us",
+        "slug": "om-oss"
+      }
+    ],
+    "routeMetadata": [
+      {
+        "path": "about-us",
+        "title": "Om Webbly Media | Experter pa digital tillvaxt"
+      }
+    ]
+  },
+  "otherHero": {
+    "pageName": "Om oss",
+    "title": "Mot teamet bakom Webbly Media",
+    "description": "Upptack manniskorna, vardringarna och visionen som driver Webbly Media. Vi blandar strategi, kreativitet och teknik for att hjalpa varumarken att vaxa med sjalvfortroende.",
+    "buttonText": "Boka ett samtal",
+    "mainImage": {
+      "src": "/assets/images/all-hero/About-us-hero.jpg",
+      "alt": "Team collaboration",
+      "title": "About Us Hero",
+      "caption": "Bildresurs for about us hero i sektionen all hero.",
+      "description": "Visuell resurs som anvands pa Webbly Medias webbplats for all hero-innehall."
+    },
+    "floatingImageSrc": "/assets/images/seo-hero-float.svg",
+    "floatingImageAlt": "Side blur decoration",
+    "floatingImageTitle": "SEO Hero Flytande Ikon",
+    "floatingImageCaption": "Flytande ikon som anvands i SEO-hero.",
+    "floatingImageDescription": "Dekorativ SEO-symbol i hero-bilden."
+  },
+  "founderMessage": {
+    "title": "Ett meddelande fran var grundare",
+    "message": "\" For att lyckas i dagens digitala varld behover du mer an bara verktyg. Du behover vagledning, fortroende och ratt partner. Vi startade Webbly Media for att vi tror att varje foretag fortjanar en tydlig digital plan och ett team som forstar dess mal. Vi fokuserar pa langsiktig tillvaxt och meningsfulla strategier, inte snabba losningar. Vara partnerskap bygger pa transparens och verkliga resultat. Nar du arbetar med oss far du ett dedikerat team som stodjer dig vid varje steg pa din resa.\"",
+    "avatarImageSrc": "https://avatars.githubusercontent.com/u/257024568?v=4",
+    "avatarImageSeo": {
+      "title": "A Message From Our Founder"
+    }
+  },
+  "coveredArea": {
+    "title": "Global expertis, lokalt optimerad",
+    "description": "Pa Webbly Media arbetar vi stolt med kunder over hela Europa. Vi hjalper foretag pa olika marknader, i olika branscher och kulturer. Var styrka ligger i att blanda global digital expertis med djup lokal marknadsforstelsa. Fran regionalt sokbeteende och annonsregler till kulturella skillnader och anvandarforvanningar ar vara strategier alltid lokalt optimerade. Detta hjalper ditt varumarke att forbli relevant, betrott och konkurrenskraftigt pa varje marknad du verkar pa.",
+    "stats": [
+      {
+        "value": "2018",
+        "label": "Grundat"
+      },
+      {
+        "value": "$1.5M+",
+        "label": "Intakter genererade for kunder"
+      },
+      {
+        "value": "40%",
+        "label": "Genomsnittlig ROI-okning"
+      },
+      {
+        "value": "99%",
+        "label": "Leverans i tid"
+      },
+      {
+        "value": "4.9★",
+        "label": "Genomsnittligt betyg"
+      },
+      {
+        "value": "15+",
+        "label": "Interna experter"
+      }
+    ]
+  },
+  "whatWeDo": {
+    "title": "Vilka vi ar och vad vi gor",
+    "description": "Vi har byggt en komplett plattform for att hjalpa dig att bli synlig online. Vart team inkluderar professionella utvecklare, marknadsanalytiker, grafiska designers, SEO-specialister och SEM-experter. Vi erbjuder ocksa hostinglosningar for alla. Vi forstar vad som gor dig framgangsrik och hur vi kan ge forstklassig kundservice. Din tid ar vardefull, och vi siktar pa att ge dig basta mojliga avkastning pa din investering. Du behover en affarspartner som kan svara pa alla dina fragor, och vi ar har for att gora just det.",
+    "highlights": [
+      {
+        "id": "one-stop",
+        "title": "HELLOSNING",
+        "description": "Fa allt ditt foretag behover for en stark digital narvaro pa ett stalle. Vi hanterar marknadsforing, utveckling, design och hosting – allt smidigt hanterat av vart team.",
+        "icon": "/assets/images/about-us/icons/one-stop-solution.svg",
+        "iconSeo": {
+          "altText": "Bild for One Stop Solution",
+          "title": "ONE-STOP SOLUTION",
+          "caption": "Bildresurs for one stop solution i sektionen icons.",
+          "description": "Get everything your business needs for a strong digital presence in one place. We handle marketing, development, design, and hosting—all managed smoothly by our team."
+        }
+      },
+      {
+        "id": "roi",
+        "title": "ROI-FOKUS",
+        "description": "Vi fokuserar pa resultat som spelar roll. Vara strategier genererar riktigt varde och hjalper dig att fa matbar avkastning pa varje investering du gor.",
+        "icon": "/assets/images/about-us/icons/roi-focus.svg",
+        "iconSeo": {
+          "altText": "Ikon for fokus pa ROI",
+          "title": "ROI FOCUS",
+          "caption": "Ikon som representerar fokus pa avkastning.",
+          "description": "We focus on results that matter. Our strategies generate real value and help you get measurable returns on every investment you make."
+        }
+      },
+      {
+        "id": "support",
+        "title": "LANGSIKTIGT STOD",
+        "description": "Vart stod fortsatter efter lansering. Vi ger kontinuerlig hjalp, vagledning och forbattringar nar ditt foretag vaxer.",
+        "icon": "/assets/images/about-us/icons/long-term-support.svg",
+        "iconSeo": {
+          "altText": "Bild for Long Term Support",
+          "title": "LONG-TERM SUPPORT",
+          "caption": "Bildresurs for long term support i sektionen icons.",
+          "description": "Our support continues after launch. We provide ongoing help, guidance, and improvements as your business grows."
+        }
+      },
+      {
+        "id": "security",
+        "title": "SAKERHET OCH STABILITET",
+        "description": "Vi skyddar din webbplats och data med stark sakerhet och palitliga system, vilket sakerstaller stabil prestanda och sinnesro.",
+        "icon": "/assets/images/about-us/icons/security-stability.svg",
+        "iconSeo": {
+          "altText": "Ikon for sakerhet och stabilitet",
+          "title": "SECURITY & STABILITY",
+          "caption": "Ikon som representerar saker leverans och stabil drift.",
+          "description": "We protect your website and data with strong security and reliable systems, ensuring stable performance and peace of mind."
+        }
+      },
+      {
+        "id": "help",
+        "title": "24/7 ONLINEHJALP",
+        "description": "Nar du behover hjalp ar vart team tillgangligt online for att hjalpa dig, svara pa fragor och losa problem snabbt och professionellt.",
+        "icon": "/assets/images/about-us/icons/online-help.svg",
+        "iconSeo": {
+          "altText": "Ikon for onlinesupport",
+          "title": "24/7 ONLINE HELP",
+          "caption": "Ikon som representerar digital hjalp och support.",
+          "description": "Whenever you need help, our team is available online to assist you, answer questions, and resolve issues quickly and professionally."
+        }
+      }
+    ]
+  },
+  "digitalPercentage": {
+    "title": "Alla delar av din digitala narvaro pa ett stalle",
+    "description": "Webbly Media erbjuder en komplett losning som samlar alla delar av din digitala narvaro pa ett stalle. Var vision, som borjade for 7 ar sedan, var att skapa en plattform dar du som kund inte behover hantera flera kontakter och leverantorer. Istallet for att lagga tid pa att samordna olika tjanster kan du fokusera helt pa det du gor bast – att driva och utveckla ditt foretag. Vi tillhandahaller ett komplett utbud av tjanster, fran grundlaggande webbhotell och webbdesign till avancerad webbutveckling. Vi erbjuder ocksa marknadsforingstjanster och grafisk design for att sakerstalla att ditt varumarke representeras val. Vi tar tid att forsta din vision, dina utmaningar och din publik sa att varje digitalt beslut stodjer din tillvaxt.",
+    "services": [
+      "Digital marknadsforing",
+      "Sokoptimering",
+      "Sokmarknadsforning",
+      "Sociala medier-marknadsforing",
+      "Webbdesign",
+      "Webbutveckling",
+      "Apputveckling",
+      "Grafisk design"
+    ]
+  },
+  "conceptAndVision": {
+    "title": "Vart affarskoncept och var vision",
+    "description": "Som entreprenor ar du en visionar och en pioneer. Men aven de basta behover hjalp. Webbly Media ar din guide och partner i den digitala varlden. Vi ser bortom siffrorna. Vi forstar din passion, dina mal och din unika historia. Tillsammans skapar vi en digital strategi som inte bara ar synlig utan ocksa engagerar och inspirerar.",
+    "cards": [
+      {
+        "id": "personal-advice",
+        "title": "PERSONLIG RADGIVNING",
+        "description": "Vi ar mer an bara en tjanstleverantor. Vi ar din betrodda partner, alltid redo att ge dig basta mojliga rad.",
+        "imageSrc": "/assets/images/about-us/concept-card1.jpg",
+        "imageSeo": {
+          "altText": "Bild for Concept Card1",
+          "title": "PERSONAL ADVICE",
+          "caption": "Bildresurs for concept card1 i sektionen about us.",
+          "description": "We are more than just a service provider. We are your trusted partner, always ready to give you the best advice."
+        },
+        "imageSrcSeo": {
+          "altText": "Bild for Concept Card1",
+          "title": "Concept Card1",
+          "caption": "Bildresurs for concept card1 i sektionen about us.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for about us-innehall."
+        }
+      },
+      {
+        "id": "tailored-solutions",
+        "title": "SKRADDARSYDDA LOSNINGAR",
+        "description": "Inga tva foretag ar likadana. Darfor skapar vi losningar som passar dina specifika behov och mal.",
+        "imageSrc": "/assets/images/about-us/concept-card2.jpg",
+        "imageSeo": {
+          "altText": "Bild for Concept Card2",
+          "title": "TAILORED SOLUTIONS",
+          "caption": "Bildresurs for concept card2 i sektionen about us.",
+          "description": "No two businesses are the same. That's why we create solutions that fit your specific needs and goals."
+        },
+        "imageSrcSeo": {
+          "altText": "Bild for Concept Card2",
+          "title": "Concept Card2",
+          "caption": "Bildresurs for concept card2 i sektionen about us.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for about us-innehall."
+        }
+      },
+      {
+        "id": "expertise-innovation",
+        "title": "EXPERTIS OCH INNOVATION",
+        "description": "Vart team bestar av passionerade experter inom digital marknadsforing. Vi haller oss uppdaterade om de senaste trenderna och tekniken.",
+        "imageSrc": "/assets/images/about-us/concept-card3.jpg",
+        "imageSeo": {
+          "altText": "Bild for Concept Card3",
+          "title": "EXPERTISE AND INNOVATION",
+          "caption": "Bildresurs for concept card3 i sektionen about us.",
+          "description": "Our team includes passionate experts in digital marketing. We stay updated on the latest trends and technology."
+        },
+        "imageSrcSeo": {
+          "altText": "Bild for Concept Card3",
+          "title": "Concept Card3",
+          "caption": "Bildresurs for concept card3 i sektionen about us.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for about us-innehall."
+        }
+      }
+    ]
+  },
+  "videoSection": {
+    "title": "Mer an bara en digital byra",
+    "description": "Webbly Media erbjuder mer an bara marknadsforing och utveckling. Vi tillhandahaller ocksa sakra och palitliga hostinglosningar genom var plattform, WebblyHosting. WebblyHosting ar byggt for prestanda och stabilitet, vilket ger dig sinnesro. Det ger ditt foretag en stark digital grund och ett paliligt ekosystem for hela din onlinenarvaro.",
+    "buttonText": "Upptack WebblyHost"
+  },
+  "leftThreeImage": {
+    "badge": "Bli nagot storre",
+    "title": "Vi donerar 5-10% av vinsten vi gor",
+    "description": "Varje siffra och statistik representerar en person med en unik historia. Dessa historier inspirerar oss att fortsatta vart arbete. Genom att tillhandahalla mat, uppmutra till forandring och hjalpa manniskor att hitta jobb hjalper vi till att aterstalla deras vardighet. Beroende ar en allvarlig fraga, men med ratt stod ar aterhamtning mojligt. Vi har bevittnat detta manga ganger. Nar du stodjer Pay it Forward ansluter du dig till nagot storre. Nar du koper en av vara tjanster far du tjansten och hjalper oss att ge tillbaka. For varje forsaljning vi gor donerar vi 5-10% till Pay it Forward. Om du vill ansluta dig till oss for att distribuera mat och vagda andra mot en battre framtid, kontakta oss.",
+    "images": [
+      {
+        "src": "/assets/layer-component-Images/set1/image1.jpg",
+        "alt": "Bild for Image1",
+        "title": "Image1",
+        "caption": "Bildresurs for image1 i sektionen set1.",
+        "description": "Visuell resurs som anvands pa Webbly Medias webbplats for set1-innehall."
+      },
+      {
+        "src": "/assets/layer-component-Images/set1/image2.jpg",
+        "alt": "Bild for Image2",
+        "title": "Image2",
+        "caption": "Bildresurs for image2 i sektionen set1.",
+        "description": "Visuell resurs som anvands pa Webbly Medias webbplats for set1-innehall."
+      },
+      {
+        "src": "/assets/layer-component-Images/set1/image3.jpg",
+        "alt": "Bild for Image3",
+        "title": "Image3",
+        "caption": "Bildresurs for image3 i sektionen set1.",
+        "description": "Visuell resurs som anvands pa Webbly Medias webbplats for set1-innehall."
+      }
+    ]
+  },
+  "allEmployeesSection": {
+    "eyebrow": "Vårt team",
+    "title": "Webbly Media‑teamet",
+    "employees": [
+      {
+        "id": "employee-1",
+        "name": "Farima Alimi",
+        "title": "CEO",
+        "imageSrc": "/assets/images/about-us/avatars/Farima-CEO.png",
+        "imageSeo": {
+          "altText": "Farima Ceo image",
+          "title": "CEO",
+          "caption": "Image asset for farima ceo in the avatars section.",
+          "description": "Visual asset used on the Webbly Media website for avatars content."
+        },
+        "hoverImageSrc": "/assets/images/about-us/avatars/Queen (1).png",
+        "hoverImageSeo": {
+          "altText": "Queen 1 image",
+          "title": "CEO",
+          "caption": "Image asset for queen 1 in the avatars section.",
+          "description": "Visual asset used on the Webbly Media website for avatars content."
+        }
+      },
+      {
+        "id": "employee-2",
+        "name": "Marchello Josefsson",
+        "title": "Founder",
+        "imageSrc": "",
+        "imageSeo": {
+          "title": "Founder"
+        },
+        "hoverImageSeo": {
+          "title": "Founder"
+        }
+      },
+      {
+        "id": "employee-5",
+        "name": "Md. Erfanul Haque",
+        "title": "Front-end Developer",
+        "imageSrc": "/WhatsApp Image 2026-03-11 at 3.41.07 PM.jpeg",
+        "imageSeo": {
+          "altText": "Front-end Developer Erfan Alin",
+          "title": "HR",
+          "caption": "Front-end Developer in Webbly Media managing front-end in Next.js, React.",
+          "description": "Front-end Developer in Webbly Media managing front-end in Next.js, React. Delivering a super fast website for good user experience. Stepping forward to learn something new. "
+        },
+        "hoverImageSrc": "/WhatsApp%20Image%202026-03-11%20at%203.41.07%20PM.jpeg",
+        "hoverImageSeo": {
+          "altText": "Front-end Developer Erfan Alin",
+          "title": "HR",
+          "caption": "Front-end Developer in Webbly Media managing front-end in Next.js, React.",
+          "description": "Front-end Developer in Webbly Media managing front-end in Next.js, React. Delivering a super fast website for good user experience. Stepping forward to learn something new. "
+        }
+      },
+      {
+        "id": "employee-6",
+        "name": "Tawhid Islam",
+        "title": "Front-end Developer",
+        "imageSrc": "/anime-boy.jpg",
+        "imageSeo": {
+          "altText": "Anime Boy image",
+          "title": "Manager",
+          "caption": "Image asset for anime boy in the website section.",
+          "description": "Visual asset used on the Webbly Media website for website content."
+        },
+        "hoverImageSrc": "/assets/images/about-us/avatars/pawn.png",
+        "hoverImageSeo": {
+          "altText": "Pawn image",
+          "title": "Manager",
+          "caption": "Image asset for pawn in the avatars section.",
+          "description": "Visual asset used on the Webbly Media website for avatars content."
+        }
+      },
+      {
+        "id": "employee-7",
+        "name": "Firoz Anam",
+        "title": "Manager | Full Stack Developer",
+        "imageSrc": "/WhatsApp Image 2026-03-11 at 4.27.17 PM.jpeg",
+        "imageSeo": {
+          "altText": "Whats APP Image 2026 03 11 At 4 27 17 PM image",
+          "title": "Front-end Developer",
+          "caption": "Image asset for whats app image 2026 03 11 at 4 27 17 pm in the website section.",
+          "description": "Visual asset used on the Webbly Media website for website content."
+        },
+        "hoverImageSeo": {
+          "title": "Front-end Developer"
+        }
+      },
+      {
+        "id": "employee-8",
+        "name": "Tanvir Hasan",
+        "title": "Full Stack Developer",
+        "imageSrc": "/Tanvir_Hasan.png",
+        "imageSeo": {
+          "altText": "Tanvir Hasan image",
+          "title": "Front-end Developer",
+          "caption": "Image asset for tanvir hasan in the website section.",
+          "description": "Visual asset used on the Webbly Media website for website content."
+        },
+        "hoverImageSrc": "/Tanvir_hasan_.png",
+        "hoverImageSeo": {
+          "altText": "Tanvir Hasan image",
+          "title": "Front-end Developer",
+          "caption": "Image asset for tanvir hasan in the website section.",
+          "description": "Visual asset used on the Webbly Media website for website content."
+        }
+      },
+      {
+        "id": "employee-9",
+        "name": "Dhrubo Bhowmik Ove",
+        "title": "UI/UX Designer",
+        "imageSrc": "",
+        "imageSeo": {
+          "title": "Full Stack Developer"
+        },
+        "hoverImageSeo": {
+          "title": "Full Stack Developer"
+        }
+      },
+      {
+        "id": "employee-10",
+        "name": "Ahsan Habib",
+        "title": "UI/UX Designer",
+        "imageSrc": "",
+        "imageSeo": {
+          "title": "Full Stack Developer"
+        },
+        "hoverImageSeo": {
+          "title": "Full Stack Developer"
+        }
+      },
+      {
+        "id": "employee-11",
+        "name": "Nayim",
+        "title": "Python Developer",
+        "imageSrc": "",
+        "imageSeo": {
+          "title": "UI/UX Designer"
+        },
+        "hoverImageSeo": {
+          "title": "UI/UX Designer"
+        }
+      },
+      {
+        "id": "employee-12",
+        "name": "Ratul",
+        "title": "Full Stack Developer",
+        "imageSrc": "",
+        "imageSeo": {
+          "title": "UI/UX Designer"
+        },
+        "hoverImageSeo": {
+          "title": "UI/UX Designer"
+        }
+      },
+      {
+        "id": "employee-13",
+        "name": "Fahim Shikder",
+        "title": "SEO & WP Expert",
+        "imageSrc": "",
+        "imageSeo": {
+          "title": "Python Developer"
+        },
+        "hoverImageSeo": {
+          "title": "Python Developer"
+        }
+      },
+      {
+        "id": "employee-14",
+        "name": "Alamgir Ahmed",
+        "title": "WordPress Developer",
+        "imageSrc": "",
+        "imageSeo": {
+          "title": "Full Stack Developer"
+        },
+        "hoverImageSeo": {
+          "title": "Full Stack Developer"
+        }
+      },
+      {
+        "id": "employee-15",
+        "name": "Mr. Mannan",
+        "title": "Ads Expert",
+        "imageSrc": "",
+        "imageSeo": {
+          "title": "SEO & WP Expert"
+        },
+        "hoverImageSeo": {
+          "title": "SEO & WP Expert"
+        }
+      },
+      {
+        "id": "employee-16",
+        "name": "Arnob",
+        "title": "Server admin",
+        "imageSrc": "",
+        "imageSeo": {
+          "title": "WordPress Developer"
+        },
+        "hoverImageSeo": {
+          "title": "WordPress Developer"
+        }
+      },
+      {
+        "id": "employee-18",
+        "name": "Mk Sifat",
+        "title": "Python Developer",
+        "imageSrc": "",
+        "imageSeo": {
+          "title": "Ads Expert"
+        },
+        "hoverImageSeo": {
+          "title": "Ads Expert"
+        }
+      },
+      {
+        "id": "employee-19",
+        "name": "Faizan Shakir",
+        "title": "Cyber Security",
+        "imageSrc": "/assets/images/Ellipse 3.png",
+        "imageSeo": {
+          "altText": "Ellipse 3 image",
+          "title": "Server admin",
+          "caption": "Image asset for ellipse 3 in the images section.",
+          "description": "Visual asset used on the Webbly Media website for images content."
+        },
+        "hoverImageSrc": "",
+        "hoverImageSeo": {
+          "title": "Server admin"
+        }
+      },
+      {
+        "id": "employee-20",
+        "name": "Zubia Batool",
+        "title": "Python Developer",
+        "imageSrc": "/zubia.jpeg",
+        "imageSeo": {
+          "altText": "Zubia image",
+          "title": "Server admin",
+          "caption": "Image asset for zubia in the website section.",
+          "description": "Visual asset used on the Webbly Media website for website content."
+        },
+        "hoverImageSeo": {
+          "title": "Server admin"
+        }
+      },
+      {
+        "id": "employee-21",
+        "name": "Ayesha Khan",
+        "title": "Python Developer",
+        "imageSrc": "/WhatsApp Image 2026-03-111 at 5.29.25 PM.jpeg",
+        "imageSeo": {
+          "altText": "Whats APP Image 2026 03 111 At 5 29 25 PM image",
+          "title": "Python Developer",
+          "caption": "Image asset for whats app image 2026 03 111 at 5 29 25 pm in the website section.",
+          "description": "Visual asset used on the Webbly Media website for website content."
+        },
+        "hoverImageSrc": "/WhatsApp%20Image%202026-03-1111%20at%205.46.42%20PM.jpeg",
+        "hoverImageSeo": {
+          "altText": "Whats APP Image 2026 03 1111 At 5 46 42 PM image",
+          "title": "Python Developer",
+          "caption": "Image asset for whats app image 2026 03 1111 at 5 46 42 pm in the website section.",
+          "description": "Visual asset used on the Webbly Media website for website content."
+        }
+      },
+      {
+        "id": "employe-69",
+        "name": "As Shahriar",
+        "title": "Video Editor",
+        "imageSrc": "/As_Shahriar.jpg"
+      }
+    ]
+  }
+}

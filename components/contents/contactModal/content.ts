@@ -1,0 +1,15 @@
+export const contactModalContent = {
+  title: "Submit The Form & We'll Reach Out Soon!",
+  nameLabel: 'NAME*',
+  firstNamePlaceholder: 'First Name',
+  lastNamePlaceholder: 'Last Name',
+  emailLabel: 'EMAIL*',
+  emailPlaceholder: 'Your Email',
+  messageLabel: 'MESSAGE*',
+  messagePlaceholder: 'Your message',
+  selectedServicesLabel: 'SELECTED SERVICES:',
+  emptyServicesMessage: 'No services selected',
+  submitButtonText: 'SUBMIT',
+  image: '/assets/images/popup-images/popup-1-meeting-room.jpg',
+  imageAlt: 'Meeting room',
+};

@@ -1,0 +1,397 @@
+{
+  "benefits": {
+    "title": "What Are The Benefits of Search Engine Optimization?",
+    "subtitle": "Search engine optimization offers significant benefits for businesses that want long-term growth, higher visibility, and qualified traffic. Here are some key benefits:",
+    "benefits": [
+      {
+        "title": "Increase Organic Visibility",
+        "description": "SEO helps your website appear higher on Google when people search for your products or services. By optimizing your content and targeting the right keywords, your business becomes easier to find."
+      },
+      {
+        "title": "Drive High-Quality Traffic",
+        "description": "SEO brings in visitors who are already searching for what you offer. Unlike random traffic or cold audiences, these users have real intent."
+      },
+      {
+        "title": "Build Trust & Credibility",
+        "description": "Websites that rank high on search engines are often seen as more trustworthy. By using strong SEO, like good content, technical improvements, and quality backlinks, you can build your authority in your field."
+      },
+      {
+        "title": "Generate More Leads & Conversions",
+        "description": "Since SEO brings motivated and intent-driven traffic, it naturally increases leads and sales. Whether you're offering services or selling products, your website attracts people who are ready to take action."
+      },
+      {
+        "title": "Boost Long-Term ROI",
+        "description": "SEO is one of the most cost-effective digital marketing channels. Unlike paid ads, you don't need to spend money every time someone clicks. Once your site ranks well, it continues to bring traffic and leads for months or even years."
+      }
+    ]
+  },
+  "pageMetadata": {
+    "routeSlugs": [
+      {
+        "path": "services/seo",
+        "slug": "services/seo"
+      }
+    ],
+    "routeMetadata": [
+      {
+        "path": "services/seo",
+        "title": "SEO Agency Services | Webbly Media"
+      }
+    ]
+  },
+  "serviceCards1": [
+    {
+      "title": "Local SEO",
+      "description": "Our local SEO services help your business reach nearby customers. We optimize your Google Business Profile, local citations, and NAP consistency to attract customers in your area. From location-based keywords optimization to local backlinks and review management, our SEO experts do everything to rank your business in Google Maps and local searches."
+    },
+    {
+      "title": "National SEO",
+      "description": "If you want to reach people across the country, our national SEO service will be a great solution. We make your website rank higher for popular keywords, so you can connect with a larger audience. We boost your site with strong on-page optimization, technical SEO, and authority link building."
+    },
+    {
+      "title": "Multilingual & International SEO",
+      "description": "To expand globally, you need multilingual or international SEO methods. We optimize hreflang tags and create localized content for different countries. Our SEO team works to ensure your site ranks well on search engines worldwide."
+    }
+  ],
+  "serviceCards2": [
+    {
+      "title": "Startup & Enterprise SEO",
+      "description": "Whether you run a small startup or a large company, we create SEO strategies that fit your needs. For startups, we focus on visibility and lead generation. For larger companies, we prioritize automation, scalability, and detailed analytics."
+    },
+    {
+      "title": "E-commerce SEO",
+      "description": "Our E-commerce SEO services help online stores be more visible and increase sales. We optimize product pages, category structures, schema markup, and internal links to make it easier for search engines to crawl your site."
+    },
+    {
+      "title": "B2B SaaS SEO",
+      "description": "B2B SaaS SEO requires a data-driven approach. We optimize your website for relevant industry keywords, improve UX for conversions, and build topical authority through high-quality content."
+    }
+  ],
+  "marketingAgency": {
+    "title": "Why Do You Need Professional SEO Services?",
+    "description": "At Webbly Media, we understand customer behaviour, market trends, and the online landscape. As a professional web and digital marketing company, we handle every project with passion, precision, and creativity. Our clear communication and support ensure a smooth, trustworthy, and satisfying experience.",
+    "description2": "Our professional SEO services ensure all of these benefits for your business. We look at your goals, fix any technical issues, and create effective SEO plans that provide real results. Our SEO experts make sure your brand gets noticed by the right audience.",
+    "image": {
+      "src": "/assets/images/seo-image.png",
+      "alt": "Digital Marketing Services",
+      "title": "SEO Image",
+      "caption": "Image asset for seo image in the images section.",
+      "description": "Visual asset used on the Webbly Media website for images content.",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 600px"
+    },
+    "backgroundImage": "/assets/images/rectangle1.png",
+    "backgroundImageSeo": {
+      "altText": "Rectangle1 image",
+      "title": "Rectangle1",
+      "caption": "Image asset for rectangle1 in the images section.",
+      "description": "Visual asset used on the Webbly Media website for images content."
+    }
+  },
+  "otherHero": {
+    "pageName": "<h1><span>Search Engine Optimization Services</span></h1>",
+    "title": "<p><span>Increase Organic Traffic by 40%+</span></p>",
+    "description": "<p>Improve your search visibility, outrank competitors, and drive consistent organic traffic with the professional SEO services from <strong><a href=\"https://webblymedia.com/en\" target=\"_blank\" rel=\"noopener noreferrer\">Webbly Media</a></strong>. Whether you want higher Google rankings, more qualified website visitors, or stronger brand authority, our expert SEO agency is ready to help you grow. Get your custom strategy proposal today and see how fast we can help you climb the rankings!</p>",
+    "buttonText": "Schedule a call",
+    "mainImage": {
+      "src": "/assets/images/seo-hero-img.jpg",
+      "alt": "SEO hero image",
+      "title": "SEO Hero Img",
+      "caption": "Image asset for seo hero img in the images section.",
+      "description": "Visual asset used on the Webbly Media website for images content."
+    },
+    "floatingImageSrc": "/assets/images/seo-hero-float.svg",
+    "floatingImageAlt": "Side blur decoration",
+    "floatingImageTitle": "SEO Hero Floating Icon",
+    "floatingImageCaption": "Floating icon used in the SEO hero section.",
+    "floatingImageDescription": "Decorative SEO symbol used in hero imagery."
+  },
+  "companyIntro": {
+    "brandName": "Webbly Media",
+    "title": "A Recognized SEO Agency in The Industry",
+    "description": "At Webbly Media, we understand the global market and empower businesses with cutting-edge SEO solutions. As a professional SEO agency, we deliver results that boost rankings and conversions. We value open communication and ongoing support, so you can get a smooth and satisfying experience. Our certified SEO experts focus on smart strategies and white hat methods to improve your website's ranking and drive more organic traffic. Our clients stay with us because we deliver the results they want. So, trust us to take your SEO rankings to the next level. Contact us today and get a free consultation!",
+    "buttonText": "Learn more About us",
+    "image1": "/All%20Service%20Page%20Images/SEO/A%20Recognized%20SEO%20Agency%20in%20The%20Industry.jpg",
+    "image1Seo": {
+      "altText": "Trust and partnership",
+      "title": "A Recognized SEO Agency In The Industry",
+      "caption": "Image asset for a recognized seo agency in the industry in the seo section.",
+      "description": "Visual asset used on the Webbly Media website for seo content."
+    },
+    "image2": "/assets/images/star-award.jpg",
+    "image2Seo": {
+      "altText": "Award and recognition",
+      "title": "Star Award",
+      "caption": "Image asset for star award in the images section.",
+      "description": "Visual asset used on the Webbly Media website for images content."
+    }
+  },
+  "contentImageSplit": {
+    "title": "Stop Relying on Outdated SEO Strategies That Don't Work!",
+    "paragraphs": [
+      "Are your SEO efforts failing to bring traffic, leads, or rankings? Stop depending on old techniques that Google no longer rewards. They're only harming your growth and wasting your investment.",
+      "At Webbly Media, we use modern, data-driven SEO strategies that actually deliver results. We analyze your competitors, fix technical issues, optimize your website structure, and create content that attracts your ideal customers. Every optimization we make is designed to improve your ranking, visibility, and conversions.",
+      "We build high-performing SEO campaigns supported by real research and advanced analytics. Our experts track keyword positions, monitor site health, and fine-tune your strategy for continuous improvement. No guesswork, only proven methods that move your business forward.",
+      "Ready to rank higher and grow faster? Contact us today and let Webbly Media turn your website into a powerful source of organic traffic and revenue!"
+    ],
+    "image": {
+      "src": "/All%20Service%20Page%20Images/SEO/Stop%20Relying%20on%20Outdated%20SEO%20Strategies%20That%20Don't%20Work!.jpg",
+      "alt": "Content Image Split",
+      "title": "Stop Relying On Outdated SEO Strategies That Don T Work",
+      "caption": "Image asset for stop relying on outdated seo strategies that don t work in the seo section.",
+      "description": "Visual asset used on the Webbly Media website for seo content."
+    }
+  },
+  "digitalServices": {
+    "mainTitle": "Webbly Media's SEO Services Include",
+    "mainDescription": "As a professional SEO agency, we offer complete SEO solutions for all types of businesses. Learn how we can help you stand out on search engines."
+  },
+  "cardSlider": {
+    "title": "How We Help You as an Expert SEO Company",
+    "description": "When we talk about search engine optimization (SEO), we mainly focus on Google SEO since over 89% of online users use Google for their searches. Before we start, we analyze your business and website closely. We identify your strengths, weaknesses, and your market position. Based on these insights, we build a data-driven SEO strategy to rank your website for the right keywords.",
+    "cards": [
+      {
+        "title": "SEO AUDIT & FIXING",
+        "description": "We start by doing a complete SEO audit of your website. We check for technical issues, broken links, page speed, and on-page errors that can hurt your SEO. Then, we fix these problems to create a strong foundation for better rankings.",
+        "image": "/slide-card/audit-fix.svg",
+        "imageSeo": {
+          "altText": "Audit and fixes icon",
+          "title": "Audit Fix Icon",
+          "caption": "Icon representing audits and technical fixes.",
+          "description": "Slide card icon used for audit and improvement steps."
+        }
+      },
+      {
+        "title": "TECHNICAL SEO IMPLEMENTATION",
+        "description": "After addressing the basics, we improve your website's technical SEO. This means we enhance your website's structure, XML sitemap, robots.txt, and schema markup to help search engines index your site better.",
+        "image": "/slide-card/seo-implementation.svg",
+        "imageSeo": {
+          "altText": "SEO implementation icon",
+          "title": "SEO Implementation Icon",
+          "caption": "Icon representing SEO setup and implementation.",
+          "description": "Slide card icon used for SEO execution stages."
+        }
+      },
+      {
+        "title": "MOBILE SEO SERVICES",
+        "description": "Since most users search from mobile devices, mobile SEO is vital. We optimize your website for mobile-first indexing, responsive design, and page load speed.",
+        "image": "/slide-card/mobile-development.svg",
+        "imageSeo": {
+          "altText": "Mobile development icon",
+          "title": "Mobile Development Icon",
+          "caption": "Icon representing mobile-first development work.",
+          "description": "Slide card icon used for mobile development services."
+        }
+      },
+      {
+        "title": "KEYWORD RESEARCH & MAPPING",
+        "description": "We conduct thorough keyword research to find out what your audience is looking for. Then, we create a keyword mapping plan to match each webpage with the right keywords and user needs.",
+        "image": "/slide-card/research.svg",
+        "imageSeo": {
+          "altText": "Research icon",
+          "title": "Research Icon",
+          "caption": "Icon representing research and discovery.",
+          "description": "Slide card icon used for discovery and research steps."
+        }
+      },
+      {
+        "title": "COMPETITOR ANALYSIS",
+        "description": "We analyze your top competitors to see what makes them successful. This includes looking at their keywords, backlinks, and how their content performs.",
+        "image": "/slide-card/competitor-analysis.svg",
+        "imageSeo": {
+          "altText": "Competitor analysis slide icon",
+          "title": "Competitor Analysis Slide Icon",
+          "caption": "Icon representing competitor research in process slides.",
+          "description": "Slide card icon used for competitor analysis stages."
+        }
+      },
+      {
+        "title": "CONTENT PLANNING & WRITING",
+        "description": "Content is the heart of SEO. We create a clear content plan based on keyword research and audience intent. Our expert writers produce SEO-optimized articles, blogs, and landing pages that attract visitors and improve your search ranking.",
+        "image": "/slide-card/idea.svg",
+        "imageSeo": {
+          "altText": "Idea and strategy icon",
+          "title": "Idea Icon",
+          "caption": "Icon representing ideas and strategic planning.",
+          "description": "Slide card icon used for planning and ideation steps."
+        }
+      },
+      {
+        "title": "On-page Optimization",
+        "description": "On-page SEO helps search engines understand your content clearly. We optimize meta titles, descriptions, headers, URLs, and internal linking.",
+        "image": "/slide-card/optimization.svg",
+        "imageSeo": {
+          "altText": "Optimization icon",
+          "title": "Optimization Icon",
+          "caption": "Icon representing optimization and continuous improvement.",
+          "description": "Slide card icon used for optimization phases."
+        }
+      },
+      {
+        "title": "Link Building / Off-page SEO",
+        "description": "Finally, we build high-quality backlinks through ethical link-building methods. Our off-page SEO strategies include guest posting, outreach, and digital PR to improve your domain authority.",
+        "image": "/slide-card/off-page-seo.svg",
+        "imageSeo": {
+          "altText": "Off Page SEO image",
+          "title": "Off Page SEO",
+          "caption": "Image asset for off page seo in the slide card section.",
+          "description": "Visual asset used on the Webbly Media website for slide card content."
+        }
+      }
+    ]
+  },
+  "caseStudies": {
+    "title": "Case Studies That Reveal Our SEO Success",
+    "subtitle": "",
+    "description": "As a top-rated SEO firm, we believe results speak louder than promises. For the past seven years, we have helped many businesses improve their online presence with our effective SEO solutions. Here are the case studies you can explore:",
+    "cases": [
+      {
+        "label": "Case 1",
+        "projectName": "Prime Nest",
+        "description": "User-centric website design for mobile wellness services",
+        "image": "/assets/images/case-study1.png",
+        "imageSeo": {
+          "altText": "Case Study1 image",
+          "title": "Case Study1",
+          "caption": "Image asset for case study1 in the images section.",
+          "description": "Visual asset used on the Webbly Media website for images content."
+        }
+      },
+      {
+        "label": "Case 2",
+        "projectName": "Divine Home",
+        "description": "Brand & web experience for an all-in-one service marketplace",
+        "image": "/assets/images/case-study2.png",
+        "imageSeo": {
+          "altText": "Case Study2 image",
+          "title": "Case Study2",
+          "caption": "Image asset for case study2 in the images section.",
+          "description": "Visual asset used on the Webbly Media website for images content."
+        }
+      },
+      {
+        "label": "Case 3",
+        "projectName": "Kannom",
+        "description": "SaaS Application Design for Location and Review management",
+        "image": "/assets/images/case-study3.png",
+        "imageSeo": {
+          "altText": "Case Study3 image",
+          "title": "Case Study3",
+          "caption": "Image asset for case study3 in the images section.",
+          "description": "Visual asset used on the Webbly Media website for images content."
+        }
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What Our SEO Clients Say About Us",
+    "subtitle": "\"We take care of our clients like family\"",
+    "quoteIcon": "/assets/icons/quote.png",
+    "quoteIconSeo": {
+      "altText": "Quote image",
+      "title": "Quote",
+      "caption": "Image asset for quote in the icons section.",
+      "description": "Visual asset used on the Webbly Media website for icons content."
+    },
+    "testimonials": [
+      {
+        "text": "Their social media marketing strategy completely revitalized our brand image. We've seen a 200% increase in engagement and a significant boost in qualified leads.",
+        "avatar": "/assets/avatars/avatar-1.png",
+        "avatarSeo": {
+          "altText": "Avatar 1 image",
+          "title": "Avatar 1",
+          "caption": "Image asset for avatar 1 in the avatars section.",
+          "description": "Visual asset used on the Webbly Media website for avatars content."
+        },
+        "name": "Artful Dodger",
+        "title": "CEO",
+        "company": "Innovate Solutions"
+      },
+      {
+        "text": "The UX/UI design they delivered was exceptional. Our app's user engagement has increased by 45% since the redesign.",
+        "avatar": "/assets/avatars/avatar-2.png",
+        "avatarSeo": {
+          "altText": "Avatar 2 image",
+          "title": "Avatar 2",
+          "caption": "Image asset for avatar 2 in the avatars section.",
+          "description": "Visual asset used on the Webbly Media website for avatars content."
+        },
+        "name": "Victoria Wotton",
+        "title": "Product Lead",
+        "company": "MobileFirst"
+      },
+      {
+        "text": "Working with this team transformed our entire digital presence. The website they designed not only looks stunning but has significantly improved our conversion rates.",
+        "avatar": "/assets/avatars/avatar-3.png",
+        "avatarSeo": {
+          "altText": "Avatar 3 image",
+          "title": "Avatar 3",
+          "caption": "Image asset for avatar 3 in the avatars section.",
+          "description": "Visual asset used on the Webbly Media website for avatars content."
+        },
+        "name": "Robert William",
+        "title": "Marketing Director",
+        "company": "TechCorp"
+      }
+    ]
+  },
+  "workProcess": {
+    "title": "Our SEO Workflow Process",
+    "description": "At Webbly Media, we create a clear and simple SEO plan to help your business grow online over time. We start by understanding your business goals, then we improve your website in every way possible. Our step-by-step process keeps things clear and efficient.",
+    "steps": [
+      {
+        "title": "Website Check and Analysis",
+        "description": "We start by checking your website's current SEO health, structure, and keyword positions. We use SEO tools to find gaps, errors, and areas for improvement."
+      },
+      {
+        "title": "SEO Strategy Making",
+        "description": "Based on our analysis, we create a customized SEO strategy tailored to your business goals. This includes keyword research, content planning, technical SEO improvements, and a roadmap for achieving better search rankings."
+      },
+      {
+        "title": "Implementation and Optimization",
+        "description": "We implement the SEO strategy by optimizing your website's on-page elements, improving site speed, fixing technical issues, and creating high-quality content."
+      },
+      {
+        "title": "Regular Updates and Reporting",
+        "description": "We provide regular updates on your SEO progress through detailed monthly reports. These reports show keyword rankings, traffic growth, conversion improvements, and other key metrics."
+      },
+      {
+        "title": "Monitoring with GSC and GA4",
+        "description": "We continuously monitor your website's performance using Google Search Console (GSC) and Google Analytics 4 (GA4). This helps us track search impressions, click-through rates, user behavior, and conversion data."
+      }
+    ]
+  },
+  "additionalServices": {
+    "leftSection": {
+      "title": "Say Goodbye to Slow Hosting That's Killing Your Google Rankings",
+      "paragraphs": [
+        "Did you know that a slow website can drop your Google rankings even if your SEO strategy is strong? Yes, many businesses invest heavily in SEO but fail to see results simply because their hosting slows down their site's performance.",
+        "But we don't want you to face the same problem. That's why we built WebblyHost, a premium hosting solution created to significantly boost your website's speed and stability.",
+        "With fast loading times and high uptime, WebblyHost helps your website work well and keeps users interested. Our optimized servers, strong security features, and flexible infrastructure give your site the boost it needs to rank higher and provide a smooth, reliable experience for visitors."
+      ],
+      "buttonText": "DISCOVER WEBBLYHOSTING"
+    },
+    "rightSection": {
+      "title": "We Offer More Than Just SEO Services",
+      "quote": "\"Besides search engine optimization solutions, we provide all other digital services to help you grow online. Look at them below:\"",
+      "services": [
+        {
+          "title": "Digital Marketing",
+          "description": "Our digital marketing services offer every solution you need to grow your business systematically across any kind of channel."
+        },
+        {
+          "title": "Social Media Marketing",
+          "description": "From engagement to conversions, our social media marketing services help you connect with your audience."
+        },
+        {
+          "title": "Google Ads",
+          "description": "If you want instant visibility in Google search results, then our Google Ads management services are your best solution."
+        }
+      ],
+      "buttonText": "GET A FREE QUOTE"
+    }
+  },
+  "contact": {
+    "title": "Rank Higher and Build Your Brand Authority With Webbly Media",
+    "description": "Want to improve your SEO ranking? We are here to take on the duty. Contact us today for professional SEO consulting and management services!\n"
+  }
+}

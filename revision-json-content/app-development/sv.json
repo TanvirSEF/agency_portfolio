@@ -1,0 +1,315 @@
+{
+  "serviceHero": {
+    "badge": "Apputvecklingstjänster",
+    "headingMobile": ["Bygg Appar", "Som Skalar", "Globalt"],
+    "headingDesktop": "Bygg Appar Som Skalar Globalt",
+    "description": "Bygg snabba, säkra och skalbara mobil- och webbapplikationer med Webbly Medias professionella apputvecklingstjänster. Vi skapar anpassade appar som levererar sömlösa upplevelser på alla enheter och plattformar.",
+    "buttonText": "Bygg Din App",
+    "videoSrc": "/revision-images/web-development/ServiceHero/hero-video.mp4",
+    "splineUrl": "https://prod.spline.design/uEXBpVuveykV70S5/scene.splinecode"
+  },
+  "twoColumnSection": {
+    "badge": "Ett Pålitligt Apputvecklingsföretag",
+    "previewText": "På Webbly Media förstår vi globala digitala standarder och hjälper företag att bygga kraftfulla, moderna applikationer. Som en prisbelönt apputvecklingsbyrå skapar vi anpassade mobil- och webbappar som är snabba, säkra och lätta att skala.",
+    "previewTextTablet": "På Webbly Media bygger vi kraftfulla, moderna applikationer med globala digitala standarder. Vi designar anpassade mobil- och webbappar som är snabba, säkra och byggda för tillväxt.",
+    "previewTextMobile": "På Webbly Media bygger vi moderna, högpresterande appar som är säkra, skalbara och gjorda för tillväxt.",
+    "previewTail": "Våra skickliga utvecklare skriver ren kod........",
+    "fullContent": [
+      "På Webbly Media förstår vi globala digitala standarder och hjälper företag att bygga kraftfulla, moderna applikationer. Som en prisbelönt apputvecklingsbyrå skapar vi anpassade mobil- och webbappar som är snabba, säkra och lätta att skala.",
+      "Våra skickliga utvecklare skriver ren, underhållbar kod och designar varje gränssnitt för riktiga användare. Från planering och UX till lansering och optimering fokuserar vi på prestanda, säkerhet och långsiktig tillväxt så att ditt företag kan nå användare överallt med tillförsikt."
+    ],
+    "modalTitle": "Hur Vi Bygger Högpresterande Mobil- och Webbapplikationer",
+    "viewMoreText": "Visa Mer",
+    "imageSrc": "/revision-images/web-development/colleagues-selfie.webp",
+    "imageAlt": "Kollegor tar en selfie på kontoret"
+  },
+  "marqueeSection": {
+    "logos": [
+      { "id": 1, "src": "/revision-images/web-development/marquee-logos/marquee-logo-1.svg", "alt": "Varumärkeslogotyp 1", "width": 164 },
+      { "id": 2, "src": "/revision-images/web-development/marquee-logos/marquee-logo-2.svg", "alt": "Varumärkeslogotyp 2", "width": 132 },
+      { "id": 3, "src": "/revision-images/web-development/marquee-logos/marquee-logo-3.svg", "alt": "Varumärkeslogotyp 3", "width": 154 },
+      { "id": 4, "src": "/revision-images/web-development/marquee-logos/marquee-logo-4.svg", "alt": "Varumärkeslogotyp 4", "width": 146 }
+    ],
+    "logoOrder": [1, 1, 2, 3, 1, 4]
+  },
+  "servicesShowcase": {
+    "badge": "Våra Tjänster",
+    "heading": "Våra Apputvecklingstjänster Inkluderar",
+    "description": "Som en professionell apputvecklingsbyrå erbjuder vi kompletta mobil- och webbapplikationslösningar för företag av alla typer. Läs om hur vi kan hjälpa dig att bygga en funktionell och dynamisk app för ditt företag:",
+    "services": [
+      {
+        "title": "Anpassad Apputveckling",
+        "description": "Våra anpassade applösningar fokuserar på att bygga mobil- och webbapplikationer från grunden skräddarsydda efter dina unika affärsbehov.",
+        "image": "/revision-images/web-development/slide-images/slide-image-1.webp"
+      },
+      {
+        "title": "Plattformsoberoende Apputveckling",
+        "description": "Vi utvecklar plattformsoberoende applikationer som körs sömlöst på både iOS och Android, vilket sparar tid och kostnad.",
+        "image": "/revision-images/web-development/slide-images/slide-image-2.webp"
+      },
+      {
+        "title": "iOS-apputveckling",
+        "description": "Våra iOS-utvecklingstjänster skapar högkvalitativa, funktionsrika applikationer optimerade för iPhone- och iPad-användare.",
+        "image": "/revision-images/web-development/slide-images/slide-image-3.webp"
+      },
+      {
+        "title": "Android-apputveckling",
+        "description": "Vi bygger robusta Android-applikationer som levererar utmärkt prestanda på ett brett utbud av enheter och skärmstorlekar.",
+        "image": "/revision-images/web-development/slide-images/slide-image-4.webp"
+      },
+      {
+        "title": "Progressiva Webbappar (PWA)",
+        "description": "Våra PWA-utvecklingstjänster kombinerar det bästa av webb och mobil för att leverera snabba, pålitliga och engagerande applika upplevelser.",
+        "image": "/revision-images/web-development/slide-images/slide-image-5.webp"
+      },
+      {
+        "title": "UI/UX-design för Appar",
+        "description": "Vi designar intuitiva, moderna och användarvänliga gränssnitt som ökar användarengagemang och retention i din app.",
+        "image": "/revision-images/web-development/slide-images/slide-image-6.webp"
+      },
+      {
+        "title": "API-integration & Backend",
+        "description": "Våra API-integrations- och backendutvecklingstjänster kopplar din app till tredjepartsverktyg och säkerställer pålitligt dataflöde.",
+        "image": "/revision-images/web-development/slide-images/slide-image-7.webp"
+      },
+      {
+        "title": "Apptestning & QA",
+        "description": "Vi utför grundlig testning och kvalitetssäkring för att säkerställa att din app är felfri, säker och presterar bra under alla förhållanden.",
+        "image": "/revision-images/web-development/slide-images/slide-image-8.webp"
+      },
+      {
+        "title": "Appunderhåll & Support",
+        "description": "Våra appunderhållstjänster håller din applikation uppdaterad, säker och igång smidigt med löpande teknisk support.",
+        "image": "/revision-images/web-development/slide-images/slide-image-9.webp"
+      }
+    ]
+  },
+  "mediaFeaturesSection": {
+    "badge": "Vad Du Kan Förvänta Dig Av Våra Apputvecklingstjänster",
+    "heading": "Vi Bygger Appar Som Du Kommer Att Älska!",
+    "description": "På Webbly Media följer vi en tydlig och strukturerad apputvecklingsprocess för att bygga applikationer som stöder verklig affärstillväxt. Först lär vi oss om dina mål och vem som kommer att använda din app.",
+    "videoOverlayTitle": "Omdefinierar Digitala Möjligheter",
+    "videoOverlayDescription": "Vi designar, bygger och skalar teknik för nästa generation.",
+    "videoSrc": "/revision-images/web-development/videos/webblyhosting-video.mp4",
+    "featureCards": [
+      {
+        "title": "Helt Responsiv App",
+        "description": "Vi bygger helt responsiva appar som fungerar felfritt på alla enheter och skärmstorlekar.",
+        "icon": "/revision-images/web-development/icons/rocket-launch.svg"
+      },
+      {
+        "title": "Prestandaoptimering",
+        "description": "Apphastighet och prestanda är viktigt för användare och appbutiksrankningar.",
+        "icon": "/revision-images/web-development/icons/CPU.svg"
+      },
+      {
+        "title": "Appbutiksoptimering",
+        "description": "Vi bygger appar med ASO-bästa praxis för att maximera synlighet och nedladdningar.",
+        "icon": "/revision-images/web-development/icons/monitor.svg"
+      },
+      {
+        "title": "Rent och Intuitivt Gränssnitt",
+        "description": "Vi skapar rena och lättanvända gränssnitt för smidig appnavigering och engagemang.",
+        "icon": "/revision-images/web-development/icons/paint-tray.svg",
+        "wide": true
+      },
+      {
+        "title": "Avancerad Säkerhet",
+        "description": "Säkerhet är en topprioritet i vår apputvecklingsprocess och skyddar användardata på alla nivåer.",
+        "icon": "/revision-images/web-development/icons/Handshake.svg",
+        "wide": true
+      }
+    ]
+  },
+  "stackMarquee": {
+    "heading": "Vi Erbjuder Anpassade Apputvecklingslösningar",
+    "stacks": [
+      { "name": "REACT NATIVE", "src": "/revision-images/web-development/icons/stacks/react.svg" },
+      { "name": "FLUTTER", "src": "/revision-images/web-development/icons/stacks/django.svg" },
+      { "name": "SWIFT", "src": "/revision-images/web-development/icons/stacks/next-js.svg" },
+      { "name": "KOTLIN", "src": "/revision-images/web-development/icons/stacks/laravel.svg" },
+      { "name": "NEXT.JS", "src": "/revision-images/web-development/icons/stacks/next-js.svg" },
+      { "name": "NODE.JS", "src": "/revision-images/web-development/icons/stacks/mern-stack.svg" },
+      { "name": "REACT.JS", "src": "/revision-images/web-development/icons/stacks/react.svg" },
+      { "name": "TYPESCRIPT", "src": "/revision-images/web-development/icons/stacks/css.svg" },
+      { "name": "FIREBASE", "src": "/revision-images/web-development/icons/stacks/mysql.svg" },
+      { "name": "MONGODB", "src": "/revision-images/web-development/icons/stacks/mongodb.svg" },
+      { "name": "GRAPHQL", "src": "/revision-images/web-development/icons/stacks/php.svg" },
+      { "name": "AWS", "src": "/revision-images/web-development/icons/stacks/wix.svg" },
+      { "name": "DOCKER", "src": "/revision-images/web-development/icons/stacks/shopify.svg" },
+      { "name": "PYTHON", "src": "/revision-images/web-development/icons/stacks/python.svg" }
+    ]
+  },
+  "helpBuildWeb": {
+    "badge": "Vår Apputvecklingsprocess",
+    "heading": "Hur Vi Hjälper Dig Som Expert Apputvecklingsbyrå",
+    "processCards": [
+      {
+        "title": "Analys & Forskning",
+        "description": "Vi börjar med att förstå ditt företag, dina mål och din målgrupp.",
+        "icon": "/revision-images/web-development/icons/HelpBuildWeb/content_paste_search.svg"
+      },
+      {
+        "title": "Modern UI/UX Design",
+        "description": "Vi designar rena, moderna och användarvänliga appgränssnitt och flöden.",
+        "icon": "/revision-images/web-development/icons/HelpBuildWeb/brush.svg"
+      },
+      {
+        "title": "Apputveckling",
+        "description": "Efter designgodkännande förvandlar vi idéer till en funktionell, högpresterande applikation.",
+        "icon": "/revision-images/web-development/icons/HelpBuildWeb/ad_group.svg"
+      },
+      {
+        "title": "Testning & Lansering",
+        "description": "Innan lansering testar vi allt noggrant på alla enheter och plattformar.",
+        "icon": "/revision-images/web-development/icons/HelpBuildWeb/bug_report.svg"
+      }
+    ]
+  },
+  "webAgencyWhyChooseUs": {
+    "badge": "Vad Du Kan Förvänta Dig Av Våra Apputvecklingstjänster",
+    "headingLine1": "Varför Välja Oss Som Din",
+    "headingLine2": "Apputvecklingsbyrå",
+    "description": "På Webbly Media bygger vi inte bara appar; vi skapar pålitliga digitala produkter som stöder långsiktig affärstillväxt och framgång. Våra expertutvecklare kombinerar strategi, ren kod och modern design för att leverera applikationer som presterar och skalar med tillförsikt.",
+    "videoSrc": "/revision-images/web-development/videos/webblyhosting-video.mp4",
+    "experienceTitle": "Erfarenhet vi har\nuppnått",
+    "awardItems": [
+      "7+ Års Erfarenhet",
+      "5-Stjärniga Applösningar",
+      "Tydlig Kommunikation & Support Dygnet Runt",
+      "Kundnöjdhetsgaranti"
+    ],
+    "conversionValue": "41%",
+    "conversionLabel": "Konverterings-\ntillväxt",
+    "conversionDescription": "Vi integrerar sömlöst datainsikter i designprocessen och säkerställer att din app-UX/UI inte bara är visuellt tilltalande utan strategiskt anpassad till dina affärsmål.",
+    "hostingTitle": "Låt Inte Dålig Hosting\nFörstöra Din Högkvalitativa\nApplikation",
+    "hostingBackText": "Visste du att även en välbyggd applikation kan misslyckas på grund av dålig hosting? Ja, många företag investerar i professionell apputveckling, men upplever ändå långsam laddning, driftstopp och prestandaproblem på grund av svag hostinginfrastruktur.\nWebblyHosting är vår premiumhostingtjänst designad för att stödja dig.",
+    "hostingButtonText": "Upptäck WebblyHost",
+    "hostingImageSrc": "/revision-images/web-development/icons/WebAgencyWhyChooseUs/profile-pic.png",
+    "webblyIconSrc": "/revision-images/web-development/icons/WebAgencyWhyChooseUs/webbly-white-icon.svg",
+    "spiralBgSrc": "/revision-images/web-development/icons/WebAgencyWhyChooseUs/spairal.svg"
+  },
+  "stickySection": {
+    "headingLine1": "Vi Erbjuder Mer Än Bara",
+    "headingLine2": "Apputvecklingstjänster",
+    "items": [
+      {
+        "number": "01",
+        "title": "Webbutveckling",
+        "description": "Våra webbutvecklingstjänster skapar snabba, säkra och skalbara webbplatser med responsiva layouter och smidig navigering.",
+        "tags": ["Utförande", "Planering"]
+      },
+      {
+        "number": "02",
+        "title": "Webbdesign",
+        "description": "Våra webbdesigntjänster skapar rena, moderna och användarvänliga gränssnitt med responsiva layouter och smidig navigering.",
+        "tags": ["Utförande", "Planering"]
+      },
+      {
+        "number": "03",
+        "title": "Digital Marknadsföring",
+        "description": "Våra digitala marknadsföringstjänster hjälper till att öka synlighet, engagemang och leads genom SEO, sociala medier och betalda kampanjer.",
+        "tags": ["Utförande", "Planering"]
+      }
+    ],
+    "images": [
+      "/revision-images/web-development/StickySection/sticky-image-1.webp",
+      "/revision-images/web-development/StickySection/sticky-image-2.webp",
+      "/revision-images/web-development/StickySection/sticky-image-3.webp"
+    ]
+  },
+  "serviceKeyFacts": {
+    "headingLine1": "Viktiga Fakta Att Känna Till Om",
+    "headingLine2": "Apputveckling",
+    "subtitle": "Apputveckling hjälper företag att nå användare på mobila och webbplattformar. Här är några viktiga fakta att förstå:",
+    "videoSrc": "/revision-images/web-development/videos/webblyhosting-video.mp4",
+    "keyFacts": [
+      {
+        "id": "types-of-app-development-services",
+        "title": "Typer av Apputvecklingstjänster",
+        "description": "Apputvecklingstjänster hjälper företag att bygga funktionella, snabba och användarvänliga applikationer. Dessa tjänster delas huvudsakligen in i native apputveckling, plattformsoberoende utveckling och progressiva webbappar, var och en anpassad för olika affärsbehov och budgetar.",
+        "hasVideo": true
+      },
+      {
+        "id": "what-does-an-app-development-company-do",
+        "title": "Vad Gör Ett Apputvecklingsföretag?",
+        "description": "Ett apputvecklingsföretag som Webbly Media hjälper företag att bygga kraftfulla, pålitliga och tillväxtfokuserade mobil- och webbapplikationer. Vi tar hand om allt från planering och design till utveckling, testning och support.<br><br>Vårt mål är att bygga appar som ser professionella ut och presterar bra. Vi hanterar både front-end och back-end utveckling för att säkerställa att din app är snabb, säker och skalbar. Vi ser också till att din applikation är optimerad för appbutiker, användarvänlig och byggd för hög prestanda.<br><br>Innan lansering testar vi noggrant varje funktion på alla enheter. Efter lansering fortsätter vi att erbjuda underhåll, uppdateringar och teknisk support. Kort sagt, vi förvandlar dina idéer till effektiva digitala lösningar som hjälper ditt företag att växa med tillförsikt.",
+        "hasVideo": false
+      },
+      {
+        "id": "why-hire-an-app-development-firm",
+        "title": "Varför Anlita En Apputvecklingsbyrå?",
+        "description": "När det gäller att bygga en professionell applikation säkerställer en byrå som Webbly Media att ditt projekt hanteras korrekt. Vi är din partner i digital tillväxt och skapar appar som stöder dina affärsmål.<br><br>Vårt team hjälper dig att planera, designa och utveckla din applikation effektivt. Vi organiserar varje steg, från wireframes och design till kodning och testning, och säkerställer högkvalitativa resultat samtidigt som vi sparar tid åt dig.<br><br>Vi tar också itu med de tekniska utmaningar som många företag möter. Våra utvecklare hanterar allt från front-end och back-end arbete till API-integration, säkerhet och prestandaoptimering. På så sätt kan du fokusera på att driva ditt företag medan vi bygger en sömlös app åt dig.<br><br>Sammanfattningsvis ger anlitandet av en apputvecklingsbyrå dig expertis, pålitlighet och löpande support. Med vår hjälp kommer din applikation att vara optimerad, skalbar och redo att hjälpa ditt varumärke växa på alla plattformar.",
+        "hasVideo": false
+      },
+      {
+        "id": "benefits-of-hiring-an-app-agency",
+        "title": "Fördelar Med Att Anlita En Apputvecklingsbyrå",
+        "description": "Att anlita ett professionellt apputvecklingsföretag erbjuder tydliga fördelar för företag som vill skapa högkvalitativa och skalbara applikationer. Här är de huvudsakliga fördelarna:<br><br>Expertteam & Kompetens<br>Byråer har team av designers, utvecklare och testare med olika kompetenser. Detta säkerställer att din applikation byggs effektivt och professionellt.<br><br>Snabbare Leverans & Strukturerad Process<br>Med organiserade arbetsflöden och projektledning slutför byråer applikationer snabbare än enskilda frilansare samtidigt som kvalitetsstandarder upprätthålls.<br><br>Anpassade & Skalbara Lösningar<br>Byråer skapar applikationer skräddarsydda efter dina affärsbehov, till skillnad från generiska mallar. Din app kan växa och utvecklas i takt med att ditt företag expanderar.<br><br>Bättre Användarupplevelse & Prestanda<br>Apputvecklingsföretag fokuserar på intuitiv design, snabba laddningstider och smidig funktionalitet för att öka användarengagemang och konverteringar.<br><br>Långsiktig Support & Underhåll<br>Byråer tillhandahåller löpande uppdateringar, säkerhetspatchar och teknisk support för att hålla din applikation igång bra.<br><br>Högre ROI & Pålitlighet<br>En professionellt byggd applikation attraherar fler användare, leads och intäkter över tid och levererar bestående värde.",
+        "hasVideo": false
+      },
+      {
+        "id": "native-vs-cross-platform-development",
+        "title": "Native vs Plattformsoberoende Apputveckling",
+        "description": "Native appar byggs specifikt för en plattform (iOS eller Android) med plattformsspecifika språk som Swift eller Kotlin. De erbjuder bäst prestanda och användarupplevelse men kräver separata kodbaser. Plattformsoberoende appar använder ramverk som React Native eller Flutter för att köras på båda plattformarna från en enda kodbas, vilket sparar tid och kostnad. På Webbly Media hjälper vi dig att välja rätt tillvägagångssätt baserat på dina affärsmål, budget och målgrupp.",
+        "hasVideo": false
+      },
+      {
+        "id": "importance-of-app-ui-ux-design",
+        "title": "Vikten Av App UI/UX-design",
+        "description": "Bra UI/UX-design är avgörande för appframgång. Den bestämmer hur användare interagerar med din applikation och påverkar engagemang, retention och konverteringar. En väldesignad app är intuitiv, visuellt tilltalande och lätt att navigera. Dålig design kan frustrera användare och leda till avinstallationer. På Webbly Media prioriterar vi användarcentrerad design för att skapa appgränssnitt som är både vackra och funktionella, och säkerställer en positiv upplevelse som får användare att återkomma.",
+        "hasVideo": false
+      },
+      {
+        "id": "why-is-app-performance-important",
+        "title": "Varför Är Appprestanda Viktigt?",
+        "description": "Användare förväntar sig att appar laddar snabbt och svarar omedelbart. Långsamma eller laggiga appar leder till dåliga recensioner, låg retention och förlorade intäkter. Prestandaoptimering inkluderar effektiv kod, optimerade bilder, smart caching och pålitlig backendinfrastruktur. En högpresterande app förbättrar användarnöjdheten, ökar appbutiksrankningar och ökar engagemanget. Genom att fokusera på prestanda från dag ett förblir ditt företag konkurrenskraftigt och levererar den smidiga upplevelse som användare kräver.",
+        "hasVideo": false
+      }
+    ]
+  },
+  "getAQuote": {
+    "headingLine1": "Bygg Högpresterande",
+    "headingLine2": "Appar Med Webbly Media",
+    "description": "Oavsett om du är en startup eller ett stort företag hjälper vi dig att designa, utveckla och skala kraftfulla mobil- och webbapplikationer som driver tillväxt.",
+    "buttonText": "FÅ EN OFFERT",
+    "backgroundImage": "/revision-images/web-development/GetAQuote/CTA.webp",
+    "backgroundImageAlt": "Team som samarbetar kring apputvecklingsplanering"
+  },
+  "revisionFaqSection": {
+    "title": "Vanliga Frågor",
+    "subtitle": "Om du har frågor om våra apputvecklings- och digitala tjänster, titta på våra vanliga frågor. Du kan lära dig om våra planer.",
+    "contactHeading": "Bygg Hög-\npresterande Appar\nMed Webbly Media",
+    "email": "Webblymedia@gmail.se",
+    "phone": "+1-800-123-4567",
+    "askQuestionButton": "Ställ En Fråga",
+    "profileImage": "/revision-images/web-development/RevisionFaqSection/profile.png",
+    "faqs": [
+      {
+        "id": 1,
+        "question": "Vad Gör Webbly Media Till Den Bästa Apputvecklingsbyrån?",
+        "answer": "Webbly Media utmärker sig genom expertservice, bevisade resultat och dedikerad support. Vårt kreativa team kombinerar innovation, strategi och teknik för att hjälpa företag bygga framgångsrika mobil- och webbapplikationer."
+      },
+      {
+        "id": 2,
+        "question": "Kan Webbly Media Utveckla Anpassade Mobil- och Webbappar?",
+        "answer": "Ja, vi är specialiserade på att bygga anpassade mobil- och webbapplikationer skräddarsydda efter dina affärsbehov. Vårt utvecklingsteam skapar skalbara, säkra och högpresterande lösningar från grunden för iOS, Android och webben."
+      },
+      {
+        "id": 3,
+        "question": "Bygger Ni Appar för Både iOS och Android?",
+        "answer": "Absolut. Vi utvecklar native appar för både iOS och Android, samt plattformsoberoende lösningar med React Native och Flutter för att nå en bredare publik effektivt."
+      },
+      {
+        "id": 4,
+        "question": "Hur Arbetar Ni Från Upptäckt Till Applansering?",
+        "answer": "Vi följer en strukturerad process: upptäckt, planering, design, utveckling, testning och lansering. Varje fas inkluderar samarbete med klienten för att säkerställa att slutprodukten uppfyller dina förväntningar och fungerar felfritt."
+      },
+      {
+        "id": 5,
+        "question": "Erbjuder Ni Löpande Appunderhåll och Support?",
+        "answer": "Ja, vi erbjuder kontinuerligt underhåll, uppdateringar, buggfixar och prestandaövervakning för att säkerställa att din app förblir säker, uppdaterad och fungerar smidigt efter lansering."
+      }
+    ]
+  }
+}

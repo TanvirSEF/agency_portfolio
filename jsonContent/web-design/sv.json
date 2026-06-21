@@ -1,0 +1,545 @@
+{
+  "pageMetadata": {
+    "routeSlugs": [
+      {
+        "path": "web-design",
+        "slug": "webbdesign"
+      },
+      {
+        "path": "services/web-design",
+        "slug": "tjanster/webbdesign"
+      }
+    ],
+    "routeMetadata": [
+      {
+        "path": "web-design",
+        "title": "Webbdesigntjanster | Webbly Media"
+      },
+      {
+        "path": "services/web-design",
+        "title": "Webbdesignbyra tjanster | Webbly Media"
+      }
+    ]
+  },
+  "otherHero": {
+    "pageName": "Webbdesigntjänster",
+    "title": "Responsiva & konverteringsfokuserade designer",
+    "description": "Få en modern, lättanvänd webbdesign med Webbly Medias professionella webbdesigntjänster. Vi designar anpassade layouter som levererar smidig navigering och konsekventa upplevelser på alla enheter. Oavsett om du behöver en design för din företagswebbplats, landningssida eller e-handelsbutik kan vår webbdesignbyrå hjälpa dig. Välj din plan idag och lansera en webbplats som lockar användare.",
+    "buttonText": "Boka ett samtal",
+    "mainImage": {
+      "src": "/assets/images/all-hero/Web-Design-Hero.jpg",
+      "alt": "Web Design hero image",
+      "title": "WEB Design Hero",
+      "caption": "Bildresurs for web design hero i sektionen all hero.",
+      "description": "Visuell resurs som anvands pa Webbly Medias webbplats for all hero-innehall."
+    },
+    "floatingImageSrc": "/assets/images/seo-hero-float.svg",
+    "floatingImageAlt": "Side blur decoration",
+    "floatingImageTitle": "SEO Hero Flytande Ikon",
+    "floatingImageCaption": "Flytande ikon som anvands i SEO-hero.",
+    "floatingImageDescription": "Dekorativ SEO-symbol i hero-bilden."
+  },
+  "companyIntro": {
+    "brandName": "Webbly Media",
+    "title": "Ett topprankat webbdesignföretag",
+    "description": "På Webbly Media förstår vi globala designstandarder och hjälper företag att skapa visuellt tilltalande, användarfokuserade webbplatser. Som en ledande webbyrå skapar vi webbplatser som är lätta att använda, laddar snabbt och anpassar sig till alla enheter. Vårt team fokuserar på användarupplevelse (UX), responsiv design och varumärkeskonsistens genom hela designprocessen. Kunder väljer Webbly Media eftersom våra designer uppfyller deras förväntningar och stödjer verklig företagstillväxt. Vi arbetar med små och medelstora företag, e-handelsvarumärken, startups, entreprenörer, storföretag, ideella organisationer, SaaS-varumärken och teknikföretag. Oavsett din bransch designar vi webbplatser som lockar besökare, bygger förtroende och driver resultat. Välj Webbly Media för en webbplats som hjälper dig att växa. Börja idag och se din online-närvaro förbättras.",
+    "buttonText": "Läs mer om oss",
+    "image1": "/assets/images/fist-trust.jpg",
+    "image1Seo": {
+      "altText": "Trust and partnership",
+      "title": "Fist Trust",
+      "caption": "Bildresurs for fist trust i sektionen images.",
+      "description": "Visuell resurs som anvands pa Webbly Medias webbplats for images-innehall."
+    },
+    "image2": "/assets/images/star-award.jpg",
+    "image2Seo": {
+      "altText": "Award and recognition",
+      "title": "Star Award",
+      "caption": "Bildresurs for star award i sektionen images.",
+      "description": "Visuell resurs som anvands pa Webbly Medias webbplats for images-innehall."
+    }
+  },
+  "contentImageSplit": {
+    "title": "Sluta förlora kunder på grund av dålig webbdesign",
+    "paragraphs": [
+      "Skrämmer din webbplats bort besökare? Långsamma, föråldrade eller förvirrande webbplatser kan orsaka detta. Om din webbplats inte är enkel att använda, mobilanpassad eller designad för att omvandla besökare till kunder, missar du försäljning och tillväxt.",
+      "På Webbly Media bygger vi webbplatser som hjälper dig att växa. Vårt team skapar rena, moderna webbplatser som fungerar på alla enheter och gör det enkelt för besökare att agera. Oavsett om du behöver en ny webbplats eller vill fräscha upp din nuvarande är vi redo att hjälpa. Vi fokuserar på snabba laddningstider, enkel navigering och designer som uppmuntrar människor att kontakta dig, köpa eller lära sig mer. Vi designar webbplatser som lockar besökare och förvandlar dem till lojala kunder.",
+      "Redo att förvandla din webbplats till en högkonverterande digital tillgång? Kontakta Webbly Media idag och låt oss designa en webbplats som håller användare engagerade och får dem att komma tillbaka."
+    ],
+    "image": {
+      "src": "/assets/images/seo-question-image.png",
+      "alt": "Content Image Split",
+      "title": "SEO Question Image",
+      "caption": "Bildresurs for seo question image i sektionen images.",
+      "description": "Visuell resurs som anvands pa Webbly Medias webbplats for images-innehall."
+    }
+  },
+  "digitalServices": {
+    "mainTitle": "Våra webbdesigntjänster inkluderar",
+    "mainDescription": "Som ett expertwebbdesignföretag erbjuder vi kompletta webbdesignlösningar för företag i alla storlekar. Här är vad vi erbjuder:"
+  },
+  "serviceCards": [
+    {
+      "title": "ANPASSAD WEBBDESIGN",
+      "description": "Vi designar anpassade webbplatser som matchar ditt varumärke och stödjer dina mål. Våra webbplatser är lätta att använda och guidar besökare att agera."
+    },
+    {
+      "title": "UI/UX-DESIGN FÖR WEBBPLATSER",
+      "description": "Våra UI/UX-designtjänster fokuserar på användbarhet, tydlighet och smidiga användarresor för att minska friktion och förbättra engagemang."
+    },
+    {
+      "title": "OMDESIGN & FÖRNYELSE AV WEBBPLATS",
+      "description": "Om din webbplats ser föråldrad ut eller inte fungerar bra kan vi omdesigna den så att den ser bättre ut, fungerar snabbare och hjälper dig att få fler leads och mer försäljning."
+    },
+    {
+      "title": "DESIGN AV LANDNINGSSIDOR",
+      "description": "Vi designar landningssidor optimerade för leadsgenerering och kampanjer. Varje sida är designad med tydliga budskap och starka CTA:er."
+    },
+    {
+      "title": "E-HANDELSWEBBDESIGN",
+      "description": "Våra e-handelswebbdesigntjänster fokuserar på produktpresentation, enkel navigering och smidiga kassaupplevelser."
+    },
+    {
+      "title": "SAAS-WEBBDESIGN",
+      "description": "Vi designar SaaS-webbplatser med fokus på användarflöde, tydlig onboarding och konverteringsoptimering för att stödja registreringar och produktadoption."
+    },
+    {
+      "title": "FÖRETAGS- & AFFÄRSWEBBDESIGN",
+      "description": "Vi skapar professionella webbplatser för företag som lyfter fram tjänster, team och expertis för att bygga förtroende hos publiken."
+    },
+    {
+      "title": "VARUMÄRKESIDENTITET & VISUELL DESIGN",
+      "description": "Vi hjälper dig att bygga ett starkt varumärke. Från logotyper till färger, typsnitt och visuella element ser vi till att ditt varumärke ser likadant ut överallt online."
+    },
+    {
+      "title": "DESIGNSYSTEM & STILGUIDER",
+      "description": "Vi skapar stilguider för att säkerställa att din webbplats och digitala innehåll ser konsekvent ut på varje sida och plattform."
+    }
+  ],
+  "companyPotentials": {
+    "subtitle": "Vad du får med våra webbdesigntjänster",
+    "title": "Vi designar webbplatser du kommer att älska!",
+    "features": [
+      {
+        "title": "Pixelperfekt UI/UX",
+        "description": "Vi designar pixelperfekt webbplats-UI/UX med uppmärksamhet på detaljer. Våra layouter fokuserar på tydlighet, balans och smidiga interaktioner som gör webbplatser lätta och trevliga att använda."
+      },
+      {
+        "title": "Mobile-First & Responsiva layouter",
+        "description": "Vi följer en mobile-first-designmetod för att säkerställa att din webbplats ser bra ut på alla enheter. Varje layout anpassar sig smidigt till mobil-, surfplatte- och datorskärmar."
+      },
+      {
+        "title": "Konverteringsfokuserad webbdesign",
+        "description": "Våra webbdesigner är skapade för att driva handling. Vi strukturerar sidor, knappar och innehållsflöde för att förbättra engagemang, generera leads och öka konverteringar effektivt."
+      },
+      {
+        "title": "Varumärkesfokuserad visuell design",
+        "description": "Vi designar webbplatser som tydligt speglar din varumärkesidentitet. Från färger och typografi till visuella element och layout är varje element anpassat efter ditt varumärkesbudskap och värderingar."
+      },
+      {
+        "title": "Ren & Intuitiv webbplatsstruktur",
+        "description": "Vi organiserar webbplatsinnehåll i en ren och logisk struktur. Detta hjälper användare att hitta information enkelt och förbättrar navigering, användbarhet och övergripande användarupplevelse."
+      },
+      {
+        "title": "Utvecklingsklara designfiler",
+        "description": "Vi levererar rena, välorganiserade designfiler som är redo för utveckling. Våra designer säkerställer smidig överlämning till utvecklare och påskyndar utvecklingsprocessen."
+      }
+    ]
+  },
+  "workProcess": {
+    "subtitle": "Vår webbdesignprocess",
+    "title": "Hur vi hjälper dig som en expert webbyrå",
+    "description": "På Webbly Media använder vi en steg-för-steg webbdesignprocess för att bygga webbplatser som lockar besökare och hjälper ditt företag att växa. Vi börjar med att lära oss om ditt varumärke och dina mål, sedan planerar, designar, förfinar och levererar vi en webbplats du kommer att vara stolt över. Vårt tillvägagångssätt håller saker tydliga och effektiva från start till mål.",
+    "steps": [
+      {
+        "title": "Upptäckt & Kravanalys",
+        "description": "Vi börjar med att förstå ditt företag, varumärkesidentitet, mål och målgrupp. Vårt team analyserar din bransch, konkurrenter och användarförväntningar för att definiera tydliga designkrav. Detta steg hjälper oss att planera en webbplatsstruktur och designriktning som stödjer dina affärsmål."
+      },
+      {
+        "title": "Wireframing & UX-planering",
+        "description": "Nästa steg skapar vi wireframes och planerar användarupplevelsen (UX). Detta steg fokuserar på layoutstruktur, navigeringsflöde och innehållsplacering. Vårt mål är att göra webbplatsen intuitiv, lätt att navigera och användarvänlig från allra första interaktionen."
+      },
+      {
+        "title": "UI-design & Visuell varumärkesprofilering",
+        "description": "Våra designers skapar rena, moderna och visuellt engagerande användargränssnitt som speglar din varumärkesidentitet. Vi fokuserar på färger, typografi, bilder och designelement som bygger förtroende och skapar en stark visuell effekt. Varje designval görs för att förbättra användbarhet och varumärkesigenkänning."
+      },
+      {
+        "title": "Responsiv designoptimering",
+        "description": "Vi säkerställer att din webbdesign ser bra ut och fungerar perfekt på alla enheter, inklusive datorer, surfplattor och smartphones. Vår mobilanpassade designmetod levererar konsekventa visuella element, smidig navigering och en optimal användarupplevelse på varje skärmstorlek."
+      },
+      {
+        "title": "Designgranskning & Revideringar",
+        "description": "Vi delar designen med dig för feedback och granskning. Baserat på din input förfinar och förbättrar vi designen tills den uppfyller dina förväntningar. Denna samarbetsprocess säkerställer att den slutliga designen stämmer perfekt överens med din vision och affärsmål."
+      },
+      {
+        "title": "Designöverlämning & Support",
+        "description": "När designen är slutförd förbereder vi och överlämnar alla designtillgångar till utvecklingsteamet eller ditt interna team. Vi erbjuder också designsupport under implementeringen för att säkerställa att den slutliga webbplatsen matchar den godkända designen korrekt och fungerar som avsett."
+      }
+    ]
+  },
+  "benefits": {
+    "title": "Viktiga fakta att veta om webbdesigntjänster",
+    "subtitle": "",
+    "benefits": [
+      {
+        "title": "Typer av webbdesigntjänster",
+        "description": "Det finns olika typer av webbdesignlösningar som passar dina affärsbehov, användarmål och webbplatsens syfte. Här är de tre vanligaste typerna:<br><br>Anpassad webbdesign<br>Anpassad webbdesign fokuserar på att skapa unika layouter och visuella upplevelser skräddarsydda för ditt varumärke. Dessa designer speglar din företagsidentitet, målgrupp och mål. Anpassad design säkerställer flexibilitet, skalbarhet och en stark varumärkesnärvaro online.<br><br>UI/UX-webbdesign<br>UI/UX-webbdesign betonar användbarhet och användarupplevelse. Den fokuserar på tydlig navigering, intuitiva layouter och smidiga interaktioner. Denna typ av design hjälper besökare att hitta information enkelt, stanna längre på din webbplats och agera med förtroende.<br><br>E-handel & Konverteringsfokuserad design<br>E-handel och konverteringsfokuserad webbdesign syftar till att öka försäljning och leads. Den inkluderar optimerade produktsidor, tydliga uppmaningar till handling och smidiga användarresor. Detta tillvägagångssätt är idealiskt för företag som vill ha mätbara resultat från sina webbplatser.<br><br>Varje typ är väsentlig för att skapa attraktiva, användarvänliga och måldrivna webbplatser som stödjer ditt företags tillväxt."
+      },
+      {
+        "title": "Vad gör ett webbdesignföretag?",
+        "description": "Webbdesignbyråer som Webbly Media bygger webbplatser som ser bra ut och är lätta att använda. Vi hanterar allt – från att lära oss om ditt varumärke och mål till planering, design och förberedelse av din webbplats för lansering.<br><br>Vårt team fokuserar på att skapa rena, moderna och intuitiva designer som stämmer överens med din varumärkesidentitet. Vi säkerställer att din webbdesign är responsiv, tillgänglig och optimerad för användarupplevelse på alla enheter.<br><br>Innan slutleverans granskar och förfinar vi designer för att säkerställa kvalitet och konsekvens. Vi stödjer också utvecklare under implementeringen för att se till att den slutliga webbplatsen matchar den godkända designen korrekt."
+      },
+      {
+        "title": "Varför anlita en professionell webbdesignbyrå?",
+        "description": "En fantastisk webbplats kräver planering, kreativitet och expertis. Att anlita professionella innebär att din webbplats byggs med omsorg och syfte.<br><br>På Webbly Media förvandlar vi dina affärsmål till effektiva webbdesigner. Vi tar hand om designplanering, användarupplevelse och varumärkesprofilering – och sparar dig tid och ansträngning.<br><br>Vi undviker också vanliga misstag som kan förvirra användare eller minska konverteringar. Genom att lita på experter får du en webbdesign som stödjer användbarhet, trovärdighet och företagstillväxt."
+      },
+      {
+        "title": "Fördelar med att anlita ett webbdesignföretag",
+        "description": "Att arbeta med en expert webbyrå ger dig många fördelar när du bygger din online-närvaro. Här är viktiga fördelar:<br><br>Expertdesigners & UX-specialister<br>Webbdesignföretag har skickliga designers och UX-experter som förstår visuell hierarki, användbarhet och varumärkesprinciper.<br><br>Strukturerad designprocess<br>Byråer följer organiserade arbetsflöden som säkerställer konsekvens, effektivitet och leverans i tid utan att kompromissa med kvaliteten.<br><br>Anpassade & Skalbara designer<br>Professionella designers skräddarsyr din webbplats efter dina behov. Din webbplats kan växa i takt med att ditt företag växer.<br><br>Förbättrad användarupplevelse & Engagemang<br>Välplanerade designer håller användare engagerade, minskar avvisningsfrekvensen och uppmuntrar konverteringar.<br><br>Varumärkeskonsistens & Trovärdighet<br>En professionell webbplats bygger förtroende och gör ditt varumärke starkare online.<br><br>Långsiktigt värde & Högre ROI<br>En användarvänlig webbplats lockar fler besökare, stödjer din marknadsföring och ger dig långsiktigt värde."
+      },
+      {
+        "title": "Hur anpassad webbdesign skiljer sig från webbplatsmallar",
+        "description": "Anpassad webbdesign skapas specifikt för ditt varumärke, mål och publik. Den erbjuder fullständig kontroll över layout, visuella element och användarupplevelse. Dessa designer är flexibla, skalbara och optimerade för konverteringar.<br><br>Webbplatsmallar å andra sidan är generiska och begränsar anpassning. De saknar ofta unikhet och kanske inte fullt ut stödjer dina affärsmål. På Webbly Media designar vi anpassade webbplatser som är unika och levererar långsiktigt värde utöver standardmallar."
+      },
+      {
+        "title": "Vikten av användarcentrerad webbdesign",
+        "description": "Användarcentrerad webbdesign fokuserar på besökarnas behov, beteenden och förväntningar. Den säkerställer att webbplatsen är lätt att navigera, visuellt tydlig och intuitiv att använda.<br><br>När du fokuserar på användare blir din webbplats mer engagerande och effektiv. Enkla layouter och lätt navigering håller besökare nöjda och uppmuntrar dem att agera. Detta tillvägagångssätt bygger förtroende och förbättrar dina resultat."
+      },
+      {
+        "title": "Varför är mobile-first webbdesign så viktig?",
+        "description": "De flesta användare surfar nu på webbplatser via mobila enheter. Mobile-first webbdesign säkerställer att webbplatser designas för mindre skärmar först och sedan anpassas för större enheter.<br><br>Detta tillvägagångssätt förbättrar laddningshastighet, användbarhet och tillgänglighet på smartphones och surfplattor. Det stödjer också bättre SEO-prestanda, eftersom sökmotorer prioriterar mobilanpassade webbplatser mest. Genom att fokusera på mobilanvändare kan företag nå bredare publiker, förbättra engagemang och förbli konkurrenskraftiga online."
+      }
+    ]
+  },
+  "cardSlider": {
+    "subtitle": "Teknik vi använder",
+    "title": "Anpassade webbdesignlösningar för alla företag",
+    "cards": [
+      {
+        "title": "ADOBE XD",
+        "description": "Vi använder Adobe XD för att designa moderna, interaktiva webbplatsprototyper och wireframes. Det hjälper oss att skapa användarvänliga layouter och testa designkoncept före utveckling.",
+        "image": "/assets/images/PPC/icons/docs-search-1.svg",
+        "imageSeo": {
+          "altText": "Bild for Docs Search 1",
+          "title": "Docs Search 1",
+          "caption": "Bildresurs for docs search 1 i sektionen icons.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for icons-innehall."
+        }
+      },
+      {
+        "title": "FIGMA",
+        "description": "Figma är vårt favoritverktyg för samarbetsbaserad webbdesign. Vi använder det för att skapa responsiva layouter, designsystem och UI-komponenter som säkerställer konsekvens över din webbplats.",
+        "image": "/assets/images/PPC/icons/keyword-research-2.svg",
+        "imageSeo": {
+          "altText": "Bild for Keyword Research 2",
+          "title": "Keyword Research 2",
+          "caption": "Bildresurs for keyword research 2 i sektionen icons.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for icons-innehall."
+        }
+      },
+      {
+        "title": "SKETCH",
+        "description": "Sketch hjälper oss att designa rena, skalbara webbplatsgränssnitt. Vi använder det för att skapa pixelperfekta designer som smidigt översätts till utvecklingsklara tillgångar.",
+        "image": "/assets/images/PPC/icons/audience-research-3.svg",
+        "imageSeo": {
+          "altText": "Ikon for malgruppsanalys",
+          "title": "Malgruppsanalys Ikon",
+          "caption": "Ikon som representerar malgrupps- och marknadsanalys.",
+          "description": "PPC-ikon for targeting och malgruppsinsikter."
+        }
+      },
+      {
+        "title": "ADOBE PHOTOSHOP",
+        "description": "Vi använder Photoshop för avancerad bildredigering, visuella effekter och för att skapa anpassad grafik som förbättrar din webbplats visuella tilltal och varumärkesidentitet.",
+        "image": "/assets/images/PPC/icons/competitor-analysis-4.svg",
+        "imageSeo": {
+          "altText": "Ikon for konkurrentanalys",
+          "title": "Konkurrentanalys Ikon",
+          "caption": "Ikon som representerar bevakning av konkurrenter.",
+          "description": "PPC-strategiikon for konkurrensanalys."
+        }
+      },
+      {
+        "title": "ADOBE ILLUSTRATOR",
+        "description": "Illustrator låter oss skapa vektorgrafik, logotyper och ikoner som skalar perfekt över alla enheter utan att förlora kvalitet.",
+        "image": "/assets/images/PPC/icons/conversion-tracking-5.svg",
+        "imageSeo": {
+          "altText": "Bild for Conversion Tracking 5",
+          "title": "Conversion Tracking 5",
+          "caption": "Bildresurs for conversion tracking 5 i sektionen icons.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for icons-innehall."
+        }
+      },
+      {
+        "title": "INVISION",
+        "description": "Vi använder InVision för att skapa interaktiva prototyper och samla feedback under designprocessen, vilket säkerställer att den slutliga designen uppfyller dina förväntningar.",
+        "image": "/assets/images/PPC/icons/campaign-structure-6.svg",
+        "imageSeo": {
+          "altText": "Bild for Campaign Structure 6",
+          "title": "Campaign Structure 6",
+          "caption": "Bildresurs for campaign structure 6 i sektionen icons.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for icons-innehall."
+        }
+      },
+      {
+        "title": "ZEPLIN",
+        "description": "Zeplin hjälper oss att överlämna designer till utvecklare med exakta specifikationer, vilket säkerställer korrekt implementering av designelement och avstånd.",
+        "image": "/assets/images/PPC/icons/copywriting-optimization-7.svg",
+        "imageSeo": {
+          "altText": "Ikon for annonscopy-optimering",
+          "title": "Copy Optimering Ikon",
+          "caption": "Ikon som representerar copywriting och textforbattring.",
+          "description": "PPC-copyikon for annonstester och budskapsjustering."
+        }
+      },
+      {
+        "title": "MIRO",
+        "description": "Vi använder Miro för samarbetsbaserad brainstorming, användarresekartering och designplanering för att säkerställa att alla intressenter är samordnade genom hela designprocessen.",
+        "image": "/assets/images/PPC/icons/page-review-and-optimization-8.svg",
+        "imageSeo": {
+          "altText": "Bild for Page Review And Optimization 8",
+          "title": "Page Review And Optimization 8",
+          "caption": "Bildresurs for page review and optimization 8 i sektionen icons.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for icons-innehall."
+        }
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Varför välja oss som ditt webbdesignföretag",
+    "subtitle": "På Webbly Media designar vi webbplatser som hjälper företag att sticka ut och omvandla besökare till kunder. Våra expertwebbdesigners fokuserar på användarupplevelse, visuell tydlighet och varumärkeskonsistens för att skapa webbplatser som ser bra ut, känns intuitiva och fungerar på alla enheter.",
+    "benefits": [
+      {
+        "title": "7+ års erfarenhet",
+        "description": "Med över 7 års erfarenhet har vi designat webbplatser för alla typer av företag. Vår erfarenhet hjälper oss att skapa moderna, responsiva webbplatser som hjälper ditt företag att växa."
+      },
+      {
+        "title": "Certifierade webbdesigners",
+        "description": "Våra certifierade webb- och UI/UX-designers känner till de bästa sätten att göra webbplatser lätta att använda och visuellt tilltalande. Vi använder moderna verktyg och beprövade metoder för att leverera fantastiska resultat varje gång."
+      },
+      {
+        "title": "5-stjärniga webbdesignlösningar",
+        "description": "Kunder väljer oss för resultat som fungerar. Våra femstjärniga betyg visar vårt engagemang för att bygga webbplatser som ser bra ut, är lätta att använda och driver verkliga resultat."
+      },
+      {
+        "title": "Tydlig kommunikation & Support dygnet runt",
+        "description": "Vi tror på tydlig, enkel kommunikation. Vårt team håller dig uppdaterad och är alltid redo att hjälpa eller svara på dina frågor."
+      },
+      {
+        "title": "Prisvärd & Transparent prissättning",
+        "description": "Vår webbdesignprissättning är tydlig och rättvis. Det finns inga dolda kostnader och du vet alltid vad du betalar för. Vi erbjuder kostnadseffektiva lösningar som stämmer överens med dina affärsmål."
+      },
+      {
+        "title": "Kundnöjdhetsgaranti",
+        "description": "Vi bryr oss om din nöjdhet. Vi reviderar, förbättrar och stödjer din webbdesign tills den fullt ut uppfyller dina förväntningar och levererar värde till dina användare."
+      }
+    ],
+    "buttonText": "KOM IGÅNG NU"
+  },
+  "testimonials": {
+    "title": "Vad kunder säger om oss",
+    "subtitle": "\"Vi tar hand om våra kunder som familj\"",
+    "testimonials": [
+      {
+        "text": "Deras marknadsföringsstrategi för sociala medier förnyade helt vår varumärkesimage. Vi har sett en 200% ökning av engagemanget och en betydande ökning av kvalificerade leads. Teamet är responsivt, kreativt och förstår verkligen vår bransch.",
+        "name": "Artful Dodger",
+        "title": "VD",
+        "company": "Innovate Solutions",
+        "avatar": "/assets/avatars/avatar-1.png",
+        "avatarSeo": {
+          "altText": "Bild for Avatar 1",
+          "title": "Avatar 1",
+          "caption": "Bildresurs for avatar 1 i sektionen avatars.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for avatars-innehall."
+        }
+      },
+      {
+        "text": "UX/UI-designen de levererade var exceptionell. Vår apps användarengagemang har ökat med 45% sedan omdesignen. Det som skiljer dem åt är deras djupa förståelse för användarbeteende och engagemang för att skapa intuitiva upplevelser.",
+        "name": "Victoria Wotton",
+        "title": "Produktledare",
+        "company": "MobileFirst",
+        "avatar": "/assets/avatars/avatar-2.png",
+        "avatarSeo": {
+          "altText": "Bild for Avatar 2",
+          "title": "Avatar 2",
+          "caption": "Bildresurs for avatar 2 i sektionen avatars.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for avatars-innehall."
+        }
+      },
+      {
+        "text": "Att arbeta med detta team förvandlade hela vår digitala närvaro. Webbplatsen de designade ser inte bara fantastisk ut utan har också avsevärt förbättrat våra konverteringsgrader. Deras strategiska tillvägagångssätt och uppmärksamhet på detaljer överträffade våra förväntningar.",
+        "name": "Robert William",
+        "title": "Marknadsdirektör",
+        "company": "TechCorp",
+        "avatar": "/assets/avatars/avatar-3.png",
+        "avatarSeo": {
+          "altText": "Bild for Avatar 3",
+          "title": "Avatar 3",
+          "caption": "Bildresurs for avatar 3 i sektionen avatars.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for avatars-innehall."
+        }
+      }
+    ],
+    "quoteIcon": "/assets/icons/quote.png",
+    "quoteIconSeo": {
+      "altText": "Bild for Quote",
+      "title": "Quote",
+      "caption": "Bildresurs for quote i sektionen icons.",
+      "description": "Visuell resurs som anvands pa Webbly Medias webbplats for icons-innehall."
+    }
+  },
+  "partners": {
+    "title": "Vi är betrodda av ledande globala varumärken för webbdesigntjänster"
+  },
+  "caseStudies": {
+    "title": "Fallstudier som visar vår framgång inom webbdesign",
+    "subtitle": "",
+    "description": "Som ett av de bästa webbdesignföretagen tror vi att resultat talar högre än löften. Under de senaste sju åren har vi hjälpt företag att skapa, omdesigna och optimera visuellt övertygande webbplatser genom våra beprövade webbdesignlösningar. Här är fallstudierna du kan utforska:",
+    "cases": [
+      {
+        "label": "Fall 1",
+        "projectName": "Prime Nest",
+        "description": "Användarcentrerad webbdesign för mobila hälsotjänster",
+        "image": "/assets/images/case-study1.png",
+        "imageSeo": {
+          "altText": "Bild for Case Study1",
+          "title": "Case Study1",
+          "caption": "Bildresurs for case study1 i sektionen images.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for images-innehall."
+        }
+      },
+      {
+        "label": "Fall 2",
+        "projectName": "Divine Home",
+        "description": "Varumärke & webbupplevelse för en allt-i-ett tjänstemarknadsplats",
+        "image": "/assets/images/case-study2.png",
+        "imageSeo": {
+          "altText": "Bild for Case Study2",
+          "title": "Case Study2",
+          "caption": "Bildresurs for case study2 i sektionen images.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for images-innehall."
+        }
+      },
+      {
+        "label": "Fall 3",
+        "projectName": "Kannom",
+        "description": "SaaS-applikationsdesign för plats- och recensionshantering",
+        "image": "/assets/images/case-study3.png",
+        "imageSeo": {
+          "altText": "Bild for Case Study3",
+          "title": "Case Study3",
+          "caption": "Bildresurs for case study3 i sektionen images.",
+          "description": "Visuell resurs som anvands pa Webbly Medias webbplats for images-innehall."
+        }
+      }
+    ]
+  },
+  "additionalServices": {
+    "leftSection": {
+      "title": "Låt inte dålig hosting förstöra din professionellt designade webbplats",
+      "paragraphs": [
+        "Visste du att även en vackert designad webbplats kan misslyckas på grund av dålig hosting? Många företag investerar i professionell webbdesign men kämpar ändå med långsamma laddningstider, frekventa driftstopp och instabil prestanda på grund av svag hostinginfrastruktur.",
+        "Vi vill inte att det ska hända din webbplats. Det är där WebblyHosting kommer in som rätt lösning. WebblyHosting är vår premiumhostingtjänst byggd för att stödja professionellt designade webbplatser med hastighet, stabilitet och tillförlitlighet.",
+        "Med snabb serverrespons, hög drifttid och optimerad prestanda håller WebblyHosting din webbplats igång smidigt hela tiden. Stark säkerhet, skalbara resurser och pålitlig infrastruktur säkerställer att din webbplats förblir skyddad, laddar snabbt och levererar en konsekvent upplevelse till varje besökare."
+      ],
+      "buttonText": "UPPTÄCK WEBBLYHOST"
+    },
+    "rightSection": {
+      "title": "Vi erbjuder mer än bara webbdesignlösningar",
+      "quote": "\"Förutom professionell webbdesign erbjuder vi en rad viktiga digitala lösningar för att hjälpa ditt företag att växa online. Se vad mer vi kan göra:\"",
+      "services": [
+        {
+          "title": "Webbutveckling",
+          "link": "/services/web-development",
+          "description": "Vi bygger snabba, säkra och skalbara webbplatser. Vår webbutveckling förvandlar dina designer till kraftfulla plattformar som stödjer din tillväxt."
+        },
+        {
+          "title": "Apputveckling",
+          "link": "/services/app-development",
+          "description": "Vi skapar pålitliga mobil- och webbappar. Våra appar körs smidigt, är säkra och är lätta för användare på alla enheter."
+        },
+        {
+          "title": "Digital marknadsföring",
+          "link": "/services/digital-marketing-services",
+          "description": "Vår digitala marknadsföring ökar din online-synlighet och försäljning. Vi använder SEO, sociala medier och PPC för att hjälpa dig nå rätt publik och få resultat."
+        }
+      ],
+      "buttonText": "FÅ EN GRATIS OFFERT"
+    }
+  },
+  "contact": {
+    "title": "Få en vacker webbplats med Webbly Media",
+    "description": "Vill du ha en professionell webbplats som är lätt att använda? Kontakta Webbly Media idag för en gratis konsultation och expert webbdesignhjälp.",
+    "contactInfo": {
+      "title": "Kontaktinfo",
+      "emailLabel": "E-post:",
+      "emailValue": "Webblymedia@gmail.se",
+      "phoneLabel": "Telefon:",
+      "phoneValue": "+1-800-123-4567"
+    }
+  },
+  "faq": {
+    "title": "Vanliga frågor om våra webbdesigntjänster",
+    "subtitle": "Har du frågor om våra webbdesignlösningar? Kolla våra vanliga frågor nedan för att lära dig om vår process, prissättning och support.",
+    "faqs": [
+      {
+        "question": "Vad gör Webbly Media annorlunda jämfört med andra webbdesignbyråer?",
+        "answer": "Webbly Media utmärker sig eftersom våra certifierade designers fokuserar på dina användare och dina mål. Vi bygger moderna, responsiva webbplatser som hjälper dig att växa. Vår tydliga process och löpande support ger dig långsiktigt värde."
+      },
+      {
+        "question": "Hur mycket kostar era webbdesigntjänster?",
+        "answer": "Vår webbdesignprissättning beror på din webbplats storlek, designkrav, funktioner och nivå av anpassning. Vi erbjuder transparent och flexibel prissättning baserad på dina behov. Innan vi börjar förklarar vi tydligt alla kostnader så att det inte finns några överraskningar. Kontakta oss för en gratis konsultation och en anpassad offert."
+      },
+      {
+        "question": "Vilken tidsram har er webbdesignprocess?",
+        "answer": "Tidslinjen beror på projektets omfattning och komplexitet. Enkla webbdesigner kan ta några veckor, medan större eller mer anpassade designer kan ta längre tid. Vi följer en strukturerad process för att säkerställa leverans i tid samtidigt som vi upprätthåller hög designkvalitet."
+      },
+      {
+        "question": "Vilka behöver webbdesignlösningar mest?",
+        "answer": "Alla företag som vill ha en stark online-närvaro kan dra nytta av webbdesign. Startups, småföretag, e-handelsvarumärken, storföretag, ideella organisationer, skolor och teknikföretag behöver alla bra webbplatser för att locka och behålla kunder."
+      },
+      {
+        "question": "När bör jag investera i webbdesigntjänster?",
+        "answer": "Du bör investera i webbdesign när du startar ett nytt företag, byter varumärkesidentitet, omdesignar en föråldrad webbplats eller förbättrar användarupplevelse och konverteringar. En väldesignad webbplats stärker ditt varumärke och stödjer långsiktig digital tillväxt."
+      },
+      {
+        "question": "Hur säkerställer ni responsivitet för webbplatserna?",
+        "answer": "Vi designar webbplatser med en mobile-first och responsiv metod. Våra designer anpassar sig sömlöst till datorer, surfplattor och mobila enheter. Vi testar layouter på olika skärmstorlekar för att säkerställa konsekvent användbarhet, prestanda och visuell kvalitet på alla enheter."
+      },
+      {
+        "question": "Kan ni omdesigna min nuvarande webbplats?",
+        "answer": "Ja, vi kan omdesigna din webbplats för att göra den snyggare, fungera bättre och passa ditt varumärke. Vår process uppdaterar din webbplats till att vara modern och enkel för dina användare."
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Webbdesignföretag vs. Enskild webbdesigner",
+    "agencyData": {
+      "title": "WEBBDESIGNFIRMA",
+      "pros": [
+        "Tillgång till ett komplett team av UI/UX-designers och webbspecialister",
+        "Få en tydlig plan och tidslinje för ditt projekt",
+        "Konsekvent varumärkesprofilering, användarfokuserade layouter och konverteringsdriven design",
+        "Hantera komplexa webbplatser, omdesigner och stora projekt med lätthet",
+        "Responsiv, tillgänglighetsredo och SEO-vänlig designpraxis",
+        "Dra nytta av designsystem, enkla uppdateringar och långsiktig support"
+      ],
+      "cons": [
+        "Kostar något mer än att anlita en enskild webbdesigner"
+      ]
+    },
+    "freelancerData": {
+      "title": "ENSKILD WEBBDESIGNER",
+      "pros": [
+        "Lägre kostnad och flexibla prisalternativ",
+        "Direkt kommunikation med en person"
+      ],
+      "cons": [
+        "Begränsad kompetens inom forskning, varumärkesprofilering och konverteringsstrategi",
+        "Långsammare för stora eller komplexa projekt",
+        "Ingen backup om din designer inte är tillgänglig",
+        "Begränsad skalbarhet, revideringar och långsiktig designkonsistens"
+      ]
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "languageShort": "EN",
+  "contactUs": "Contact us",
+  "ourServices": "Our services",
+  "domainHosting": "Domain and Web Hosting",
+  "payItForward": "Pay It Forward",
+  "aboutUs": "About Us",
+  "blogs": "Webbly insights",
+  "language": "Language",
+  "languageEnglish": "English",
+  "languageSwedish": "Swedish",
+  "logoDesktop": "/webbly%20media.black%20logo%20svg.svg",
+  "logoMobile": "/webbly%20media.black%20logo%20svg.svg",
+  "services": {
+    "appDevelopment": "App Development",
+    "digitalMarketing": "Digital Marketing",
+    "graphicDesign": "Graphic Design",
+    "ppcGoogleAds": "PPC Google Ads",
+    "seo": "SEO",
+    "socialMediaMarketing": "Social Media Marketing",
+    "webDesign": "Web Design",
+    "webDevelopment": "Web Development",
+    "wordpressDevelopment": "WordPress Development"
+  },
+  "logoDesktopSeo": {
+    "altText": "Webbly Media Black Logo Svg image",
+    "title": "Webbly Media Black Logo Svg",
+    "caption": "Image asset for webbly media black logo svg in the website section.",
+    "description": "Visual asset used on the Webbly Media website for website content."
+  },
+  "logoMobileSeo": {
+    "altText": "Webbly Media Black Logo Svg image",
+    "title": "Webbly Media Black Logo Svg",
+    "caption": "Image asset for webbly media black logo svg in the website section.",
+    "description": "Visual asset used on the Webbly Media website for website content."
+  }
+}

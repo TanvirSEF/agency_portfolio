@@ -1,0 +1,31 @@
+.carouselRoot :global(.carousel) {
+  width: 100%;
+}
+
+.carouselRoot :global(.carousel .slider-wrapper) {
+  margin: 0;
+  overflow: hidden;
+}
+
+.carouselRoot :global(.carousel .slider) {
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.carouselRoot :global(.carousel .slide) {
+  background: transparent;
+  list-style: none;
+  text-align: left;
+}
+
+.carouselRoot :global(.carousel .slide > div) {
+  margin: 0;
+}
+
+.carouselRoot :global(.carousel .control-dots),
+.carouselRoot :global(.carousel .control-arrow),
+.carouselRoot :global(.carousel-status),
+.carouselRoot :global(.carousel .thumbs-wrapper) {
+  display: none !important;
+}

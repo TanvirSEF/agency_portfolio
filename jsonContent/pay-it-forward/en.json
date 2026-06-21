@@ -1,0 +1,204 @@
+{
+  "pageMetadata": {
+    "routeSlugs": [
+      {
+        "path": "pay-it-forward",
+        "slug": "pay-it-forward"
+      }
+    ],
+    "routeMetadata": [
+      {
+        "path": "pay-it-forward",
+        "title": "Pay It Forward Initiative | Webbly Media"
+      }
+    ]
+  },
+  "otherHero": {
+    "pageName": "Pay It Forward",
+    "title": "Support Communities, Change Lives",
+    "description": "Join Webbly Media in giving back. Through Pay It Forward, we invest a portion of every project into helping people build safer, more inclusive communities.",
+    "buttonText": "Schedule a call",
+    "mainImage": {
+      "src": "/assets/images/all-hero/Pay-it-forward.jpg",
+      "alt": "Pay it forward hero",
+      "title": "Pay It Forward",
+      "caption": "Image asset for pay it forward in the all hero section.",
+      "description": "Visual asset used on the Webbly Media website for all hero content."
+    },
+    "floatingImageSrc": "/assets/images/seo-hero-float.svg",
+    "floatingImageAlt": "Side blur decoration",
+    "floatingImageTitle": "SEO Hero Floating Icon",
+    "floatingImageCaption": "Floating icon used in the SEO hero section.",
+    "floatingImageDescription": "Decorative SEO symbol used in hero imagery."
+  },
+  "leftThreeImage": {
+    "title": "A hidden crisis",
+    "description": [
+      "Society often appears prosperous and successful, but many people struggle with addiction and co-dependency. These problems affect people of all ages and backgrounds, causing serious harm to individuals and families.",
+      "\n <br> <br>",
+      "For example, gambling addiction can leave children-possibly friends of your own-without food at home because a parent lost all their money. We step in to provide food and show families that help is available if they’re ready for change."
+    ],
+    "images": [
+      {
+        "src": "/assets/layer-component-Images/set2/image1.jpg",
+        "alt": "Image1 image",
+        "title": "Image1",
+        "caption": "Image asset for image1 in the set2 section.",
+        "description": "Visual asset used on the Webbly Media website for set2 content."
+      },
+      {
+        "src": "/assets/layer-component-Images/set2/image2.jpg",
+        "alt": "Image2 image",
+        "title": "Image2",
+        "caption": "Image asset for image2 in the set2 section.",
+        "description": "Visual asset used on the Webbly Media website for set2 content."
+      },
+      {
+        "src": "/assets/layer-component-Images/set2/image3.jpg",
+        "alt": "Image3 image",
+        "title": "Image3",
+        "caption": "Image asset for image3 in the set2 section.",
+        "description": "Visual asset used on the Webbly Media website for set2 content."
+      }
+    ]
+  },
+  "rightThreeImage": {
+    "title": "Beyond financial support",
+    "description": [
+      "Beyond financial support, our staff engage with the local community. We organize regular food distributions, share information to raise awareness about substance abuse, and offer support and mentorship to people facing tough times.",
+      "\n <br> <br>",
+      "By staying involved, we build meaningful relationships and truly improve people’s lives."
+    ],
+    "images": [
+      {
+        "src": "/assets/layer-component-Images/set3/image1.jpg",
+        "alt": "Image1 image",
+        "title": "Image1",
+        "caption": "Image asset for image1 in the set3 section.",
+        "description": "Visual asset used on the Webbly Media website for set3 content."
+      },
+      {
+        "src": "/assets/layer-component-Images/set3/image2.jpg",
+        "alt": "Image2 image",
+        "title": "Image2",
+        "caption": "Image asset for image2 in the set3 section.",
+        "description": "Visual asset used on the Webbly Media website for set3 content."
+      },
+      {
+        "src": "/assets/layer-component-Images/set3/image3.jpg",
+        "alt": "Image3 image",
+        "title": "Image3",
+        "caption": "Image asset for image3 in the set3 section.",
+        "description": "Visual asset used on the Webbly Media website for set3 content."
+      }
+    ]
+  },
+  "leftThreeImage2": {
+    "title": "Your choice makes a big impact",
+    "description": "Solving the world’s problems can feel overwhelming, but small actions matter. When you choose Webbly Media, you help make the world a better place to live.\nWe donate up to 15% of our profits to charity. Every purchase helps create a fairer society. Together, we make a real difference.",
+    "images": [
+      {
+        "src": "/assets/layer-component-Images/set4/image1.jpg",
+        "alt": "Image1 image",
+        "title": "Image1",
+        "caption": "Image asset for image1 in the set4 section.",
+        "description": "Visual asset used on the Webbly Media website for set4 content."
+      },
+      {
+        "src": "/assets/layer-component-Images/set4/image2.jpg",
+        "alt": "Image2 image",
+        "title": "Image2",
+        "caption": "Image asset for image2 in the set4 section.",
+        "description": "Visual asset used on the Webbly Media website for set4 content."
+      },
+      {
+        "src": "/assets/layer-component-Images/set4/image3.jpg",
+        "alt": "Image3 image",
+        "title": "Image3",
+        "caption": "Image asset for image3 in the set4 section.",
+        "description": "Visual asset used on the Webbly Media website for set4 content."
+      }
+    ]
+  },
+  "rightThreeImage2": {
+    "title": "A growing movement",
+    "description": [
+      "We believe our example can inspire others to do the same. It’s a chain reaction—a ‘pay it forward’ wave where good deeds spread. Together, we can build a society where everyone can reach their potential and support each other’s success.",
+      "\n <br> <br>",
+      "Every contribution counts. Together, we create positive change by setting an example for others to follow."
+    ],
+    "images": [
+      {
+        "src": "/assets/layer-component-Images/set1/image1.jpg",
+        "alt": "Image1 image",
+        "title": "Image1",
+        "caption": "Image asset for image1 in the set1 section.",
+        "description": "Visual asset used on the Webbly Media website for set1 content."
+      },
+      {
+        "src": "/assets/layer-component-Images/set1/image2.jpg",
+        "alt": "Image2 image",
+        "title": "Image2",
+        "caption": "Image asset for image2 in the set1 section.",
+        "description": "Visual asset used on the Webbly Media website for set1 content."
+      },
+      {
+        "src": "/assets/layer-component-Images/set1/image3.jpg",
+        "alt": "Image3 image",
+        "title": "Image3",
+        "caption": "Image asset for image3 in the set1 section.",
+        "description": "Visual asset used on the Webbly Media website for set1 content."
+      }
+    ]
+  },
+  "joinUsHelping": {
+    "title": "Would you like to join us in distributing and helping?",
+    "description": "As a volunteer or local official, you join a community dedicated to doing good. We are passionate about improving our surroundings and making a positive impact. Together, we build safer, more inclusive, and prosperous communities for everyone.",
+    "contactText": "Contact us at info@webblymedia.se to get started. Join our community and Pay it Forward today!",
+    "image": {
+      "src": "/assets/images/pay-it-forward/cute-girl.svg",
+      "alt": "Cute Girl image",
+      "title": "Cute Girl",
+      "caption": "Image asset for cute girl in the pay it forward section.",
+      "description": "Visual asset used on the Webbly Media website for pay it forward content."
+    }
+  },
+  "wePayItForward": {
+    "title": "WE GIVE IT FORWARD",
+    "description": "Choosing Webbly Media means more than getting a great web & marketing solution. You join a larger effort to provide top-quality service while giving back to society."
+  },
+  "videoSection": {
+    "title": "More Than Just a Digital Agency",
+    "description": "Webbly Media offers more than just marketing and development. We also provide secure and reliable hosting solutions through our platform, WebblyHosting. WebblyHosting is built for performance and stability, giving you peace of mind. It provides your business with a strong digital foundation and a trusted ecosystem for your entire online presence.",
+    "buttonText": "Discover WebblyHost",
+    "videoPath": "/videos/about-us/webblyhosting-video.mp4"
+  },
+  "bookConsultant": {
+    "title": "Book a consultation with our advisors",
+    "description": "Meet with one of our experienced advisors to discuss your digital challenges and goals. We offer valuable insights and tailored guidance to help you strengthen your digital presence.",
+    "buttonText": "Get Started Now",
+    "images": [
+      {
+        "src": "/assets/images/pay-it-forward/first-image1.jpg",
+        "alt": "First Image1 image",
+        "title": "First Image1",
+        "caption": "Image asset for first image1 in the pay it forward section.",
+        "description": "Visual asset used on the Webbly Media website for pay it forward content."
+      },
+      {
+        "src": "/assets/images/pay-it-forward/middle-image2.jpg",
+        "alt": "Middle Image2 image",
+        "title": "Middle Image2",
+        "caption": "Image asset for middle image2 in the pay it forward section.",
+        "description": "Visual asset used on the Webbly Media website for pay it forward content."
+      },
+      {
+        "src": "/assets/images/pay-it-forward/last-image3.jpg",
+        "alt": "Last Image3 image",
+        "title": "Last Image3",
+        "caption": "Image asset for last image3 in the pay it forward section.",
+        "description": "Visual asset used on the Webbly Media website for pay it forward content."
+      }
+    ]
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "serviceHero": {
+    "badge": "Web Design Services",
+    "headingMobile": ["Build Custom", "Websites That", "Drive Growth"],
+    "headingDesktop": "Build Custom Websites That Drive Growth",
+    "description": "Get a modern, easy-to-use website design with Webbly Media's professional web design services. We design custom layouts that deliver smooth navigation and consistent experiences across all devices. Whether you need a design for your business site, landing page, or e-commerce store, our web design agency can help you. Grab your plan today, and launch a website that attracts users.",
+    "buttonText": "Build Your Website",
+    "videoSrc": "/revision-images/web-development/ServiceHero/hero-video.mp4",
+    "splineUrl": "https://prod.spline.design/uEXBpVuveykV70S5/scene.splinecode"
+  },
+  "twoColumnSection": {
+    "badge": "A Web Design Company",
+    "previewText": "At Webbly Media, we understand global design standards and help businesses create visually appealing, user-focused websites. As a leading web agency, we create sites that are easy to use, load fast, and adapt to any device. Our team focuses on user experience (UX), responsive design, and brand",
+    "previewTextTablet": "At Webbly Media, we help businesses create visually appealing, user-focused websites. We create sites that are easy to use, load fast, and adapt to any device. Our team focuses on user experience (UX), responsive design, and brand",
+    "previewTextMobile": "At Webbly Media, we create visually appealing, user-focused websites that adapt to any device. Our team focuses on user experience (UX), and brand",
+    "previewTail": "consistency throughout........",
+    "fullContent": [
+      "At Webbly Media, we understand global design standards and help businesses create visually appealing, user-focused websites. As a leading web agency, we create sites that are easy to use, load fast, and adapt to any device. Our team focuses on user experience (UX), responsive design, and brand consistency throughout.",
+      "Our designers combine creativity with strategy to craft interfaces that engage users and support business goals. From wireframing and prototyping to final visual design, we ensure every detail serves a purpose, delivering websites that are both beautiful and functional."
+    ],
+    "modalTitle": "How We Create Stunning, User-Focused Web Designs",
+    "viewMoreText": "View More",
+    "imageSrc": "/revision-images/web-development/colleagues-selfie.webp",
+    "imageAlt": "Colleagues having a selfie in the office"
+  },
+  "marqueeSection": {
+    "logos": [
+      { "id": 1, "src": "/revision-images/web-development/marquee-logos/marquee-logo-1.svg", "alt": "Marquee brand logo 1", "width": 164 },
+      { "id": 2, "src": "/revision-images/web-development/marquee-logos/marquee-logo-2.svg", "alt": "Marquee brand logo 2", "width": 132 },
+      { "id": 3, "src": "/revision-images/web-development/marquee-logos/marquee-logo-3.svg", "alt": "Marquee brand logo 3", "width": 154 },
+      { "id": 4, "src": "/revision-images/web-development/marquee-logos/marquee-logo-4.svg", "alt": "Marquee brand logo 4", "width": 146 }
+    ],
+    "logoOrder": [1, 1, 2, 3, 1, 4]
+  },
+  "servicesShowcase": {
+    "badge": "Our Services",
+    "heading": "Our Web Design Services Include",
+    "description": "As an expert website design company, we offer complete web design solutions for businesses of all sizes. Here's what we offer:",
+    "services": [
+      {
+        "title": "Custom Website Development",
+        "description": "Our custom web solutions focus on building websites from scratch.",
+        "image": "/revision-images/web-development/slide-images/slide-image-1.webp"
+      },
+      {
+        "title": "Web Application Development",
+        "description": "We develop powerful web applications that support complex business processes.",
+        "image": "/revision-images/web-development/slide-images/slide-image-2.webp"
+      },
+      {
+        "title": "E-commerce Development",
+        "description": "Our e-commerce development services help you sell online with confidence.",
+        "image": "/revision-images/web-development/slide-images/slide-image-3.webp"
+      },
+      {
+        "title": "Front-End Design & Development",
+        "description": "Front-end design and development affect how users interact with your website.",
+        "image": "/revision-images/web-development/slide-images/slide-image-4.webp"
+      },
+      {
+        "title": "Back-End Web Development",
+        "description": "Our back-end web development services power your website behind the scenes.",
+        "image": "/revision-images/web-development/slide-images/slide-image-5.webp"
+      },
+      {
+        "title": "Content Management Systems",
+        "description": "We develop easy-to-manage content management systems that give you full control over your website.",
+        "image": "/revision-images/web-development/slide-images/slide-image-6.webp"
+      },
+      {
+        "title": "API Development and Integration",
+        "description": "Our API development and integration services connect your website with third-party tools.",
+        "image": "/revision-images/web-development/slide-images/slide-image-7.webp"
+      },
+      {
+        "title": "Low-Code Development",
+        "description": "Low-code development helps businesses launch solutions faster with reduced complexity.",
+        "image": "/revision-images/web-development/slide-images/slide-image-8.webp"
+      },
+      {
+        "title": "Website Maintenance",
+        "description": "Our website maintenance services keep your site secure, up to date, and running smoothly.",
+        "image": "/revision-images/web-development/slide-images/slide-image-9.webp"
+      }
+    ]
+  },
+  "mediaFeaturesSection": {
+    "badge": "Things To Expect from Our Web Design Services",
+    "heading": "We Build Websites That You Must Like!",
+    "description": "At Webbly Media, we follow a clear and structured web design process to build websites that support real business growth. First, we learn about your goals and who will use your site.",
+    "videoOverlayTitle": "Redefining Digital Possibilities",
+    "videoOverlayDescription": "We design, build, and scale technology for the next generation.",
+    "videoSrc": "/revision-images/web-development/videos/webblyhosting-video.mp4",
+    "featureCards": [
+      {
+        "title": "Mobile-First & Responsive Layouts",
+        "description": "We build fully responsive websites",
+        "icon": "/revision-images/web-development/icons/rocket-launch.svg"
+      },
+      {
+        "title": "Conversion-Focused Web Design",
+        "description": "Website speed matters for users and search engines.",
+        "icon": "/revision-images/web-development/icons/CPU.svg"
+      },
+      {
+        "title": "Brand-Focused Visual Design",
+        "description": "We build websites with SEO best practices.",
+        "icon": "/revision-images/web-development/icons/monitor.svg"
+      },
+      {
+        "title": "Clean & Intuitive Website Structure",
+        "description": "We create clean and easy-to-use dashboards for smooth website.",
+        "icon": "/revision-images/web-development/icons/paint-tray.svg",
+        "wide": true
+      },
+      {
+        "title": "Design-to-Development Ready Files",
+        "description": "Security is a top priority in our web development process.",
+        "icon": "/revision-images/web-development/icons/Handshake.svg",
+        "wide": true
+      }
+    ]
+  },
+  "stackMarquee": {
+    "heading": "We Offer Custom Web Design Solutions",
+    "stacks": [
+      { "name": "FIGMA", "src": "/revision-images/web-development/icons/stacks/php.svg" },
+      { "name": "ADOBE XD", "src": "/revision-images/web-development/icons/stacks/laravel.svg" },
+      { "name": "PHOTOSHOP", "src": "/revision-images/web-development/icons/stacks/python.svg" },
+      { "name": "ILLUSTRATOR", "src": "/revision-images/web-development/icons/stacks/django.svg" },
+      { "name": "SKETCH", "src": "/revision-images/web-development/icons/stacks/next-js.svg" },
+      { "name": "INVISION", "src": "/revision-images/web-development/icons/stacks/mern-stack.svg" },
+      { "name": "HTML5", "src": "/revision-images/web-development/icons/stacks/react.svg" },
+      { "name": "TAILWIND CSS", "src": "/revision-images/web-development/icons/stacks/css.svg" },
+      { "name": "MYSQL", "src": "/revision-images/web-development/icons/stacks/mysql.svg" },
+      { "name": "BOOTSTRAP", "src": "/revision-images/web-development/icons/stacks/mongodb.svg" }
+    ]
+  },
+  "helpBuildWeb": {
+    "badge": "Our Web Design Process",
+    "heading": "How We Help You as an Expert Web Agency",
+    "processCards": [
+      {
+        "title": "Requirement Analysis",
+        "description": "We begin by understanding your business, brand identity.",
+        "icon": "/revision-images/web-development/icons/HelpBuildWeb/content_paste_search.svg"
+      },
+      {
+        "title": "Wireframing & UX Planning",
+        "description": "We create wireframes and plan the user experience (UX).",
+        "icon": "/revision-images/web-development/icons/HelpBuildWeb/brush.svg"
+      },
+      {
+        "title": "Design Review & Revisions",
+        "description": "We share the design with you for feedback and review.",
+        "icon": "/revision-images/web-development/icons/HelpBuildWeb/ad_group.svg"
+      },
+      {
+        "title": "Design Handoff & Support",
+        "description": "We prepare and hand over all design assets to the team.",
+        "icon": "/revision-images/web-development/icons/HelpBuildWeb/bug_report.svg"
+      }
+    ]
+  },
+  "webAgencyWhyChooseUs": {
+    "badge": "Things To Expect from Our Web Design Services",
+    "headingLine1": "Why Choose Us As Your",
+    "headingLine2": "Web Design Company",
+    "description": "At Webbly Media, we design websites that help businesses stand out and convert visitors into customers. Our expert web designers focus on user experience, visual clarity, and brand consistency to create websites that look great, feel intuitive, and perform across all devices.",
+    "videoSrc": "/revision-images/web-development/videos/webblyhosting-video.mp4",
+    "experienceTitle": "Experience we've\nachieved",
+    "awardItems": [
+      "7+ Years of Experience",
+      "5-Star Rated Web Solutions",
+      "Clear Communication & 24/7 Support",
+      "Client Satisfaction Commitment"
+    ],
+    "conversionValue": "41%",
+    "conversionLabel": "Conversion\nGrowth",
+    "conversionDescription": "We seamlessly integrate data insights into the design process, ensuring your web UX/UI is just virtually appealing but strategically aligned with your business goals.",
+    "hostingTitle": "Don't Let Poor Hosting\nRuin Your High-Quality\nWebsite",
+    "hostingBackText": "Did you know that even a well-built website can fail because of poor hosting? Yes, many businesses invest in professional web development, but still face slow loading, downtime, and performance issues due to weak hosting infrastructure.\nWebblyHosting is our premium hosting service designed to support you.",
+    "hostingButtonText": "Discover WebblyHost",
+    "hostingImageSrc": "/revision-images/web-development/icons/WebAgencyWhyChooseUs/profile-pic.png",
+    "webblyIconSrc": "/revision-images/web-development/icons/WebAgencyWhyChooseUs/webbly-white-icon.svg",
+    "spiralBgSrc": "/revision-images/web-development/icons/WebAgencyWhyChooseUs/spairal.svg"
+  },
+  "stickySection": {
+    "headingLine1": "We Offer More Than Just",
+    "headingLine2": "Web Design Services",
+    "items": [
+      {
+        "number": "01",
+        "title": "Web Development",
+        "description": "We build fast, secure, and scalable websites. Our web development turns your designs into powerful platforms that support your growth.",
+        "tags": ["Execution", "Planning"]
+      },
+      {
+        "number": "02",
+        "title": "App Development",
+        "description": "We create reliable mobile and web apps. Our apps run smoothly, stay secure, and are easy for users on any device.",
+        "tags": ["Execution", "Planning"]
+      },
+      {
+        "number": "03",
+        "title": "Digital Marketing",
+        "description": "Our digital marketing increases your online visibility and sales. We use SEO, social media, and PPC.",
+        "tags": ["Execution", "Planning"]
+      }
+    ],
+    "images": [
+      "/revision-images/web-development/StickySection/sticky-image-1.webp",
+      "/revision-images/web-development/StickySection/sticky-image-2.webp",
+      "/revision-images/web-development/StickySection/sticky-image-3.webp"
+    ]
+  },
+  "serviceKeyFacts": {
+    "headingLine1": "Key Facts to Know About",
+    "headingLine2": "Web Design Services",
+    "subtitle": "Web design plays a key role in how users experience your brand online. Here are some important facts about professional web design:",
+    "videoSrc": "/revision-images/web-development/videos/webblyhosting-video.mp4",
+    "keyFacts": [
+      {
+        "id": "types-of-website-design-services",
+        "title": "Types of Website Design Services",
+        "description": "There are different types of web design solutions to fit your business needs, user goals, and website purpose. The three most common types are static website design for simple informational sites, dynamic website design for interactive platforms, and e-commerce design for online stores. Each type serves a unique purpose and helps businesses connect with their audience effectively.",
+        "hasVideo": true
+      },
+      {
+        "id": "what-does-a-web-design-company-do",
+        "title": "What Does a Web Design Company Do?",
+        "description": "A web design company like Webbly Media helps businesses create professional, visually appealing, and user-friendly websites. We handle everything from initial concept and wireframing to visual design, prototyping, and final handoff.<br><br>Our goal is to design websites that reflect your brand identity and engage your target audience. We focus on layout, typography, color schemes, and user interface elements to ensure a seamless experience across all devices.<br><br>Before development begins, we refine every design detail through client feedback and revisions. After handoff, we continue to support your team with design updates and improvements. In short, we turn your vision into a compelling digital experience that helps your business grow.",
+        "hasVideo": false
+      },
+      {
+        "id": "why-hire-a-professional-website-design-agency",
+        "title": "Why Hire a Professional Website Design Agency?",
+        "description": "Hiring a professional web design agency like Webbly Media ensures your website is crafted with expertise and purpose. We are your partner in creating digital experiences that attract and convert visitors.<br><br>Our team helps you plan, design, and refine your website with a structured approach. We organize every step, from research and wireframing to visual design and user testing, ensuring high-quality results while saving you time.<br><br>We also tackle common design challenges that many businesses face. Our designers manage everything from responsive layouts and accessibility to brand consistency and conversion optimization. This way, you can focus on running your business while we create a website that truly represents your brand.<br><br>In summary, hiring a web design agency provides you with creative expertise, reliability, and ongoing support. With our help, your website will be visually stunning, user-friendly, and ready to help your brand grow online.",
+        "hasVideo": false
+      },
+      {
+        "id": "benefits-of-hiring-a-web-design-company",
+        "title": "Benefits of Hiring a Web Design Company",
+        "description": "Hiring a professional web design company offers clear advantages for businesses looking to create impactful and engaging websites. Here are the main benefits:<br><br>Expert Creative Team<br>Design agencies have teams of UI/UX designers, visual artists, and strategists with diverse skills. This ensures your website is designed professionally and with purpose.<br><br>Faster Turnaround & Structured Workflow<br>With organized design sprints and project management, agencies deliver polished designs faster than individual freelancers while maintaining quality.<br><br>Custom & Brand-Aligned Designs<br>Agencies create unique designs tailored to your brand, unlike generic templates. Your website will stand out and reflect your business identity.<br><br>Better User Experience & Engagement<br>Web design companies focus on intuitive navigation, visual hierarchy, and responsive layouts to enhance user engagement and drive conversions.<br><br>Long-Term Design Support<br>Agencies provide ongoing design updates, visual refreshes, and support to keep your website looking modern and relevant.<br><br>Higher ROI & Brand Trust<br>A professionally designed website builds trust, attracts more users, and converts visitors into loyal customers over time.",
+        "hasVideo": false
+      },
+      {
+        "id": "how-custom-web-design-differs-from-templates",
+        "title": "How Custom Web Design Differs From Website Templates",
+        "description": "Custom web designs are created specifically for your brand, business goals, and target audience. While templates are quicker and more affordable, they offer limited customization and a generic look. Custom designs give you complete creative freedom in layout, visuals, and user experience. They can evolve with your brand and help create a distinct online presence. At Webbly Media, we craft custom web designs that enhance user engagement, increase conversions, and set your brand apart from the competition.",
+        "hasVideo": false
+      },
+      {
+        "id": "importance-of-user-centered-website-design",
+        "title": "Importance of User-Centered Website Design",
+        "description": "User-centered design puts your visitors at the heart of every design decision. It focuses on understanding user behavior, needs, and preferences to create intuitive and engaging interfaces. A user-centered approach improves navigation, reduces bounce rates, and increases overall satisfaction. It also helps build brand loyalty and encourages repeat visits. By prioritizing the user experience, your website becomes more effective at achieving business goals like lead generation, sales, and customer retention.",
+        "hasVideo": false
+      },
+      {
+        "id": "why-is-mobile-first-web-design-so-important",
+        "title": "Why Is Mobile-First Web Design So Important?",
+        "description": "Mobile-first design is an approach where the website is designed for mobile devices first, then scaled up for larger screens. With most internet traffic now coming from smartphones, this approach ensures your website delivers an optimal experience on the most commonly used devices. Mobile-first design improves page load speed, enhances usability on small screens, and boosts SEO rankings. It also forces designers to prioritize essential content and features, resulting in cleaner, more focused designs that work beautifully on every device.",
+        "hasVideo": false
+      }
+    ]
+  },
+  "getAQuote": {
+    "headingLine1": "Build High-Performance",
+    "headingLine2": "Websites With Webbly Media",
+    "description": "Whether you're a startup or an enterprise, we help you design, develop, and scale powerful digital products that drive growth.",
+    "buttonText": "GET A QUOTE",
+    "backgroundImage": "/revision-images/web-development/GetAQuote/CTA.webp",
+    "backgroundImageAlt": "Team collaborating on web design planning"
+  },
+  "revisionFaqSection": {
+    "title": "FAQs About Our Website Design Services",
+    "subtitle": "Have questions about our website design solutions? Check our FAQs below to learn about our process, pricing, and support.",
+    "contactHeading": "Build High-\nPerformance Websites\nWith Webbly Media",
+    "email": "Webblymedia@gmail.se",
+    "phone": "+1-800-123-4567",
+    "askQuestionButton": "Asked A Questions",
+    "profileImage": "/revision-images/web-development/RevisionFaqSection/profile.png",
+    "faqs": [
+      {
+        "id": 1,
+        "question": "What Makes Webbly Media Stand Out From Other Web Design Agencies?",
+        "answer": "Webbly Media stands out because our certified designers focus on your users and your goals. We build modern, responsive websites that help you grow. Our clear process and ongoing support give you long-term value."
+      },
+      {
+        "id": 2,
+        "question": "How Much Do Your Web Design Services Cost?",
+        "answer": "Our web design pricing varies based on project scope, complexity, and features required. We offer flexible packages tailored to different business sizes and budgets. Contact us for a free consultation and customized quote."
+      },
+      {
+        "id": 3,
+        "question": "What Is The Time Frame for Your Web Design Process?",
+        "answer": "The timeline depends on project complexity. A standard website design typically takes 2 to 6 weeks, including research, wireframing, design, revisions, and final handoff. We ensure quality at every stage without rushing the process."
+      },
+      {
+        "id": 4,
+        "question": "Who Needs Web Design Solutions The Most?",
+        "answer": "Businesses of all sizes benefit from professional web design, especially startups, small businesses, e-commerce brands, and companies looking to rebrand. If your current website is outdated or not converting visitors, a redesign can make a significant impact."
+      },
+      {
+        "id": 5,
+        "question": "When Should I Invest in Website Design Services?",
+        "answer": "You should invest in web design when launching a new business, rebranding, experiencing low conversion rates, or when your current website looks outdated. A professional design helps you stay competitive and relevant in your market."
+      },
+      {
+        "id": 6,
+        "question": "How Do You Ensure Responsiveness For the Websites?",
+        "answer": "We follow a mobile-first design approach and test every design across multiple devices and screen sizes. Our designers use flexible grids, scalable images, and responsive frameworks to ensure your website looks and works perfectly everywhere."
+      },
+      {
+        "id": 7,
+        "question": "Can You Redesign My Current Website?",
+        "answer": "Yes, we specialize in website redesigns. We analyze your current site, identify areas for improvement, and create a fresh, modern design that aligns with your brand and business goals while preserving your existing content and SEO value."
+      }
+    ]
+  }
+}
