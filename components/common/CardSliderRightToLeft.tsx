@@ -39,7 +39,7 @@ export default function CardSliderRightToLeft({
                             as="div"
                             content={subtitle}
                             defaultTag="p"
-                            className="text-[#8C52FF] text-[1.25rem] font-medium mb-3 text-center"
+                            className="text-[#06457F] text-[1.25rem] font-medium mb-3 text-center"
                         />
                     )}
                     {title && (

@@ -67,11 +67,11 @@ export default function WeOfferMore({ contentPath, content }: WeOfferMoreProps) 
                 {buttonText && buttonLink && (
                     <div className="mt-10 flex justify-center">
                         {buttonLink === '/contact' ? (
-                            <Button onClick={scrollToContact} className="bg-[#8C52FF] hover:bg-[#7A45FF] text-white px-8 py-6 rounded-full">
+                            <Button onClick={scrollToContact} className="bg-[#06457F] hover:bg-[#06457F] text-white px-8 py-6 rounded-full">
                                 <RichTextInline content={buttonText} />
                             </Button>
                         ) : (
-                            <Button asChild className="bg-[#8C52FF] hover:bg-[#7A45FF] text-white px-8 py-6 rounded-full">
+                            <Button asChild className="bg-[#06457F] hover:bg-[#06457F] text-white px-8 py-6 rounded-full">
                                 <Link href={buttonLink} {...(buttonLink.startsWith('http') ? { target: '_blank', rel: 'noopener noreferrer' } : {})}>
                                     <RichTextInline content={buttonText} />
                                 </Link>

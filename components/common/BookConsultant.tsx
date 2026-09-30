@@ -47,7 +47,7 @@ export default function BookConsultant({ contentPath }: BookConsultantProps = {}
 
   const cardStyle = {
     backgroundColor: '#060010',
-    borderColor: 'rgba(140, 82, 255, 0.2)',
+    borderColor: 'rgba(6, 69, 127,    0.2)',
     '--glow-x': '50%',
     '--glow-y': '50%',
     '--glow-intensity': '0',
@@ -95,12 +95,12 @@ export default function BookConsultant({ contentPath }: BookConsultantProps = {}
             --glow-intensity: 0;
             --glow-radius: 200px;
             --glow-color: ${glowColor};
-            --border-color: rgba(140, 82, 255, 0.2);
+            --border-color: rgba(6, 69, 127,    0.2);
             --background-dark: #060010;
             --white: hsl(0, 0%, 100%);
-            --purple-primary: rgba(140, 82, 255, 1);
-            --purple-glow: rgba(140, 82, 255, 0.2);
-            --purple-border: rgba(140, 82, 255, 0.8);
+            --blue-primary: rgba(6, 69, 127,    1);
+            --blue-glow: rgba(6, 69, 127,    0.2);
+            --blue-border: rgba(6, 69, 127,    0.8);
           }
           
           .card--border-glow::after {
@@ -141,11 +141,11 @@ export default function BookConsultant({ contentPath }: BookConsultantProps = {}
                       style={{ fontSize: 'clamp(0.875rem, 2vw, 1.125rem)' }}
                     />
                     {content.buttonLink === '/contact' ? (
-                        <Button onClick={scrollToContact} className="rounded-full bg-[#8C52FF] px-8 py-6 text-white hover:bg-[#7941E6] transition-colors uppercase">
+                        <Button onClick={scrollToContact} className="rounded-full bg-[#06457F] px-8 py-6 text-white hover:bg-[#0474C4] transition-colors uppercase">
                             <RichTextInline content={content.buttonText} />
                         </Button>
                     ) : (
-                        <Button asChild className="rounded-full bg-[#8C52FF] px-8 py-6 text-white hover:bg-[#7941E6] transition-colors">
+                        <Button asChild className="rounded-full bg-[#06457F] px-8 py-6 text-white hover:bg-[#0474C4] transition-colors">
                             <Link href={content.buttonLink} {...(content.buttonLink.startsWith('http') ? { target: '_blank', rel: 'noopener noreferrer' } : {})} className="uppercase">
                               <RichTextInline content={content.buttonText} />
                             </Link>

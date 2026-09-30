@@ -28,7 +28,7 @@ function RightThreeImage({ contentPath, content, imagePaths, imageEntries }: Rig
                         as="div"
                         content={finalContent.badge}
                         defaultTag="p"
-                        className="text-[#8C52FF] text-[1.25rem]"
+                        className="text-[#06457F] text-[1.25rem]"
                     />
 
                     <RichTextBlock

@@ -124,7 +124,7 @@ export default function GetAQuoteV2() {
                   <Button
                     asChild
                     glareDisabled
-                    className="h-auto overflow-hidden rounded-full bg-white py-1.5 pl-5 pr-1.5 text-[0.84rem] font-semibold uppercase tracking-[0.02em] text-[#7340f4] hover:bg-white hover:text-[#7340f4] sm:pl-6 sm:text-[0.9rem]"
+                    className="h-auto overflow-hidden rounded-full bg-white py-1.5 pl-5 pr-1.5 text-[0.84rem] font-semibold uppercase tracking-[0.02em] text-[#06457F] hover:bg-white hover:text-[#06457F] sm:pl-6 sm:text-[0.9rem]"
                     style={fadeUpStyle(totalHeadingWords * 55 + 180)}
                   >
                     <Link href="/contact" aria-label="Get a quote from Webbly Media">
@@ -143,7 +143,7 @@ export default function GetAQuoteV2() {
                         GET A QUOTE
                       </span>
                       <span
-                        className="ml-4 inline-flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-[#7c48f7] text-white shadow-[0_0_0_rgba(124,72,247,0)] transition-all duration-300 group-hover:bg-[#6f3df3] group-hover:shadow-[0_10px_22px_rgba(124,72,247,0.45)]"
+                        className="ml-4 inline-flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-[#06457F] text-white shadow-[0_0_0_rgba(6, 69, 127, 0.45)] transition-all duration-300 group-hover:bg-[#0474C4] group-hover:shadow-[0_10px_22px_rgba(6, 69, 127, 0.45)]"
                         style={
                           isVisible
                             ? {

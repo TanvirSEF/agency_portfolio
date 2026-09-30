@@ -152,7 +152,7 @@ export default function Hero({
               animate={{ y: 0, scale: 1, opacity: 1 }}
               transition={{ delay: 0.3, duration: 0.5, ease: easeOut }}
             >
-              <Button onClick={scrollToContact} className="h-[max-content] w-[max-content] rounded-full bg-[#8C52FF] px-5 py-4 text-white hover:bg-[#A06CFF] hover:text-white">
+              <Button onClick={scrollToContact} className="h-[max-content] w-[max-content] rounded-full bg-[#06457F] px-5 py-4 text-white hover:bg-[#0474C4] hover:text-white">
                 <RichTextInline content={finalContent.buttonText} />
               </Button>
             </motion.div>

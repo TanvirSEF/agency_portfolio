@@ -29,7 +29,7 @@
       "excerpt": "Learn how mobile-first design, Core Web Vitals, and adaptive layouts can boost your conversions and keep users engaged across every device.",
       "category": "Web Design",
       "image": "/assets/images/fist-trust.jpg",
-      "imageGradient": "linear-gradient(135deg, #7936FF 0%, #B189FF 100%)",
+      "imageGradient": "linear-gradient(135deg, #06283D 0%, #00D2FF 100%)",
       "sections": [
         {
           "heading": "More Than Just a Visual Requirement",
@@ -99,7 +99,7 @@
       "excerpt": "Practical tips on content calendars, paid amplification, and community building to turn followers into customers.",
       "category": "Social Media",
       "image": "/assets/images/about-us/concept-card2.jpg",
-      "imageGradient": "linear-gradient(135deg, #8C52FF 0%, #682AD5 100%)",
+      "imageGradient": "linear-gradient(135deg, #0B2545 0%, #031728 100%)",
       "sections": [
         {
           "heading": "Strategy Before Content",
@@ -134,7 +134,7 @@
       "excerpt": "A clear guide to structure, keywords, and bidding so you can launch and optimize campaigns without wasting budget.",
       "category": "PPC",
       "image": "/assets/images/PPC/ppc-hero.jpg",
-      "imageGradient": "linear-gradient(135deg, #06010E 0%, #7936FF 100%)",
+      "imageGradient": "linear-gradient(135deg, #06010E 0%, #06283D 100%)",
       "sections": [
         {
           "heading": "Structure Determines Everything",
@@ -204,7 +204,7 @@
       "excerpt": "Why a cohesive look across web, social, and print builds recognition and trust—and how to get there without the guesswork.",
       "category": "Graphic Design",
       "image": "/assets/images/case-study1.png",
-      "imageGradient": "linear-gradient(135deg, #B189FF 0%, #8C52FF 100%)",
+      "imageGradient": "linear-gradient(135deg, #00D2FF 0%, #0B2545 100%)",
       "sections": [
         {
           "heading": "Recognition Is a Business Asset",

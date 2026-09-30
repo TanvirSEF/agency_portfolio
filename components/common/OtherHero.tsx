@@ -96,7 +96,7 @@ export default function OtherHero({
           {breadcrumbItems.length > 1 && (
             <motion.nav
               aria-label="Breadcrumb"
-              className="mb-4 text-[#F9F6FF]/80 text-sm"
+              className="mb-4 text-[#F0F5FA]/80 text-sm"
               initial={{ y: 12, opacity: 0 }}
               animate={{ y: 0, opacity: 1 }}
               transition={{ delay: 0.14, duration: 0.45, ease: easeOut }}
@@ -119,7 +119,7 @@ export default function OtherHero({
           )}
           {finalContent.pageName && (
             <motion.div
-              className="text-[#F9F6FF] uppercase tracking-widest font-semibold text-2xl"
+              className="text-[#F0F5FA] uppercase tracking-widest font-semibold text-2xl"
               initial={{ y: 14, opacity: 0 }}
               animate={{ y: 0, opacity: 1 }}
               transition={{ delay: 0.18, duration: 0.55, ease: easeOut }}
@@ -140,7 +140,7 @@ export default function OtherHero({
           )}
           {finalContent.description && (
             <motion.div
-              className="text-[#F9F6FF] mb-8 lg:mb-14"
+              className="text-[#F0F5FA] mb-8 lg:mb-14"
               style={{ fontSize: 'clamp(0.875rem, 2vw, 1.125rem)' }}
               initial={{ y: 14, opacity: 0 }}
               animate={{ y: 0, opacity: 1 }}
@@ -156,11 +156,11 @@ export default function OtherHero({
               transition={{ delay: 0.3, duration: 0.5, ease: easeOut }}
             >
               {finalContent.button.href === '/contact' ? (
-                <Button onClick={scrollToContact} className="rounded-full bg-[#8C52FF] px-8 py-6 text-white hover:bg-[#7941E6] transition-colors uppercase">
+                <Button onClick={scrollToContact} className="rounded-full bg-[#06457F] px-8 py-6 text-white hover:bg-[#0474C4] transition-colors uppercase">
                   <RichTextInline content={finalContent.button.text} />
                 </Button>
               ) : (
-                <Button asChild className="rounded-full bg-[#8C52FF] px-8 py-6 text-white hover:bg-[#7941E6] transition-colors">
+                <Button asChild className="rounded-full bg-[#06457F] px-8 py-6 text-white hover:bg-[#0474C4] transition-colors">
                   <Link href={finalContent.button.href || '/'} className="uppercase">
                     <RichTextInline content={finalContent.button.text} />
                   </Link>

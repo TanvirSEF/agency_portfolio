@@ -24,7 +24,7 @@ export default function SlideCards({ cards }: SlideCardsProps) {
                 return (
                     <div
                         key={uniqueKey}
-                        className="mx-3 flex min-w-[320px] max-w-[365px] shrink-0 flex-col rounded-lg border border-gray-200 bg-white p-6 shadow-sm transition-all duration-300 hover:border-[#B189FF] hover:shadow-md md:min-w-[366px] lg:min-w-[365px]"
+                        className="mx-3 flex min-w-[320px] max-w-[365px] shrink-0 flex-col rounded-lg border border-gray-200 bg-white p-6 shadow-sm transition-all duration-300 hover:border-[#00D2FF] hover:shadow-md md:min-w-[366px] lg:min-w-[365px]"
                     >
                         {/* SVG Image */}
                         <div className="mb-4 flex h-14 w-14 items-center justify-center">

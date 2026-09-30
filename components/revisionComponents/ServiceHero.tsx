@@ -183,7 +183,7 @@ function HeroVideoPlayer({ containerClassName, videoSrc }: HeroVideoPlayerProps)
             type="button"
             aria-label="Play video"
             onClick={handlePlayToggle}
-            className="absolute left-1/2 top-1/2 z-20 inline-flex h-[72px] w-[72px] -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full border border-[#8c52ff]/70 bg-[#7c4dff]/45 text-white shadow-[0_16px_45px_rgba(124,77,255,0.48)] backdrop-blur-[1px] transition hover:scale-[1.02] hover:bg-[#7c4dff]/62 md:h-[84px] md:w-[84px]"
+            className="absolute left-1/2 top-1/2 z-20 inline-flex h-[72px] w-[72px] -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full border border-[#06457F]/70 bg-[#06457F]/45 text-white shadow-[0_16px_45px_rgba(6, 69, 127,   0.48)] backdrop-blur-[1px] transition hover:scale-[1.02] hover:bg-[#06457F]/62 md:h-[84px] md:w-[84px]"
           >
             <IoPlay className="h-9 w-9 translate-x-0.5 md:h-10 md:w-10" />
           </button>
@@ -194,7 +194,7 @@ function HeroVideoPlayer({ containerClassName, videoSrc }: HeroVideoPlayerProps)
             type="button"
             aria-label="Pause video"
             onClick={handlePlayToggle}
-            className="pointer-events-none absolute left-1/2 top-1/2 z-20 inline-flex h-[72px] w-[72px] -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full border border-[#8c52ff]/70 bg-[#7c4dff]/45 text-white opacity-0 shadow-[0_16px_45px_rgba(124,77,255,0.48)] backdrop-blur-[1px] transition group-hover:pointer-events-auto group-hover:opacity-100 hover:bg-[#7c4dff]/62 md:h-[84px] md:w-[84px]"
+            className="pointer-events-none absolute left-1/2 top-1/2 z-20 inline-flex h-[72px] w-[72px] -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full border border-[#06457F]/70 bg-[#06457F]/45 text-white opacity-0 shadow-[0_16px_45px_rgba(6, 69, 127,   0.48)] backdrop-blur-[1px] transition group-hover:pointer-events-auto group-hover:opacity-100 hover:bg-[#06457F]/62 md:h-[84px] md:w-[84px]"
           >
             <IoPause className="h-8 w-8 md:h-9 md:w-9" />
           </button>
@@ -204,7 +204,7 @@ function HeroVideoPlayer({ containerClassName, videoSrc }: HeroVideoPlayerProps)
           type="button"
           aria-label="Open video in modal"
           onClick={openVideoModal}
-          className="pointer-events-none absolute right-3 top-3 z-20 inline-flex h-10 w-10 items-center justify-center rounded-full border border-[#8c52ff]/70 bg-[#7c4dff]/45 text-white opacity-0 shadow-[0_12px_30px_rgba(124,77,255,0.38)] backdrop-blur-[1px] transition group-hover:pointer-events-auto group-hover:opacity-100 hover:bg-[#7c4dff]/62 md:right-4 md:top-4 md:h-11 md:w-11"
+          className="pointer-events-none absolute right-3 top-3 z-20 inline-flex h-10 w-10 items-center justify-center rounded-full border border-[#06457F]/70 bg-[#06457F]/45 text-white opacity-0 shadow-[0_12px_30px_rgba(6, 69, 127,   0.38)] backdrop-blur-[1px] transition group-hover:pointer-events-auto group-hover:opacity-100 hover:bg-[#06457F]/62 md:right-4 md:top-4 md:h-11 md:w-11"
         >
           <Maximize2 className="h-5 w-5" />
         </button>
@@ -329,7 +329,7 @@ export default function ServiceHero({ content }: { content: WebDevContent["servi
         />
       </div>
 
-      <div className="pointer-events-none absolute inset-0 z-[1] bg-[radial-gradient(72%_56%_at_50%_0%,rgba(128,88,255,0.35)_0%,rgba(128,88,255,0.06)_44%,rgba(0,0,0,0)_70%)]" />
+      <div className="pointer-events-none absolute inset-0 z-[1] bg-[radial-gradient(72%_56%_at_50%_0%,rgba(4,116,196,0.35)_0%,rgba(4,116,196,0.06)_44%,rgba(0,0,0,0)_70%)]" />
       <div className="pointer-events-none absolute inset-0 z-[2] bg-[linear-gradient(180deg,rgba(4,4,8,0.05)_0%,rgba(4,4,8,0.2)_36%,rgba(4,4,8,0.8)_100%)]" />
 
       <div className="container relative z-10 mx-auto px-4 md:px-8 xl:px-12">
@@ -353,7 +353,7 @@ export default function ServiceHero({ content }: { content: WebDevContent["servi
 
             <button
               type="button"
-              className="mx-auto mt-8 inline-flex h-[60px] min-w-[247px] w-auto items-center justify-between gap-3 overflow-hidden rounded-full bg-[linear-gradient(90deg,#8B4DFF_0%,#9756FF_100%)] pl-[34px] pr-[5px] text-[15px] font-semibold uppercase tracking-[0.01em] text-white shadow-[0_18px_45px_rgba(135,82,255,0.55)] transition hover:brightness-105"
+              className="mx-auto mt-8 inline-flex h-[60px] min-w-[247px] w-auto items-center justify-between gap-3 overflow-hidden rounded-full bg-[linear-gradient(90deg,#06457F_0%,#0474C4_100%)] pl-[34px] pr-[5px] text-[15px] font-semibold uppercase tracking-[0.01em] text-white shadow-[0_18px_45px_rgba(6, 69, 127, 0.5)] transition hover:brightness-105"
               style={heroAnimStyle(500)}
             >
               <span
@@ -361,7 +361,7 @@ export default function ServiceHero({ content }: { content: WebDevContent["servi
                 style={{ opacity: 0, willChange: "opacity, transform", animation: "btnTextReveal 0.7s cubic-bezier(0.25, 1, 0.5, 1) 700ms forwards" }}
               >{content.buttonText}</span>
               <span
-                className="inline-flex h-[50px] w-[50px] flex-shrink-0 items-center justify-center rounded-full bg-white text-[#8B4DFF]"
+                className="inline-flex h-[50px] w-[50px] flex-shrink-0 items-center justify-center rounded-full bg-white text-[#06457F]"
                 style={{ willChange: "transform", animation: "btnCircleSlide 0.8s cubic-bezier(0.25, 1, 0.5, 1) 550ms forwards", transform: "translate3d(-192px, 0, 0)" }}
               >
                 <IoArrowForward className="h-6 w-6 -rotate-45" aria-hidden />
@@ -404,7 +404,7 @@ export default function ServiceHero({ content }: { content: WebDevContent["servi
 
             <button
               type="button"
-              className="mt-6 xl:mt-10 inline-flex h-[60px] min-w-[247px] w-auto items-center justify-between gap-3 overflow-hidden rounded-full bg-[linear-gradient(90deg,#8B4DFF_0%,#9756FF_100%)] pl-[34px] pr-[5px] text-[15px] font-semibold uppercase tracking-[0.01em] text-white shadow-[0_18px_45px_rgba(135,82,255,0.5)] transition hover:brightness-105"
+              className="mt-6 xl:mt-10 inline-flex h-[60px] min-w-[247px] w-auto items-center justify-between gap-3 overflow-hidden rounded-full bg-[linear-gradient(90deg,#06457F_0%,#0474C4_100%)] pl-[34px] pr-[5px] text-[15px] font-semibold uppercase tracking-[0.01em] text-white shadow-[0_18px_45px_rgba(6, 69, 127, 0.5)] transition hover:brightness-105"
               style={heroAnimStyle(550)}
             >
               <span
@@ -412,7 +412,7 @@ export default function ServiceHero({ content }: { content: WebDevContent["servi
                 style={{ opacity: 0, willChange: "opacity, transform", animation: "btnTextReveal 0.7s cubic-bezier(0.25, 1, 0.5, 1) 750ms forwards" }}
               >{content.buttonText}</span>
               <span
-                className="inline-flex h-[50px] w-[50px] flex-shrink-0 items-center justify-center rounded-full bg-white text-[#8B4DFF]"
+                className="inline-flex h-[50px] w-[50px] flex-shrink-0 items-center justify-center rounded-full bg-white text-[#06457F]"
                 style={{ willChange: "transform", animation: "btnCircleSlide 0.8s cubic-bezier(0.25, 1, 0.5, 1) 600ms forwards", transform: "translate3d(-192px, 0, 0)" }}
               >
                 <IoArrowForward className="h-6 w-6 -rotate-45" aria-hidden />

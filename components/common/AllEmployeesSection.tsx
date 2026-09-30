@@ -33,7 +33,7 @@ export default function AllEmployeesSection({ contentPath, content }: AllEmploye
                     as="div"
                     content={finalContent.eyebrow}
                     defaultTag="p"
-                    className="text-center text-[1.25rem] text-[#8C52FF]"
+                    className="text-center text-[1.25rem] text-[#06457F]"
                 />
                 <RichTextBlock
                     as="div"
@@ -87,12 +87,12 @@ export default function AllEmployeesSection({ contentPath, content }: AllEmploye
 
             {hasMore && (
                 <div className="container mx-auto flex w-full max-w-2xl items-center gap-4 px-4 pb-24 lg:px-10">
-                    <hr className="h-px flex-1 border-0 bg-[#8C52FF]/40" aria-hidden />
+                    <hr className="h-px flex-1 border-0 bg-[#06457F]/40" aria-hidden />
                     <Magnet padding={48} magnetStrength={4} wrapperClassName="flex items-center justify-center">
                     <button
                         type="button"
                         onClick={() => setIsExpanded((prev) => !prev)}
-                        className="flex shrink-0 items-center justify-center rounded-full bg-[#F2F3F6] p-2 text-[#8C52FF] ring-2 ring-[#8C52FF]/40 transition-colors hover:bg-[#8C52FF]/10 hover:ring-[#8C52FF] focus:outline-none focus:ring-2 focus:ring-[#8C52FF] focus:ring-offset-2 focus:ring-offset-[#F2F3F6]"
+                        className="flex shrink-0 items-center justify-center rounded-full bg-[#F2F3F6] p-2 text-[#06457F] ring-2 ring-[#06457F]/40 transition-colors hover:bg-[#06457F]/10 hover:ring-[#06457F] focus:outline-none focus:ring-2 focus:ring-[#06457F] focus:ring-offset-2 focus:ring-offset-[#F2F3F6]"
                         aria-expanded={isExpanded}
                         aria-label={isExpanded ? "Collapse team list" : "Expand to show all team members"}
                     >
@@ -103,7 +103,7 @@ export default function AllEmployeesSection({ contentPath, content }: AllEmploye
                         </Magnet>
                     </button>
                     </Magnet>
-                    <hr className="h-px flex-1 border-0 bg-[#8C52FF]/40" aria-hidden />
+                    <hr className="h-px flex-1 border-0 bg-[#06457F]/40" aria-hidden />
                 </div>
             )}
         </div>

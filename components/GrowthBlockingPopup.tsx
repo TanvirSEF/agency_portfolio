@@ -113,7 +113,7 @@ function GrowthBlockingPopupModal({ open, onClose, onBookSlot, contentPath = 'gr
             <Button
               type="button"
               magnetDisabled
-              className="inline-flex w-fit items-center justify-center rounded-full bg-white px-8 py-6 font-bold uppercase tracking-wide text-[#8C52FF] transition hover:bg-[#8C52FF] hover:text-white focus:outline-none focus:ring-2 focus:ring-white/50"
+              className="inline-flex w-fit items-center justify-center rounded-full bg-white px-8 py-6 font-bold uppercase tracking-wide text-[#06457F] transition hover:bg-[#06457F] hover:text-white focus:outline-none focus:ring-2 focus:ring-white/50"
               style={{ fontSize: 'clamp(0.875rem, 1.25vw, 1rem)' }}
               onClick={() => {
                 onClose();

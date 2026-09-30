@@ -219,12 +219,12 @@ export default function ServiceKeyFacts({ content }: { content: WebDevContent["s
                     onClick={() => handleSelect(index)}
                     className={`group relative flex items-center justify-between gap-4 p-2 py-4 text-left transition-all duration-300 ${
                       index < KEY_FACTS.length - 1 ? "border-b border-gray-200" : ""
-                    } ${activeIndex === index ? "text-[#8C52FF]" : "text-[#1E1F21] hover:text-[#8C52FF]"}`}
+                    } ${activeIndex === index ? "text-[#06457F]" : "text-[#1E1F21] hover:text-[#06457F]"}`}
                     style={skfAnim("skfTabSlide", (SKF_LINE1.length + SKF_LINE2.length) * 55 + 250 + index * 70)}
                   >
                     <span
                       className={`font-medium transition-all duration-300 ${
-                        activeIndex === index ? "text-[#8C52FF]" : "text-[#1E1F21]"
+                        activeIndex === index ? "text-[#06457F]" : "text-[#1E1F21]"
                       }`}
                       style={{ fontSize: "clamp(0.875rem, 2vw, 1rem)" }}
                     >
@@ -233,12 +233,12 @@ export default function ServiceKeyFacts({ content }: { content: WebDevContent["s
                     <ArrowRight
                       className={`h-5 w-5 shrink-0 transition-all duration-300 ${
                         activeIndex === index
-                          ? "translate-x-0 text-[#8C52FF] opacity-100"
+                          ? "translate-x-0 text-[#06457F] opacity-100"
                           : "translate-x-[-8px] opacity-0 group-hover:translate-x-0 group-hover:opacity-50"
                       }`}
                     />
                     {activeIndex === index && (
-                      <div className="absolute bottom-0 left-0 top-0 w-1 bg-[#8C52FF] lg:bottom-auto lg:left-auto lg:-right-8 lg:top-0 lg:h-1 lg:w-auto" />
+                      <div className="absolute bottom-0 left-0 top-0 w-1 bg-[#06457F] lg:bottom-auto lg:left-auto lg:-right-8 lg:top-0 lg:h-1 lg:w-auto" />
                     )}
                   </button>
                 ))}
@@ -283,7 +283,7 @@ export default function ServiceKeyFacts({ content }: { content: WebDevContent["s
                             type="button"
                             aria-label="Play video"
                             onClick={handlePlayToggle}
-                            className="absolute left-1/2 top-1/2 z-20 inline-flex h-[72px] w-[72px] -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full border border-[#8c52ff]/70 bg-[#7c4dff]/45 text-white shadow-[0_16px_45px_rgba(124,77,255,0.48)] backdrop-blur-[1px] transition hover:scale-[1.02] hover:bg-[#7c4dff]/62"
+                            className="absolute left-1/2 top-1/2 z-20 inline-flex h-[72px] w-[72px] -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full border border-[#06457F]/70 bg-[#06457F]/45 text-white shadow-[0_16px_45px_rgba(6, 69, 127,   0.48)] backdrop-blur-[1px] transition hover:scale-[1.02] hover:bg-[#06457F]/62"
                           >
                             <IoPlay className="h-9 w-9 translate-x-0.5" />
                           </button>
@@ -294,7 +294,7 @@ export default function ServiceKeyFacts({ content }: { content: WebDevContent["s
                             type="button"
                             aria-label="Pause video"
                             onClick={handlePlayToggle}
-                            className="pointer-events-none absolute left-1/2 top-1/2 z-20 inline-flex h-[72px] w-[72px] -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full border border-[#8c52ff]/70 bg-[#7c4dff]/45 text-white opacity-0 shadow-[0_16px_45px_rgba(124,77,255,0.48)] backdrop-blur-[1px] transition group-hover:pointer-events-auto group-hover:opacity-100 hover:bg-[#7c4dff]/62"
+                            className="pointer-events-none absolute left-1/2 top-1/2 z-20 inline-flex h-[72px] w-[72px] -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full border border-[#06457F]/70 bg-[#06457F]/45 text-white opacity-0 shadow-[0_16px_45px_rgba(6, 69, 127,   0.48)] backdrop-blur-[1px] transition group-hover:pointer-events-auto group-hover:opacity-100 hover:bg-[#06457F]/62"
                           >
                             <IoPause className="h-8 w-8" />
                           </button>
@@ -304,7 +304,7 @@ export default function ServiceKeyFacts({ content }: { content: WebDevContent["s
                           type="button"
                           aria-label="Open video in modal"
                           onClick={openVideoModal}
-                          className="pointer-events-none absolute right-3 top-3 z-20 inline-flex h-10 w-10 items-center justify-center rounded-full border border-[#8c52ff]/70 bg-[#7c4dff]/45 text-white opacity-0 shadow-[0_12px_30px_rgba(124,77,255,0.38)] backdrop-blur-[1px] transition group-hover:pointer-events-auto group-hover:opacity-100 hover:bg-[#7c4dff]/62"
+                          className="pointer-events-none absolute right-3 top-3 z-20 inline-flex h-10 w-10 items-center justify-center rounded-full border border-[#06457F]/70 bg-[#06457F]/45 text-white opacity-0 shadow-[0_12px_30px_rgba(6, 69, 127,   0.38)] backdrop-blur-[1px] transition group-hover:pointer-events-auto group-hover:opacity-100 hover:bg-[#06457F]/62"
                         >
                           <Maximize2 className="h-5 w-5" />
                         </button>

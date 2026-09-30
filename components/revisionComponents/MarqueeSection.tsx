@@ -101,7 +101,7 @@ export default function MarqueeSection({ content }: { content: WebDevContent["ma
           logoMap={logoMap}
         />
         <Ribbon
-          className="absolute left-1/2 top-[56%] z-10 w-[170vw] -translate-x-1/2 -translate-y-1/2 -rotate-[5deg] bg-[linear-gradient(90deg,#6E3BFF_0%,#8E62FF_52%,#6E3BFF_100%)] text-white shadow-[0_18px_40px_rgba(92,52,255,0.32)] md:top-1/2 md:w-[145vw] md:-rotate-[4deg]"
+          className="absolute left-1/2 top-[56%] z-10 w-[170vw] -translate-x-1/2 -translate-y-1/2 -rotate-[5deg] bg-[linear-gradient(90deg,#06457F_0%,#0474C4_52%,#06457F_100%)] text-white shadow-[0_18px_40px_rgba(92,52,255,0.32)] md:top-1/2 md:w-[145vw] md:-rotate-[4deg]"
           direction="left"
           speed={56}
           style={anim("mqOpenBottom", 120)}

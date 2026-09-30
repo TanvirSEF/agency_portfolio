@@ -34,7 +34,7 @@ export default function StackMarquee({ content }: { content: WebDevContent["stac
   }, []);
 
   return (
-    <section ref={sectionRef} className="stack-marquee-section relative overflow-hidden bg-[linear-gradient(90deg,#655AEC_0%,#5F49EF_50%,#704CEF_100%)] py-8 md:py-10">
+    <section ref={sectionRef} className="stack-marquee-section relative overflow-hidden bg-[linear-gradient(90deg,#06457F_0%,#262B40_50%,#0474C4_100%)] py-8 md:py-10">
       <style dangerouslySetInnerHTML={{ __html: smKeyframes }} />
       <div className="relative mx-auto max-w-[1600px] px-3 md:px-4">
         <h2 className="text-center text-[1.55rem] font-semibold leading-tight text-white md:text-[2.8rem]">

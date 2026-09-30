@@ -83,7 +83,7 @@ export default function ContactPage() {
         <div
           className="pointer-events-none absolute left-1/2 top-[30%] z-0 h-[500px] w-[700px] -translate-x-1/2 -translate-y-1/2 rounded-full opacity-[0.12]"
           style={{
-            background: 'radial-gradient(circle, #8C52FF 0%, transparent 70%)',
+            background: 'radial-gradient(circle, #06457F 0%, transparent 70%)',
           }}
         />
 
@@ -96,10 +96,10 @@ export default function ContactPage() {
             transition={{ delay: 0.08, duration: 0.5, ease: easeOut }}
           >
             <span
-              className="inline-flex items-center gap-2 rounded-full border border-[#8C52FF]/30 bg-[#8C52FF]/10 px-5 py-2 text-xs font-semibold uppercase tracking-[0.2em] text-[#C4A0FF]"
+              className="inline-flex items-center gap-2 rounded-full border border-[#06457F]/30 bg-[#06457F]/10 px-5 py-2 text-xs font-semibold uppercase tracking-[0.2em] text-[#38BDF8]"
               style={{ fontFamily: 'var(--font-poppins)' }}
             >
-              <span className="inline-block h-1.5 w-1.5 rounded-full bg-[#8C52FF]" />
+              <span className="inline-block h-1.5 w-1.5 rounded-full bg-[#06457F]" />
               {hero.badge}
             </span>
           </motion.div>
@@ -117,7 +117,7 @@ export default function ContactPage() {
             transition={{ delay: 0.16, duration: 0.7, ease: easeOut }}
           >
             {hero.title}{' '}
-            <span className="bg-gradient-to-r from-[#8C52FF] to-[#C084FC] bg-clip-text text-transparent">
+            <span className="bg-gradient-to-r from-[#06457F] to-[#00D2FF] bg-clip-text text-transparent">
               {hero.titleHighlight}
             </span>
           </motion.h1>
@@ -145,7 +145,7 @@ export default function ContactPage() {
           >
             <Button
               onClick={scrollToContact}
-              className="group h-auto bg-[#8C52FF] px-8 w-[240px] py-4 text-base font-semibold text-white transition-all hover:bg-[#7941E6] hover:shadow-[0_0_30px_rgba(140,82,255,0.4)]"
+              className="group h-auto bg-[#06457F] px-8 w-[240px] py-4 text-base font-semibold text-white transition-all hover:bg-[#0474C4] hover:shadow-[0_0_30px_rgba(6, 69, 127,   0.4)]"
               style={{ fontFamily: 'var(--font-poppins)' }}
             >
               {hero.buttonText}
@@ -164,14 +164,14 @@ export default function ContactPage() {
             {highlights.map((item: any, idx: number) => (
               <motion.div
                 key={item.title}
-                className="group relative flex flex-col items-center gap-4 rounded-2xl border border-white/[0.07] bg-gradient-to-b from-white/[0.06] to-white/[0.02] px-6 py-8 text-center transition-all duration-300 hover:-translate-y-1 hover:border-[#8C52FF]/30 hover:shadow-[0_8px_32px_rgba(140,82,255,0.12)]"
+                className="group relative flex flex-col items-center gap-4 rounded-2xl border border-white/[0.07] bg-gradient-to-b from-white/[0.06] to-white/[0.02] px-6 py-8 text-center transition-all duration-300 hover:-translate-y-1 hover:border-[#06457F]/30 hover:shadow-[0_8px_32px_rgba(6, 69, 127,   0.12)]"
                 initial={{ y: 20, opacity: 0 }}
                 animate={{ y: 0, opacity: 1 }}
                 transition={{ delay: 0.5 + idx * 0.08, duration: 0.5, ease: easeOut }}
               >
                 {/* Icon */}
-                <div className="flex h-14 w-14 items-center justify-center rounded-xl bg-[#8C52FF]/15 ring-1 ring-[#8C52FF]/20 transition-all duration-300 group-hover:bg-[#8C52FF]/25 group-hover:ring-[#8C52FF]/40">
-                  <item.icon className="h-6 w-6 text-[#8C52FF] transition-colors group-hover:text-[#A875FF]" />
+                <div className="flex h-14 w-14 items-center justify-center rounded-xl bg-[#06457F]/15 ring-1 ring-[#06457F]/20 transition-all duration-300 group-hover:bg-[#06457F]/25 group-hover:ring-[#06457F]/40">
+                  <item.icon className="h-6 w-6 text-[#06457F] transition-colors group-hover:text-[#38BDF8]" />
                 </div>
 
                 {/* Title */}
@@ -194,7 +194,7 @@ export default function ContactPage() {
                 {item.href ? (
                   <a
                     href={item.href}
-                    className="text-sm font-medium leading-relaxed text-[#C4A0FF] transition-colors hover:text-[#8C52FF]"
+                    className="text-sm font-medium leading-relaxed text-[#38BDF8] transition-colors hover:text-[#06457F]"
                     style={{ fontFamily: 'var(--font-poppins)' }}
                   >
                     {item.value}

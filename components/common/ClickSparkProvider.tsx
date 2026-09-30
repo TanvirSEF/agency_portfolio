@@ -5,7 +5,7 @@ import ClickSpark from "@/components/ClickSpark";
 export default function ClickSparkProvider({ children }: { children: React.ReactNode }) {
   return (
     <ClickSpark
-      sparkColor="#8C52FF"
+      sparkColor="#06457F"
       sparkSize={10}
       sparkRadius={15}
       sparkCount={8}

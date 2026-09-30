@@ -81,12 +81,12 @@ export default function Navbar() {
   const logoDesktopSrc: string =
     (typeof navbarMessages?.logoDesktop === 'string' && navbarMessages.logoDesktop.startsWith('/'))
       ? navbarMessages.logoDesktop
-      : '/assets/images/logo.svg';
+      : '/logo-zephlo.png';
 
   const logoMobileSrc: string =
     (typeof navbarMessages?.logoMobile === 'string' && navbarMessages.logoMobile.startsWith('/'))
       ? navbarMessages.logoMobile
-      : '/assets/images/logo.svg';
+      : '/logo-zephlo.png';
   const logoDesktopSeo = navbarMessages?.logoDesktopSeo;
   const logoMobileSeo = navbarMessages?.logoMobileSeo;
   const locale = useLocale();
@@ -179,19 +179,19 @@ export default function Navbar() {
               <Image
                 src={logoDesktopSrc}
                 seo={logoDesktopSeo}
-                alt="Webbly Media Logo"
+                alt="Zephlo Tech Logo"
                 width={220}
-                height={50}
-                className="hidden h-auto object-contain md:block"
+                height={40}
+                className="hidden h-[38px] w-auto object-contain md:block"
                 priority
               />
               <Image
                 src={logoMobileSrc}
                 seo={logoMobileSeo}
-                alt="Webbly Media Logo"
-                width={150}
-                height={40}
-                className="h-auto object-contain md:hidden"
+                alt="Zephlo Tech Logo"
+                width={160}
+                height={30}
+                className="h-[30px] w-auto object-contain md:hidden"
                 priority
               />
             </Link>
@@ -210,12 +210,12 @@ export default function Navbar() {
             >
               Plans & Pricing
             </Link> */}
-            <div className="flex items-center gap-1 border border-gray-200 rounded-lg bg-[#F8F5FF] p-1">
+            <div className="flex items-center gap-1 border border-gray-200 rounded-lg bg-[#F0F5FA] p-1">
               <button
                 type="button"
                 onClick={() => handleLanguageChange('en')}
                 className={`flex items-center gap-1 rounded-md px-2.5 py-1 text-xs font-medium transition-colors xl:text-sm ${
-                  locale === 'en' ? 'bg-[#7936FF] text-white' : 'text-[#1E1F21] hover:bg-white'
+                  locale === 'en' ? 'bg-[#06457F] text-white' : 'text-[#1E1F21] hover:bg-white'
                 }`}
                 style={{ fontFamily: 'var(--font-poppins)' }}
               >
@@ -226,7 +226,7 @@ export default function Navbar() {
                 type="button"
                 onClick={() => handleLanguageChange('sv')}
                 className={`rounded-md px-2.5 py-1 text-xs font-medium transition-colors xl:text-sm ${
-                  locale === 'sv' ? 'bg-[#7936FF] text-white' : 'text-[#1E1F21] hover:bg-white'
+                  locale === 'sv' ? 'bg-[#06457F] text-white' : 'text-[#1E1F21] hover:bg-white'
                 }`}
                 style={{ fontFamily: 'var(--font-poppins)' }}
               >
@@ -236,7 +236,7 @@ export default function Navbar() {
             <Button
               asChild
               magnetDisabled
-              className="border-0 bg-[#682AD5] whitespace-nowrap text-white hover:bg-[#6A2EE6]"
+              className="border-0 bg-[#06457F] whitespace-nowrap text-white hover:bg-[#0474C4]"
               style={{
                 fontFamily: 'var(--font-poppins)',
                 fontSize: '14px',
@@ -319,7 +319,7 @@ export default function Navbar() {
                     <Link
                       key={service.href}
                       href={service.href}
-                      className="block rounded-md px-4 py-2 text-sm text-[#1E1F21] hover:bg-gray-50 hover:text-[#7936FF]"
+                      className="block rounded-md px-4 py-2 text-sm text-[#1E1F21] hover:bg-gray-50 hover:text-[#06457F]"
                     >
                       {t(`services.${service.key}`)}
                     </Link>
@@ -465,7 +465,7 @@ export default function Navbar() {
                                 <Link
                                   href={service.href}
                                   onClick={() => setIsMobileMenuOpen(false)}
-                                  className="block rounded-lg px-3 py-2.5 text-sm text-[#475467] transition-colors hover:bg-[#F9F5FF] hover:text-[#7936FF]"
+                                  className="block rounded-lg px-3 py-2.5 text-sm text-[#475467] transition-colors hover:bg-[#F0F5FA] hover:text-[#06457F]"
                                   style={{ fontFamily: 'var(--font-poppins)' }}
                                 >
                                   {t(`services.${service.key}`)}
@@ -498,7 +498,7 @@ export default function Navbar() {
                           target="_blank"
                           rel="noopener noreferrer"
                           onClick={() => setIsMobileMenuOpen(false)}
-                          className="block py-4 text-[15px] font-semibold text-[#1E1F21] transition-colors hover:text-[#7936FF]"
+                          className="block py-4 text-[15px] font-semibold text-[#1E1F21] transition-colors hover:text-[#06457F]"
                           style={{ fontFamily: 'var(--font-poppins)' }}
                         >
                           {item.label}
@@ -507,7 +507,7 @@ export default function Navbar() {
                         <Link
                           href={item.href}
                           onClick={() => setIsMobileMenuOpen(false)}
-                          className="block py-4 text-[15px] font-semibold text-[#1E1F21] transition-colors hover:text-[#7936FF]"
+                          className="block py-4 text-[15px] font-semibold text-[#1E1F21] transition-colors hover:text-[#06457F]"
                           style={{ fontFamily: 'var(--font-poppins)' }}
                         >
                           {item.label}
@@ -537,7 +537,7 @@ export default function Navbar() {
                         onClick={() => handleLanguageChange('en')}
                         className={`flex items-center justify-center gap-2 rounded-md px-3 py-2.5 text-sm font-medium shadow-sm transition-colors ${
                           locale === 'en'
-                            ? 'bg-[#7936FF] text-white'
+                            ? 'bg-[#06457F] text-white'
                             : 'bg-white text-[#1E1F21] hover:bg-gray-50'
                         }`}
                         style={{ fontFamily: 'var(--font-poppins)' }}
@@ -550,7 +550,7 @@ export default function Navbar() {
                         onClick={() => handleLanguageChange('sv')}
                         className={`flex items-center justify-center gap-2 rounded-md px-3 py-2.5 text-sm font-medium shadow-sm transition-colors ${
                           locale === 'sv'
-                            ? 'bg-[#7936FF] text-white'
+                            ? 'bg-[#06457F] text-white'
                             : 'bg-white text-[#1E1F21] hover:bg-gray-50'
                         }`}
                         style={{ fontFamily: 'var(--font-poppins)' }}
@@ -564,7 +564,7 @@ export default function Navbar() {
                     <Button
                       magnetDisabled
                       asChild
-                      className="h-12 w-full justify-center border-0 bg-[#7936FF] text-base font-semibold text-white hover:bg-[#6A2EE6]"
+                      className="h-12 w-full justify-center border-0 bg-[#06457F] text-base font-semibold text-white hover:bg-[#0474C4]"
                       style={{ fontFamily: 'var(--font-poppins)' }}
                     >
                       <Link

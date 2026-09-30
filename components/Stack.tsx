@@ -104,7 +104,7 @@ const DEFAULT_CARDS: React.ReactNode[] = [
   <div
     key="default-card-3"
     aria-hidden
-    className="h-full w-full bg-[linear-gradient(135deg,#34175f,#8836ff)]"
+    className="h-full w-full bg-[linear-gradient(135deg,#34175f,#06457F)]"
   />,
   <div
     key="default-card-4"

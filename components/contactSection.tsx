@@ -89,7 +89,7 @@ export default function ContactSection({
               {finalContent.contactInfo.email?.value && (
                 <div className="flex items-start gap-3">
                   <div className="mt-1">
-                    <Mail className="h-5 w-5 text-[#8C52FF]" />
+                    <Mail className="h-5 w-5 text-[#06457F]" />
                   </div>
                   <div>
                     <p className="mb-1 text-sm font-semibold text-gray-700 uppercase">
@@ -97,7 +97,7 @@ export default function ContactSection({
                     </p>
                     <a
                       href={finalContent.contactInfo.email.href}
-                      className="text-[#8C52FF] transition-colors hover:text-[#7b42ff]"
+                      className="text-[#06457F] transition-colors hover:text-[#262B40]"
                     >
                       {finalContent.contactInfo.email.value}
                     </a>
@@ -109,7 +109,7 @@ export default function ContactSection({
               {finalContent.contactInfo.phone?.value && (
                 <div className="flex items-start gap-3">
                   <div className="mt-1">
-                    <Phone className="h-5 w-5 text-[#8C52FF]" />
+                    <Phone className="h-5 w-5 text-[#06457F]" />
                   </div>
                   <div>
                     <p className="mb-1 text-sm font-semibold text-gray-700 uppercase">
@@ -117,7 +117,7 @@ export default function ContactSection({
                     </p>
                     <a
                       href={finalContent.contactInfo.phone.href}
-                      className="text-[#8C52FF] transition-colors hover:text-[#7b42ff]"
+                      className="text-[#06457F] transition-colors hover:text-[#262B40]"
                     >
                       {finalContent.contactInfo.phone.value}
                     </a>
@@ -143,7 +143,7 @@ export default function ContactSection({
                         href={social.href}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="flex h-10 w-10 items-center justify-center rounded-full bg-gray-200 text-gray-600 transition-all hover:bg-[#8C52FF] hover:text-white"
+                        className="flex h-10 w-10 items-center justify-center rounded-full bg-gray-200 text-gray-600 transition-all hover:bg-[#06457F] hover:text-white"
                         aria-label={social.ariaLabel}
                       >
                         <IconComponent className="h-5 w-5" />

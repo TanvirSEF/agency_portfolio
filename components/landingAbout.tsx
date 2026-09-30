@@ -62,7 +62,7 @@ export default function LandingAbout({
             className="mt-4 mb-5 max-w-88 text-center text-[#667085] sm:mb-6 sm:max-w-md min-[1250px]:mt-0 min-[1250px]:min-w-150 min-[1250px]:text-left min-[1250px]:leading-relaxed [&_p]:m-0 [&_p]:text-[clamp(0.8125rem,1.8vw,1.125rem)] [&_p]:leading-[1.8]"
           />
 
-          <Button asChild className="w-full rounded-full bg-[#8C52FF] px-6 py-4 text-white sm:w-auto sm:px-8 sm:py-5 min-[1250px]:py-6">
+          <Button asChild className="w-full rounded-full bg-[#06457F] px-6 py-4 text-white sm:w-auto sm:px-8 sm:py-5 min-[1250px]:py-6">
             <Link href="/about-us">
               <RichTextInline content={finalContent.leftSection.buttonText} />
             </Link>
@@ -99,14 +99,14 @@ export default function LandingAbout({
                     onClick={() => toggleService(service.id)}
                     className={`flex min-w-0 items-center gap-2 rounded-[0.375rem] px-3 py-3 text-left text-xs font-medium transition-all duration-200 sm:gap-3 sm:px-4 sm:py-4 sm:text-sm md:text-base ${
                       isSelected
-                        ? 'bg-white text-purple-700 shadow-lg'
+                        ? 'bg-white text-[#06457F] shadow-lg'
                         : 'bg-white/20 text-[#ffffff] hover:bg-white/30'
                     }`}
                   >
                     <div
                       className={`flex h-4 w-4 shrink-0 items-center justify-center rounded border-2 transition-all duration-200 sm:h-5 sm:w-5 ${
                         isSelected
-                          ? 'border-purple-600 bg-purple-600'
+                          ? 'border-[#06457F] bg-[#06457F]'
                           : 'border-[#B9B9B9] bg-transparent'
                       }`}
                     >
@@ -135,7 +135,7 @@ export default function LandingAbout({
             <Button
               type="button"
               onClick={() => setModalOpen(true)}
-              className="w-full rounded-full bg-[#8C52FF] px-6 py-4 text-white sm:w-auto sm:px-8 sm:py-5 min-[1250px]:py-6"
+              className="w-full rounded-full bg-[#06457F] px-6 py-4 text-white sm:w-auto sm:px-8 sm:py-5 min-[1250px]:py-6"
             >
               <RichTextInline content={finalContent.rightSection.buttonText} />
             </Button>

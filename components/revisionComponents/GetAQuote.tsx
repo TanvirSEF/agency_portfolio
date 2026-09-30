@@ -118,7 +118,7 @@ export default function GetAQuote({ content }: { content: WebDevContent["getAQuo
               <Button
                 asChild
                 glareDisabled
-                className="h-auto overflow-hidden rounded-full bg-white py-1.5 pl-6 pr-1.5 text-[1.08rem] font-semibold tracking-[0.02em] text-[#7340f4] hover:bg-white hover:text-[#7340f4]"
+                className="h-auto overflow-hidden rounded-full bg-white py-1.5 pl-6 pr-1.5 text-[1.08rem] font-semibold tracking-[0.02em] text-[#06457F] hover:bg-white hover:text-[#06457F]"
                 style={gaqAnim(GAQ_ALL_WORDS.length * 55 + 180)}
               >
                 <Link href="/contact">
@@ -131,7 +131,7 @@ export default function GetAQuote({ content }: { content: WebDevContent["getAQuo
                     }
                   >{content.buttonText}</span>
                   <span
-                    className="ml-4 inline-flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-[#7c48f7] text-white shadow-[0_0_0_rgba(124,72,247,0)] transition-all duration-300 group-hover:bg-[#6f3df3] group-hover:shadow-[0_10px_22px_rgba(124,72,247,0.45)]"
+                    className="ml-4 inline-flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-[#06457F] text-white shadow-[0_0_0_rgba(6, 69, 127, 0.45)] transition-all duration-300 group-hover:bg-[#0474C4] group-hover:shadow-[0_10px_22px_rgba(6, 69, 127, 0.45)]"
                     style={
                       isVisible
                         ? { willChange: "transform", animation: `gaqBtnCircleSlide 0.8s cubic-bezier(0.25, 1, 0.5, 1) ${GAQ_ALL_WORDS.length * 55 + 230}ms forwards`, transform: "translate3d(-192px, 0, 0)" }

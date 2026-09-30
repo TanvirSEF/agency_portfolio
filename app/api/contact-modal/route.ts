@@ -39,7 +39,7 @@ export async function POST(req: NextRequest) {
     const embed = {
       title: '📋 New contact form submission',
       description: 'A visitor submitted the contact modal from the website.',
-      color: 0x8c52ff,
+      color: 0x0b2545,
       fields: [
         {
           name: '👤 Name',

@@ -49,12 +49,12 @@ export default function CoveredArea({ contentPath, content }: CoveredAreaProps) 
                         >
                             <div className="group relative flex items-center justify-center">
                                 <span
-                                    className="absolute inline-flex h-5 w-5 rounded-full bg-violet-500/30 animate-ping"
+                                    className="absolute inline-flex h-5 w-5 rounded-full bg-[#00D2FF]/40 animate-ping"
                                     style={{
                                         animationDuration: '1.5s', // Change this value to control ping speed. e.g. '2s', '750ms'
                                     }}
                                 />
-                                <span className="relative inline-flex h-3 w-3 rounded-full bg-violet-600 shadow-[0_0_12px_rgba(124,58,237,0.7)]" />
+                                <span className="relative inline-flex h-3 w-3 rounded-full bg-[#06457F] shadow-[0_0_12px_rgba(6, 69, 127, 0.7)]" />
                                 <div className="pointer-events-none absolute bottom-full left-1/2 mb-4 w-[230px] -translate-x-1/2 opacity-0 transition duration-200 group-hover:opacity-100">
                                     <div className="rounded-2xl bg-white px-4 py-3 text-center text-slate-700 shadow-[0_20px_50px_rgba(17,24,39,0.25)]">
                                         <div className="flex items-center justify-center gap-2 text-base font-semibold">
@@ -78,7 +78,7 @@ export default function CoveredArea({ contentPath, content }: CoveredAreaProps) 
                     ))}
                 </div>
 
-                <CounterUp className="mt-8" color="#8C52FF" stats={finalContent.stats} />
+                <CounterUp className="mt-8" color="#06457F" stats={finalContent.stats} />
             </div>
         </div>
     );

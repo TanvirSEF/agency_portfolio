@@ -113,7 +113,7 @@ export default function ContactForm({ labels }: { labels?: FormLabels }) {
               onChange={handleChange}
               placeholder={l.firstNamePlaceholder}
               required
-              className="w-full rounded-lg border border-gray-300 px-4 py-3 transition-colors focus:border-transparent focus:ring-2 focus:ring-[#8C52FF] focus:outline-none"
+              className="w-full rounded-lg border border-gray-300 px-4 py-3 transition-colors focus:border-transparent focus:ring-2 focus:ring-[#06457F] focus:outline-none"
             />
             <input
               type="text"
@@ -122,7 +122,7 @@ export default function ContactForm({ labels }: { labels?: FormLabels }) {
               onChange={handleChange}
               placeholder={l.lastNamePlaceholder}
               required
-              className="w-full rounded-lg border border-gray-300 px-4 py-3 transition-colors focus:border-transparent focus:ring-2 focus:ring-[#8C52FF] focus:outline-none"
+              className="w-full rounded-lg border border-gray-300 px-4 py-3 transition-colors focus:border-transparent focus:ring-2 focus:ring-[#06457F] focus:outline-none"
             />
           </div>
         </div>
@@ -139,7 +139,7 @@ export default function ContactForm({ labels }: { labels?: FormLabels }) {
             onChange={handleChange}
             placeholder={l.emailPlaceholder}
             required
-            className="w-full rounded-lg border border-gray-300 px-4 py-3 transition-colors focus:border-transparent focus:ring-2 focus:ring-[#8C52FF] focus:outline-none"
+            className="w-full rounded-lg border border-gray-300 px-4 py-3 transition-colors focus:border-transparent focus:ring-2 focus:ring-[#06457F] focus:outline-none"
           />
         </div>
 
@@ -157,7 +157,7 @@ export default function ContactForm({ labels }: { labels?: FormLabels }) {
             required
             rows={3}
             style={{ minHeight: '80px', maxHeight: '200px' }}
-            className="custom-scrollbar w-full resize-none overflow-y-auto rounded-lg border border-gray-300 px-4 py-3 transition-colors focus:border-transparent focus:ring-2 focus:ring-[#8C52FF] focus:outline-none"
+            className="custom-scrollbar w-full resize-none overflow-y-auto rounded-lg border border-gray-300 px-4 py-3 transition-colors focus:border-transparent focus:ring-2 focus:ring-[#06457F] focus:outline-none"
           />
         </div>
 
@@ -173,7 +173,7 @@ export default function ContactForm({ labels }: { labels?: FormLabels }) {
         <div className="flex justify-center">
           <Button
             disabled={status === 'loading'}
-            className="font-dm-sans h-[45px] w-[300px] rounded-full bg-[#8C52FF] px-6 text-[16px] font-semibold text-white transition-all duration-300 hover:bg-[#7b42ff] hover:shadow-[0_4px_15px_rgba(140,82,255,0.35)] disabled:opacity-60"
+            className="font-dm-sans h-[45px] w-[300px] rounded-full bg-[#06457F] px-6 text-[16px] font-semibold text-white transition-all duration-300 hover:bg-[#0474C4] hover:shadow-[0_4px_15px_rgba(6, 69, 127,   0.35)] disabled:opacity-60"
           >
             {status === 'loading' ? l.sendingButton : l.submitButton}
           </Button>

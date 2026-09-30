@@ -66,7 +66,7 @@ export default function CustomWebDev({
             {services.map((service) => (
               <div
                 key={service.id}
-                className="rounded-2xl border-2 border-gray-200 bg-white p-6 shadow-sm transition-all duration-300 hover:border-[#B189FF] hover:shadow-md"
+                className="rounded-2xl border-2 border-gray-200 bg-white p-6 shadow-sm transition-all duration-300 hover:border-[#0474C4] hover:shadow-md"
               >
                 <RichTextBlock
                   as="div"
@@ -103,7 +103,7 @@ export default function CustomWebDev({
 
             {/* Top-Left Card - WEB DESIGN */}
             <div className="absolute top-0 left-0 w-[340px] 2xl:w-[400px]">
-              <div className="min-h-[240px] rounded-2xl border-2 bg-white p-5 shadow-sm transition-all duration-300 hover:border-[#B189FF] 2xl:min-h-[250px] 2xl:p-6">
+              <div className="min-h-[240px] rounded-2xl border-2 bg-white p-5 shadow-sm transition-all duration-300 hover:border-[#0474C4] 2xl:min-h-[250px] 2xl:p-6">
               <button
                   onClick={() => router.push("/services/web-design")}
                   aria-label={`Learn more about ${services[2].title}`}
@@ -124,7 +124,7 @@ export default function CustomWebDev({
 
             {/* Bottom-Left Card - APP DEVELOPMENT */}
             <div className="absolute bottom-0 left-0 w-[340px] 2xl:w-[400px]">
-              <div className="min-h-[240px] rounded-2xl border-2 bg-white p-5 shadow-sm transition-all duration-300 hover:border-[#B189FF] 2xl:min-h-[250px] 2xl:p-6">
+              <div className="min-h-[240px] rounded-2xl border-2 bg-white p-5 shadow-sm transition-all duration-300 hover:border-[#0474C4] 2xl:min-h-[250px] 2xl:p-6">
               <button
                   onClick={() => router.push("/services/app-development")}
                   aria-label={`Learn more about ${services[2].title}`}
@@ -145,7 +145,7 @@ export default function CustomWebDev({
 
             {/* Top-Right Card - WEB DEVELOPMENT */}
             <div className="absolute top-0 right-0 w-[340px] 2xl:w-[400px]">
-              <div className="min-h-[240px] rounded-2xl border-2 bg-white p-5 shadow-sm transition-all duration-300 hover:border-[#B189FF] 2xl:min-h-[250px] 2xl:p-6">
+              <div className="min-h-[240px] rounded-2xl border-2 bg-white p-5 shadow-sm transition-all duration-300 hover:border-[#0474C4] 2xl:min-h-[250px] 2xl:p-6">
                 <button
                   onClick={() => router.push("/services/web-development")}
                   aria-label={`Learn more about ${services[2].title}`}
@@ -166,7 +166,7 @@ export default function CustomWebDev({
 
             {/* Bottom-Right Card - PLUGIN DEVELOPMENT */}
             <div className="absolute right-0 bottom-0 w-[340px] 2xl:w-[400px]">
-              <div className="min-h-[240px] rounded-2xl border-2 bg-white p-5 shadow-sm transition-all duration-300 hover:border-[#B189FF] 2xl:min-h-[250px] 2xl:p-6">
+              <div className="min-h-[240px] rounded-2xl border-2 bg-white p-5 shadow-sm transition-all duration-300 hover:border-[#0474C4] 2xl:min-h-[250px] 2xl:p-6">
               <button
                   onClick={() => router.push("/services/wordpress-development")}
                   aria-label={`Learn more about ${services[2].title}`}

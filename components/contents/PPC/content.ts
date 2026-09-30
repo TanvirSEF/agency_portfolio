@@ -98,7 +98,7 @@ export const digitalServiceCard1ContentPPC = {
             title: 'Google Ads',
             description:
                 'Our Google Ads services help you reach customers actively looking for your services. We create and manage Google Ads for both search and display campaigns to get your business in front of the right audience. Our experts optimize your keywords, ad copy, and bidding strategies. We ensure your ads appear to the right audience while keeping costs efficient. Our goal is to maximize your ROI, driving traffic, conversions, and brand awareness.',
-            iconBg: 'bg-[#8C52FF]',
+            iconBg: 'bg-[#06457F]',
             iconColor: 'text-white',
             href: '/services/ppc-google-ads-management',
         },
@@ -134,7 +134,7 @@ export const digitalServiceCard2ContentPPC = {
             title: 'Performance Max (PMax) Campaigns',
             description:
                 'We manage Performance Max campaigns that use automation supported by strong data signals. By improving first-party data, audience lists, and landing page relevance, we help Google understand your ideal customers. Our team refines assets, adjusts bidding, and runs structured tests to improve conversions. This ensures broader reach and better performance across Google’s channels.',
-            iconBg: 'bg-[#8C52FF]',
+            iconBg: 'bg-[#06457F]',
             iconColor: 'text-white',
             href: '/services/ppc-google-ads-management',
         },

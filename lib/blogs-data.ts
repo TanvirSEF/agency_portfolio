@@ -28,7 +28,7 @@ export const blogPosts: BlogPost[] = [
     date: '2025-02-10',
     category: 'Web Design',
     image: '/assets/images/fist-trust.jpg',
-    imageGradient: 'linear-gradient(135deg, #7936FF 0%, #B189FF 100%)',
+    imageGradient: 'linear-gradient(135deg, #06457F 0%, #00D2FF 100%)',
     sections: [
       {
         heading: 'More Than Just a Visual Requirement',
@@ -94,7 +94,7 @@ export const blogPosts: BlogPost[] = [
     date: '2025-01-28',
     category: 'Social Media',
     image: '/assets/images/about-us/concept-card2.jpg',
-    imageGradient: 'linear-gradient(135deg, #8C52FF 0%, #682AD5 100%)',
+    imageGradient: 'linear-gradient(135deg, #06457F 0%, #06457F 100%)',
     sections: [
       {
         heading: 'Strategy Before Content',
@@ -127,7 +127,7 @@ export const blogPosts: BlogPost[] = [
     date: '2025-01-20',
     category: 'PPC',
     image: '/assets/images/PPC/ppc-hero.jpg',
-    imageGradient: 'linear-gradient(135deg, #06010E 0%, #7936FF 100%)',
+    imageGradient: 'linear-gradient(135deg, #06010E 0%, #06457F 100%)',
     sections: [
       {
         heading: 'Structure Determines Everything',
@@ -193,7 +193,7 @@ export const blogPosts: BlogPost[] = [
     date: '2025-01-05',
     category: 'Graphic Design',
     image: '/assets/images/case-study1.png',
-    imageGradient: 'linear-gradient(135deg, #B189FF 0%, #8C52FF 100%)',
+    imageGradient: 'linear-gradient(135deg, #00D2FF 0%, #06457F 100%)',
     sections: [
       {
         heading: 'Recognition Is a Business Asset',

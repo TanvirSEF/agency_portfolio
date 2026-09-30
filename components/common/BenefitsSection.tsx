@@ -121,12 +121,12 @@ export default function BenefitsSection({
                                         ? 'border-b border-gray-200'
                                         : ''
                                         } ${activeIndex === index
-                                            ? 'text-[#8C52FF]'
-                                            : 'text-[#1E1F21] hover:text-[#8C52FF]'
+                                            ? 'text-[#06457F]'
+                                            : 'text-[#1E1F21] hover:text-[#06457F]'
                                         }`}
                                 >
                                     <span
-                                        className={`font-medium transition-all duration-300 ${activeIndex === index ? 'text-[#8C52FF]' : 'text-[#1E1F21]'
+                                        className={`font-medium transition-all duration-300 ${activeIndex === index ? 'text-[#06457F]' : 'text-[#1E1F21]'
                                             }`}
                                         style={{ fontSize: 'clamp(0.875rem, 2vw, 1rem)' }}
                                     >
@@ -134,13 +134,13 @@ export default function BenefitsSection({
                                     </span>
                                     <ArrowRight
                                         className={`h-5 w-5 shrink-0 transition-all duration-300 ${activeIndex === index
-                                            ? 'translate-x-0 text-[#8C52FF] opacity-100'
+                                            ? 'translate-x-0 text-[#06457F] opacity-100'
                                             : 'translate-x-[-8px] opacity-0 group-hover:translate-x-0 group-hover:opacity-50'
                                             }`}
                                     />
                                     {/* Active indicator line */}
                                     {activeIndex === index && (
-                                        <div className="absolute left-0 top-0 bottom-0 w-1 bg-[#8C52FF] lg:left-auto lg:-right-8 lg:top-0 lg:bottom-auto lg:w-auto lg:h-1" />
+                                        <div className="absolute left-0 top-0 bottom-0 w-1 bg-[#06457F] lg:left-auto lg:-right-8 lg:top-0 lg:bottom-auto lg:w-auto lg:h-1" />
                                     )}
                                 </button>
                             ))}

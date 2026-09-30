@@ -52,7 +52,7 @@ export default function CompanyIntroSection({
   //       </div>
   //       <div className="flex-1 lg:w-[55%] xl:w-[60%]">
   //         {finalContent.content && finalContent.content.brandName && (
-  //           <p className="text-[#8C52FF] text-[1.25rem]">{finalContent.content.brandName}</p>
+  //           <p className="text-[#06457F] text-[1.25rem]">{finalContent.content.brandName}</p>
   //         )}
   //         {finalContent.content && finalContent.content.title && (
   //           <h1
@@ -68,7 +68,7 @@ export default function CompanyIntroSection({
   //           </p>
   //         )}
   //         {finalContent.content && finalContent.content.button && finalContent.content.button.text && (
-  //           <Button className="rounded-full bg-[#8C52FF] px-8 py-6 text-white">
+  //           <Button className="rounded-full bg-[#06457F] px-8 py-6 text-white">
   //             <Link href={finalContent.content.button.href || '/'} className="uppercase">
   //               {finalContent.content.button.text}
   //             </Link>
@@ -88,7 +88,7 @@ export default function CompanyIntroSection({
               as="div"
               content={finalContent.content.brandName}
               defaultTag="p"
-              className="text-[#8C52FF] text-sm font-semibold tracking-[0.2em] uppercase mb-3"
+              className="text-[#06457F] text-sm font-semibold tracking-[0.2em] uppercase mb-3"
             />
           )}
           {finalContent.content && finalContent.content.title && (
@@ -111,7 +111,7 @@ export default function CompanyIntroSection({
           )}
           {finalContent.content && finalContent.content.button && finalContent.content.button.text && (
             <div className="flex justify-center">
-              <Button className="rounded-full bg-[#8C52FF] hover:bg-[#7A3BFF] transition-colors px-8 py-5 text-white text-sm font-semibold tracking-wide uppercase">
+              <Button className="rounded-full bg-[#06457F] hover:bg-[#06457F] transition-colors px-8 py-5 text-white text-sm font-semibold tracking-wide uppercase">
                 <Link href={finalContent.content.button.href || '/'}>
                   <RichTextInline content={finalContent.content.button.text} />
                 </Link>

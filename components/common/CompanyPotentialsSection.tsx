@@ -26,7 +26,7 @@ export default function CompanyPotentialsSection({
                             as="div"
                             content={subtitle}
                             defaultTag="p"
-                            className="text-[#8C52FF] text-[1.25rem] font-medium mb-3"
+                            className="text-[#06457F] text-[1.25rem] font-medium mb-3"
                         />
                     )}
                     {title && (
@@ -50,7 +50,7 @@ export default function CompanyPotentialsSection({
                             {/* Number */}
                             <div className="flex items-center gap-4">
                                 <span
-                                    className="text-[#8C52FF] flex w-full text-center justify-center items-center text-[1.25rem] font-medium"
+                                    className="text-[#06457F] flex w-full text-center justify-center items-center text-[1.25rem] font-medium"
                                 >
                                     {String(feature.id).padStart(2, '0')}
                                 </span>

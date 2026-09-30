@@ -80,7 +80,7 @@ export default function RevisionFaqSection({ content }: { content: WebDevContent
             </div>
 
             <aside
-              className={`${hasFaqCardsEnteredView ? "contact-card-enter" : "contact-card-base"} mt-8 rounded-[18px] bg-[linear-gradient(150deg,#8d56ff_0%,#7f48f7_54%,#7841f2_100%)] px-6 py-7 text-white shadow-[0_20px_38px_rgba(92,53,184,0.22)] md:px-7 md:py-8 lg:self-start`}
+              className={`${hasFaqCardsEnteredView ? "contact-card-enter" : "contact-card-base"} mt-8 rounded-[18px] bg-[linear-gradient(150deg,#06457F_0%,#262B40_54%,#0474C4_100%)] px-6 py-7 text-white shadow-[0_20px_38px_rgba(6, 69, 127, 0.35)] md:px-7 md:py-8 lg:self-start`}
             >
               <div
                 className="contact-item relative h-12 w-12 overflow-hidden rounded-full border border-white/55 bg-white/25"
@@ -163,7 +163,7 @@ export default function RevisionFaqSection({ content }: { content: WebDevContent
                     {faq.question}
                   </h3>
                   <span
-                    className={`inline-flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-[#f8f5ff] text-[#7a46f6] transition-transform duration-300 ${
+                    className={`inline-flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-[#F0F5FA] text-[#06457F] transition-transform duration-300 ${
                       openIndex === index ? "rotate-180" : ""
                     }`}
                   >

@@ -85,28 +85,28 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
       <ScrollReveal>
         <div className="relative bg-[#06010E] px-4 py-12 sm:px-6 lg:py-16">
           <div className="container mx-auto max-w-3xl">
-            <nav aria-label="Breadcrumb" className="mb-6 flex items-center gap-2 text-sm text-[#F9F6FF]/85">
+            <nav aria-label="Breadcrumb" className="mb-6 flex items-center gap-2 text-sm text-[#F0F5FA]/85">
               <Link
                 href="/blogs"
-                className="inline-flex items-center gap-1 rounded-full bg-white/10 px-3 py-1.5 text-[#F9F6FF] transition-colors hover:bg-white/20"
+                className="inline-flex items-center gap-1 rounded-full bg-white/10 px-3 py-1.5 text-[#F0F5FA] transition-colors hover:bg-white/20"
                 style={{ fontFamily: 'var(--font-poppins)', fontWeight: 500 }}
               >
                 <ChevronLeft className="h-4 w-4" />
                 {t('allBlogs')}
               </Link>
-              <span className="text-[#F9F6FF]/40">/</span>
+              <span className="text-[#F0F5FA]/40">/</span>
               <span className="truncate" style={{ fontFamily: 'var(--font-poppins)' }}>
                 {post.category}
               </span>
             </nav>
             <span
-              className="inline-block rounded-full bg-white/15 px-3 py-1 text-sm font-medium text-[#F9F6FF]"
+              className="inline-block rounded-full bg-white/15 px-3 py-1 text-sm font-medium text-[#F0F5FA]"
               style={{ fontFamily: 'var(--font-poppins)' }}
             >
               <RichTextInline content={post.category} />
             </span>
             <time
-              className="mt-2 block text-sm text-[#F9F6FF]/80"
+              className="mt-2 block text-sm text-[#F0F5FA]/80"
               style={{ fontFamily: 'var(--font-poppins)' }}
               dateTime={post.date}
             >
@@ -164,7 +164,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
                     as="div"
                     content={section.text}
                     defaultTag="p"
-                    className="mb-10 text-[#667085] [&_p]:m-0 [&_p]:text-[clamp(0.95rem,2vw,1.05rem)] [&_p]:leading-[1.85] [&_ul]:my-4 [&_ul]:list-disc [&_ul]:pl-6 [&_ol]:my-4 [&_ol]:list-decimal [&_ol]:pl-6 [&_blockquote]:border-l-4 [&_blockquote]:border-[#8C52FF] [&_blockquote]:pl-4"
+                    className="mb-10 text-[#667085] [&_p]:m-0 [&_p]:text-[clamp(0.95rem,2vw,1.05rem)] [&_p]:leading-[1.85] [&_ul]:my-4 [&_ul]:list-disc [&_ul]:pl-6 [&_ol]:my-4 [&_ol]:list-decimal [&_ol]:pl-6 [&_blockquote]:border-l-4 [&_blockquote]:border-[#06457F] [&_blockquote]:pl-4"
                   />
                   {idx < (post.sections?.length ?? 1) - 1 && (
                     <hr className="mt-10 border-[#E4E7EC]" />
@@ -176,7 +176,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
           <ScrollReveal delay={0.1}>
             <Button
               asChild
-              className="rounded-full bg-[#8C52FF] px-8 text-white hover:bg-[#7941E6]"
+              className="rounded-full bg-[#06457F] px-8 text-white hover:bg-[#0474C4]"
               style={{ fontFamily: 'var(--font-poppins)', fontWeight: 500 }}
             >
               <Link href="/blogs">

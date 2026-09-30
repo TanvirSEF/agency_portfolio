@@ -73,7 +73,7 @@ export default function LandingWebblyMediaUpdates({
                 ) : (
                   <div
                     className="h-full w-full rounded-lg"
-                    style={{ background: post.imageGradient || 'linear-gradient(135deg, #7936FF 0%, #B189FF 100%)' }}
+                    style={{ background: post.imageGradient || 'linear-gradient(135deg, #06457F 0%, #00D2FF 100%)' }}
                   />
                 )}
               </div>
@@ -81,7 +81,7 @@ export default function LandingWebblyMediaUpdates({
               {/* Content */}
               <div>
                 <p
-                  className="mt-4 mb-1 text-xs font-semibold uppercase tracking-widest text-[#8C52FF]"
+                  className="mt-4 mb-1 text-xs font-semibold uppercase tracking-widest text-[#06457F]"
                 >
                   {post.category}
                 </p>
@@ -99,7 +99,7 @@ export default function LandingWebblyMediaUpdates({
                 </p>
 
                 {/* Read More Button */}
-                <Button asChild magnetDisabled className="rounded-full bg-[#8C52FF] px-8 py-6 text-white">
+                <Button asChild magnetDisabled className="rounded-full bg-[#06457F] px-8 py-6 text-white">
                   <Link href={`/blogs/${post.slug}`}>{readMoreLabel}</Link>
                 </Button>
               </div>

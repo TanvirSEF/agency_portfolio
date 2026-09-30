@@ -92,7 +92,7 @@ export const digitalServiceCard1ContentSeo = {
             title: 'Local SEO',
             description:
                 'Our local SEO services help your business reach nearby customers. We optimize your Google Business Profile, local citations, and NAP consistency to attract customers in your area. From location-based keywords optimization to local backlinks and review management, our SEO experts do everything to rank your business in Google Maps and local searches.',
-            iconBg: 'bg-[#8C52FF]',
+            iconBg: 'bg-[#06457F]',
             iconColor: 'text-white',
             href: '/services/seo',
         },
@@ -127,7 +127,7 @@ export const digitalServiceCard2ContentSeo = {
             title: 'Startup & Enterprise SEO',
             description:
                 'Whether you run a small startup or a large company, we create SEO strategies that fit your needs. For startups, we focus on visibility and lead generation. For larger companies, we prioritize automation, scalability, and detailed analytics. Our flexible SEO campaigns help you grow sustainably and stay strong in the market over the long term.',
-            iconBg: 'bg-[#8C52FF]',
+            iconBg: 'bg-[#06457F]',
             iconColor: 'text-white',
             href: '/services/seo',
         },

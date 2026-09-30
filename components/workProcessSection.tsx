@@ -171,7 +171,7 @@ export default function WorkProcessSection({
                 whileInView={{ opacity: 1, y: 0 }}
                 viewport={{ once: true }}
                 transition={{ duration: 0.6 }}
-                className="text-[#8C52FF] text-[1.25rem] font-medium"
+                className="text-[#06457F] text-[1.25rem] font-medium"
               >
                 <RichTextBlock as="div" content={finalContent.subtitle} defaultTag="p" />
               </motion.div>
@@ -220,7 +220,7 @@ export default function WorkProcessSection({
                       <span
                         className={`text-2xl font-bold transition-colors ${
                           openIndex === index
-                            ? 'text-[#8C52FF]'
+                            ? 'text-[#06457F]'
                             : 'text-gray-400'
                         }`}
                       >
@@ -238,9 +238,9 @@ export default function WorkProcessSection({
                       </h3>
                     </div>
                     {openIndex === index ? (
-                      <ChevronUp className="h-5 w-5 shrink-0 text-[#8C52FF]" />
+                      <ChevronUp className="h-5 w-5 shrink-0 text-[#06457F]" />
                     ) : (
-                      <ChevronDown className="h-5 w-5 shrink-0 text-[#8C52FF]" />
+                      <ChevronDown className="h-5 w-5 shrink-0 text-[#06457F]" />
                     )}
                   </button>
 

@@ -117,11 +117,11 @@ export default function ServiceWorkflowProcess() {
                   coneSpread={22}
                   animated={isVisible}
                   colors={[
-                    ["#7c3aed", "#a78bfa", "#38bdf8"],
-                    ["#6366f1", "#818cf8", "#c084fc"],
-                    ["#38bdf8", "#22d3ee", "#6366f1"],
-                    ["#a78bfa", "#f472b6", "#38bdf8"],
-                    ["#c084fc", "#6366f1", "#22d3ee"],
+                    ["#06457F", "#38BDF8", "#38bdf8"],
+                    ["#0A2B52", "#0474C4", "#00D2FF"],
+                    ["#38bdf8", "#22d3ee", "#0A2B52"],
+                    ["#38BDF8", "#f472b6", "#38bdf8"],
+                    ["#00D2FF", "#0A2B52", "#22d3ee"],
                   ][i]}
                 >
                   <div className="px-6 py-7 md:px-7 md:py-8">

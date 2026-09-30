@@ -144,7 +144,7 @@ export default function LandingFaq({
                   <RichTextInline content={faq.question} />
                 </h3>
                 <ChevronDown
-                  className={`h-5 w-5 shrink-0 text-[#8C52FF] transition-transform duration-300 ${
+                  className={`h-5 w-5 shrink-0 text-[#06457F] transition-transform duration-300 ${
                     openIndex === index ? 'rotate-180' : ''
                   }`}
                   aria-hidden="true"
@@ -165,7 +165,7 @@ export default function LandingFaq({
                     as="div"
                     content={faq.answer}
                     defaultTag="p"
-                    className="border-t-2 border-t-[#eee6ff] pt-2 leading-relaxed text-[#667085]"
+                    className="border-t-2 border-t-[#F0F5FA] pt-2 leading-relaxed text-[#667085]"
                     style={{ fontSize: 'clamp(0.95rem, 2vw, 1.125rem)' }}
                   />
                 </div>

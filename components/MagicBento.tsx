@@ -26,7 +26,7 @@ export interface BentoProps {
 
 export const DEFAULT_PARTICLE_COUNT = 12;
 export const DEFAULT_SPOTLIGHT_RADIUS = 300;
-export const DEFAULT_GLOW_COLOR = '140, 82, 255';
+export const DEFAULT_GLOW_COLOR = '11, 37, 69';
 export const MOBILE_BREAKPOINT = 768;
 
 const cardData: BentoCardProps[] = [
@@ -545,9 +545,9 @@ const MagicBento: React.FC<BentoProps> = ({
             --border-color: #392e4e;
             --background-dark: #060010;
             --white: hsl(0, 0%, 100%);
-            --purple-primary: rgba(140, 82, 255, 1);
-            --purple-glow: rgba(140, 82, 255, 0.2);
-            --purple-border: rgba(140, 82, 255, 0.8);
+            --blue-primary: rgba(6, 69, 127,    1);
+            --blue-glow: rgba(6, 69, 127,    0.2);
+            --blue-border: rgba(6, 69, 127,    0.8);
           }
           
           .card-responsive {

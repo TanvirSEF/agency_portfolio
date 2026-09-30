@@ -21,7 +21,7 @@ export default function DigitalServiceCard({ service }: DigitalServiceCardProps)
 
   return (
     <div
-      className="group relative flex min-h-[max-content] max-w-[320px] xl:max-w-[370px] flex-col justify-between rounded-lg border border-[#E5E7EB] bg-white p-6 shadow-sm transition-all duration-300 hover:-translate-y-1 hover:border-[#B189FF] hover:shadow-xl hover:shadow-[#B189FF]/30"
+      className="group relative flex min-h-[max-content] max-w-[320px] xl:max-w-[370px] flex-col justify-between rounded-lg border border-[#E5E7EB] bg-white p-6 shadow-sm transition-all duration-300 hover:-translate-y-1 hover:border-[#00D2FF] hover:shadow-xl hover:shadow-[#00D2FF]/30"
     >
       {/* Icon */}
       <Link
@@ -29,7 +29,7 @@ export default function DigitalServiceCard({ service }: DigitalServiceCardProps)
         className="relative mb-10 flex h-12 w-12 items-center justify-center overflow-hidden rounded-full border border-[#E5E7EB] bg-white transition-all duration-300 group-hover:scale-110"
       >
         {/* Water fill animation overlay */}
-        <div className="absolute inset-0 origin-bottom scale-y-0 transform rounded-full bg-[#8C52FF] transition-transform duration-500 ease-out group-hover:scale-y-100"></div>
+        <div className="absolute inset-0 origin-bottom scale-y-0 transform rounded-full bg-[#06457F] transition-transform duration-500 ease-out group-hover:scale-y-100"></div>
         {/* Icon with z-index to stay on top */}
         <IconComponent className="relative z-10 h-6 w-6 text-[#1E1F21] transition-colors duration-300 group-hover:text-white" />
       </Link>

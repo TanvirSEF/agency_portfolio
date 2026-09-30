@@ -160,8 +160,8 @@ export default function LegalLayout({ contentPath, content }: LegalLayoutProps) 
                                     className={cn(
                                         "block font-nunito text-[14px] font-semibold leading-[24px] tracking-[0.49px] transition-colors",
                                         activeSection === item.id
-                                            ? "text-[#8C52FF]"
-                                            : "text-[#667085] hover:text-[#8C52FF]"
+                                            ? "text-[#06457F]"
+                                            : "text-[#667085] hover:text-[#06457F]"
                                     )}
                                     onClick={(e) => {
                                         e.preventDefault();
@@ -193,8 +193,8 @@ export default function LegalLayout({ contentPath, content }: LegalLayoutProps) 
                             />
 
                             {finalContent.header.lastUpdated && (
-                                <div className="flex h-auto lg:h-[30px] w-auto lg:w-[343px] items-center justify-center rounded-[4px] bg-[#8C52FF] px-4 py-1 lg:px-0 lg:py-0">
-                                    <span className="font-dm-sans text-[12px] lg:text-[14px] font-semibold leading-[20px] lg:leading-[26px] tracking-[0.49px] text-[#F9F6FF] text-center">
+                                <div className="flex h-auto lg:h-[30px] w-auto lg:w-[343px] items-center justify-center rounded-[4px] bg-[#06457F] px-4 py-1 lg:px-0 lg:py-0">
+                                    <span className="font-dm-sans text-[12px] lg:text-[14px] font-semibold leading-[20px] lg:leading-[26px] tracking-[0.49px] text-[#F0F5FA] text-center">
                                         <RichTextInline content={finalContent.header.lastUpdated} />
                                     </span>
                                 </div>
@@ -240,7 +240,7 @@ export default function LegalLayout({ contentPath, content }: LegalLayoutProps) 
                                                 <a
                                                     key={idx}
                                                     href={`mailto:${email}`}
-                                                    className="font-dm-sans text-[15px] lg:text-[17px] font-normal leading-[24px] lg:leading-[27px] tracking-[0.6px] text-[#8C52FF] hover:underline block"
+                                                    className="font-dm-sans text-[15px] lg:text-[17px] font-normal leading-[24px] lg:leading-[27px] tracking-[0.6px] text-[#06457F] hover:underline block"
                                                     style={{ overflowWrap: "break-word" }}
                                                 >
                                                     {plainParagraph}
@@ -255,7 +255,7 @@ export default function LegalLayout({ contentPath, content }: LegalLayoutProps) 
                                                     href={url}
                                                     target="_blank"
                                                     rel="noopener noreferrer"
-                                                    className="font-dm-sans text-[15px] lg:text-[17px] font-normal leading-[24px] lg:leading-[27px] tracking-[0.6px] text-[#8C52FF] hover:underline block"
+                                                    className="font-dm-sans text-[15px] lg:text-[17px] font-normal leading-[24px] lg:leading-[27px] tracking-[0.6px] text-[#06457F] hover:underline block"
                                                     style={{ overflowWrap: "break-word" }}
                                                 >
                                                     {plainParagraph}
@@ -289,8 +289,8 @@ export default function LegalLayout({ contentPath, content }: LegalLayoutProps) 
                                     className={cn(
                                         "block w-[280px] font-nunito text-[14px] font-semibold leading-[26px] tracking-[0.49px] transition-colors",
                                         activeSection === item.id
-                                            ? "text-[#8C52FF]"
-                                            : "text-[#667085] hover:text-[#8C52FF]"
+                                            ? "text-[#06457F]"
+                                            : "text-[#667085] hover:text-[#06457F]"
                                     )}
                                     onClick={(e) => {
                                         e.preventDefault();

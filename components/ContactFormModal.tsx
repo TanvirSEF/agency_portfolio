@@ -169,7 +169,7 @@ export default function ContactFormModal({
               type="button"
               onClick={handleClose}
               disabled={status === 'loading'}
-              className="absolute right-4 top-4 flex h-10 w-10 items-center justify-center rounded-lg bg-[#8C52FF] text-white transition hover:opacity-90 disabled:opacity-60"
+              className="absolute right-4 top-4 flex h-10 w-10 items-center justify-center rounded-lg bg-[#06457F] text-white transition hover:opacity-90 disabled:opacity-60"
               aria-label="Close"
             >
               <X className="h-5 w-5" />
@@ -211,7 +211,7 @@ export default function ContactFormModal({
                           placeholder={firstNamePlaceholder}
                           required
                           disabled={status === 'loading'}
-                          className="w-full rounded-lg border border-gray-200 px-4 py-3 text-[#1E1F21] placeholder:text-gray-400 focus:border-[#8C52FF] focus:outline-none focus:ring-1 focus:ring-[#8C52FF] disabled:opacity-60"
+                          className="w-full rounded-lg border border-gray-200 px-4 py-3 text-[#1E1F21] placeholder:text-gray-400 focus:border-[#06457F] focus:outline-none focus:ring-1 focus:ring-[#06457F] disabled:opacity-60"
                         />
                         <input
                           type="text"
@@ -221,7 +221,7 @@ export default function ContactFormModal({
                           placeholder={lastNamePlaceholder}
                           required
                           disabled={status === 'loading'}
-                          className="w-full rounded-lg border border-gray-200 px-4 py-3 text-[#1E1F21] placeholder:text-gray-400 focus:border-[#8C52FF] focus:outline-none focus:ring-1 focus:ring-[#8C52FF] disabled:opacity-60"
+                          className="w-full rounded-lg border border-gray-200 px-4 py-3 text-[#1E1F21] placeholder:text-gray-400 focus:border-[#06457F] focus:outline-none focus:ring-1 focus:ring-[#06457F] disabled:opacity-60"
                         />
                       </div>
                     </div>
@@ -237,7 +237,7 @@ export default function ContactFormModal({
                         placeholder={emailPlaceholder}
                         required
                         disabled={status === 'loading'}
-                        className="w-full rounded-lg border border-gray-200 px-4 py-3 text-[#1E1F21] placeholder:text-gray-400 focus:border-[#8C52FF] focus:outline-none focus:ring-1 focus:ring-[#8C52FF] disabled:opacity-60"
+                        className="w-full rounded-lg border border-gray-200 px-4 py-3 text-[#1E1F21] placeholder:text-gray-400 focus:border-[#06457F] focus:outline-none focus:ring-1 focus:ring-[#06457F] disabled:opacity-60"
                       />
                     </div>
                     <div>
@@ -252,7 +252,7 @@ export default function ContactFormModal({
                         required
                         rows={4}
                         disabled={status === 'loading'}
-                        className="w-full resize-y rounded-lg border border-gray-200 px-4 py-3 text-[#1E1F21] placeholder:text-gray-400 focus:border-[#8C52FF] focus:outline-none focus:ring-1 focus:ring-[#8C52FF] disabled:opacity-60"
+                        className="w-full resize-y rounded-lg border border-gray-200 px-4 py-3 text-[#1E1F21] placeholder:text-gray-400 focus:border-[#06457F] focus:outline-none focus:ring-1 focus:ring-[#06457F] disabled:opacity-60"
                       />
                     </div>
                     {!hideSelectedServices && (
@@ -290,7 +290,7 @@ export default function ContactFormModal({
                       type="submit"
                       magnetDisabled
                       disabled={status === 'loading'}
-                      className="font-dm-sans h-[45px] rounded-full bg-[#8C52FF] px-16 text-[16px] font-semibold text-white transition-all duration-300 hover:bg-[#7b42ff] hover:shadow-[0_4px_15px_rgba(140,82,255,0.35)] disabled:opacity-60"
+                      className="font-dm-sans h-[45px] rounded-full bg-[#06457F] px-16 text-[16px] font-semibold text-white transition-all duration-300 hover:bg-[#0474C4] hover:shadow-[0_4px_15px_rgba(6, 69, 127,   0.35)] disabled:opacity-60"
                     >
                       {status === 'loading' ? 'Sending...' : <RichTextInline content={submitButtonText} />}
                     </Button>

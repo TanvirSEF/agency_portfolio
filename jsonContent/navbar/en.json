@@ -9,8 +9,8 @@
   "language": "Language",
   "languageEnglish": "English",
   "languageSwedish": "Swedish",
-  "logoDesktop": "/webbly%20media.black%20logo%20svg.svg",
-  "logoMobile": "/webbly%20media.black%20logo%20svg.svg",
+  "logoDesktop": "/logo-zephlo.png",
+  "logoMobile": "/logo-zephlo.png",
   "services": {
     "appDevelopment": "App Development",
     "digitalMarketing": "Digital Marketing",
@@ -23,15 +23,15 @@
     "wordpressDevelopment": "WordPress Development"
   },
   "logoDesktopSeo": {
-    "altText": "Webbly Media Black Logo Svg image",
-    "title": "Webbly Media Black Logo Svg",
-    "caption": "Image asset for webbly media black logo svg in the website section.",
-    "description": "Visual asset used on the Webbly Media website for website content."
+    "altText": "Zephlo Tech Logo",
+    "title": "Zephlo Tech",
+    "caption": "Zephlo Tech official logo",
+    "description": "Visual branding asset for Zephlo Tech."
   },
   "logoMobileSeo": {
-    "altText": "Webbly Media Black Logo Svg image",
-    "title": "Webbly Media Black Logo Svg",
-    "caption": "Image asset for webbly media black logo svg in the website section.",
-    "description": "Visual asset used on the Webbly Media website for website content."
+    "altText": "Zephlo Tech Logo",
+    "title": "Zephlo Tech",
+    "caption": "Zephlo Tech official logo",
+    "description": "Visual branding asset for Zephlo Tech."
   }
 }

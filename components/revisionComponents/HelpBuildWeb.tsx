@@ -63,10 +63,10 @@ export default function HelpBuildWeb({ content }: { content: WebDevContent["help
     <section ref={sectionRef} className="bg-[#F6F6F6] py-12 md:py-16 xl:py-20">
       <style dangerouslySetInnerHTML={{ __html: hbwKeyframes }} />
       <div className="container mx-auto px-4 md:px-8 xl:px-12">
-        <div className="mx-auto max-w-[1320px] rounded-[20px] border border-[#b892ff] bg-[#f3f3f6] px-5 py-10 shadow-[0_18px_34px_rgba(17,24,39,0.06)] md:rounded-[24px] md:px-10 md:py-14 xl:px-14 xl:py-16">
+        <div className="mx-auto max-w-[1320px] rounded-[20px] border border-[#38BDF8] bg-[#f3f3f6] px-5 py-10 shadow-[0_18px_34px_rgba(17,24,39,0.06)] md:rounded-[24px] md:px-10 md:py-14 xl:px-14 xl:py-16">
           <div className="mx-auto max-w-[1220px] text-center">
             <span
-              className="inline-flex items-center gap-2 rounded-full bg-[#ddd8ff] px-4 py-2 text-sm font-medium text-[#7e4dff] md:px-6 md:text-base"
+              className="inline-flex items-center gap-2 rounded-full bg-[#E0F2FE] px-4 py-2 text-sm font-medium text-[#06457F] md:px-6 md:text-base"
               style={
                 isSectionVisible
                   ? { willChange: "opacity, transform", animation: "hbwFadeUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) 0ms forwards", opacity: 0 }
@@ -100,7 +100,7 @@ export default function HelpBuildWeb({ content }: { content: WebDevContent["help
                 key={card.title}
                 className={`${
                   hasCardsEnteredView ? "help-card-enter" : "help-card-base"
-                } min-h-[220px] rounded-[16px] border border-[#dcc4ff] bg-[#f3f3f6] px-5 pb-6 pt-7 md:min-h-[238px] md:px-7 md:pb-7 md:pt-8`}
+                } min-h-[220px] rounded-[16px] border border-[#E0F2FE] bg-[#f3f3f6] px-5 pb-6 pt-7 md:min-h-[238px] md:px-7 md:pb-7 md:pt-8`}
                 style={{ animationDelay: `${0.08 + index * 0.09}s` }}
               >
                 <Image src={card.icon} alt={`${card.title} icon`} width={36} height={36} className="h-9 w-9" />

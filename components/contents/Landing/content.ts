@@ -83,7 +83,7 @@ export const digitalServiceCardContent = {
             title: 'SEARCH ENGINE OPTIMIZATION',
             description:
                 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.',
-            iconBg: 'bg-[#8C52FF]',
+            iconBg: 'bg-[#06457F]',
             iconColor: 'text-white',
             href: '/services/seo',
         },
@@ -118,7 +118,7 @@ export const digitalServiceCard1Content = {
             title: 'SEARCH ENGINE OPTIMIZATION',
             description:
                 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.',
-            iconBg: 'bg-[#8C52FF]',
+            iconBg: 'bg-[#06457F]',
             iconColor: 'text-white',
             href: '/services/seo',
         },

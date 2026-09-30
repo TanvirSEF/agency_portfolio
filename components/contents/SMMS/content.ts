@@ -97,7 +97,7 @@ export const digitalServiceCard1ContentSMMS = {
             title: 'Facebook Marketing',
             description:
                 'Boost your business with Facebook marketing through Webbly Media, your certified Meta Business Partner. With over 2 billion active users, Facebook offers incredible opportunities to grow your brand. Our team creates customized Facebook ad campaigns that target the right audience, increase engagement, and drive conversions. Let us help you maximize your reach and achieve real results on Facebook.',
-            iconBg: 'bg-[#8C52FF]',
+            iconBg: 'bg-[#06457F]',
             iconColor: 'text-white',
             href: '/services/social-media-marketing-services',
         },
@@ -133,7 +133,7 @@ export const digitalServiceCard2ContentSMMS = {
             title: 'LinkedIn Marketing',
             description:
                 'Maximize your LinkedIn results with targeted ads that help you find leads and recruit talent. At Webbly Media, our team creates LinkedIn advertising strategies that fit your business needs. We keep up with the latest platform features to ensure your campaign follows best practices. With clear reporting, transparent pricing, and ongoing support, we’ll help you succeed on LinkedIn.',
-            iconBg: 'bg-[#8C52FF]',
+            iconBg: 'bg-[#06457F]',
             iconColor: 'text-white',
             href: '/services/social-media-marketing-services',
         },

@@ -202,7 +202,7 @@ const EmployeeAvatarComponent = ({ name, title, imageSrc, imageSeo, hoverImageSr
       className="h-full w-full rounded-full object-cover"
     />
   ) : (
-    <span className="text-3xl font-semibold text-[#8C52FF]" aria-hidden>
+    <span className="text-3xl font-semibold text-[#06457F]" aria-hidden>
       {name?.trim()?.charAt(0) || "?"}
     </span>
   );
@@ -222,7 +222,7 @@ const EmployeeAvatarComponent = ({ name, title, imageSrc, imageSeo, hoverImageSr
 
   return (
     <div className="flex flex-col items-center text-center">
-      <div className="flex h-32 w-32 items-center justify-center rounded-full bg-[#e2d3ff7e] sm:h-55 sm:w-55 overflow-hidden border-2 border-white shadow-sm">
+      <div className="flex h-32 w-32 items-center justify-center rounded-full bg-[#A8C4EC7e] sm:h-55 sm:w-55 overflow-hidden border-2 border-white shadow-sm">
         {hasHoverEffect ? (
           <PixelTransition
             firstContent={baseAvatar}

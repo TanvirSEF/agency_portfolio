@@ -17,7 +17,7 @@ export default function JoinUsHelping({ contentPath, content }: JoinUsHelpingPro
         <section>
             <div className="container mx-auto px-4 py-8 lg:px-10">
                 <div
-                    className="relative aspect-[1360/456] w-full overflow-hidden rounded-3xl bg-[#8C52FF]"
+                    className="relative aspect-[1360/456] w-full overflow-hidden rounded-3xl bg-[#06457F]"
                     aria-label="Join us helping"
                 >
                     {imageContent?.src && (

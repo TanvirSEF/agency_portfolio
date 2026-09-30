@@ -48,7 +48,7 @@ export default function LandingChoose({
           {finalContent.benefits.map((benefit, index) => (
             <div key={index} className="flex gap-4 sm:gap-5">
               {/* Purple Checkmark Icon */}
-              <div className="flex h-6 w-6 flex-shrink-0 items-center justify-center rounded-full bg-[#8C52FF]">
+              <div className="flex h-6 w-6 flex-shrink-0 items-center justify-center rounded-full bg-[#06457F]">
                 <svg
                   className="h-[1rem] w-[1rem] text-white"
                   fill="none"
@@ -84,11 +84,11 @@ export default function LandingChoose({
         {/* Call to Action Button */}
         <div className="flex justify-center">
           {finalContent.buttonLink === '/contact' ? (
-            <Button onClick={scrollToContact} className="rounded-full bg-[#8C52FF] px-8 py-6 text-white">
+            <Button onClick={scrollToContact} className="rounded-full bg-[#06457F] px-8 py-6 text-white">
               <RichTextInline content={finalContent.buttonText} />
             </Button>
           ) : (
-            <Button asChild className="rounded-full bg-[#8C52FF] px-8 py-6 text-white">
+            <Button asChild className="rounded-full bg-[#06457F] px-8 py-6 text-white">
               <Link href={finalContent.buttonLink}>
                 <RichTextInline content={finalContent.buttonText} />
               </Link>

@@ -97,7 +97,7 @@ export const digitalServiceCard1ContentWpDevelopment = {
             title: 'Custom WordPress Solutions',
             description:
                 'We build fully customized WordPress websites tailored to your business goals and functional needs. Our custom solutions ensure flexibility, clean code, and full control over features.',
-            iconBg: 'bg-[#8C52FF]',
+            iconBg: 'bg-[#06457F]',
             iconColor: 'text-white',
             href: '/services/wordpress-development',
         },

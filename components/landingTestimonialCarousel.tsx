@@ -201,7 +201,7 @@ export default function LandingTestimonialCarousel({
                     <div className="flex h-full flex-col rounded-lg border border-[#f5f5f5] bg-white p-6 shadow-sm transition-all duration-300 hover:shadow-md">
                       {/* Quote Icon and Rating */}
                       <div className="mb-4 flex items-center gap-3">
-                        <div className="flex h-10 w-10 items-center justify-center rounded-full border-2 border-[#8C52FF] bg-transparent" aria-hidden="true">
+                        <div className="flex h-10 w-10 items-center justify-center rounded-full border-2 border-[#06457F] bg-transparent" aria-hidden="true">
                           <Image
                             src={finalContent.quoteIcon}
                             seo={(finalContent as any).quoteIconSeo}
@@ -297,7 +297,7 @@ export default function LandingTestimonialCarousel({
               onClick={() => goToSlide(index)}
               className={`h-2 rounded-full transition-all ${
                 index === currentIndex
-                  ? 'w-8 bg-[#8C52FF]'
+                  ? 'w-8 bg-[#06457F]'
                   : 'w-2 bg-gray-300 hover:bg-gray-400'
               } ${index >= 4 ? 'sm:hidden' : ''}`}
               aria-label={`Go to slide ${index + 1}`}

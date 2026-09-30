@@ -94,7 +94,7 @@ export default function ServicesShowcase({ content }: { content: WebDevContent["
       <style dangerouslySetInnerHTML={{ __html: showcaseKeyframes }} />
       <div className="mx-auto w-full max-w-[1260px] px-4 md:px-8 xl:px-12">
         <div className="mx-auto max-w-4xl container text-center">
-          <span className="inline-flex items-center gap-2 rounded-full bg-white px-4 py-1.5 text-sm font-semibold text-[#6a40ff]" style={anim(0)}>
+          <span className="inline-flex items-center gap-2 rounded-full bg-white px-4 py-1.5 text-sm font-semibold text-[#06457F]" style={anim(0)}>
             <IoFlash className="h-3.5 w-3.5" aria-hidden />
             {content.badge}
           </span>

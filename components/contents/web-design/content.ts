@@ -96,7 +96,7 @@ export const digitalServiceCard1ContentWebDesign = {
             title: 'CUSTOM WEBSITE DESIGN',
             description:
                 'We design custom websites that match your brand and support your goals. Our sites are easy to use and guide visitors to take action.',
-            iconBg: 'bg-[#8C52FF]',
+            iconBg: 'bg-[#06457F]',
             iconColor: 'text-white',
             href: '/services/web-design',
         },

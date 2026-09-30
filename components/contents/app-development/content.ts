@@ -97,7 +97,7 @@ export const digitalServiceCard1ContentAPPDEV = {
             title: 'Web App Development',
             description:
                 'We develop powerful web applications that support complex business processes and interactive user experiences. Our web apps are built with scalable architecture, secure data handling, and seamless functionality.',
-            iconBg: 'bg-[#8C52FF]',
+            iconBg: 'bg-[#06457F]',
             iconColor: 'text-white',
             href: '/services/app-development',
         },

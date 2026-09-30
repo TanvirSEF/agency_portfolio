@@ -44,7 +44,7 @@ export default async function BlogsPage() {
               as="div"
               content={t('brand')}
               defaultTag="p"
-              className="mb-2 text-2xl font-semibold tracking-widest text-[#F9F6FF] uppercase [&_p]:m-0"
+              className="mb-2 text-2xl font-semibold tracking-widest text-[#F0F5FA] uppercase [&_p]:m-0"
               style={{ fontFamily: 'var(--font-poppins)' }}
             />
             <RichTextBlock
@@ -58,7 +58,7 @@ export default async function BlogsPage() {
               as="div"
               content={t('subtitle')}
               defaultTag="p"
-              className="mx-auto max-w-2xl text-[#F9F6FF] [&_p]:m-0 [&_p]:text-[clamp(0.875rem,2vw,1.125rem)] [&_p]:leading-[1.8]"
+              className="mx-auto max-w-2xl text-[#F0F5FA] [&_p]:m-0 [&_p]:text-[clamp(0.875rem,2vw,1.125rem)] [&_p]:leading-[1.8]"
             />
           </div>
         </div>
@@ -70,7 +70,7 @@ export default async function BlogsPage() {
           <div className="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
             {posts.map((post, index) => (
               <ScrollReveal key={post.id} delay={index * 0.05}>
-                <article className="group flex flex-col overflow-hidden rounded-lg border border-transparent bg-white shadow-sm transition-all duration-300 hover:-translate-y-1 hover:border-[#8C52FF]/30 hover:shadow-xl">
+                <article className="group flex flex-col overflow-hidden rounded-lg border border-transparent bg-white shadow-sm transition-all duration-300 hover:-translate-y-1 hover:border-[#06457F]/30 hover:shadow-xl">
                 {/* Blog card image */}
                 <div className="relative h-56 w-full shrink-0 overflow-hidden rounded-t-lg bg-[#1E1F21]">
                   {post.image ? (
@@ -86,7 +86,7 @@ export default async function BlogsPage() {
                     <div
                       className="h-full w-full transition-transform duration-500 group-hover:scale-105"
                       style={{
-                        background: post.imageGradient || 'linear-gradient(135deg, #7936FF 0%, #B189FF 100%)',
+                        background: post.imageGradient || 'linear-gradient(135deg, #06457F 0%, #00D2FF 100%)',
                       }}
                     />
                   )}
@@ -115,7 +115,7 @@ export default async function BlogsPage() {
                     as="div"
                     content={post.title}
                     defaultTag="h2"
-                    className="mb-3 font-semibold text-[#1E1F21] transition-colors duration-300 group-hover:text-[#682AD5] [&_h1]:m-0 [&_h1]:text-[clamp(1.125rem,3vw,1.5rem)] [&_h1]:leading-[1.3] [&_h2]:m-0 [&_h2]:text-[clamp(1.125rem,3vw,1.5rem)] [&_h2]:leading-[1.3] [&_h3]:m-0 [&_h3]:text-[clamp(1.125rem,3vw,1.5rem)] [&_h3]:leading-[1.3] [&_p]:m-0 [&_p]:text-[clamp(1.125rem,3vw,1.5rem)] [&_p]:leading-[1.3]"
+                    className="mb-3 font-semibold text-[#1E1F21] transition-colors duration-300 group-hover:text-[#06457F] [&_h1]:m-0 [&_h1]:text-[clamp(1.125rem,3vw,1.5rem)] [&_h1]:leading-[1.3] [&_h2]:m-0 [&_h2]:text-[clamp(1.125rem,3vw,1.5rem)] [&_h2]:leading-[1.3] [&_h3]:m-0 [&_h3]:text-[clamp(1.125rem,3vw,1.5rem)] [&_h3]:leading-[1.3] [&_p]:m-0 [&_p]:text-[clamp(1.125rem,3vw,1.5rem)] [&_p]:leading-[1.3]"
                     style={{ fontFamily: 'var(--font-poppins)' }}
                   />
                   <RichTextBlock
@@ -129,7 +129,7 @@ export default async function BlogsPage() {
                   <Button
                     magnetDisabled
                     asChild
-                    className="w-fit rounded-full bg-[#8C52FF] px-8 text-white hover:bg-[#7941E6]"
+                    className="w-fit rounded-full bg-[#06457F] px-8 text-white hover:bg-[#0474C4]"
                     style={{ fontFamily: 'var(--font-poppins)', fontWeight: 500 }}
                   >
                     <Link href={`/blogs/${post.slug}`}>

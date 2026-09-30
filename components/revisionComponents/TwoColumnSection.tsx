@@ -62,7 +62,7 @@ export default function TwoColumnSection({ content }: { content: WebDevContent["
       <div ref={sectionRef} className="container mx-auto px-4 md:px-12">
         <div className="grid items-start gap-8 md:gap-10 xl:grid-cols-2 xl:gap-14">
           <div style={anim("tcsSlideLeft", 0)}>
-            <span className="inline-flex items-center gap-2 rounded-full bg-[#e5dcff] px-4 py-2 text-xs font-medium text-[#7c4dff] md:px-5 md:text-sm">
+            <span className="inline-flex items-center gap-2 rounded-full bg-[#E0F2FE] px-4 py-2 text-xs font-medium text-[#06457F] md:px-5 md:text-sm">
               <IoFlash className="h-4 w-4" aria-hidden />
               {content.badge}
             </span>
@@ -85,7 +85,7 @@ export default function TwoColumnSection({ content }: { content: WebDevContent["
             <button
               type="button"
               onClick={() => setIsModalOpen(true)}
-              className="mt-6 inline-flex items-center gap-2 text-base font-medium text-[#7b4bff] border-b-[2px] border-[#7b4bff] transition hover:text-[#6735ff] md:mt-8 md:text-lg"
+              className="mt-6 inline-flex items-center gap-2 text-base font-medium text-[#06457F] border-b-[2px] border-[#06457F] transition hover:text-[#262B40] md:mt-8 md:text-lg"
               style={anim("tcsFadeUp", 400)}
             >
               {content.viewMoreText}
@@ -118,7 +118,7 @@ export default function TwoColumnSection({ content }: { content: WebDevContent["
           onClick={() => setIsModalOpen(false)}
         />
 
-        <div className="relative z-10 mx-auto my-6 w-full max-w-5xl overflow-hidden rounded-3xl border border-white/20 bg-[#f8f8ff] shadow-2xl md:my-8">
+        <div className="relative z-10 mx-auto my-6 w-full max-w-5xl overflow-hidden rounded-3xl border border-white/20 bg-[#F0F5FA] shadow-2xl md:my-8">
           <button
             type="button"
             onClick={() => setIsModalOpen(false)}
@@ -130,7 +130,7 @@ export default function TwoColumnSection({ content }: { content: WebDevContent["
           </button>
 
           <div className="grid gap-8 p-6 md:grid-cols-[1.1fr_1fr] md:p-10">
-            <div className="relative min-h-[250px] overflow-hidden rounded-2xl bg-gradient-to-br from-[#e8e2ff] via-[#f7f5ff] to-[#ebf6ff] p-4 md:min-h-[420px]">
+            <div className="relative min-h-[250px] overflow-hidden rounded-2xl bg-gradient-to-br from-[#F0F5FA] via-[#F0F5FA] to-[#ebf6ff] p-4 md:min-h-[420px]">
               <div className="relative h-full overflow-hidden rounded-2xl border border-white/50 shadow-lg">
                 <Image
                   src={content.imageSrc}
@@ -143,7 +143,7 @@ export default function TwoColumnSection({ content }: { content: WebDevContent["
             </div>
 
             <div className="flex flex-col justify-center">
-              <span className="inline-flex w-fit items-center gap-2 rounded-full bg-[#ece5ff] px-4 py-2 text-sm font-semibold text-[#7546ff]">
+              <span className="inline-flex w-fit items-center gap-2 rounded-full bg-[#F0F5FA] px-4 py-2 text-sm font-semibold text-[#0474C4]">
                 <IoFlash className="h-4 w-4" aria-hidden />
                 {content.badge}
               </span>

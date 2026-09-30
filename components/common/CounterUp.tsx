@@ -31,7 +31,7 @@ export default function CounterUp({
   stats,
   color = "#ffffff",
   className,
-  gradientColors = [color, "#A06CFF", "#C4B5FD"],
+  gradientColors = [color, "#0474C4", "#A8C4EC"],
 }: CounterUpProps) {
   return (
     <div className={`mx-auto grid grid-cols-3 gap-6 sm:gap-x-16 sm:gap-y-8 lg:grid-cols-6 sm:*:gap-4 ${className ?? ""}`}>

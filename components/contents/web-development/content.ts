@@ -97,7 +97,7 @@ export const digitalServiceCard1ContentWebDevelopment = {
             title: 'Custom Website Development',
             description:
                 'Our custom web solutions focus on building websites from scratch. We use modern frameworks and clean code. Every website is optimized for speed, SEO, and user experience to help you stand out in competitive markets.',
-            iconBg: 'bg-[#8C52FF]',
+            iconBg: 'bg-[#06457F]',
             iconColor: 'text-white',
             href: '/services/web-development',
         },

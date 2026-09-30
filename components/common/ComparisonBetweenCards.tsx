@@ -32,7 +32,7 @@ export default function ComparisonBetweenCards({
                 {/* Comparison Cards */}
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8">
                     {/* Digital Marketing Firm Card */}
-                    <div className="group relative justify-self-end rounded-lg border-2 border-[#E5E7EB] lg:w-[480px] p-6 lg:p-8 shadow-sm transition-all duration-300 hover:border-[#8C52FF] hover:shadow-lg">
+                    <div className="group relative justify-self-end rounded-lg border-2 border-[#E5E7EB] lg:w-[480px] p-6 lg:p-8 shadow-sm transition-all duration-300 hover:border-[#06457F] hover:shadow-lg">
                         <RichTextBlock
                             as="div"
                             content={agencyData.title}
@@ -77,7 +77,7 @@ export default function ComparisonBetweenCards({
                     </div>
 
                     {/* Individual Digital Marketer Card */}
-                    <div className="group justify-self-start lg:w-[480px] relative rounded-lg border-2 border-[#E5E7EB] bg-white p-6 lg:p-8 shadow-sm transition-all duration-300 hover:border-[#8C52FF] hover:shadow-lg">
+                    <div className="group justify-self-start lg:w-[480px] relative rounded-lg border-2 border-[#E5E7EB] bg-white p-6 lg:p-8 shadow-sm transition-all duration-300 hover:border-[#06457F] hover:shadow-lg">
                         <RichTextBlock
                             as="div"
                             content={freelancerData.title}

@@ -155,7 +155,7 @@ export default function MediaFeaturesSection({ content }: { content: WebDevConte
                 type="button"
                 aria-label="Play video"
                 onClick={handlePlayToggle}
-                className="absolute left-1/2 top-1/2 z-20 inline-flex h-[108px] w-[108px] -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full border border-[#8c52ff]/70 bg-[#7c4dff]/45 text-white shadow-[0_16px_45px_rgba(124,77,255,0.48)] backdrop-blur-[1px] transition hover:scale-[1.02] hover:bg-[#7c4dff]/62"
+                className="absolute left-1/2 top-1/2 z-20 inline-flex h-[108px] w-[108px] -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full border border-[#06457F]/70 bg-[#06457F]/45 text-white shadow-[0_16px_45px_rgba(6, 69, 127,   0.48)] backdrop-blur-[1px] transition hover:scale-[1.02] hover:bg-[#06457F]/62"
               >
                 <IoPlay className="h-11 w-11 translate-x-0.5" />
               </button>
@@ -166,7 +166,7 @@ export default function MediaFeaturesSection({ content }: { content: WebDevConte
                 type="button"
                 aria-label="Pause video"
                 onClick={handlePlayToggle}
-                className="pointer-events-none absolute left-1/2 top-1/2 z-20 inline-flex h-[108px] w-[108px] -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full border border-[#8c52ff]/70 bg-[#7c4dff]/45 text-white opacity-0 shadow-[0_16px_45px_rgba(124,77,255,0.48)] backdrop-blur-[1px] transition group-hover:pointer-events-auto group-hover:opacity-100 hover:bg-[#7c4dff]/62"
+                className="pointer-events-none absolute left-1/2 top-1/2 z-20 inline-flex h-[108px] w-[108px] -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full border border-[#06457F]/70 bg-[#06457F]/45 text-white opacity-0 shadow-[0_16px_45px_rgba(6, 69, 127,   0.48)] backdrop-blur-[1px] transition group-hover:pointer-events-auto group-hover:opacity-100 hover:bg-[#06457F]/62"
               >
                 <IoPause className="h-10 w-10" />
               </button>
@@ -176,7 +176,7 @@ export default function MediaFeaturesSection({ content }: { content: WebDevConte
               type="button"
               aria-label="Open video in modal"
               onClick={openVideoModal}
-              className="pointer-events-none absolute right-4 top-4 z-20 inline-flex h-11 w-11 items-center justify-center rounded-full border border-[#8c52ff]/70 bg-[#7c4dff]/45 text-white opacity-0 shadow-[0_12px_30px_rgba(124,77,255,0.38)] backdrop-blur-[1px] transition group-hover:pointer-events-auto group-hover:opacity-100 hover:bg-[#7c4dff]/62"
+              className="pointer-events-none absolute right-4 top-4 z-20 inline-flex h-11 w-11 items-center justify-center rounded-full border border-[#06457F]/70 bg-[#06457F]/45 text-white opacity-0 shadow-[0_12px_30px_rgba(6, 69, 127,   0.38)] backdrop-blur-[1px] transition group-hover:pointer-events-auto group-hover:opacity-100 hover:bg-[#06457F]/62"
             >
               <Maximize2 className="h-5 w-5" />
             </button>
@@ -192,7 +192,7 @@ export default function MediaFeaturesSection({ content }: { content: WebDevConte
           </article>
 
           <div className="xl:pt-1">
-            <span className="inline-flex items-center gap-2 rounded-full bg-[#e5dcff] px-4 py-2 text-sm font-medium text-[#7c4dff] md:px-5 md:text-[1.05rem]" style={mfAnim("mfFadeUp", 100)}>
+            <span className="inline-flex items-center gap-2 rounded-full bg-[#E0F2FE] px-4 py-2 text-sm font-medium text-[#06457F] md:px-5 md:text-[1.05rem]" style={mfAnim("mfFadeUp", 100)}>
               <IoFlash className="h-4 w-4" aria-hidden />
               {content.badge}
             </span>

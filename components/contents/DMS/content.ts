@@ -98,7 +98,7 @@ export const digitalServiceCard1ContentDMS = {
             title: 'Social Media Marketing (SMM)',
             description:
                 'Our social media marketing services help your brand connect with the right audience on platforms like Facebook, Instagram, TikTok, and LinkedIn. We create engaging content, optimize ad campaigns, and manage your pages to increase reach, engagement, and conversions. Our team handles everything from content planning to ad targeting, so you can build a strong and active online community.',
-            iconBg: 'bg-[#8C52FF]',
+            iconBg: 'bg-[#06457F]',
             iconColor: 'text-white',
             href: '/services/social-media-marketing-services',
         },

@@ -101,7 +101,7 @@ export default function NotFoundContent({ homeHref = '/' }: NotFoundContentProps
                 <Button
                 asChild
                 magnetDisabled
-                className="h-max rounded-full bg-[#8C52FF] px-6 py-4 text-white hover:bg-[#A06CFF] hover:text-white"
+                className="h-max rounded-full bg-[#06457F] px-6 py-4 text-white hover:bg-[#00D2FF] hover:text-white"
               >
                 <Link href={homeHref} className="inline-flex items-center gap-2">
                   <Home className="size-5" aria-hidden />

@@ -17,7 +17,7 @@ export default function PartnersLogo({
   const finalContent = useContent(contentPath, content || defaultContent);
   
   return (
-    <div className="h-[343px] overflow-hidden bg-[#8C52FF] flex flex-col items-center gap-8 justify-center">
+    <div className="h-[343px] overflow-hidden bg-[#06457F] flex flex-col items-center gap-8 justify-center">
         {finalContent.title && (
           <RichTextBlock
             as="div"

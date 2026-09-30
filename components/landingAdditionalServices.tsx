@@ -55,11 +55,11 @@ export default function LandingAdditionalServices({
 
           <div className="mt-4 flex justify-center lg:justify-start">
             {finalContent.leftSection.buttonLink === '/contact' ? (
-              <Button onClick={scrollToContact} className="rounded-full bg-[#8C52FF] px-8 py-6 text-white">
+              <Button onClick={scrollToContact} className="rounded-full bg-[#06457F] px-8 py-6 text-white">
                 <RichTextInline content={finalContent.leftSection.buttonText} />
               </Button>
             ) : (
-              <Button asChild className="rounded-full bg-[#8C52FF] px-8 py-6 text-white">
+              <Button asChild className="rounded-full bg-[#06457F] px-8 py-6 text-white">
                 <Link href={finalContent.leftSection.buttonLink} {...(finalContent.leftSection.buttonLink.startsWith('http') ? { target: '_blank', rel: 'noopener noreferrer' } : {})}>
                   <RichTextInline content={finalContent.leftSection.buttonText} />
                 </Link>
@@ -125,11 +125,11 @@ export default function LandingAdditionalServices({
 
           <div className="mt-4 flex justify-center lg:justify-start">
             {finalContent.rightSection.buttonLink === '/contact' ? (
-              <Button onClick={scrollToContact} className="rounded-full bg-[#8C52FF] px-8 py-6 text-white">
+              <Button onClick={scrollToContact} className="rounded-full bg-[#06457F] px-8 py-6 text-white">
                 <RichTextInline content={finalContent.rightSection.buttonText} />
               </Button>
             ) : (
-              <Button asChild className="rounded-full bg-[#8C52FF] px-8 py-6 text-white">
+              <Button asChild className="rounded-full bg-[#06457F] px-8 py-6 text-white">
                 <Link href={finalContent.rightSection.buttonLink}>
                   <RichTextInline content={finalContent.rightSection.buttonText} />
                 </Link>

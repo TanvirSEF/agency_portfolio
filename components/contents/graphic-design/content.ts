@@ -97,7 +97,7 @@ export const digitalServiceCard1ContentGraphicDesign = {
             title: 'Brand Identity Design',
             description:
                 'We create clear, consistent brand identities that show your business values. From visual style to brand elements, we make your brand look professional and trustworthy everywhere.',
-            iconBg: 'bg-[#8C52FF]',
+            iconBg: 'bg-[#06457F]',
             iconColor: 'text-white',
             href: '/services/graphic-design',
         },

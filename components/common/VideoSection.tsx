@@ -34,11 +34,11 @@ export default function VideoSection({ contentPath, content }: VideoSectionProps
                         style={{ fontSize: 'clamp(0.875rem, 2vw, 1.125rem)' }}
                     />
                     {finalContent.buttonLink === '/contact' ? (
-                        <Button onClick={scrollToContact} className="mt-2 rounded-full bg-[#8C52FF] px-8 py-6 text-white hover:bg-[#7941E6] transition-colors uppercase">
+                        <Button onClick={scrollToContact} className="mt-2 rounded-full bg-[#06457F] px-8 py-6 text-white hover:bg-[#0474C4] transition-colors uppercase">
                             <RichTextInline content={finalContent.buttonText} />
                         </Button>
                     ) : (
-                        <Button asChild className="mt-2 rounded-full bg-[#8C52FF] px-8 py-6 text-white hover:bg-[#7941E6] transition-colors">
+                        <Button asChild className="mt-2 rounded-full bg-[#06457F] px-8 py-6 text-white hover:bg-[#0474C4] transition-colors">
                             <Link href={finalContent.buttonLink} {...(finalContent.buttonLink.startsWith('http') ? { target: '_blank', rel: 'noopener noreferrer' } : {})} className="uppercase">
                                 <RichTextInline content={finalContent.buttonText} />
                             </Link>
