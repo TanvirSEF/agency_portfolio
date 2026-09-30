@@ -151,14 +151,9 @@ export default function WorkProcessSection({
 
   return (
     <div className="relative overflow-hidden py-8">
-      <Image
-        src="/assets/images/left-blur.png"
-        alt=""
-        width={400}
-        height={973}
-        className="absolute left-[-130px] top-[500px] -translate-y-1/2 z-0 pointer-events-none"
-        style={{ objectFit: 'contain', maxHeight: '120%' }}
+      <div
         aria-hidden="true"
+        className="pointer-events-none absolute left-[-140px] top-[500px] z-0 h-[650px] w-[500px] -translate-y-1/2 rounded-full bg-[radial-gradient(ellipse_at_center,rgba(4,116,196,0.18)_0%,rgba(6,69,127,0.06)_45%,transparent_70%)] blur-2xl"
       />
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col gap-12 lg:flex-row lg:gap-16">

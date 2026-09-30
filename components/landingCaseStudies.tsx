@@ -19,14 +19,9 @@ export default function LandingCaseStudies({
 
   return (
     <div className="relative overflow-hidden px-[1rem] py-8 sm:px-[2rem]">
-      <Image
-        src="/assets/images/left-blur.png"
-        alt=""
-        width={400}
-        height={973}
-        className="absolute left-[-130px] top-[-155px] -translate-y-1/2 z-0 pointer-events-none"
-        style={{ objectFit: 'contain', maxHeight: '120%' }}
+      <div
         aria-hidden="true"
+        className="pointer-events-none absolute left-[-140px] top-[-155px] z-0 h-[650px] w-[500px] -translate-y-1/2 rounded-full bg-[radial-gradient(ellipse_at_center,rgba(4,116,196,0.18)_0%,rgba(6,69,127,0.06)_45%,transparent_70%)] blur-2xl"
       />
       <div className="container mx-auto">
         {/* Header Section */}

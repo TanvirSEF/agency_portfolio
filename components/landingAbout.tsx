@@ -31,14 +31,9 @@ export default function LandingAbout({
   return (
     <div className="relative w-full overflow-x-hidden overflow-y-visible">
       {/* Blur decoration: hidden on small screens, visible from md with responsive positioning */}
-      <Image
-        src="/assets/images/right-blur.png"
-        alt=""
-        width={400}
-        height={973}
-        className="absolute right-[-130px] top-1/2 z-0 hidden -translate-y-1/2 pointer-events-none md:block"
-        style={{ objectFit: 'contain', maxHeight: '120%' }}
+      <div
         aria-hidden="true"
+        className="pointer-events-none absolute right-[-140px] top-1/2 z-0 hidden h-[650px] w-[500px] -translate-y-1/2 rounded-full bg-[radial-gradient(ellipse_at_center,rgba(4,116,196,0.18)_0%,rgba(6,69,127,0.06)_45%,transparent_70%)] blur-2xl md:block"
       />
       <div className="container relative z-10 mx-auto flex w-full max-w-[1400px] flex-col gap-8 px-4 py-8 sm:gap-10 sm:px-6 sm:py-10 md:gap-12 min-[1250px]:flex-row min-[1250px]:items-stretch min-[1250px]:justify-between min-[1250px]:gap-12 min-[1250px]:px-8 min-[1250px]:py-12 xl:gap-16 xl:py-14">
         {/* Left section: text + CTA */}

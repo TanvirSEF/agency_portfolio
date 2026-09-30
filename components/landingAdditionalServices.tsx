@@ -22,14 +22,9 @@ export default function LandingAdditionalServices({
   const finalContent = useContent(contentPath, content || defaultContent);
   return (
     <div className="relative overflow-hidden px-[1rem] py-8">
-      <Image
-        src="/assets/images/right-blur.png"
-        alt=""
-        width={400}
-        height={973}
-        className="absolute right-[-130px] top-1/2 -translate-y-1/2 z-0 pointer-events-none"
-        style={{ objectFit: 'contain', maxHeight: '120%' }}
+      <div
         aria-hidden="true"
+        className="pointer-events-none absolute right-[-140px] top-1/2 z-0 h-[650px] w-[500px] -translate-y-1/2 rounded-full bg-[radial-gradient(ellipse_at_center,rgba(4,116,196,0.18)_0%,rgba(6,69,127,0.06)_45%,transparent_70%)] blur-2xl"
       />
       <div className="container relative z-10 mx-auto min-[560px]:px-[2rem]">
         <div className="flex flex-col gap-18 lg:flex-row lg:gap-12 xl:gap-16">
