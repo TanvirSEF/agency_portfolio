@@ -1,4 +1,4 @@
-﻿export const otherHeroContentAboutUs = {
+export const otherHeroContentAboutUs = {
   backgroundDecoration: {
     src: '/assets/images/top-assets.png',
     alt: 'Side blur decoration',
@@ -33,8 +33,8 @@ export const founderMessageContentAboutUs = {
   title: 'A Message From Our Founder',
   message:
     '“ To succeed in today’s digital world, you need more than just tools. You need guidance, trust, and the right partner. We started Zephlo Tech because we believe every business deserves a clear digital plan and a team that understands its goals. We focus on long-term growth and meaningful strategies, not quick fixes. Our partnerships are built on transparency and real results. When you work with us, you gain a dedicated team that supports you at every step of your journey.”',
-  avatarImageSrc: 'https://avatars.githubusercontent.com/u/257024568?v=4',
-  avatarName: 'Marchello Josefsson & Farima Alimi',
+  avatarImageSrc: '/ceo.jpg',
+  avatarName: 'Tanvir Hasan',
   avatarTitle: 'Founder & CEO',
 };
 
@@ -126,12 +126,12 @@ export const coveredAreaContentAboutUs = {
     },
   ],
   stats: [
-    { value: '2018', label: 'Founded' },
-    { value: '$1.5M+', label: 'Revenue Generated for Clients' },
+    { value: '2020', label: 'Founded' },
+    { value: '$500K+', label: 'Revenue Generated for Clients' },
     { value: '40%', label: 'Average ROI Increase' },
     { value: '99%', label: 'On-Time Delivery' },
     { value: '4.9★', label: 'Average Rating' },
-    { value: '15+', label: 'In-House Experts' },
+    { value: '10+', label: 'In-House Experts' },
   ],
 };
 
@@ -250,16 +250,10 @@ export const allEmployeesSectionContentAboutUs = {
   employees: [
     {
       id: 'employee-1',
-      name: 'Farima Alimi',
-      title: 'CEO',
-      imageSrc: '/assets/images/about-us/avatars/Farima-CEO.png',
+      name: 'Tanvir Hasan',
+      title: 'Founder & CEO',
+      imageSrc: '/ceo.jpg',
       hoverImageSrc: '',
-    },
-    {
-      id: 'employee-2',
-      name: 'Marchello Josefsson',
-      title: 'Founder',
-      imageSrc: '',
     },
     {
       id: 'employee-3',
