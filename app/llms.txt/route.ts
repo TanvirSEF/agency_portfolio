@@ -1,25 +1,28 @@
 import { NextResponse } from 'next/server';
-import llmsFile from '@/jsonContent/system/llms.json';
 
-type PlainTextFile = {
-  content?: string;
-};
+const LLMS_TEXT = `# Webbly Media
+> Digital Marketing & Web Development Agency
 
-function resolveTextContent(value: unknown, fallback: string): string {
-  if (typeof value !== 'string') {
-    return fallback;
-  }
+Webbly Media helps brands grow with web design, web development, SEO, PPC, social media, and creative digital marketing built for results.
 
-  const trimmed = value.trim();
-  return trimmed.length > 0 ? value : fallback;
-}
+## Key Services
+- Web Design & UI/UX: https://webblymedia.com/services/web-design
+- Full-Stack Web Development: https://webblymedia.com/services/web-development
+- Mobile App Development: https://webblymedia.com/services/app-development
+- WordPress Development: https://webblymedia.com/services/wordpress-development
+- Data-Driven SEO: https://webblymedia.com/services/seo
+- PPC & Google Ads: https://webblymedia.com/services/ppc-google-ads-management
+- Social Media Marketing: https://webblymedia.com/services/social-media-marketing-services
+- Creative Graphic Design: https://webblymedia.com/services/graphic-design
+
+## Pages
+- About Us: https://webblymedia.com/about-us
+- Blog & Insights: https://webblymedia.com/blogs
+- Contact: https://webblymedia.com/contact
+`;
 
 export function GET() {
-  const fallback = '# llms.txt\n# Configure this file in Tina CMS.';
-  const content = resolveTextContent((llmsFile as PlainTextFile).content, fallback);
-  const body = content.endsWith('\n') ? content : `${content}\n`;
-
-  return new NextResponse(body, {
+  return new NextResponse(LLMS_TEXT, {
     status: 200,
     headers: {
       'Content-Type': 'text/plain; charset=utf-8',

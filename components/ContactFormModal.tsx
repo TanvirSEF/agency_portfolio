@@ -18,9 +18,9 @@ export interface ContactFormModalProps {
   onClose: () => void;
   selectedServices: ContactFormModalService[];
   onSubmit?: () => void;
-  /** Optional content path (defaults to 'contactModal' for JSON + Tina). */
+  /** Optional content path (defaults to 'contactModal'). */
   contentPath?: ContentPath;
-  /** Image path for the left side. Defaults to TinaCMS / content image. */
+  /** Image path for the left side. */
   imageSrc?: string;
   /** Override image alt (otherwise from content). */
   imageAlt?: string;

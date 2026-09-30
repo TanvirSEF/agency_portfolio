@@ -14,11 +14,10 @@ import {
 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { scrollToContact } from '@/lib/scrollToContact';
-import { useMessages } from 'next-intl';
 
 const easeOut = [0.22, 1, 0.36, 1] as const;
 
-const defaultHero = {
+const hero = {
   badge: 'Get In Touch',
   title: "Let's Build Something",
   titleHighlight: 'Great Together',
@@ -26,39 +25,14 @@ const defaultHero = {
   buttonText: 'Send Us a Message',
 };
 
-const defaultHighlights = [
-  { title: 'Email Us', description: 'Drop us a line anytime', value: 'Webblymedia@gmail.se' },
-  { title: 'Call Us', description: 'Speak with our team', value: '+1-800-123-4567' },
-  { title: 'Visit Us', description: 'Come say hello', value: '123 Digital Avenue, Tech City, 10011' },
-  { title: 'Business Hours', description: 'We are available', value: 'Mon – Fri: 9 AM – 6 PM' },
+const highlights = [
+  { title: 'Email Us', description: 'Drop us a line anytime', value: 'Webblymedia@gmail.se', icon: Mail, href: 'mailto:Webblymedia@gmail.se' },
+  { title: 'Call Us', description: 'Speak with our team', value: '+1-800-123-4567', icon: Phone, href: 'tel:+18001234567' },
+  { title: 'Visit Us', description: 'Come say hello', value: '123 Digital Avenue, Tech City, 10011', icon: MapPin, href: null },
+  { title: 'Business Hours', description: 'We are available', value: 'Mon – Fri: 9 AM – 6 PM', icon: Clock, href: null },
 ];
-
-const highlightMeta = [
-  { icon: Mail, href: 'mailto:Webblymedia@gmail.se' },
-  { icon: Phone, href: 'tel:+18001234567' },
-  { icon: MapPin, href: null },
-  { icon: Clock, href: null },
-];
-
-function useContactContent() {
-  let messages: Record<string, any> | null = null;
-  try {
-    messages = useMessages() as Record<string, any>;
-  } catch {
-    messages = null;
-  }
-  const t = messages?.contact as Record<string, any> | undefined;
-  const hero = { ...defaultHero, ...t?.hero };
-  const highlights = (t?.highlights ?? defaultHighlights).map((h: any, i: number) => ({
-    ...h,
-    icon: highlightMeta[i]?.icon ?? Mail,
-    href: highlightMeta[i]?.href ?? null,
-  }));
-  return { hero, highlights };
-}
 
 export default function ContactPage() {
-  const { hero, highlights } = useContactContent();
   return (
     <div className="bg-[#F2F3F6]">
       {/* Dark Hero Section */}

@@ -1,14 +1,13 @@
-import { Link } from '@/i18n/routing';
+import Link from 'next/link';
 import Image from '@/components/common/SeoImage';
 import { notFound } from 'next/navigation';
 import { RichTextBlock, RichTextInline, richTextToPlainText } from '@/components/common/RichTextContent';
-import { getBlogBySlug, blogPosts, BlogSection } from '../../../lib/blogs-data';
+import { getBlogBySlug, blogPosts, BlogSection } from '@/lib/blogs-data';
 import { Button } from '@/components/ui/button';
 import { ChevronLeft } from 'lucide-react';
 import { Metadata } from 'next';
 import ScrollReveal from '@/components/common/ScrollReveal';
-import { getLocale, getTranslations } from 'next-intl/server';
-import { getRouteMetadata } from '@/lib/canonical';
+import { getRouteMetadata, getCanonicalUrl } from '@/lib/canonical';
 
 interface BlogPostPageProps {
   params: Promise<{ slug: string }>;
@@ -31,53 +30,44 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: BlogPostPageProps): Promise<Metadata> {
-  const t = await getTranslations('blogs');
-  const locale = await getLocale();
   const { slug } = await params;
   const post = getBlogBySlug(slug);
-  const blogMetaFallback = getRouteMetadata(locale, 'blogs');
+  const blogMetaFallback = getRouteMetadata('blogs');
 
   if (!post) return blogMetaFallback;
 
-  const translatedPost = (() => {
-    try {
-      return (t.raw(`posts.${slug}`) as Record<string, unknown>) ?? {};
-    } catch {
-      return {} as Record<string, unknown>;
-    }
-  })();
-
-  const rawTitle = asNonEmptyString(translatedPost.title) ?? asNonEmptyString(post.title) ?? blogMetaFallback.title;
+  const rawTitle = asNonEmptyString(post.title) ?? blogMetaFallback.title;
   const title = rawTitle.includes('Webbly Media') ? rawTitle : `${rawTitle} | Webbly Media`;
   const description = normalizeDescription(
-    asNonEmptyString(translatedPost.excerpt) ?? asNonEmptyString(post.excerpt) ?? blogMetaFallback.description
+    asNonEmptyString(post.excerpt) ?? blogMetaFallback.description
   );
 
   return {
     title,
     description,
+    alternates: {
+      canonical: getCanonicalUrl(`blogs/${slug}`),
+    },
+    openGraph: {
+      title,
+      description,
+      url: getCanonicalUrl(`blogs/${slug}`),
+      siteName: 'Webbly Media',
+      locale: 'en_US',
+      type: 'article',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title,
+      description,
+    },
   };
 }
 
 export default async function BlogPostPage({ params }: BlogPostPageProps) {
-  const t = await getTranslations('blogs');
-  const locale = await getLocale();
   const { slug } = await params;
-  const basePost = getBlogBySlug(slug);
-  if (!basePost) notFound();
-
-  // Merge translated content onto base post
-  const tp: Record<string, any> = (() => { try { return t.raw(`posts.${slug}`) ?? {}; } catch { return {}; } })();
-  const post = {
-    ...basePost,
-    title: tp.title ?? basePost.title,
-    excerpt: tp.excerpt ?? basePost.excerpt,
-    category: tp.category ?? basePost.category,
-    sections: tp.sections ?? basePost.sections,
-    image: tp.image ?? basePost.image,
-    imageSeo: tp.imageSeo ?? basePost.imageSeo,
-    imageGradient: tp.imageGradient ?? basePost.imageGradient,
-  };
+  const post = getBlogBySlug(slug);
+  if (!post) notFound();
 
   return (
     <div className="bg-[#F2F3F6]">
@@ -92,7 +82,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
                 style={{ fontFamily: 'var(--font-poppins)', fontWeight: 500 }}
               >
                 <ChevronLeft className="h-4 w-4" />
-                {t('allBlogs')}
+                All Blogs
               </Link>
               <span className="text-[#F0F5FA]/40">/</span>
               <span className="truncate" style={{ fontFamily: 'var(--font-poppins)' }}>
@@ -110,7 +100,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
               style={{ fontFamily: 'var(--font-poppins)' }}
               dateTime={post.date}
             >
-              {new Date(post.date).toLocaleDateString(locale === 'sv' ? 'sv-SE' : 'en-US', {
+              {new Date(post.date).toLocaleDateString('en-US', {
                 year: 'numeric',
                 month: 'long',
                 day: 'numeric',
@@ -180,7 +170,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
               style={{ fontFamily: 'var(--font-poppins)', fontWeight: 500 }}
             >
               <Link href="/blogs">
-                <RichTextInline content={t('backToBlogs')} />
+                Back to Blogs
               </Link>
             </Button>
           </ScrollReveal>

@@ -64,7 +64,7 @@ function GrowthBlockingPopupModal({ open, onClose, onBookSlot, contentPath = 'gr
           transform: entered ? 'scale(1)' : 'scale(0.96)',
         }}
       >
-        {/* Gradient background - spans full modal (TinaCMS-controlled) */}
+        {/* Gradient background - spans full modal */}
         <div className="absolute inset-0" aria-hidden="true">
           <Image
             src={content.backgroundImage || '/assets/images/popup-images/popup-2-gradienat-background.webp'}
@@ -124,7 +124,7 @@ function GrowthBlockingPopupModal({ open, onClose, onBookSlot, contentPath = 'gr
             </Button>
           </div>
 
-          {/* Right: illustration (TinaCMS-controlled) */}
+          {/* Right: illustration */}
           <div className="relative mt-8 flex flex-1 items-center justify-center sm:mt-0 sm:min-h-[320px]" aria-hidden="true">
             <Image
               src={content.illustrationImage || '/assets/images/popup-images/popup-2-background-illustration.svg'}

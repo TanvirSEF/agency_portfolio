@@ -4,12 +4,6 @@ import Image from '@/components/common/SeoImage';
 import { Button } from './ui/button';
 import Link from 'next/link';
 import { blogPosts } from '@/lib/blogs-data';
-import { useSafeMessages } from './contents/useContent';
-
-function normalizeImageSrc(src: string | undefined): string | undefined {
-  if (!src || typeof src !== 'string') return undefined;
-  return src.startsWith('/') || src.startsWith('http') ? src : `/${src}`;
-}
 
 interface LandingWebblyMediaUpdatesProps {
   title?: string;
@@ -20,39 +14,18 @@ export default function LandingWebblyMediaUpdates({
   title = 'Latest Updates',
   maxPosts = 3,
 }: LandingWebblyMediaUpdatesProps) {
-  const messages = useSafeMessages();
-  const landingMessages = messages?.landing as Record<string, any> | undefined;
-  const blogsMessages = messages?.blogs as Record<string, any> | undefined;
-
-  const resolvedTitle = landingMessages?.updates?.title ?? title;
-  const readMoreLabel = blogsMessages?.readMore ?? 'Read More';
-  const translatedPosts = blogsMessages?.posts ?? {};
-  const updateItems = landingMessages?.updates?.updates as Array<{ title?: string; description?: string; image?: string; imageSeo?: unknown }> | undefined;
-
-  const posts = blogPosts.slice(0, maxPosts).map((post, index) => {
-    const tp = translatedPosts[post.slug] as Partial<typeof post> | undefined;
-    const tinaUpdate = updateItems?.[index];
-    const imageFromTina = normalizeImageSrc(tinaUpdate?.image);
-    return {
-      ...post,
-      title: tp?.title ?? tinaUpdate?.title ?? post.title,
-      excerpt: tp?.excerpt ?? tinaUpdate?.description ?? post.excerpt,
-      category: tp?.category ?? post.category,
-      image: imageFromTina ?? post.image,
-      imageSeo: (tp as any)?.imageSeo ?? tinaUpdate?.imageSeo ?? post.imageSeo,
-    };
-  });
+  const posts = blogPosts.slice(0, maxPosts);
 
   return (
     <section className="px-4 py-8 sm:px-6 lg:px-8">
       <div className="mx-auto max-w-7xl">
         {/* Header */}
-        {resolvedTitle && (
+        {title && (
           <h2
             className="mb-12 text-center font-bold text-[#1E1F21]"
             style={{ fontSize: 'clamp(2rem, 5vw, 2.75rem)' }}
           >
-            {resolvedTitle}
+            {title}
           </h2>
         )}
 
@@ -99,8 +72,8 @@ export default function LandingWebblyMediaUpdates({
                 </p>
 
                 {/* Read More Button */}
-                <Button asChild magnetDisabled className="rounded-full bg-[#06457F] px-8 py-6 text-white">
-                  <Link href={`/blogs/${post.slug}`}>{readMoreLabel}</Link>
+                <Button asChild magnetDisabled className="rounded-full bg-[#06457F] px-8 py-6 text-white hover:bg-[#0474C4]">
+                  <Link href={`/blogs/${post.slug}`}>Read More</Link>
                 </Button>
               </div>
             </div>

@@ -4,7 +4,7 @@ import Image from '@/components/common/SeoImage';
 import { RichTextBlock } from '@/components/common/RichTextContent';
 import { customWebDevContent as defaultContent } from './contents/Landing/content';
 import { useContent, ContentPath } from './contents/useContent';
-import { useRouter } from '@/i18n/routing';
+import { useRouter } from 'next/navigation';
 
 interface CustomWebDevProps {
   contentPath?: ContentPath;

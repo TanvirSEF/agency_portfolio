@@ -13,7 +13,6 @@ import ContactForm, { FormLabels } from './contactForm';
 import { contactSectionContent as defaultContent } from './contents/Landing/content';
 import { useContent, ContentPath } from './contents/useContent';
 import Image from '@/components/common/SeoImage';
-import { useMessages } from 'next-intl';
 import { RichTextBlock, RichTextInline } from './common/RichTextContent';
 
 interface ContactSectionProps {
@@ -26,15 +25,6 @@ export default function ContactSection({
   content,
 }: ContactSectionProps) {
   const finalContent = useContent(contentPath, content || defaultContent);
-
-  // Read form labels from the 'contact' namespace
-  let formLabels: FormLabels | undefined;
-  try {
-    const messages = useMessages() as Record<string, any>;
-    formLabels = messages?.contact?.form as FormLabels | undefined;
-  } catch {
-    formLabels = undefined;
-  }
 
   return (
     <div id="contact-section" className="relative overflow-hidden py-8">
@@ -158,7 +148,7 @@ export default function ContactSection({
           {/* Contact Form Section - Right Side */}
           <div className="order-1 lg:order-2 lg:flex-3">
             <div className="rounded-lg bg-white p-6 shadow-sm md:p-8 relative z-10">
-              <ContactForm labels={formLabels} />
+              <ContactForm />
             </div>
           </div>
         </div>

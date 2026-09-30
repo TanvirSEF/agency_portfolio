@@ -1,16 +1,10 @@
 'use client';
 
-import NextLink from 'next/link';
+import Link from 'next/link';
 import Image from '@/components/common/SeoImage';
 import { Button } from '@/components/ui/button';
-import { ChevronDown, Globe } from 'lucide-react';
+import { ChevronDown } from 'lucide-react';
 import { useState, useEffect, useRef, type HTMLAttributes, type ReactNode } from 'react';
-import { useLocale, useTranslations, useMessages } from 'next-intl';
-import { Link, usePathname, useRouter } from '@/i18n/routing';
-import {
-  getCanonicalPathFromLocalizedPath,
-  getLocalizedPath,
-} from '@/lib/route-slugs';
 
 type MotionLikeProps<T> = T & {
   initial?: unknown;
@@ -61,56 +55,25 @@ function AnimatePresence({
 }
 
 const services = [
-  { key: 'appDevelopment', href: '/services/app-development' },
-  { key: 'digitalMarketing', href: '/services/digital-marketing-services' },
-  { key: 'graphicDesign', href: '/services/graphic-design' },
-  { key: 'ppcGoogleAds', href: '/services/ppc-google-ads-management' },
-  { key: 'seo', href: '/services/seo' },
-  { key: 'socialMediaMarketing', href: '/services/social-media-marketing-services' },
-  { key: 'webDesign', href: '/services/web-design' },
-  { key: 'webDevelopment', href: '/services/web-development' },
-  { key: 'wordpressDevelopment', href: '/services/wordpress-development' },
+  { label: 'App Development', href: '/services/app-development' },
+  { label: 'Digital Marketing Services', href: '/services/digital-marketing-services' },
+  { label: 'Graphic Design', href: '/services/graphic-design' },
+  { label: 'PPC & Google Ads', href: '/services/ppc-google-ads-management' },
+  { label: 'SEO', href: '/services/seo' },
+  { label: 'Social Media Marketing', href: '/services/social-media-marketing-services' },
+  { label: 'Web Design', href: '/services/web-design' },
+  { label: 'Web Development', href: '/services/web-development' },
+  { label: 'WordPress Development', href: '/services/wordpress-development' },
 ];
+
 const NAV_LOCK_EVENT = 'sticky-section-navbar-lock';
 
 export default function Navbar() {
-  const t = useTranslations('navbar');
-  const messages = useMessages() as Record<string, any> | undefined;
-  const navbarMessages = messages?.navbar as Record<string, any> | undefined;
-
-  const logoDesktopSrc: string =
-    (typeof navbarMessages?.logoDesktop === 'string' && navbarMessages.logoDesktop.startsWith('/'))
-      ? navbarMessages.logoDesktop
-      : '/logo-zephlo.png';
-
-  const logoMobileSrc: string =
-    (typeof navbarMessages?.logoMobile === 'string' && navbarMessages.logoMobile.startsWith('/'))
-      ? navbarMessages.logoMobile
-      : '/logo-zephlo.png';
-  const logoDesktopSeo = navbarMessages?.logoDesktopSeo;
-  const logoMobileSeo = navbarMessages?.logoMobileSeo;
-  const locale = useLocale();
-  const pathname = usePathname();
-  const router = useRouter();
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [isServicesOpen, setIsServicesOpen] = useState(false);
   const [navHidden, setNavHidden] = useState(false);
   const [isStickyNavLocked, setIsStickyNavLocked] = useState(false);
   const lastScrollY = useRef(0);
-
-  const handleLanguageChange = (newLocale: 'en' | 'sv') => {
-    if (newLocale === locale) {
-      setIsMobileMenuOpen(false);
-      return;
-    }
-
-    const normalizedPathname = pathname.replace(/^\/(en|sv)(?=\/|$)/, '') || '/';
-    const canonicalPath = getCanonicalPathFromLocalizedPath(locale, normalizedPathname);
-    const targetLocalizedPath = getLocalizedPath(newLocale, canonicalPath);
-    const targetPathname = targetLocalizedPath ? `/${targetLocalizedPath}` : '/';
-    router.replace(targetPathname, { locale: newLocale });
-    setIsMobileMenuOpen(false);
-  };
 
   // Close mobile menu when clicking outside or on link
   useEffect(() => {
@@ -175,10 +138,8 @@ export default function Navbar() {
               className="flex items-center"
               onClick={() => setIsMobileMenuOpen(false)}
             >
-              {/* Logo images are now editable in TinaCMS via navbar.logoDesktop and navbar.logoMobile. */}
               <Image
-                src={logoDesktopSrc}
-                seo={logoDesktopSeo}
+                src="/logo-zephlo.png"
                 alt="Zephlo Tech Logo"
                 width={220}
                 height={40}
@@ -186,8 +147,7 @@ export default function Navbar() {
                 priority
               />
               <Image
-                src={logoMobileSrc}
-                seo={logoMobileSeo}
+                src="/logo-zephlo.png"
                 alt="Zephlo Tech Logo"
                 width={160}
                 height={30}
@@ -197,42 +157,8 @@ export default function Navbar() {
             </Link>
           </div>
 
-          {/* Right: Desktop Menu */}
+          {/* Right: Desktop CTA */}
           <div className="hidden items-center gap-4 lg:flex xl:gap-6">
-            {/* <Link
-              href="/plans"
-              className="text-sm leading-[160%] font-medium whitespace-nowrap text-[#1E1F21] transition-opacity hover:opacity-80 xl:text-base"
-              style={{
-                fontFamily: 'var(--font-poppins)',
-                fontWeight: 500,
-                lineHeight: '160%',
-              }}
-            >
-              Plans & Pricing
-            </Link> */}
-            <div className="flex items-center gap-1 border border-gray-200 rounded-lg bg-[#F0F5FA] p-1">
-              <button
-                type="button"
-                onClick={() => handleLanguageChange('en')}
-                className={`flex items-center gap-1 rounded-md px-2.5 py-1 text-xs font-medium transition-colors xl:text-sm ${
-                  locale === 'en' ? 'bg-[#06457F] text-white' : 'text-[#1E1F21] hover:bg-white'
-                }`}
-                style={{ fontFamily: 'var(--font-poppins)' }}
-              >
-                <Globe className="h-3.5 w-3.5" />
-                EN
-              </button>
-              <button
-                type="button"
-                onClick={() => handleLanguageChange('sv')}
-                className={`rounded-md px-2.5 py-1 text-xs font-medium transition-colors xl:text-sm ${
-                  locale === 'sv' ? 'bg-[#06457F] text-white' : 'text-[#1E1F21] hover:bg-white'
-                }`}
-                style={{ fontFamily: 'var(--font-poppins)' }}
-              >
-                SV
-              </button>
-            </div>
             <Button
               asChild
               magnetDisabled
@@ -244,7 +170,7 @@ export default function Navbar() {
                 lineHeight: '160%',
               }}
             >
-              <Link href="/contact">{t('contactUs')}</Link>
+              <Link href="/contact">Contact Us</Link>
             </Button>
           </div>
 
@@ -308,7 +234,7 @@ export default function Navbar() {
                   lineHeight: '160%',
                 }}
               >
-                {t('ourServices')}
+                Our Services
               </span>
               <ChevronDown className="h-4 w-4 shrink-0 text-[#1E1F21] transition-opacity group-hover:opacity-80" />
               
@@ -321,13 +247,13 @@ export default function Navbar() {
                       href={service.href}
                       className="block rounded-md px-4 py-2 text-sm text-[#1E1F21] hover:bg-gray-50 hover:text-[#06457F]"
                     >
-                      {t(`services.${service.key}`)}
+                      {service.label}
                     </Link>
                   ))}
                 </div>
               </div>
             </div>
-            <NextLink
+            <Link
               href="https://webblyhosting.com/"
               target="_blank"
               rel="noopener noreferrer"
@@ -338,8 +264,8 @@ export default function Navbar() {
                 lineHeight: '160%',
               }}
             >
-              {t('domainHosting')}
-            </NextLink>
+              Domain & Hosting
+            </Link>
             <Link
               href="/pay-it-forward"
               className="text-sm leading-[160%] font-medium whitespace-nowrap text-[#1E1F21] transition-opacity hover:opacity-80 xl:text-base"
@@ -349,7 +275,7 @@ export default function Navbar() {
                 lineHeight: '160%',
               }}
             >
-              {t('payItForward')}
+              Pay It Forward
             </Link>
             <Link
               href="/about-us"
@@ -360,7 +286,7 @@ export default function Navbar() {
                 lineHeight: '160%',
               }}
             >
-              {t('aboutUs')}
+              About Us
             </Link>
             <Link
               href="/blogs"
@@ -371,24 +297,8 @@ export default function Navbar() {
                 lineHeight: '160%',
               }}
             >
-              {t('blogs')}
+              Blogs
             </Link>
-            
-          </div>
-
-          {/* Right: Customer Portal */}
-          <div className="shrink-0">
-            {/* <Link
-              href="/customer-portal"
-              className="text-sm leading-[160%] font-medium whitespace-nowrap text-[#1E1F21] transition-opacity hover:opacity-80 xl:text-base"
-              style={{
-                fontFamily: 'var(--font-poppins)',
-                fontWeight: 500,
-                lineHeight: '160%',
-              }}
-            >
-              Customer Portal
-            </Link> */}
           </div>
         </div>
       </div>
@@ -433,7 +343,7 @@ export default function Navbar() {
                         className="text-[15px] font-semibold text-[#1E1F21]"
                         style={{ fontFamily: 'var(--font-poppins)' }}
                       >
-                        {t('ourServices')}
+                        Our Services
                       </span>
                       <motion.div
                         className={isServicesOpen ? 'rotate-180 transition-transform duration-300 ease-[cubic-bezier(0.22,1,0.36,1)]' : 'rotate-0 transition-transform duration-300 ease-[cubic-bezier(0.22,1,0.36,1)]'}
@@ -468,7 +378,7 @@ export default function Navbar() {
                                   className="block rounded-lg px-3 py-2.5 text-sm text-[#475467] transition-colors hover:bg-[#F0F5FA] hover:text-[#06457F]"
                                   style={{ fontFamily: 'var(--font-poppins)' }}
                                 >
-                                  {t(`services.${service.key}`)}
+                                  {service.label}
                                 </Link>
                               </motion.div>
                             ))}
@@ -480,10 +390,10 @@ export default function Navbar() {
 
                   {/* Nav Links — staggered */}
                   {[
-                    { label: t('domainHosting'), href: 'https://webblyhosting.com/', external: true },
-                    { label: t('payItForward'), href: '/pay-it-forward' },
-                    { label: t('aboutUs'), href: '/about-us' },
-                    { label: t('blogs'), href: '/blogs' },
+                    { label: 'Domain & Hosting', href: 'https://webblyhosting.com/', external: true },
+                    { label: 'Pay It Forward', href: '/pay-it-forward' },
+                    { label: 'About Us', href: '/about-us' },
+                    { label: 'Blogs', href: '/blogs' },
                   ].map((item, i) => (
                     <motion.div
                       key={item.href}
@@ -493,7 +403,7 @@ export default function Navbar() {
                       transition={{ delay: 0.1 + i * 0.05, duration: 0.3, ease: [0.22, 1, 0.36, 1] }}
                     >
                       {item.external ? (
-                        <NextLink
+                        <Link
                           href={item.href}
                           target="_blank"
                           rel="noopener noreferrer"
@@ -502,7 +412,7 @@ export default function Navbar() {
                           style={{ fontFamily: 'var(--font-poppins)' }}
                         >
                           {item.label}
-                        </NextLink>
+                        </Link>
                       ) : (
                         <Link
                           href={item.href}
@@ -522,44 +432,8 @@ export default function Navbar() {
                   className="mt-6 flex flex-col gap-4"
                   initial={{ opacity: 0, y: 8 }}
                   animate={{ opacity: 1, y: 0 }}
-                  transition={{ delay: 0.32, duration: 0.3, ease: [0.22, 1, 0.36, 1] }}
+                  transition={{ delay: 0.2, duration: 0.3, ease: [0.22, 1, 0.36, 1] }}
                 >
-                  <div className="rounded-lg bg-gray-50 p-2">
-                    <p
-                      className="mb-1.5 px-2 text-xs font-medium text-[#667085]"
-                      style={{ fontFamily: 'var(--font-poppins)' }}
-                    >
-                      {t('language')}
-                    </p>
-                    <div className="grid grid-cols-2 gap-2">
-                      <button
-                        type="button"
-                        onClick={() => handleLanguageChange('en')}
-                        className={`flex items-center justify-center gap-2 rounded-md px-3 py-2.5 text-sm font-medium shadow-sm transition-colors ${
-                          locale === 'en'
-                            ? 'bg-[#06457F] text-white'
-                            : 'bg-white text-[#1E1F21] hover:bg-gray-50'
-                        }`}
-                        style={{ fontFamily: 'var(--font-poppins)' }}
-                      >
-                        <Globe className="h-4 w-4 shrink-0" />
-                        {t('languageEnglish')}
-                      </button>
-                      <button
-                        type="button"
-                        onClick={() => handleLanguageChange('sv')}
-                        className={`flex items-center justify-center gap-2 rounded-md px-3 py-2.5 text-sm font-medium shadow-sm transition-colors ${
-                          locale === 'sv'
-                            ? 'bg-[#06457F] text-white'
-                            : 'bg-white text-[#1E1F21] hover:bg-gray-50'
-                        }`}
-                        style={{ fontFamily: 'var(--font-poppins)' }}
-                      >
-                        <Globe className="h-4 w-4 shrink-0" />
-                        {t('languageSwedish')}
-                      </button>
-                    </div>
-                  </div>
                   <div className="flex justify-center">
                     <Button
                       magnetDisabled
@@ -571,7 +445,7 @@ export default function Navbar() {
                         href="/contact"
                         onClick={() => setIsMobileMenuOpen(false)}
                       >
-                        {t('contactUs')}
+                        Contact Us
                       </Link>
                     </Button>
                   </div>

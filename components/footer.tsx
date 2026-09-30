@@ -1,7 +1,5 @@
-import NextLink from 'next/link';
+import Link from 'next/link';
 import Image from 'next/image';
-import { Link } from '@/i18n/routing';
-import { getTranslations } from 'next-intl/server';
 import {
   Facebook,
   Instagram,
@@ -9,8 +7,7 @@ import {
   Linkedin,
 } from 'lucide-react';
 
-export default async function Footer() {
-  const t = await getTranslations('footer');
+export default function Footer() {
   const currentYear = new Date().getFullYear();
 
   const linkClass =
@@ -20,7 +17,7 @@ export default async function Footer() {
 
   return (
     <footer className="relative mt-auto w-full overflow-hidden bg-[#0f1629]">
-      <h2 className="sr-only">{t('companyName')} footer navigation</h2>
+      <h2 className="sr-only">Webbly Media footer navigation</h2>
 
       {/* Decorative arc */}
       <div
@@ -50,28 +47,29 @@ export default async function Footer() {
 
           {/* Links grid */}
           <div className="grid flex-1 grid-cols-2 gap-8 sm:grid-cols-2 md:grid-cols-4 md:gap-6 lg:gap-10">
-            {/* Products */}
+            {/* Products / Company */}
             <div>
-              <h3 className={headingClass}>{t('products')}</h3>
+              <h3 className={headingClass}>Company</h3>
               <ul>
                 {[
-                  { href: 'https://webblyhosting.com/', label: t('domainHosting'), external: true },
-                  { href: '/blogs', label: t('pressReleases') },
-                  { href: '/about-us', label: t('environment') },
-                  { href: '/pay-it-forward', label: t('jobs') },
-                  { href: '/privacy-policy', label: t('privacyPolicy') },
-                  { href: '/contact', label: t('contactUsLink') },
+                  { href: 'https://webblyhosting.com/', label: 'Domain & Hosting', external: true },
+                  { href: '/blogs', label: 'Blogs & Insights' },
+                  { href: '/about-us', label: 'About Us' },
+                  { href: '/pay-it-forward', label: 'Pay It Forward' },
+                  { href: '/privacy-policy', label: 'Privacy Policy' },
+                  { href: '/terms-and-conditions', label: 'Terms & Conditions' },
+                  { href: '/contact', label: 'Contact Us' },
                 ].map((item) => (
                   <li key={item.href}>
-                    {'external' in item && item.external ? (
-                      <NextLink
+                    {item.external ? (
+                      <Link
                         href={item.href}
                         target="_blank"
                         rel="noopener noreferrer"
                         className={linkClass}
                       >
                         {item.label}
-                      </NextLink>
+                      </Link>
                     ) : (
                       <Link href={item.href} className={linkClass}>
                         {item.label}
@@ -84,12 +82,15 @@ export default async function Footer() {
 
             {/* Our Services */}
             <div>
-              <h3 className={headingClass}>{t('ourServices')}</h3>
+              <h3 className={headingClass}>Our Services</h3>
               <ul>
                 {[
-                  { href: '/services/web-development', label: t('webDevelopment') },
-                  { href: '/services/digital-marketing-services', label: t('digitalMarketing') },
-                  { href: '/services/social-media-marketing-services', label: t('socialMediaManagement') },
+                  { href: '/services/web-development', label: 'Web Development' },
+                  { href: '/services/digital-marketing-services', label: 'Digital Marketing' },
+                  { href: '/services/social-media-marketing-services', label: 'Social Media Marketing' },
+                  { href: '/services/seo', label: 'SEO Consulting' },
+                  { href: '/services/web-design', label: 'Web Design' },
+                  { href: '/services/app-development', label: 'App Development' },
                 ].map((item) => (
                   <li key={item.href}>
                     <Link href={item.href} className={linkClass}>
@@ -100,42 +101,38 @@ export default async function Footer() {
               </ul>
             </div>
 
-            {/* Contact Us */}
+            {/* Contact Info */}
             <div>
-              <h3 className={headingClass}>{t('contactUs')}</h3>
+              <h3 className={headingClass}>Contact</h3>
               <ul>
-                {t('phone') && (
-                  <li className="flex items-baseline gap-2">
-                    <span className="whitespace-nowrap text-[13px] font-normal text-[#94a3b8]">
-                      {t('phoneLabel')}
-                    </span>
-                    <NextLink
-                      href={`tel:${t('phone')}`}
-                      className={linkClass}
-                    >
-                      {t('phone')}
-                    </NextLink>
-                  </li>
-                )}
-                {t('email') && (
-                  <li className="flex items-baseline gap-2">
-                    <span className="whitespace-nowrap text-[13px] font-normal text-[#94a3b8]">
-                      {t('emailLabel')}
-                    </span>
-                    <NextLink
-                      href={`mailto:${t('email')}`}
-                      className={linkClass}
-                    >
-                      {t('email')}
-                    </NextLink>
-                  </li>
-                )}
+                <li className="flex items-baseline gap-2">
+                  <span className="whitespace-nowrap text-[13px] font-normal text-[#94a3b8]">
+                    Phone:
+                  </span>
+                  <Link
+                    href="tel:+18001234567"
+                    className={linkClass}
+                  >
+                    +1-800-123-4567
+                  </Link>
+                </li>
+                <li className="flex items-baseline gap-2">
+                  <span className="whitespace-nowrap text-[13px] font-normal text-[#94a3b8]">
+                    Email:
+                  </span>
+                  <Link
+                    href="mailto:Webblymedia@gmail.se"
+                    className={linkClass}
+                  >
+                    Webblymedia@gmail.se
+                  </Link>
+                </li>
               </ul>
             </div>
 
             {/* Social */}
             <div>
-              <h3 className={headingClass}>{t('social')}</h3>
+              <h3 className={headingClass}>Follow Us</h3>
               <div className="flex items-center gap-3">
                 {[
                   { href: 'https://facebook.com', icon: Facebook, label: 'Facebook' },
@@ -152,7 +149,7 @@ export default async function Footer() {
                   { href: 'https://youtube.com', icon: Youtube, label: 'YouTube' },
                   { href: 'https://linkedin.com', icon: Linkedin, label: 'LinkedIn' },
                 ].map((item) => (
-                  <NextLink
+                  <Link
                     key={item.label}
                     href={item.href}
                     target="_blank"
@@ -165,7 +162,7 @@ export default async function Footer() {
                     ) : (
                       <item.icon className="h-[14px] w-[14px]" />
                     )}
-                  </NextLink>
+                  </Link>
                 ))}
               </div>
             </div>
@@ -177,7 +174,7 @@ export default async function Footer() {
 
         {/* Copyright */}
         <p className="mt-6 text-center text-[13px] font-normal text-[#94a3b8]/70">
-          &copy; {currentYear} {t('companyName')} | {t('copyright')}
+          &copy; {currentYear} Webbly Media. All rights reserved.
         </p>
       </div>
     </footer>
