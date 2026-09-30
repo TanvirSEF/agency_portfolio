@@ -1,4 +1,4 @@
-'use client';
+﻿'use client';
 
 import Image from '@/components/common/SeoImage';
 import { motion } from 'framer-motion';
@@ -21,12 +21,12 @@ const hero = {
   badge: 'Get In Touch',
   title: "Let's Build Something",
   titleHighlight: 'Great Together',
-  description: "Have a project in mind or want to learn how Webbly Media can grow your brand? Reach out — we'd love to hear from you.",
+  description: "Have a project in mind or want to learn how Zephlo Tech can grow your brand? Reach out — we'd love to hear from you.",
   buttonText: 'Send Us a Message',
 };
 
 const highlights = [
-  { title: 'Email Us', description: 'Drop us a line anytime', value: 'Webblymedia@gmail.se', icon: Mail, href: 'mailto:Webblymedia@gmail.se' },
+  { title: 'Email Us', description: 'Drop us a line anytime', value: 'info@zephlotech.com', icon: Mail, href: 'mailto:info@zephlotech.com' },
   { title: 'Call Us', description: 'Speak with our team', value: '+1-800-123-4567', icon: Phone, href: 'tel:+18001234567' },
   { title: 'Visit Us', description: 'Come say hello', value: '123 Digital Avenue, Tech City, 10011', icon: MapPin, href: null },
   { title: 'Business Hours', description: 'We are available', value: 'Mon – Fri: 9 AM – 6 PM', icon: Clock, href: null },

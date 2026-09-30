@@ -5,15 +5,15 @@ import { Button } from './ui/button';
 import Link from 'next/link';
 import { blogPosts } from '@/lib/blogs-data';
 
-interface LandingWebblyMediaUpdatesProps {
+export interface LandingUpdatesProps {
   title?: string;
   maxPosts?: number;
 }
 
-export default function LandingWebblyMediaUpdates({
+export default function LandingUpdates({
   title = 'Latest Updates',
   maxPosts = 3,
-}: LandingWebblyMediaUpdatesProps) {
+}: LandingUpdatesProps) {
   const posts = blogPosts.slice(0, maxPosts);
 
   return (

@@ -254,9 +254,7 @@ export default function Navbar() {
               </div>
             </div>
             <Link
-              href="https://webblyhosting.com/"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="/domain-hosting"
               className="text-sm leading-[160%] font-medium whitespace-nowrap text-[#1E1F21] transition-opacity hover:opacity-80 xl:text-base"
               style={{
                 fontFamily: 'var(--font-poppins)',
@@ -390,7 +388,7 @@ export default function Navbar() {
 
                   {/* Nav Links — staggered */}
                   {[
-                    { label: 'Domain & Hosting', href: 'https://webblyhosting.com/', external: true },
+                    { label: 'Domain & Hosting', href: '/domain-hosting' },
                     { label: 'Pay It Forward', href: '/pay-it-forward' },
                     { label: 'About Us', href: '/about-us' },
                     { label: 'Blogs', href: '/blogs' },
@@ -402,27 +400,14 @@ export default function Navbar() {
                       animate={{ opacity: 1, y: 0 }}
                       transition={{ delay: 0.1 + i * 0.05, duration: 0.3, ease: [0.22, 1, 0.36, 1] }}
                     >
-                      {item.external ? (
-                        <Link
-                          href={item.href}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          onClick={() => setIsMobileMenuOpen(false)}
-                          className="block py-4 text-[15px] font-semibold text-[#1E1F21] transition-colors hover:text-[#06457F]"
-                          style={{ fontFamily: 'var(--font-poppins)' }}
-                        >
-                          {item.label}
-                        </Link>
-                      ) : (
-                        <Link
-                          href={item.href}
-                          onClick={() => setIsMobileMenuOpen(false)}
-                          className="block py-4 text-[15px] font-semibold text-[#1E1F21] transition-colors hover:text-[#06457F]"
-                          style={{ fontFamily: 'var(--font-poppins)' }}
-                        >
-                          {item.label}
-                        </Link>
-                      )}
+                      <Link
+                        href={item.href}
+                        onClick={() => setIsMobileMenuOpen(false)}
+                        className="block py-4 text-[15px] font-semibold text-[#1E1F21] transition-colors hover:text-[#06457F]"
+                        style={{ fontFamily: 'var(--font-poppins)' }}
+                      >
+                        {item.label}
+                      </Link>
                     </motion.div>
                   ))}
                 </nav>

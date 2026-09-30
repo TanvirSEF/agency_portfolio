@@ -1,11 +1,11 @@
 import { ArrowUpRight } from 'lucide-react';
 
 export const heroContent = {
-    mainTitle: 'Webbly Media',
+    mainTitle: 'Zephlo Tech',
     subtitle: 'A Web & Digital Marketing Agency',
     description: {
         desktop:
-            "Webbly Media is a full-service web and digital marketing agency that helps businesses grow online with a strong digital presence. From custom web development to effective digital marketing services, we offer everything you need to dominate the market. Don't let your competitors get ahead of you. Go ahead of them!",
+            "Zephlo Tech is a full-service web and digital marketing agency that helps businesses grow online with a strong digital presence. From custom web development to effective digital marketing services, we offer everything you need to dominate the market. Don't let your competitors get ahead of you. Go ahead of them!",
         mobile:
             'Empower students to achieve their dreams effortlessly with cutting-edge technology, diverse study programs, and industry-leading application success rates.',
     },
@@ -39,10 +39,10 @@ export const landingLogoScrollerContent = {
 
 export const landingAboutContent = {
     leftSection: {
-        title: 'About Webbly Media',
-        subtitle: 'Webbly Media is Your Online Growth Partner',
+        title: 'About Zephlo Tech',
+        subtitle: 'Zephlo Tech is Your Online Growth Partner',
         description:
-            "Webbly Media is an award-winning digital agency that started in 2018 in Sweden but now serves clients all over Europe. In the last 7 years, we've helped thousands of startups and brands across many countries. Clients love us for our professionalism, quality services, and dedication.",
+            "Zephlo Tech is an award-winning digital agency that started in 2018 in Sweden but now serves clients all over Europe. In the last 7 years, we've helped thousands of startups and brands across many countries. Clients love us for our professionalism, quality services, and dedication.",
         buttonText: 'LEARN MORE ABOUT US',
     },
     rightSection: {
@@ -64,9 +64,9 @@ export const landingAboutContent = {
 };
 
 export const landingDigitalServicesContent = {
-    mainTitle: "Webbly Media's Digital Services",
+    mainTitle: "Zephlo Tech's Digital Services",
     mainDescription:
-        "At Webbly Media, we help you establish a strong online presence. Whether you need a fast-loading website or you want it to be ranked on Google, we can help you simultaneously. Here's what we offer:",
+        "At Zephlo Tech, we help you establish a strong online presence. Whether you need a fast-loading website or you want it to be ranked on Google, we can help you simultaneously. Here's what we offer:",
     subtitle: 'Complete Digital Marketing Services',
     subtitleDescription:
         'Our digital marketing services make your brand more visible, attract customers, and increase sales. With our help, your brand stays competitive, and your message reaches the right audience every time.',
@@ -193,15 +193,15 @@ export const landingAdditionalServicesContent = {
         title: "Is Your Site Losing Traffic Because It's Down When They Visit?",
         paragraphs: [
             "Did you know that even a 2-second delay can push your web traffic away before your website fully loads? Yes, countless businesses lose potential customers every day simply because their sites aren't fast enough.",
-            "But we don't want you to face the same problem. That's why we built WebblyHost, a premium hosting solution created to significantly boost your website's speed and stability.",
-            'WebblyHost keeps your site fast, accessible, and performing at its best. With optimized servers, strong security, and scalable power, it helps you reduce bounce rates, improve user experience, and make the most of every visitor who lands on your site.',
+            "But we don't want you to face the same problem. That's why we built ZephloHost, a premium hosting solution created to significantly boost your website's speed and stability.",
+            'ZephloHost keeps your site fast, accessible, and performing at its best. With optimized servers, strong security, and scalable power, it helps you reduce bounce rates, improve user experience, and make the most of every visitor who lands on your site.',
         ],
-        buttonText: 'DISCOVER WEBBLYHOSTING',
-        buttonLink: 'https://webblyhosting.com/',
+        buttonText: 'DISCOVER ZEPHLO HOSTING',
+        buttonLink: '/domain-hosting',
     },
     rightSection: {
         title: 'Additional Services We Offer',
-        quote: '"Webbly Media brings every solution you need right under one roof"',
+        quote: '"Zephlo Tech brings every solution you need right under one roof"',
         services: [
             {
                 id: 1,
@@ -232,7 +232,7 @@ export const landingAdditionalServicesContent = {
 export const landingMarketingAgencyContent = {
     title: 'Why We Are The Best Web & Digital Marketing Agency',
     description:
-        "At Webbly Media, we understand customer behaviour, market trends, and the online landscape. As a professional web and digital marketing company, we handle every project with passion, precision, and creativity. Our clear communication and support ensure a smooth, trustworthy, and satisfying experience. We always listen to your needs, plan every step, and deliver reliable solutions. With certified experts, client-focused approaches, and result-driven strategies, we help businesses achieve real digital growth. That's why Webbly Media is considered one of the top-rated digital agencies.",
+        "At Zephlo Tech, we understand customer behaviour, market trends, and the online landscape. As a professional web and digital marketing company, we handle every project with passion, precision, and creativity. Our clear communication and support ensure a smooth, trustworthy, and satisfying experience. We always listen to your needs, plan every step, and deliver reliable solutions. With certified experts, client-focused approaches, and result-driven strategies, we help businesses achieve real digital growth. That's why Zephlo Tech is considered one of the top-rated digital agencies.",
     description2:
         "",
     image: {
@@ -244,7 +244,7 @@ export const landingMarketingAgencyContent = {
 };
 
 export const landingChooseContent = {
-    title: 'Why Choose Webbly Media',
+    title: 'Why Choose Zephlo Tech',
     subtitle: 'We Provide World-class Web & Digital Marketing Services',
     benefits: [
         {
@@ -275,7 +275,7 @@ export const landingChooseContent = {
         {
             title: 'Client Satisfaction Guarantee',
             description:
-                'Your success is our priority. We refine and adjust until you are fully satisfied. With Webbly Media, you get reliability, support, and results you can trust.',
+                'Your success is our priority. We refine and adjust until you are fully satisfied. With Zephlo Tech, you get reliability, support, and results you can trust.',
         },
     ],
     buttonText: 'GET STARTED NOW',
@@ -284,7 +284,7 @@ export const landingChooseContent = {
 
 export const workProcessSectionContent = {
     subtitle: '',
-    title: 'How Webbly Media Works',
+    title: 'How Zephlo Tech Works',
     description:
         'Our process is designed for transparency, collaboration, and success. We follow a structured approach to ensure every project meets the deadline and delivers measurable results.',
     steps: [
@@ -353,7 +353,7 @@ export const landingCaseStudiesContent = {
 };
 
 export const landingTestimonialCarouselContent = {
-    title: 'What Clients Say About Webbly Media',
+    title: 'What Clients Say About Zephlo Tech',
     subtitle: '"We take care of our clients like family"',
     quoteIcon: '/assets/icons/quote.png',
     testimonials: [
@@ -408,8 +408,8 @@ export const landingTestimonialCarouselContent = {
     ],
 };
 
-export const landingWebblyMediaUpdatesContent = {
-    title: 'Updates From Webbly Media',
+export const landingZephloTechUpdatesContent = {
+    title: 'Updates From Zephlo Tech',
     updates: [
         {
             id: 1,
@@ -437,16 +437,18 @@ export const landingWebblyMediaUpdatesContent = {
     buttonLink: '/contact',
 };
 
+export const landingWebblyMediaUpdatesContent = landingZephloTechUpdatesContent;
+
 export const contactSectionContent = {
-    title: 'Rank Higher and Build Your Brand Authority With Webbly Media',
+    title: 'Rank Higher and Build Your Brand Authority With Zephlo Tech',
     description:
         'Want to improve your SEO ranking? We are here to take on the duty. Contact us today for professional SEO consulting and management services!',
     contactInfo: {
         title: 'Contact Info',
         email: {
             label: 'Email:',
-            value: 'Webblymedia@gmail.se',
-            href: 'mailto:Webblymedia@gmail.se',
+            value: 'info@zephlotech.com',
+            href: 'mailto:info@zephlotech.com',
         },
         phone: {
             label: 'Phone:',
@@ -486,20 +488,20 @@ export const landingFaqContent = {
         {
             id: 1,
             question:
-                'What Makes Webbly Media the Best Web and Digital Marketing Agency?',
+                'What Makes Zephlo Tech the Best Web and Digital Marketing Agency?',
             answer:
-                'Webbly Media stands out for expert service, proven results, and dedicated support. Our creative team combines innovation, strategy, and technology to help businesses grow successfully online.',
+                'Zephlo Tech stands out for expert service, proven results, and dedicated support. Our creative team combines innovation, strategy, and technology to help businesses grow successfully online.',
         },
         {
             id: 2,
-            question: 'Can Webbly Media Develop Custom Websites and Apps?',
+            question: 'Can Zephlo Tech Develop Custom Websites and Apps?',
             answer:
                 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
         },
         {
             id: 3,
             question:
-                'Does Webbly Media Provide Tailored Digital Marketing Strategies?',
+                'Does Zephlo Tech Provide Tailored Digital Marketing Strategies?',
             answer:
                 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
         },

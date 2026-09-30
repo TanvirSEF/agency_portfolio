@@ -1,10 +1,10 @@
-export const privacyPolicyContent = {
+﻿export const privacyPolicyContent = {
     header: {
         title: 'Privacy Policy',
         lastUpdated: 'Last updated: 10 January 2026',
         welcome: {
-            title: 'Welcome to Webbly Media',
-            text: 'At Webbly Media, your privacy is important to us. This Privacy Policy explains how we collect, use, protect, and share your information when you visit our website or use our services. By using our website, you agree to the practices described in this policy.',
+            title: 'Welcome to Zephlo Tech',
+            text: 'At Zephlo Tech, your privacy is important to us. This Privacy Policy explains how we collect, use, protect, and share your information when you visit our website or use our services. By using our website, you agree to the practices described in this policy.',
         },
     },
     toc: [
@@ -65,7 +65,7 @@ export const privacyPolicyContent = {
             id: 'cookies',
             title: '3. Cookies and Tracking Technologies',
             content: [
-                'Webbly Media uses cookies and similar technologies to enhance your browsing experience.',
+                'Zephlo Tech uses cookies and similar technologies to enhance your browsing experience.',
                 'Cookies help us:',
                 '- Understand how users interact with our website',
                 '- Analyze traffic and performance',
@@ -129,7 +129,7 @@ export const privacyPolicyContent = {
             id: 'children-privacy',
             title: '9. Children’s Privacy',
             content: [
-                'Webbly Media does not knowingly collect personal information from children under the age of 13. If you believe a child has shared data with us, please contact us, and we will remove it promptly.',
+                'Zephlo Tech does not knowingly collect personal information from children under the age of 13. If you believe a child has shared data with us, please contact us, and we will remove it promptly.',
             ],
         },
         {
@@ -144,9 +144,9 @@ export const privacyPolicyContent = {
             title: '11. Contact Us',
             content: [
                 'If you have any questions or concerns about this Privacy Policy or how we handle your data, please contact us:',
-                'Webbly Media',
-                'Email: info@webblymedia.com',
-                'Website: https://www.webblymedia.com',
+                'Zephlo Tech',
+                'Email: info@zephlotech.com',
+                'Website: https://www.zephlotech.com',
                 'By using our website, you acknowledge that you have read and understood this Privacy Policy.',
             ],
         },

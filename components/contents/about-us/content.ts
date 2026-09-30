@@ -1,4 +1,4 @@
-export const otherHeroContentAboutUs = {
+﻿export const otherHeroContentAboutUs = {
   backgroundDecoration: {
     src: '/assets/images/top-assets.png',
     alt: 'Side blur decoration',
@@ -8,9 +8,9 @@ export const otherHeroContentAboutUs = {
       'absolute top-[-100px] right-1/2 z-0 pointer-events-none lg:left-[-130px] lg:right-auto',
   },
   pageName: 'About Us',
-  title: 'Meet the Team Behind Webbly Media',
+  title: 'Meet the Team Behind Zephlo Tech',
   description:
-    'Discover the people, values, and vision that power Webbly Media. We blend strategy, creativity, and technology to help brands grow with confidence.',
+    'Discover the people, values, and vision that power Zephlo Tech. We blend strategy, creativity, and technology to help brands grow with confidence.',
   button: {
     text: 'Schedule a call',
     href: '/contact',
@@ -32,7 +32,7 @@ export const otherHeroContentAboutUs = {
 export const founderMessageContentAboutUs = {
   title: 'A Message From Our Founder',
   message:
-    '“ To succeed in today’s digital world, you need more than just tools. You need guidance, trust, and the right partner. We started Webbly Media because we believe every business deserves a clear digital plan and a team that understands its goals. We focus on long-term growth and meaningful strategies, not quick fixes. Our partnerships are built on transparency and real results. When you work with us, you gain a dedicated team that supports you at every step of your journey.”',
+    '“ To succeed in today’s digital world, you need more than just tools. You need guidance, trust, and the right partner. We started Zephlo Tech because we believe every business deserves a clear digital plan and a team that understands its goals. We focus on long-term growth and meaningful strategies, not quick fixes. Our partnerships are built on transparency and real results. When you work with us, you gain a dedicated team that supports you at every step of your journey.”',
   avatarImageSrc: 'https://avatars.githubusercontent.com/u/257024568?v=4',
   avatarName: 'Marchello Josefsson & Farima Alimi',
   avatarTitle: 'Founder & CEO',
@@ -41,7 +41,7 @@ export const founderMessageContentAboutUs = {
 export const coveredAreaContentAboutUs = {
   title: 'Global Expertise, locally Optimized',
   description:
-    'At Webbly Media, we proudly work with clients across Europe. We help businesses in diverse markets, industries, and cultures. Our strength lies in blending global digital expertise with in-depth local market understanding. From regional search behavior and advertising regulations to cultural differences and user expectations, our strategies are always locally optimized. This helps your brand stay relevant, trusted, and competitive in every market you serve.',
+    'At Zephlo Tech, we proudly work with clients across Europe. We help businesses in diverse markets, industries, and cultures. Our strength lies in blending global digital expertise with in-depth local market understanding. From regional search behavior and advertising regulations to cultural differences and user expectations, our strategies are always locally optimized. This helps your brand stay relevant, trusted, and competitive in every market you serve.',
   locations: [
     {
       id: 'melbourne',
@@ -181,7 +181,7 @@ export const whatWeDoContentAboutUs = {
 export const digitalPercentageContentAboutUs = {
   title: 'All Parts of Your Digital Presence in One Place',
   description:
-    'Webbly Media offers a complete solution that brings together all parts of your digital presence in one place. Our vision, which began 7 years ago, was to create a platform where you, as a customer, do not have to deal with multiple contacts and suppliers. Instead of spending time coordinating different services, you can focus fully on what you do best – running and developing your business. We provide a full range of services, from basic web hosting and web design to advanced web development. We also offer marketing services and graphic design to ensure your brand is well-represented. We take time to understand your vision, challenges, and audience so every digital decision supports your growth.',
+    'Zephlo Tech offers a complete solution that brings together all parts of your digital presence in one place. Our vision, which began 7 years ago, was to create a platform where you, as a customer, do not have to deal with multiple contacts and suppliers. Instead of spending time coordinating different services, you can focus fully on what you do best – running and developing your business. We provide a full range of services, from basic web hosting and web design to advanced web development. We also offer marketing services and graphic design to ensure your brand is well-represented. We take time to understand your vision, challenges, and audience so every digital decision supports your growth.',
   services: [
     'Digital Marketing',
     'Search Engine Optimization',
@@ -197,7 +197,7 @@ export const digitalPercentageContentAboutUs = {
 export const conceptAndVisionContentAboutUs = {
   title: 'Our Business Concept and Vision',
   description:
-    'As an entrepreneur, you are a visionary and a pioneer. But even the best need help. Webbly Media is your guide and partner in the digital world. We look beyond the numbers. We understand your passion, goals, and unique story. Together, we create a digital strategy that is not only visible but also engages and inspires.',
+    'As an entrepreneur, you are a visionary and a pioneer. But even the best need help. Zephlo Tech is your guide and partner in the digital world. We look beyond the numbers. We understand your passion, goals, and unique story. Together, we create a digital strategy that is not only visible but also engages and inspires.',
   cards: [
     {
       id: 'personal-advice',
@@ -226,10 +226,10 @@ export const conceptAndVisionContentAboutUs = {
 export const videoSectionContentAboutUs = {
   title: 'More Than Just a Digital Agency',
   description:
-    'Webbly Media offers more than just marketing and development. We also provide secure and reliable hosting solutions through our platform, WebblyHosting. WebblyHosting is built for performance and stability, giving you peace of mind. It provides your business with a strong digital foundation and a trusted ecosystem for your entire online presence.',
-  buttonText: 'Discover WebblyHost',
-  buttonLink: 'https://webblyhosting.com/',
-  videoPath: '/videos/about-us/webblyhosting-video.mp4',
+    'Zephlo Tech offers more than just marketing and development. We also provide secure and reliable hosting solutions through our platform, ZEPHLO HOSTING. ZEPHLO HOSTING is built for performance and stability, giving you peace of mind. It provides your business with a strong digital foundation and a trusted ecosystem for your entire online presence.',
+  buttonText: 'Discover ZephloHost',
+  buttonLink: '/domain-hosting',
+  videoPath: '/videos/about-us/ZEPHLO HOSTING-video.mp4',
 };
 
 export const leftThreeImageContentAboutUs = {
@@ -246,7 +246,7 @@ export const leftThreeImageContentAboutUs = {
 
 export const allEmployeesSectionContentAboutUs = {
   eyebrow: 'Our Team',
-  title: 'People at Webbly Media',
+  title: 'People at Zephlo Tech',
   employees: [
     {
       id: 'employee-1',

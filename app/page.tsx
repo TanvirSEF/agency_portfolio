@@ -11,7 +11,7 @@ import LandingFaq from '@/components/landingFaq';
 import LandingLogoScroller from '@/components/landingLogoScroller';
 import LandingMarketingAgency from '@/components/landingMarketingAgency';
 // import LandingTestimonialCarousel from '@/components/landingTestimonialCarousel';
-import LandingWebblyMediaUpdates from '@/components/landingWebblyMediaUpdates';
+import LandingUpdates from '@/components/landingUpdates';
 import WorkProcessSection from '@/components/workProcessSection';
 import Image from '@/components/common/SeoImage';
 
@@ -41,7 +41,7 @@ export default function Home() {
       </ScrollReveal>
       {/* <ScrollReveal><LandingCaseStudies contentPath="landingCaseStudies" /></ScrollReveal> */}
       {/* <ScrollReveal><LandingTestimonialCarousel contentPath="landingTestimonialCarousel" /></ScrollReveal> */}
-      <ScrollReveal><LandingWebblyMediaUpdates /></ScrollReveal>
+      <ScrollReveal><LandingUpdates /></ScrollReveal>
       <ScrollReveal><ContactSection contentPath="contactSection" /></ScrollReveal>
       <LandingFaq contentPath="landingFaq" />
     </div>

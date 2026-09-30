@@ -1,4 +1,4 @@
-export const otherHeroContentPayItForward = {
+﻿export const otherHeroContentPayItForward = {
   backgroundDecoration: {
     src: '/assets/images/top-assets.png',
     alt: 'Side blur decoration',
@@ -10,7 +10,7 @@ export const otherHeroContentPayItForward = {
   pageName: 'Pay It Forward',
   title: 'Support Communities, Change Lives',
   description:
-    'Join Webbly Media in giving back. Through Pay It Forward, we invest a portion of every project into helping people build safer, more inclusive communities.',
+    'Join Zephlo Tech in giving back. Through Pay It Forward, we invest a portion of every project into helping people build safer, more inclusive communities.',
   button: {
     text: 'Schedule a call',
     href: '/contact',
@@ -57,7 +57,7 @@ export const rightThreeImageContentPayItForward = {
 export const leftThreeImageContent2PayItForward = {
   badge: '',
   title: 'Your choice makes a big impact',
-  description:`Solving the world's problems can feel overwhelming, but small actions matter. When you choose Webbly Media, you help make the world a better place to live.
+  description:`Solving the world's problems can feel overwhelming, but small actions matter. When you choose Zephlo Tech, you help make the world a better place to live.
 We donate up to 15% of our profits to charity. Every purchase helps create a fairer society. Together, we make a real difference.`,
   imagePaths: [
     '/assets/layer-component-Images/set4/image1.jpg',
@@ -82,7 +82,7 @@ export const joinUsHelpingContentPayItForward = {
   description:
     'As a volunteer or local official, you join a community dedicated to doing good. We are passionate about improving our surroundings and making a positive impact. Together, we build safer, more inclusive, and prosperous communities for everyone.',
   contactText:
-    'Contact us at info@webblymedia.se to get started. Join our community and Pay it Forward today!',
+    'Contact us at info@zephlotech.com to get started. Join our community and Pay it Forward today!',
   image: {
     src: '/assets/images/pay-it-forward/cute-girl.svg',
   },
@@ -91,16 +91,16 @@ export const joinUsHelpingContentPayItForward = {
 export const wePayItForwardContentPayItForward = {
   title: 'WE GIVE IT FORWARD',
   description:
-    'Choosing Webbly Media means more than getting a great web & marketing solution. You join a larger effort to provide top-quality service while giving back to society.',
+    'Choosing Zephlo Tech means more than getting a great web & marketing solution. You join a larger effort to provide top-quality service while giving back to society.',
 };
 
 export const videoSectionContentPayItForward = {
   title: 'More Than Just a Digital Agency',
   description:
-    'Webbly Media offers more than just marketing and development. We also provide secure and reliable hosting solutions through our platform, WebblyHosting. WebblyHosting is built for performance and stability, giving you peace of mind. It provides your business with a strong digital foundation and a trusted ecosystem for your entire online presence.',
-  buttonText: 'Discover WebblyHost',
-  buttonLink: 'https://webblyhosting.com/',
-  videoPath: '/videos/about-us/webblyhosting-video.mp4',
+    'Zephlo Tech offers more than just marketing and development. We also provide secure and reliable hosting solutions through our platform, ZEPHLO HOSTING. ZEPHLO HOSTING is built for performance and stability, giving you peace of mind. It provides your business with a strong digital foundation and a trusted ecosystem for your entire online presence.',
+  buttonText: 'Discover ZephloHost',
+  buttonLink: '/domain-hosting',
+  videoPath: '/videos/about-us/ZEPHLO HOSTING-video.mp4',
 };
 
 export const bookConsultantContentPayItForward = {

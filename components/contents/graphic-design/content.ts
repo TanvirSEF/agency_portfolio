@@ -1,4 +1,4 @@
-import { ArrowUpRight } from "lucide-react";
+﻿import { ArrowUpRight } from "lucide-react";
 
 export const otherHeroContentGraphicDesign = {
     backgroundDecoration: {
@@ -12,7 +12,7 @@ export const otherHeroContentGraphicDesign = {
     pageName: 'Graphic Design Services',
     title: 'Creative & Brand-Focused Visual Designs',
     description:
-        'Create eye-catching visuals with Webbly Media’s professional graphic design services. We design custom graphics that clearly communicate your brand message on all platforms. Whether you need branding assets, marketing creatives, or digital visuals, our graphic design agency can help you. Choose your plan today, and build a strong visual identity that connects with your audience.',
+        'Create eye-catching visuals with Zephlo Tech’s professional graphic design services. We design custom graphics that clearly communicate your brand message on all platforms. Whether you need branding assets, marketing creatives, or digital visuals, our graphic design agency can help you. Choose your plan today, and build a strong visual identity that connects with your audience.',
     button: {
         text: 'Schedule a call',
         href: '/contact',
@@ -50,10 +50,10 @@ export const CompanyIntroSectionGraphicDesign = {
         },
     },
     content: {
-        brandName: 'Webbly Media',
+        brandName: 'Zephlo Tech',
         title: 'An Award-Winning Graphic Design Agency',
         description:
-            'At Webbly Media, we understand global design standards and help businesses communicate visually with confidence. As a leading graphic design company, we create clean, creative, and brand-focused designs that leave a lasting impression. Our team focuses on visual consistency, brand identity, and user perception throughout the design process. Clients choose Webbly Media because our designs meet their expectations and support real business growth. We work with businesses of all sizes, from startups and e-commerce brands to corporations and non-profits. No matter your industry, we design visuals that grab attention, build trust, and drive engagement. Choose Webbly Media for graphic designs that promote your brand.',
+            'At Zephlo Tech, we understand global design standards and help businesses communicate visually with confidence. As a leading graphic design company, we create clean, creative, and brand-focused designs that leave a lasting impression. Our team focuses on visual consistency, brand identity, and user perception throughout the design process. Clients choose Zephlo Tech because our designs meet their expectations and support real business growth. We work with businesses of all sizes, from startups and e-commerce brands to corporations and non-profits. No matter your industry, we design visuals that grab attention, build trust, and drive engagement. Choose Zephlo Tech for graphic designs that promote your brand.',
         button: {
             text: 'Learn more About us',
             href: '/about-us',
@@ -67,8 +67,8 @@ export const contentImageSplitGraphicDesignContent = {
     paragraphs: [
         "Are your visuals failing to grab attention or share your message? Inconsistent or dull designs make your brand easy to ignore. If your visuals don’t stand out or connect with your audience, you lose attention, trust, and customers.",
         "We analyze search intent, refine targeting, adjust bidding, and create ads that match your customers’ needs. Every step we take aims to increase conversions, lower acquisition costs, and boost your overall ROI.",
-        "At Webbly Media, we design visuals that help your brand stand out. Our team delivers clear, creative graphics that get noticed and make a strong impression. We focus on strong visuals, clear messages, and consistent branding so people engage, remember you, and take action.",
-        "Ready to promote your brand with eye-catching designs? Contact Webbly Media today and let us help you attract and engage your audience.",
+        "At Zephlo Tech, we design visuals that help your brand stand out. Our team delivers clear, creative graphics that get noticed and make a strong impression. We focus on strong visuals, clear messages, and consistent branding so people engage, remember you, and take action.",
+        "Ready to promote your brand with eye-catching designs? Contact Zephlo Tech today and let us help you attract and engage your audience.",
     ],
     image: {
         src: '/assets/images/seo-question-image.png',
@@ -239,7 +239,7 @@ export const workProcessSectionContentGraphicDesign = {
     subtitle: "Our Graphic Design Process",
     title: "How We Help You as a Professional Design Agency",
     description:
-        'At Webbly Media, we use a simple, creative process to deliver visuals that share your brand message. From start to finish, we keep each step clear, efficient, and focused on results. Our process makes sure your designs are strong, match your brand, and make an impact.',
+        'At Zephlo Tech, we use a simple, creative process to deliver visuals that share your brand message. From start to finish, we keep each step clear, efficient, and focused on results. Our process makes sure your designs are strong, match your brand, and make an impact.',
     steps: [
         {
             id: 1,
@@ -301,7 +301,7 @@ Each type of graphic design helps build a strong brand, support marketing, and e
             id: 2,
             title: 'What Do Graphic Design Companies Do?',
             description:
-                `A graphic design agency like Webbly Media helps you share your brand message with visuals. We handle everything from understanding your brand and goals to planning, designing, and delivering professional design assets.<br/><br/>
+                `A graphic design agency like Zephlo Tech helps you share your brand message with visuals. We handle everything from understanding your brand and goals to planning, designing, and delivering professional design assets.<br/><br/>
 
 Our expert graphic design team focuses on clarity, consistency, and visual impact. We make sure every design matches your brand and works across all platforms. From digital graphics to print files, our designs are ready to use and easy to scale.
 `,
@@ -312,7 +312,7 @@ Our expert graphic design team focuses on clarity, consistency, and visual impac
             description:
                 `Visual design directly affects how people perceive your brand. Hiring professionals ensures your designs are strategic, consistent, and effective.<br/><br/>
 
-At Webbly Media, we turn business goals into clear visual communication. We handle design planning, creative direction, and execution, saving you time and avoiding costly design mistakes. Our structured approach ensures your visuals support branding, marketing, and growth.
+At Zephlo Tech, we turn business goals into clear visual communication. We handle design planning, creative direction, and execution, saving you time and avoiding costly design mistakes. Our structured approach ensures your visuals support branding, marketing, and growth.
 `,
         },
         {
@@ -345,7 +345,7 @@ Well-designed visuals perform better in ads, campaigns, and promotions, leading 
 
 Templates, on the other hand, are generic and widely used. They limit creativity and brand differentiation. <br/><br/>
 
-At Webbly Media, we create custom graphic designs that help your brand stand out and deliver long-term value beyond ready-made templates.
+At Zephlo Tech, we create custom graphic designs that help your brand stand out and deliver long-term value beyond ready-made templates.
 `,
         },
         {
@@ -373,8 +373,8 @@ Well-crafted visuals create emotional responses that help people relate to and r
 
 
 export const landingChooseContentGraphicDesign = {
-    title: 'Why Choose Webbly Media for Graphic Design Support',
-    subtitle: 'At Webbly Media, we design graphics that make your brand stand out and communicate clearly. Our designers focus on creativity, consistency, and clarity to deliver visuals that support your marketing and business goals.',
+    title: 'Why Choose Zephlo Tech for Graphic Design Support',
+    subtitle: 'At Zephlo Tech, we design graphics that make your brand stand out and communicate clearly. Our designers focus on creativity, consistency, and clarity to deliver visuals that support your marketing and business goals.',
     benefits: [
         {
             title: '7+ Years of Experience',
@@ -536,15 +536,15 @@ export const weOfferMoreContentGraphicDesign = {
 };
 
 export const contactSectionContentGraphicDesign = {
-    title: 'Get Impactful Graphic Design With Webbly Media',
+    title: 'Get Impactful Graphic Design With Zephlo Tech',
     description:
-        'Want visual designs that truly represent your brand? Contact Webbly Media today for a free consultation and professional graphic design support that helps your business stand out.',
+        'Want visual designs that truly represent your brand? Contact Zephlo Tech today for a free consultation and professional graphic design support that helps your business stand out.',
     contactInfo: {
         title: 'Contact Info',
         email: {
             label: 'Email:',
-            value: 'Webblymedia@gmail.se',
-            href: 'mailto:Webblymedia@gmail.se',
+            value: 'info@zephlotech.com',
+            href: 'mailto:info@zephlotech.com',
         },
         phone: {
             label: 'Phone:',
@@ -584,9 +584,9 @@ export const landingFaqContentGraphicDesign = {
         {
             id: 1,
             question:
-                'What Makes Webbly Media Stand Out From Other Graphic Design Agencies?',
+                'What Makes Zephlo Tech Stand Out From Other Graphic Design Agencies?',
             answer:
-                "Webbly Media stands out because our designers combine creativity with brand strategy. We focus on visual clarity, brand consistency, and real business goals. Our structured design process and attention to detail ensure every design delivers value and communicates your message effectively.",
+                "Zephlo Tech stands out because our designers combine creativity with brand strategy. We focus on visual clarity, brand consistency, and real business goals. Our structured design process and attention to detail ensure every design delivers value and communicates your message effectively.",
         },
         {
             id: 2,

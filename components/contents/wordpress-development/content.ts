@@ -1,4 +1,4 @@
-import { ArrowUpRight } from "lucide-react";
+﻿import { ArrowUpRight } from "lucide-react";
 
 export const otherHeroContentWpDevelopment = {
     backgroundDecoration: {
@@ -12,7 +12,7 @@ export const otherHeroContentWpDevelopment = {
     pageName: 'WordPress Development Services',
     title: 'Responsive & SEO-friendly WordPress Websites',
     description:
-        `Create fast, secure, and scalable websites with Webbly Media's WordPress development services. We design and develop custom websites that deliver smooth user experiences on desktops, tablets, and smartphones. Whether you need a personal blog, a business site, or an e-commerce store, our WordPress development company can help you. Get a custom plan today and build a website that helps your business grow in the long run.`,
+        `Create fast, secure, and scalable websites with Zephlo Tech's WordPress development services. We design and develop custom websites that deliver smooth user experiences on desktops, tablets, and smartphones. Whether you need a personal blog, a business site, or an e-commerce store, our WordPress development company can help you. Get a custom plan today and build a website that helps your business grow in the long run.`,
     button: {
         text: 'Schedule a call',
         href: '/contact',
@@ -50,10 +50,10 @@ export const CompanyIntroSectionWpDevelopment = {
         },
     },
     content: {
-        brandName: 'Webbly Media',
+        brandName: 'Zephlo Tech',
         title: 'An Award-winning WordPress Development Company',
         description:
-            'At Webbly Media, we understand global web standards and help businesses create powerful, modern WordPress websites. As a leading WordPress development services provider, we focus on performance, SEO, and usability throughout the development process. Our skilled developers write clean, efficient code and use pro plugins and frameworks to develop user-friendly websites. Clients choose Webbly Media because we meet their expectations. Contact us today for a free consultation and start building your next-generation WordPress website.',
+            'At Zephlo Tech, we understand global web standards and help businesses create powerful, modern WordPress websites. As a leading WordPress development services provider, we focus on performance, SEO, and usability throughout the development process. Our skilled developers write clean, efficient code and use pro plugins and frameworks to develop user-friendly websites. Clients choose Zephlo Tech because we meet their expectations. Contact us today for a free consultation and start building your next-generation WordPress website.',
         button: {
             text: 'Learn more About us',
             href: '/about-us',
@@ -66,9 +66,9 @@ export const contentImageSplitWpDevelopmentContent = {
     title: "Stop Using Poor WordPress Websites That Kill Conversions",
     paragraphs: [
         "Is your WordPress website slow, outdated, or difficult to navigate? Issues like slow loading, broken links, and poor functionality can frustrate visitors and drive them away. If your website doesn’t work well, it hurts user satisfaction, damages your brand's reputation, and affects retention rates.",
-        "Webbly Media builds modern, high-performing WordPress websites that satisfy users and drive results. Our development team prioritizes speed, smooth UX, and scalable architecture. Whether you need to optimize your existing site or create a new website from scratch, we can help.",
+        "Zephlo Tech builds modern, high-performing WordPress websites that satisfy users and drive results. Our development team prioritizes speed, smooth UX, and scalable architecture. Whether you need to optimize your existing site or create a new website from scratch, we can help.",
         "Every website we build follows best practices for SEO, performance, and user experience. We optimize themes, plugins, and code to ensure fast loading, smooth navigation, and long-term stability. We avoid unnecessary code and shortcuts, focusing instead on creating websites that are reliable, fast, and engaging.",
-        "Want your WordPress site to bring in more business? Contact Webbly Media today! We’ll build a WordPress site that users will trust, enjoy, and return to again and again.",
+        "Want your WordPress site to bring in more business? Contact Zephlo Tech today! We’ll build a WordPress site that users will trust, enjoy, and return to again and again.",
     ],
     image: {
         src: '/assets/images/seo-question-image.png',
@@ -357,7 +357,7 @@ export const workProcessSectionContentWpDevelopment = {
     subtitle: "Our WordPress Development Process",
     title: "How We Help You as an Expert WordPress Development Company",
     description:
-        'At Webbly Media, we use a simple and proven WordPress development process. We build websites that work well, help your business grow, and are ready for the future. Our steps are clear, so you always know what comes next.',
+        'At Zephlo Tech, we use a simple and proven WordPress development process. We build websites that work well, help your business grow, and are ready for the future. Our steps are clear, so you always know what comes next.',
     steps: [
         {
             id: 1,
@@ -407,13 +407,13 @@ export const benefitsSectionContentWpDevelopment = {
             id: 1,
             title: 'What Does a WordPress Website Development Company Do?',
             description:
-                'A WordPress development agency like Webbly Media helps businesses create, customize, and manage professional WordPress websites. We handle the complete development process, from requirement analysis and UI/UX design to development, testing, and deployment.<br /><br />We build WordPress websites that are fast, secure, and SEO-friendly. Our team handles theme and plugin development, speeds up your site, connects it with other tools, and sets up content management so you can easily update your pages.<br /><br />Before launch, we test your website to make sure everything works well. After your site is live, we provide updates, monitor security, and offer support to keep your website running smoothly.',
+                'A WordPress development agency like Zephlo Tech helps businesses create, customize, and manage professional WordPress websites. We handle the complete development process, from requirement analysis and UI/UX design to development, testing, and deployment.<br /><br />We build WordPress websites that are fast, secure, and SEO-friendly. Our team handles theme and plugin development, speeds up your site, connects it with other tools, and sets up content management so you can easily update your pages.<br /><br />Before launch, we test your website to make sure everything works well. After your site is live, we provide updates, monitor security, and offer support to keep your website running smoothly.',
         },
         {
             id: 2,
             title: 'Why Hire an Agency for Professional WordPress Solutions?',
             description:
-                'Building a professional WordPress website requires technical expertise, planning, and ongoing maintenance. Hiring experts ensures your website is built correctly from the start.<br /><br />At Webbly Media, we manage the entire WordPress development process so you don’t have to worry about technical challenges. From design and customization to performance optimization, we handle everything efficiently.<br /><br />We also ensure your website follows SEO best practices, security standards, and scalability requirements. This allows you to focus on growing your business while we take care of the website.',
+                'Building a professional WordPress website requires technical expertise, planning, and ongoing maintenance. Hiring experts ensures your website is built correctly from the start.<br /><br />At Zephlo Tech, we manage the entire WordPress development process so you don’t have to worry about technical challenges. From design and customization to performance optimization, we handle everything efficiently.<br /><br />We also ensure your website follows SEO best practices, security standards, and scalability requirements. This allows you to focus on growing your business while we take care of the website.',
         },
         {
             id: 3,
@@ -439,8 +439,8 @@ export const benefitsSectionContentWpDevelopment = {
 
 
 export const landingChooseContentWpDevelopment = {
-    title: 'Why Choose Webbly Media for WordPress Development Support',
-    subtitle: 'At Webbly Media, we build WordPress websites that help your business grow. Our team uses clean code and SEO-friendly designs to make your site fast, reliable, and ready for the future.',
+    title: 'Why Choose Zephlo Tech for WordPress Development Support',
+    subtitle: 'At Zephlo Tech, we build WordPress websites that help your business grow. Our team uses clean code and SEO-friendly designs to make your site fast, reliable, and ready for the future.',
     benefits: [
         {
             title: '7+ Years of Experience',
@@ -577,11 +577,11 @@ export const landingAdditionalServices2ContentWpDevelopment = {
         title: "Don’t Let Bad Hosting Slow Down Your WordPress Site",
         paragraphs: [
             "Did you know that even a professionally built WordPress website can be slow if your hosting is weak? Many businesses invest in custom sites but still face slow-loading pages, frequent downtime, database errors, and security issues due to weak hosting infrastructure.",
-            "But Webbly Media doesn’t want that to happen to your website. That’s why we bring WebblyHosting as the right solution for you. WebblyHosting is our premium hosting service designed specifically to support high-performance WordPress websites with speed, stability, and reliability.",
-            "WebblyHosting gives you quick server response, strong uptime, and WordPress-optimized technology. With advanced security, automatic backups, and scalable resources, your site stays safe, loads fast, and works well for every visitor.",
+            "But Zephlo Tech doesn’t want that to happen to your website. That’s why we bring ZEPHLO HOSTING as the right solution for you. ZEPHLO HOSTING is our premium hosting service designed specifically to support high-performance WordPress websites with speed, stability, and reliability.",
+            "ZEPHLO HOSTING gives you quick server response, strong uptime, and WordPress-optimized technology. With advanced security, automatic backups, and scalable resources, your site stays safe, loads fast, and works well for every visitor.",
         ],
-        buttonText: 'DISCOVER WEBBLYHOSTING',
-        buttonLink: 'https://webblyhosting.com/',
+        buttonText: 'DISCOVER ZEPHLO HOSTING',
+        buttonLink: '/domain-hosting',
     },
     rightSection: {
         title: 'We Offer More Than Just WordPress Development Solutions',
@@ -622,15 +622,15 @@ export const landingAdditionalServices2ContentWpDevelopment = {
 
 
 export const contactSectionContentWpDevelopment = {
-    title: 'Build High-Performance WordPress Websites With Webbly Media',
+    title: 'Build High-Performance WordPress Websites With Zephlo Tech',
     description:
-        'Want a WordPress website that loads fast, ranks better, and converts visitors into customers? We’re here to help. Contact Webbly Media today for a free consultation and expert guidance!',
+        'Want a WordPress website that loads fast, ranks better, and converts visitors into customers? We’re here to help. Contact Zephlo Tech today for a free consultation and expert guidance!',
     contactInfo: {
         title: 'Contact Info',
         email: {
             label: 'Email:',
-            value: 'Webblymedia@gmail.se',
-            href: 'mailto:Webblymedia@gmail.se',
+            value: 'info@zephlotech.com',
+            href: 'mailto:info@zephlotech.com',
         },
         phone: {
             label: 'Phone:',
@@ -670,9 +670,9 @@ export const landingFaqContentWpDevelopment = {
         {
             id: 1,
             question:
-                'What Makes Webbly Media Stand Out From Other WordPress Development Companies?',
+                'What Makes Zephlo Tech Stand Out From Other WordPress Development Companies?',
             answer:
-                'Webbly Media stands out because we offer certified WordPress developers, clear communication, performance-focused development, and SEO-friendly website architecture. Our structured process, attention to detail, and ongoing support help businesses build websites they truly need and trust.',
+                'Zephlo Tech stands out because we offer certified WordPress developers, clear communication, performance-focused development, and SEO-friendly website architecture. Our structured process, attention to detail, and ongoing support help businesses build websites they truly need and trust.',
         },
         {
             id: 2,

@@ -1,4 +1,4 @@
-import { NextRequest, NextResponse } from 'next/server';
+﻿import { NextRequest, NextResponse } from 'next/server';
 
 export async function POST(req: NextRequest) {
   try {
@@ -73,7 +73,7 @@ export async function POST(req: NextRequest) {
         },
       ],
       footer: {
-        text: 'Webbly Media • Contact Modal',
+        text: 'Zephlo Tech • Contact Modal',
       },
       timestamp: now.toISOString(),
     };
@@ -82,7 +82,7 @@ export async function POST(req: NextRequest) {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
-        username: 'Webbly Media Form',
+        username: 'Zephlo Tech Form',
         embeds: [embed],
       }),
     });

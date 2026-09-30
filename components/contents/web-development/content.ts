@@ -1,4 +1,4 @@
-import { ArrowUpRight } from "lucide-react";
+﻿import { ArrowUpRight } from "lucide-react";
 
 export const otherHeroContentWebDevelopment = {
     backgroundDecoration: {
@@ -12,7 +12,7 @@ export const otherHeroContentWebDevelopment = {
     pageName: 'Web Development Services',
     title: 'Build Custom Websites That Drive Growth',
     description:
-        "Build fast, secure, and scalable websites with Webbly Media's professional web development services. We create custom websites that look great and work well on all devices. Whether you need a business site, web application, or eCommerce platform, our web development agency can provide solutions focused on speed, SEO, and conversions. Get a personalized plan today, and launch a website that supports your long-term growth.",
+        "Build fast, secure, and scalable websites with Zephlo Tech's professional web development services. We create custom websites that look great and work well on all devices. Whether you need a business site, web application, or eCommerce platform, our web development agency can provide solutions focused on speed, SEO, and conversions. Get a personalized plan today, and launch a website that supports your long-term growth.",
     button: {
         text: 'Schedule a call',
         href: '/contact',
@@ -50,10 +50,10 @@ export const CompanyIntroSectionWebDevelopment = {
         },
     },
     content: {
-        brandName: 'Webbly Media',
+        brandName: 'Zephlo Tech',
         title: 'An industry-leading Web Development Company',
         description:
-            'At Webbly Media, we understand global digital standards and help businesses build powerful, modern websites. As an award-winning website development agency, we create custom web applications that are fast, secure, and easy to grow. Our skilled developers write clean code and use modern frameworks to design user-friendly websites that work well on all devices. We focus on speed, search engine optimization (SEO), and conversion optimization throughout our development process. Clients choose Webbly Media because we deliver websites that perform effectively. Contact us today for a free consultation and start building your future-ready website.',
+            'At Zephlo Tech, we understand global digital standards and help businesses build powerful, modern websites. As an award-winning website development agency, we create custom web applications that are fast, secure, and easy to grow. Our skilled developers write clean code and use modern frameworks to design user-friendly websites that work well on all devices. We focus on speed, search engine optimization (SEO), and conversion optimization throughout our development process. Clients choose Zephlo Tech because we deliver websites that perform effectively. Contact us today for a free consultation and start building your future-ready website.',
         button: {
             text: 'Learn more About us',
             href: '/about-us',
@@ -66,9 +66,9 @@ export const contentImageSplitWebDevelopmentContent = {
     title: "Stop Using Slow, Outdated Websites That Kill Conversions",
     paragraphs: [
         "Is your website struggling to generate leads, drive sales, or increase engagement? Issues like slow loading times, outdated design, and poor functionality can drive users away before they take action. A website that doesn't perform well not only looks unappealing but also harms trust, hurts SEO rankings, and restricts your business growth.",
-        "At Webbly Media, we create modern, high-performing websites that turn visitors into customers. Our web development team prioritizes speed, usability, clean code, and scalable architecture. We also update old websites, improve their structure, and add features that meet your business goals and users' needs.",
+        "At Zephlo Tech, we create modern, high-performing websites that turn visitors into customers. Our web development team prioritizes speed, usability, clean code, and scalable architecture. We also update old websites, improve their structure, and add features that meet your business goals and users' needs.",
         "Every website we build follows reliable development practices and performance optimization. We test on different devices, enhance speed and security, and prepare your site for SEO, growth, and future updates. We avoid bloated code and shortcuts. We focus on creating websites that perform well.",
-        "Ready to transform your website into a tool for growth? Contact Webbly Media today, and let us create a fast, conversion-focused website that supports your long-term success.",
+        "Ready to transform your website into a tool for growth? Contact Zephlo Tech today, and let us create a fast, conversion-focused website that supports your long-term success.",
     ],
     image: {
         src: '/assets/images/seo-question-image.png',
@@ -299,7 +299,7 @@ export const workProcessSectionContentWebDevelopment = {
     subtitle: 'Our Web Development Process',
     title: "How We Help You as an Expert Web Development Agency",
     description:
-        'At Webbly Media, we follow a clear and structured web development process to build websites that support real business growth. First, we learn about your goals and who will use your site. Then, we plan, design, develop, and launch your website carefully. Our step-by-step approach keeps everything clear and efficient, so you always know what is happening. This method helps us create high-quality, scalable websites that deliver visible results.',
+        'At Zephlo Tech, we follow a clear and structured web development process to build websites that support real business growth. First, we learn about your goals and who will use your site. Then, we plan, design, develop, and launch your website carefully. Our step-by-step approach keeps everything clear and efficient, so you always know what is happening. This method helps us create high-quality, scalable websites that deliver visible results.',
     steps: [
         {
             id: 1,
@@ -361,7 +361,7 @@ Each type plays an important role in building a high-performing website that sup
             id: 2,
             title: 'What Does a Web Development Company Do?',
             description:
-                `A web development company like Webbly Media helps businesses build powerful, reliable, and growth-focused websites. We take care of everything from planning and design to development, testing, and ongoing support.<br><br>
+                `A web development company like Zephlo Tech helps businesses build powerful, reliable, and growth-focused websites. We take care of everything from planning and design to development, testing, and ongoing support.<br><br>
 
 Our aim is to build websites that look professional and perform well. We handle both front-end and back-end development to ensure your site is fast, secure, and scalable. We also ensure that your website is SEO-friendly, mobile-responsive, and optimized for performance.<br><br>
 
@@ -373,7 +373,7 @@ Before launching, we carefully test every feature. After launch, we continue to 
             id: 3,
             title: 'Why hire a Web Development Firm?',
             description:
-                `When it comes to building a professional website, hiring an agency like Webbly Media ensures your project is handled properly. We are your partner in digital growth, creating websites that support your business goals.<br><br>
+                `When it comes to building a professional website, hiring an agency like Zephlo Tech ensures your project is handled properly. We are your partner in digital growth, creating websites that support your business goals.<br><br>
 
 Our team helps you plan, design, and develop your website efficiently. We organize every step, from layout and design to coding and testing, ensuring high-quality results while saving you time.<br><br>
 
@@ -411,7 +411,7 @@ A professionally built website attracts more users, leads, and sales over time, 
             id: 5,
             title: 'How Custom Solutions Differ From Templates',
             description:
-                `Custom websites are designed specifically for your business goals, brand, and user needs. While templates are faster and less expensive, they are generic and limited in features. Custom solutions give you full freedom in design, functionality, and performance. They can grow with your business and help create a unique identity. At Webbly Media, we create custom websites that improve user experience, increase conversions, and make your brand stand out online, unlike standard templates.`,
+                `Custom websites are designed specifically for your business goals, brand, and user needs. While templates are faster and less expensive, they are generic and limited in features. Custom solutions give you full freedom in design, functionality, and performance. They can grow with your business and help create a unique identity. At Zephlo Tech, we create custom websites that improve user experience, increase conversions, and make your brand stand out online, unlike standard templates.`,
         },
 
         {
@@ -434,7 +434,7 @@ A professionally built website attracts more users, leads, and sales over time, 
 
 export const landingChooseContentWebDevelopment = {
     title: 'Why Choose Us As Your Web Agency',
-    subtitle: 'At Webbly Media, we don’t just build websites; we create reliable digital platforms that support long-term business growth and success. Our expert developers combine strategy, clean code, and modern design to deliver websites that perform and scale with confidence.',
+    subtitle: 'At Zephlo Tech, we don’t just build websites; we create reliable digital platforms that support long-term business growth and success. Our expert developers combine strategy, clean code, and modern design to deliver websites that perform and scale with confidence.',
     benefits: [
         {
             title: '7+ Years of Experience',
@@ -571,11 +571,11 @@ export const landingAdditionalServices2ContentWebDevelopment = {
         title: "Don’t Let Poor Hosting Ruin Your High-Quality Website",
         paragraphs: [
             "Did you know that even a well-built website can fail because of poor hosting? Yes, many businesses invest in professional web development, but still face slow loading, downtime, and performance issues due to weak hosting infrastructure.",
-            "But we don’t want you to face that problem. This is where WebblyHosting comes in as the right solution. WebblyHosting is our premium hosting service designed to support high-quality websites with speed, stability, and reliability.",
-            "With fast server response, high uptime, and optimized performance, WebblyHosting keeps your website running smoothly at all times. Strong security features and scalable resources ensure your website stays protected, performs better, and delivers a consistent experience for every visitor.",
+            "But we don’t want you to face that problem. This is where ZEPHLO HOSTING comes in as the right solution. ZEPHLO HOSTING is our premium hosting service designed to support high-quality websites with speed, stability, and reliability.",
+            "With fast server response, high uptime, and optimized performance, ZEPHLO HOSTING keeps your website running smoothly at all times. Strong security features and scalable resources ensure your website stays protected, performs better, and delivers a consistent experience for every visitor.",
         ],
-        buttonText: 'DISCOVER WEBBLYHOSTING',
-        buttonLink: 'https://webblyhosting.com/',
+        buttonText: 'DISCOVER ZEPHLO HOSTING',
+        buttonLink: '/domain-hosting',
     },
     rightSection: {
         title: 'We Offer More Than Just Web Development Services',
@@ -609,15 +609,15 @@ export const landingAdditionalServices2ContentWebDevelopment = {
 
 
 export const contactSectionContentWebDevelopment = {
-    title: 'Build High-Performance Websites With Webbly Media',
+    title: 'Build High-Performance Websites With Zephlo Tech',
     description:
         'Want a website that looks great and works perfectly? We’re here to make it happen. Contact us today for a free consultation and expert guidance!',
     contactInfo: {
         title: 'Contact Info',
         email: {
             label: 'Email:',
-            value: 'Webblymedia@gmail.se',
-            href: 'mailto:Webblymedia@gmail.se',
+            value: 'info@zephlotech.com',
+            href: 'mailto:info@zephlotech.com',
         },
         phone: {
             label: 'Phone:',
@@ -656,9 +656,9 @@ export const landingFaqContentWebDevelopment = {
     faqs: [
         {
             id: 1,
-            question: 'What Makes Webbly Media Stand Out From Other Web Development Agencies?',
+            question: 'What Makes Zephlo Tech Stand Out From Other Web Development Agencies?',
             answer:
-                'At Webbly Media, we stand out because we offer expert teams, clear communication, modern technology, and performance-focused websites. Our structured process and long-term support help businesses grow with confidence.',
+                'At Zephlo Tech, we stand out because we offer expert teams, clear communication, modern technology, and performance-focused websites. Our structured process and long-term support help businesses grow with confidence.',
         },
         {
             id: 2,

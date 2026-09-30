@@ -1,4 +1,4 @@
-import { ArrowUpRight } from "lucide-react";
+﻿import { ArrowUpRight } from "lucide-react";
 
 export const otherHeroContentAPPDEV = {
     backgroundDecoration: {
@@ -12,7 +12,7 @@ export const otherHeroContentAPPDEV = {
     pageName: 'App Development Services',
     title: 'Build Apps That Scale Globally',
     description:
-        `Build fast, secure, and scalable mobile apps with Webbly Media's professional app development services. We create custom apps that deliver smooth user experiences across Android, iOS, and cross-platform devices. Whether you need a business app, an e-commerce app, or an enterprise solution, our app development company can help you. Get a custom plan today, and launch an app that supports your long-term business growth.`,
+        `Build fast, secure, and scalable mobile apps with Zephlo Tech's professional app development services. We create custom apps that deliver smooth user experiences across Android, iOS, and cross-platform devices. Whether you need a business app, an e-commerce app, or an enterprise solution, our app development company can help you. Get a custom plan today, and launch an app that supports your long-term business growth.`,
     button: {
         text: 'Schedule a call',
         href: '/contact',
@@ -50,10 +50,10 @@ export const CompanyIntroSectionAPPDEV = {
         },
     },
     content: {
-        brandName: 'Webbly Media',
+        brandName: 'Zephlo Tech',
         title: 'An industry-leading App Development Company',
         description:
-            'At Webbly Media, we understand the global digital standard and help businesses build powerful, modern mobile applications. As an award-winning app development agency, we create custom apps that are fast, secure, and scalable. Our skilled developers write clean, efficient code and use modern frameworks to design user-friendly apps for Android, iOS, and cross-platform devices. We focus on performance, app store optimization (ASO), and user engagement throughout our development process. Clients choose Webbly Media because we meet their expectations. Contact us today for a free consultation and start building your next-generation mobile application.',
+            'At Zephlo Tech, we understand the global digital standard and help businesses build powerful, modern mobile applications. As an award-winning app development agency, we create custom apps that are fast, secure, and scalable. Our skilled developers write clean, efficient code and use modern frameworks to design user-friendly apps for Android, iOS, and cross-platform devices. We focus on performance, app store optimization (ASO), and user engagement throughout our development process. Clients choose Zephlo Tech because we meet their expectations. Contact us today for a free consultation and start building your next-generation mobile application.',
         button: {
             text: 'Learn more About us',
             href: '/about-us',
@@ -66,9 +66,9 @@ export const contentImageSplitAPPDEVContent = {
     title: "Stop Using Laggy Apps That Frustrate Users and Drive Them Away",
     paragraphs: [
         "Is your app having trouble providing a smooth user experience? Issues like slow performance, glitches, and poor functionality can frustrate users and make them leave your app. If your app doesn’t work well, it not only hurts user satisfaction but also damages your brand’s reputation and affects retention rates.",
-        "At Webbly Media, we create modern, high-performing mobile applications that delight users and drive results. Our app development team prioritizes speed, smooth UX, and scalable architecture. Whether you need to fix performance issues or create a new app from scratch, we can help.",
+        "At Zephlo Tech, we create modern, high-performing mobile applications that delight users and drive results. Our app development team prioritizes speed, smooth UX, and scalable architecture. Whether you need to fix performance issues or create a new app from scratch, we can help.",
         "Every app we build follows reliable development practices and performance optimization. Our experts prepare your app for app stores, long-term growth, and updates. We avoid unnecessary code and shortcuts, focusing instead on creating apps that are reliable, fast, and engaging.",
-        "Ready to turn your app into a high-performing tool? Contact Webbly Media today, and let us create an app that keeps users coming back.",
+        "Ready to turn your app into a high-performing tool? Contact Zephlo Tech today, and let us create an app that keeps users coming back.",
     ],
     image: {
         src: '/assets/images/seo-question-image.png',
@@ -338,7 +338,7 @@ export const workProcessSectionContentAPPDEV = {
     subtitle: "Our App Development Process",
     title: "How We Help You as an Expert App Development Agency",
     description:
-        'At Webbly Media, we follow a structured and transparent process to create an app that drives business success. First, we understand your objectives and target users; then, we proceed to design, develop, test, and launch your app. Our step-by-step approach ensures efficiency and clarity, so you always know what’s happening.',
+        'At Zephlo Tech, we follow a structured and transparent process to create an app that drives business success. First, we understand your objectives and target users; then, we proceed to design, develop, test, and launch your app. Our step-by-step approach ensures efficiency and clarity, so you always know what’s happening.',
     steps: [
         {
             id: 1,
@@ -410,7 +410,7 @@ export const benefitsSectionContentAPPDEV = {
             id: 2,
             title: 'What Do App Development Companies Do?',
             description:
-                `An app development agency like Webbly Media helps businesses turn ideas into fully functional mobile applications. We manage the entire development lifecycle, from concept planning and UI/UX design to development, testing, and deployment. <br /><br />
+                `An app development agency like Zephlo Tech helps businesses turn ideas into fully functional mobile applications. We manage the entire development lifecycle, from concept planning and UI/UX design to development, testing, and deployment. <br /><br />
 
                 Our team ensures your app is fast, secure, and scalable. We handle both front-end and back-end development while integrating essential features and third-party services. We also focus on performance optimization, security, and compliance with app store standards. <br /><br />
 
@@ -424,7 +424,7 @@ export const benefitsSectionContentAPPDEV = {
             description:
                 `Building a mobile application requires technical expertise, structured planning, and ongoing support. Hiring an agency ensures your project is handled professionally and efficiently. <br /><br />
 
-                At Webbly Media, we guide you through every stage of app development. From defining requirements to designing interfaces and building features, we manage the process smoothly while saving your time and resources. <br /><br />
+                At Zephlo Tech, we guide you through every stage of app development. From defining requirements to designing interfaces and building features, we manage the process smoothly while saving your time and resources. <br /><br />
 
                 We also handle complex technical challenges such as performance optimization, security implementation, and platform-specific requirements. This allows you to focus on your business while we manage the development tasks.
                 `,
@@ -461,7 +461,7 @@ export const benefitsSectionContentAPPDEV = {
             description:
                 `Custom app development focuses on creating apps specifically for your business needs and user expectations. This gives you complete control over design, functionality, and performance. They fit well with your systems and can grow as your business changes. On the other hand, ready-made apps are generic, have limited features, and can be hard to scale. <br /><br />
 
-                At Webbly Media, we create custom applications that provide better user experiences, stronger branding, and long-term flexibility compared to standard solutions. <br /><br />
+                At Zephlo Tech, we create custom applications that provide better user experiences, stronger branding, and long-term flexibility compared to standard solutions. <br /><br />
                 `,
         },
         {
@@ -520,8 +520,8 @@ export const comparisonBetweenCardsContentAPPDEV = {
 
 
 export const landingChooseContentAPPDEV = {
-    title: 'Why Choose Webbly Media for App Development Support',
-    subtitle: 'At Webbly Media, we create web and mobile apps that help businesses grow. Our skilled app developers focus on strategy, clean code, and user-friendly design to build apps that run well on all platforms and can grow with your needs.',
+    title: 'Why Choose Zephlo Tech for App Development Support',
+    subtitle: 'At Zephlo Tech, we create web and mobile apps that help businesses grow. Our skilled app developers focus on strategy, clean code, and user-friendly design to build apps that run well on all platforms and can grow with your needs.',
     benefits: [
         {
             title: '7+ Years of Experience',
@@ -659,12 +659,12 @@ export const landingAdditionalServices2ContentAPPDEV = {
         paragraphs: [
             `Did you know that even a well-built app can fail because of poor hosting? Many businesses invest in professional app development but still face slow APIs, downtime, crashes, and performance issues due to weak server infrastructure.
 
-            We don’t want that to happen to your app. That’s where WebblyHosting comes in as the right solution. WebblyHosting is our premium hosting service built to support high-performance mobile applications with speed, stability, and reliability.
+            We don’t want that to happen to your app. That’s where ZEPHLO HOSTING comes in as the right solution. ZEPHLO HOSTING is our premium hosting service built to support high-performance mobile applications with speed, stability, and reliability.
 
-            With fast server response, high uptime, and optimized cloud performance, WebblyHosting keeps your app running smoothly at all times. Advanced security, scalable resources, and reliable infrastructure ensure your app stays protected, performs consistently, and delivers a seamless experience to every user.`,
+            With fast server response, high uptime, and optimized cloud performance, ZEPHLO HOSTING keeps your app running smoothly at all times. Advanced security, scalable resources, and reliable infrastructure ensure your app stays protected, performs consistently, and delivers a seamless experience to every user.`,
         ],
-        buttonText: 'DISCOVER WEBBLYHOSTING',
-        buttonLink: 'https://webblyhosting.com/',
+        buttonText: 'DISCOVER ZEPHLO HOSTING',
+        buttonLink: '/domain-hosting',
     },
     rightSection: {
         title: 'We Offer More Than Just App Development Solutions',
@@ -698,15 +698,15 @@ export const landingAdditionalServices2ContentAPPDEV = {
 
 
 export const contactSectionContentAPPDEV = {
-    title: 'Build High-Quality, Bug-Free Apps With Webbly Media',
+    title: 'Build High-Quality, Bug-Free Apps With Zephlo Tech',
     description:
         'Want an app that performs flawlessly and delivers an exceptional user experience? We’re here to make it happen. Contact us today for a free consultation and expert guidance!',
     contactInfo: {
         title: 'Contact Info',
         email: {
             label: 'Email:',
-            value: 'Webblymedia@gmail.se',
-            href: 'mailto:Webblymedia@gmail.se',
+            value: 'info@zephlotech.com',
+            href: 'mailto:info@zephlotech.com',
         },
         phone: {
             label: 'Phone:',
@@ -746,9 +746,9 @@ export const landingFaqContentAPPDEV = {
         {
             id: 1,
             question:
-                'What Makes Webbly Media Stand Out From Other App Development Companies?',
+                'What Makes Zephlo Tech Stand Out From Other App Development Companies?',
             answer:
-                "At Webbly Media, we stand out because we provide certified app development teams, clear communication, modern technologies, and performance-focused applications. Our structured process, attention to detail, and ongoing support help businesses launch apps that they actually want.",
+                "At Zephlo Tech, we stand out because we provide certified app development teams, clear communication, modern technologies, and performance-focused applications. Our structured process, attention to detail, and ongoing support help businesses launch apps that they actually want.",
         },
         {
             id: 2,

@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 
 import { useEffect, useRef, useState } from "react";
 import { TbAnalyze, TbFileTextSpark } from "react-icons/tb";
@@ -95,7 +95,7 @@ export default function ServiceWorkflowProcess() {
             Our SEO Workflow Process
           </h2>
           <p className="mt-4 max-w-xl text-[0.95rem] leading-[1.7] text-white/65 md:text-[1rem]">
-            At Webbly Media, we create a clear and simple SEO plan to help your
+            At Zephlo Tech, we create a clear and simple SEO plan to help your
             business grow online over time. We start by understanding your
             business goals, then we improve your website in every way possible.
           </p>

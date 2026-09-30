@@ -14,6 +14,7 @@ import {
   workProcessSectionContent,
   landingCaseStudiesContent,
   landingTestimonialCarouselContent,
+  landingZephloTechUpdatesContent,
   landingWebblyMediaUpdatesContent,
   contactSectionContent,
   landingFaqContent,
@@ -222,6 +223,7 @@ export type ContentPath =
   | 'workProcessSection'
   | 'landingCaseStudies'
   | 'landingTestimonialCarousel'
+  | 'landingZephloTechUpdates'
   | 'landingWebblyMediaUpdates'
   | 'contactSection'
   | 'landingFaq'
@@ -413,6 +415,7 @@ export const contentRegistry: Record<ContentPath, any> = {
   workProcessSection: workProcessSectionContent,
   landingCaseStudies: landingCaseStudiesContent,
   landingTestimonialCarousel: landingTestimonialCarouselContent,
+  landingZephloTechUpdates: landingZephloTechUpdatesContent,
   landingWebblyMediaUpdates: landingWebblyMediaUpdatesContent,
   contactSection: contactSectionContent,
   landingFaq: landingFaqContent,

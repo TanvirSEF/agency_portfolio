@@ -1,4 +1,4 @@
-import { ArrowUpRight } from "lucide-react";
+﻿import { ArrowUpRight } from "lucide-react";
 
 export const otherHeroContentWebDesign = {
     backgroundDecoration: {
@@ -12,7 +12,7 @@ export const otherHeroContentWebDesign = {
     pageName: 'Web Design Services',
     title: 'Responsive & Conversion-Focused Designs',
     description:
-        'Get a modern, easy-to-use website design with Webbly Media’s professional web design services. We design custom layouts that deliver smooth navigation and consistent experiences across all devices. Whether you need a design for your business site, landing page, or e-commerce store, our web design agency can help you. Grab your plan today, and launch a website that attracts users.',
+        'Get a modern, easy-to-use website design with Zephlo Tech’s professional web design services. We design custom layouts that deliver smooth navigation and consistent experiences across all devices. Whether you need a design for your business site, landing page, or e-commerce store, our web design agency can help you. Grab your plan today, and launch a website that attracts users.',
     button: {
         text: 'Schedule a call',
         href: '/contact',
@@ -50,10 +50,10 @@ export const CompanyIntroSectionWebDesign = {
         },
     },
     content: {
-        brandName: 'Webbly Media',
+        brandName: 'Zephlo Tech',
         title: 'A Top-rated Web Design Company',
         description:
-            `At Webbly Media, we understand global design standards and help businesses create visually appealing, user-focused websites. As a leading web agency, we create sites that are easy to use, load fast, and adapt to any device. Our team focuses on user experience (UX), responsive design, and brand consistency throughout the design process. Clients choose Webbly Media because our designs meet their expectations and support real business growth. We work with small and medium-sized businesses, e-commerce brands, startups, entrepreneurs, corporations, non-profits, saas brands, and tech companies. No matter your industry, we design websites that attract visitors, build trust, and drive results. Choose Webbly Media for a website that helps you grow. Start today and see your online presence improve.`,
+            `At Zephlo Tech, we understand global design standards and help businesses create visually appealing, user-focused websites. As a leading web agency, we create sites that are easy to use, load fast, and adapt to any device. Our team focuses on user experience (UX), responsive design, and brand consistency throughout the design process. Clients choose Zephlo Tech because our designs meet their expectations and support real business growth. We work with small and medium-sized businesses, e-commerce brands, startups, entrepreneurs, corporations, non-profits, saas brands, and tech companies. No matter your industry, we design websites that attract visitors, build trust, and drive results. Choose Zephlo Tech for a website that helps you grow. Start today and see your online presence improve.`,
         button: {
             text: 'Learn more About us',
             href: '/about-us',
@@ -66,8 +66,8 @@ export const contentImageSplitWebDesignContent = {
     title: "Stop Losing Customers Because of Poor Website Design",
     paragraphs: [
         "Is your website turning visitors away? Slow, outdated, or confusing websites can cause this to happen. If your site isn’t easy to use, mobile-friendly, or designed to turn visitors into customers, you’re losing out on sales and growth.",
-        "At Webbly Media, we build websites that help you grow. Our team creates clean, modern sites that work on any device and make it easy for visitors to take action. Whether you need a new site or want to refresh your current one, we’re ready to help. We focus on fast load times, simple navigation, and designs that encourage people to contact you, buy, or learn more. We design websites that attract visitors and turn them into loyal customers.",
-        "Ready to turn your website into a high-converting digital asset? Contact Webbly Media today, and let us design a website that keeps users engaged and coming back.",
+        "At Zephlo Tech, we build websites that help you grow. Our team creates clean, modern sites that work on any device and make it easy for visitors to take action. Whether you need a new site or want to refresh your current one, we’re ready to help. We focus on fast load times, simple navigation, and designs that encourage people to contact you, buy, or learn more. We design websites that attract visitors and turn them into loyal customers.",
+        "Ready to turn your website into a high-converting digital asset? Contact Zephlo Tech today, and let us design a website that keeps users engaged and coming back.",
     ],
     image: {
         src: '/assets/images/seo-question-image.png',
@@ -331,7 +331,7 @@ export const workProcessSectionContentWebDesign = {
     subtitle: 'Our Web Design Process',
     title: "How We Help You as an Expert Web Agency",
     description:
-        'At Webbly Media, we use a step-by-step web design process to build sites that attract visitors and help your business grow. We start by learning about your brand and goals, then plan, design, refine, and deliver a website you’ll be proud of. Our approach keeps things clear and efficient from start to finish.',
+        'At Zephlo Tech, we use a step-by-step web design process to build sites that attract visitors and help your business grow. We start by learning about your brand and goals, then plan, design, refine, and deliver a website you’ll be proud of. Our approach keeps things clear and efficient from start to finish.',
     steps: [
         {
             id: 1,
@@ -399,7 +399,7 @@ Each type is essential for creating attractive, user-friendly, and purpose-drive
             id: 2,
             title: 'What Does a Web Design Company Do?',
             description:
-                `Website design agencies like Webbly Media build websites that look great and are easy to use. We handle everything—from learning about your brand and goals to planning, designing, and preparing your site for launch.<br><br>
+                `Website design agencies like Zephlo Tech build websites that look great and are easy to use. We handle everything—from learning about your brand and goals to planning, designing, and preparing your site for launch.<br><br>
 
 Our team focuses on creating clean, modern, and intuitive designs that align with your brand identity. We ensure your website design is responsive, accessible, and optimized for user experience for all devices.<br><br>
 
@@ -412,7 +412,7 @@ Before final delivery, we review and refine designs to ensure quality and consis
             description:
                 `A great website needs planning, creativity, and expertise. Hiring professionals means your site is built with care and purpose.<br><br>
 
-At Webbly Media, we turn your business goals into effective website designs. We take care of design planning, user experience, and branding—saving you time and effort.<br><br>
+At Zephlo Tech, we turn your business goals into effective website designs. We take care of design planning, user experience, and branding—saving you time and effort.<br><br>
 
 We also avoid common mistakes that can confuse users or reduce conversions. By trusting experts, you get a website design that supports usability, credibility, and business growth.<br><br>
 `,
@@ -446,7 +446,7 @@ A user-friendly website brings more visitors, supports your marketing, and gives
             id: 5,
             title: 'How Custom Web Design Differs From Website Templates',
             description:
-                'Custom web design is created specifically for your brand, goals, and audience. It offers complete control over layout, visuals, and user experience. These designs are flexible, scalable, and optimized for conversions.<br><br>Website templates, on the other hand, are generic and limit customization. They often lack uniqueness and may not fully support your business goals. At Webbly Media, we design custom websites that are unique and deliver long-term value beyond standard templates.',
+                'Custom web design is created specifically for your brand, goals, and audience. It offers complete control over layout, visuals, and user experience. These designs are flexible, scalable, and optimized for conversions.<br><br>Website templates, on the other hand, are generic and limit customization. They often lack uniqueness and may not fully support your business goals. At Zephlo Tech, we design custom websites that are unique and deliver long-term value beyond standard templates.',
         },
         {
             id: 6,
@@ -468,7 +468,7 @@ A user-friendly website brings more visitors, supports your marketing, and gives
 
 export const landingChooseContentWebDesign = {
     title: 'Why Choose Us As Your Web Design Company',
-    subtitle: 'At Webbly Media, we design websites that help businesses stand out and convert visitors into customers. Our expert web designers focus on user experience, visual clarity, and brand consistency to create websites that look great, feel intuitive, and perform across all devices.',
+    subtitle: 'At Zephlo Tech, we design websites that help businesses stand out and convert visitors into customers. Our expert web designers focus on user experience, visual clarity, and brand consistency to create websites that look great, feel intuitive, and perform across all devices.',
     benefits: [
         {
             title: '7+ Years of Experience',
@@ -605,11 +605,11 @@ export const landingAdditionalServices2ContentWebDesign = {
         title: "Don’t Let Poor Hosting Ruin Your Professionally Designed Website",
         paragraphs: [
             "Did you know that even a beautifully designed website can fail because of poor hosting? Many businesses invest in professional web design, yet still struggle with slow loading times, frequent downtime, and unstable performance due to weak hosting infrastructure.",
-            "We don’t want that to happen to your website. That’s where WebblyHosting comes in as the right solution. WebblyHosting is our premium hosting service built to support professionally designed websites with speed, stability, and reliability.",
-            "With fast server response, high uptime, and optimized performance, WebblyHosting keeps your website running smoothly at all times. Strong security, scalable resources, and reliable infrastructure ensure your website stays protected, loads fast, and delivers a consistent experience to every visitor.",
+            "We don’t want that to happen to your website. That’s where ZEPHLO HOSTING comes in as the right solution. ZEPHLO HOSTING is our premium hosting service built to support professionally designed websites with speed, stability, and reliability.",
+            "With fast server response, high uptime, and optimized performance, ZEPHLO HOSTING keeps your website running smoothly at all times. Strong security, scalable resources, and reliable infrastructure ensure your website stays protected, loads fast, and delivers a consistent experience to every visitor.",
         ],
-        buttonText: 'DISCOVER WEBBLYHOSTING',
-        buttonLink: 'https://webblyhosting.com/',
+        buttonText: 'DISCOVER ZEPHLO HOSTING',
+        buttonLink: '/domain-hosting',
     },
     rightSection: {
         title: 'We Offer More Than Just Web Design Solutions',
@@ -643,15 +643,15 @@ export const landingAdditionalServices2ContentWebDesign = {
 
 
 export const contactSectionContentWebDesign = {
-    title: 'Get a Beautiful Website With Webbly Media',
+    title: 'Get a Beautiful Website With Zephlo Tech',
     description:
-        'Want a professional website that’s easy to use? Contact Webbly Media today for a free consultation and expert web design help.',
+        'Want a professional website that’s easy to use? Contact Zephlo Tech today for a free consultation and expert web design help.',
     contactInfo: {
         title: 'Contact Info',
         email: {
             label: 'Email:',
-            value: 'Webblymedia@gmail.se',
-            href: 'mailto:Webblymedia@gmail.se',
+            value: 'info@zephlotech.com',
+            href: 'mailto:info@zephlotech.com',
         },
         phone: {
             label: 'Phone:',
@@ -690,9 +690,9 @@ export const landingFaqContentWebDesign = {
     faqs: [
         {
             id: 1,
-            question: 'What Makes Webbly Media Stand Out From Other Web Design Agencies?',
+            question: 'What Makes Zephlo Tech Stand Out From Other Web Design Agencies?',
             answer:
-                'Webbly Media stands out because our certified designers focus on your users and your goals. We build modern, responsive websites that help you grow. Our clear process and ongoing support give you long-term value.',
+                'Zephlo Tech stands out because our certified designers focus on your users and your goals. We build modern, responsive websites that help you grow. Our clear process and ongoing support give you long-term value.',
         },
         {
             id: 2,

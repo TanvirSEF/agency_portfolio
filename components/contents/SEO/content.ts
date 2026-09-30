@@ -1,4 +1,4 @@
-import { ArrowUpRight } from 'lucide-react';
+﻿import { ArrowUpRight } from 'lucide-react';
 
 export const otherHeroContent = {
     backgroundDecoration: {
@@ -12,7 +12,7 @@ export const otherHeroContent = {
     pageName: 'Search Engine Optimization Services',
     title: 'Increase Organic Traffic by 40%+',
     description:
-        'Improve your search visibility, outrank competitors, and drive consistent organic traffic with the professional SEO services from Webbly Media. Whether you want higher Google rankings, more qualified website visitors, or stronger brand authority, our expert SEO agency is ready to help you grow. Get your custom strategy proposal today and see how fast we can help you climb the rankings!',
+        'Improve your search visibility, outrank competitors, and drive consistent organic traffic with the professional SEO services from Zephlo Tech. Whether you want higher Google rankings, more qualified website visitors, or stronger brand authority, our expert SEO agency is ready to help you grow. Get your custom strategy proposal today and see how fast we can help you climb the rankings!',
     button: {
         text: 'Schedule a call',
         href: '/contact',
@@ -50,10 +50,10 @@ export const CompanyIntroSectionSeo = {
         },
     },
     content: {
-        brandName: 'Webbly Media',
+        brandName: 'Zephlo Tech',
         title: 'A Recognized SEO Agency in The Industry',
         description:
-            'At Webbly Media, we understand the global market and empower businesses with cutting-edge SEO solutions. As an industry-leading SEO agency, we deliver results that boost rankings and conversions. We value open communication and ongoing support, so you can get a smooth and satisfying experience. Our certified SEO experts focus on smart strategies and white hat methods to improve your website\'s ranking and drive more organic traffic. Our clients stay with us because we deliver the results they want. So, trust us to take your SEO rankings to the next level. Contact us today and get a free consultation!',
+            'At Zephlo Tech, we understand the global market and empower businesses with cutting-edge SEO solutions. As an industry-leading SEO agency, we deliver results that boost rankings and conversions. We value open communication and ongoing support, so you can get a smooth and satisfying experience. Our certified SEO experts focus on smart strategies and white hat methods to improve your website\'s ranking and drive more organic traffic. Our clients stay with us because we deliver the results they want. So, trust us to take your SEO rankings to the next level. Contact us today and get a free consultation!',
         button: {
             text: 'Learn more About us',
             href: '/about-us',
@@ -65,9 +65,9 @@ export const contentImageSplitSeoContent = {
     title: "Stop Relying on Outdated SEO Strategies That Don't Work!",
     paragraphs: [
         "Are your SEO efforts failing to bring traffic, leads, or rankings? Stop depending on old techniques that Google no longer rewards. They're only harming your growth and wasting your investment.",
-        "At Webbly Media, we use modern, data-driven SEO strategies that actually deliver results. We analyze your competitors, fix technical issues, optimize your website structure, and create content that attracts your ideal customers. Every optimization we make is designed to improve your ranking, visibility, and conversions.",
+        "At Zephlo Tech, we use modern, data-driven SEO strategies that actually deliver results. We analyze your competitors, fix technical issues, optimize your website structure, and create content that attracts your ideal customers. Every optimization we make is designed to improve your ranking, visibility, and conversions.",
         "We build high-performing SEO campaigns supported by real research and advanced analytics. Our experts track keyword positions, monitor site health, and fine-tune your strategy for continuous improvement. No guesswork, only proven methods that move your business forward.",
-        "Ready to rank higher and grow faster? Contact us today and let Webbly Media turn your website into a powerful source of organic traffic and revenue!",
+        "Ready to rank higher and grow faster? Contact us today and let Zephlo Tech turn your website into a powerful source of organic traffic and revenue!",
     ],
     image: {
         src: '/assets/images/seo-question-image.png',
@@ -76,7 +76,7 @@ export const contentImageSplitSeoContent = {
 };
 
 export const landingDigitalServicesContentSeo = {
-    mainTitle: "Webbly Media's SEO Services Include",
+    mainTitle: "Zephlo Tech's SEO Services Include",
     mainDescription:
         "As a professional SEO agency, we offer complete SEO solutions for all types of businesses. Learn how we can help you stand out on search engines.",
     subtitle: '',
@@ -221,7 +221,7 @@ export const cardSliderRightToLeftContent = {
 export const workProcessSectionContentSeo = {
     title: 'Our SEO Workflow Process',
     description:
-        'At Webbly Media, we create a clear and simple SEO plan to help your business grow online over time. We start by understanding your business goals, then we improve your website in every way possible. Our step-by-step process keeps things clear and efficient, allowing you to see results that you can track. Here\'s how our SEO process works:',
+        'At Zephlo Tech, we create a clear and simple SEO plan to help your business grow online over time. We start by understanding your business goals, then we improve your website in every way possible. Our step-by-step process keeps things clear and efficient, allowing you to see results that you can track. Here\'s how our SEO process works:',
     steps: [
         {
             id: 1,
@@ -297,7 +297,7 @@ export const benefitsSectionContent = {
 export const landingMarketingAgencyContentSeo = {
     title: 'Why Do You Need Professional SEO Services?',
     description:
-        "At Webbly Media, we understand customer behaviour, market trends, and the online landscape. As a professional web and digital marketing company, we handle every project with passion, precision, and creativity. Our clear communication and support ensure a smooth, trustworthy, and satisfying experience. We always listen to your needs, plan every step, and deliver reliable solutions. With certified experts, client-focused approaches, and result-driven strategies, we help businesses achieve real digital growth. That's why Webbly Media is considered one of the top-rated digital agencies.",
+        "At Zephlo Tech, we understand customer behaviour, market trends, and the online landscape. As a professional web and digital marketing company, we handle every project with passion, precision, and creativity. Our clear communication and support ensure a smooth, trustworthy, and satisfying experience. We always listen to your needs, plan every step, and deliver reliable solutions. With certified experts, client-focused approaches, and result-driven strategies, we help businesses achieve real digital growth. That's why Zephlo Tech is considered one of the top-rated digital agencies.",
     description2:
         "Our professional SEO services ensure all of these benefits for your business. We look at your goals, fix any technical issues, and create effective SEO plans that provide real results. Our SEO experts make sure your brand gets noticed by the right audience.",
     image: {
@@ -401,11 +401,11 @@ export const landingAdditionalServicesContent2 = {
         title: "Say Goodbye to Slow Hosting That's Killing Your Google Rankings",
         paragraphs: [
             "Did you know that a slow website can drop your Google rankings even if your SEO strategy is strong? Yes, many businesses invest heavily in SEO but fail to see results simply because their hosting slows down their site's performance.",
-            "But we don't want you to face the same problem. That's why we built WebblyHost, a premium hosting solution created to significantly boost your website's speed and stability.",
-            "With fast loading times and high uptime, WebblyHost helps your website work well and keeps users interested. Our optimized servers, strong security features, and flexible infrastructure give your site the boost it needs to rank higher and provide a smooth, reliable experience for visitors.",
+            "But we don't want you to face the same problem. That's why we built ZephloHost, a premium hosting solution created to significantly boost your website's speed and stability.",
+            "With fast loading times and high uptime, ZephloHost helps your website work well and keeps users interested. Our optimized servers, strong security features, and flexible infrastructure give your site the boost it needs to rank higher and provide a smooth, reliable experience for visitors.",
         ],
-        buttonText: 'DISCOVER WEBBLYHOSTING',
-        buttonLink: 'https://webblyhosting.com/',
+        buttonText: 'DISCOVER ZEPHLO HOSTING',
+        buttonLink: '/domain-hosting',
     },
     rightSection: {
         title: 'We Offer More Than Just SEO Services',

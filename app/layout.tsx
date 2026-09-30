@@ -39,7 +39,7 @@ const nunito = Nunito({
 
 export async function generateMetadata(): Promise<Metadata> {
   const metadata = getRouteMetadata('');
-  const baseUrl = (process.env.NEXT_PUBLIC_SITE_URL ?? 'https://webblymedia.com')
+  const baseUrl = (process.env.NEXT_PUBLIC_SITE_URL ?? 'https://zephlotech.com')
     .replace(/meida\.com/gi, 'media.com');
 
   return {
@@ -58,7 +58,7 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  const baseUrl = (process.env.NEXT_PUBLIC_SITE_URL ?? 'https://webblymedia.com').replace(/\/$/, '');
+  const baseUrl = (process.env.NEXT_PUBLIC_SITE_URL ?? 'https://zephlotech.com').replace(/\/$/, '');
   const imageSeoGraph = getImageSeoSchemaGraph(baseUrl, 'en');
   const imageSeoJsonLd = imageSeoGraph.length > 0
     ? JSON.stringify({ '@context': 'https://schema.org', '@graph': imageSeoGraph })

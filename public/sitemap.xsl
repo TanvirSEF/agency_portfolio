@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0"
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
   xmlns:s="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -11,7 +11,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <link rel="icon" type="image/svg+xml" href="/assets/icons/favicon.svg"/>
         <link rel="shortcut icon" href="/assets/icons/favicon.svg"/>
-        <title>XML Sitemap | Webbly Media</title>
+        <title>XML Sitemap | Zephlo Tech</title>
         <style>
           * { box-sizing: border-box; }
           :root {
@@ -172,7 +172,7 @@
           <section class="head">
             <div class="head-top"/>
             <div class="head-body">
-              <p class="kicker">Webbly Media</p>
+              <p class="kicker">Zephlo Tech</p>
               <h1>XML Sitemap</h1>
               <xsl:choose>
                 <xsl:when test="s:sitemapindex">

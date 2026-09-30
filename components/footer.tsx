@@ -17,7 +17,7 @@ export default function Footer() {
 
   return (
     <footer className="relative mt-auto w-full overflow-hidden bg-[#0f1629]">
-      <h2 className="sr-only">Webbly Media footer navigation</h2>
+      <h2 className="sr-only">Zephlo Tech footer navigation</h2>
 
       {/* Decorative arc */}
       <div
@@ -36,11 +36,11 @@ export default function Footer() {
           <div className="shrink-0 md:w-[200px] lg:w-[240px]">
             <Link href="/">
               <Image
-                src="/assets/images/logo-white.svg"
-                alt="Webbly Media Logo"
-                width={177}
-                height={32}
-                className="h-auto w-[150px] md:w-[170px]"
+                src="/logo-zephlo.png"
+                alt="Zephlo Tech Logo"
+                width={220}
+                height={40}
+                className="h-[34px] w-auto object-contain"
               />
             </Link>
           </div>
@@ -52,7 +52,7 @@ export default function Footer() {
               <h3 className={headingClass}>Company</h3>
               <ul>
                 {[
-                  { href: 'https://webblyhosting.com/', label: 'Domain & Hosting', external: true },
+                  { href: '/domain-hosting', label: 'Domain & Hosting' },
                   { href: '/blogs', label: 'Blogs & Insights' },
                   { href: '/about-us', label: 'About Us' },
                   { href: '/pay-it-forward', label: 'Pay It Forward' },
@@ -61,20 +61,9 @@ export default function Footer() {
                   { href: '/contact', label: 'Contact Us' },
                 ].map((item) => (
                   <li key={item.href}>
-                    {item.external ? (
-                      <Link
-                        href={item.href}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className={linkClass}
-                      >
-                        {item.label}
-                      </Link>
-                    ) : (
-                      <Link href={item.href} className={linkClass}>
-                        {item.label}
-                      </Link>
-                    )}
+                    <Link href={item.href} className={linkClass}>
+                      {item.label}
+                    </Link>
                   </li>
                 ))}
               </ul>
@@ -121,10 +110,10 @@ export default function Footer() {
                     Email:
                   </span>
                   <Link
-                    href="mailto:Webblymedia@gmail.se"
+                    href="mailto:info@zephlotech.com"
                     className={linkClass}
                   >
-                    Webblymedia@gmail.se
+                    info@zephlotech.com
                   </Link>
                 </li>
               </ul>
@@ -174,7 +163,7 @@ export default function Footer() {
 
         {/* Copyright */}
         <p className="mt-6 text-center text-[13px] font-normal text-[#94a3b8]/70">
-          &copy; {currentYear} Webbly Media. All rights reserved.
+          &copy; {currentYear} Zephlo Tech. All rights reserved.
         </p>
       </div>
     </footer>

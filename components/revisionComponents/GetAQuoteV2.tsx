@@ -28,8 +28,8 @@ const gaqV2Keyframes = `
 
 const headingLines = [
   ["Build", "High-Performance"],
-  ["Websites", "With", "Webbly"],
-  ["Media"],
+  ["Websites", "With", "Zephlo"],
+  ["Tech"],
 ];
 
 const headingOffsets = headingLines.reduce<number[]>((offsets, line, index) => {
@@ -127,7 +127,7 @@ export default function GetAQuoteV2() {
                     className="h-auto overflow-hidden rounded-full bg-white py-1.5 pl-5 pr-1.5 text-[0.84rem] font-semibold uppercase tracking-[0.02em] text-[#06457F] hover:bg-white hover:text-[#06457F] sm:pl-6 sm:text-[0.9rem]"
                     style={fadeUpStyle(totalHeadingWords * 55 + 180)}
                   >
-                    <Link href="/contact" aria-label="Get a quote from Webbly Media">
+                    <Link href="/contact" aria-label="Get a quote from Zephlo Tech">
                       <span
                         className="whitespace-nowrap"
                         style={
@@ -167,7 +167,7 @@ export default function GetAQuoteV2() {
               <div className="relative min-h-[280px] overflow-hidden sm:min-h-[340px] lg:h-full lg:min-h-0">
                 <Image
                   src="/revision-images/seo/GetAQuoteV2/CTA.webp"
-                  alt="Team collaboration meeting at Webbly Media"
+                  alt="Team collaboration meeting at Zephlo Tech"
                   fill
                   className="object-cover object-center"
                   sizes="(max-width: 1024px) 100vw, 720px"

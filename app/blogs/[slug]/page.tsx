@@ -37,7 +37,7 @@ export async function generateMetadata({ params }: BlogPostPageProps): Promise<M
   if (!post) return blogMetaFallback;
 
   const rawTitle = asNonEmptyString(post.title) ?? blogMetaFallback.title;
-  const title = rawTitle.includes('Webbly Media') ? rawTitle : `${rawTitle} | Webbly Media`;
+  const title = rawTitle.includes('Zephlo Tech') ? rawTitle : `${rawTitle} | Zephlo Tech`;
   const description = normalizeDescription(
     asNonEmptyString(post.excerpt) ?? blogMetaFallback.description
   );
@@ -52,7 +52,7 @@ export async function generateMetadata({ params }: BlogPostPageProps): Promise<M
       title,
       description,
       url: getCanonicalUrl(`blogs/${slug}`),
-      siteName: 'Webbly Media',
+      siteName: 'Zephlo Tech',
       locale: 'en_US',
       type: 'article',
     },

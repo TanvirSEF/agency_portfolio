@@ -26,7 +26,7 @@ export default function BlogsPage() {
               className="mb-2 text-2xl font-semibold tracking-widest text-[#F0F5FA] uppercase"
               style={{ fontFamily: 'var(--font-poppins)' }}
             >
-              Webbly Media
+              Zephlo Tech
             </p>
             <h1
               className="mb-4 font-bold text-white uppercase text-[clamp(2rem,5vw,2.7rem)] leading-[1.2]"

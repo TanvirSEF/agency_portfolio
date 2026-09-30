@@ -1,10 +1,10 @@
-export const cookiePolicyContent = {
+﻿export const cookiePolicyContent = {
     header: {
         title: 'Cookies Policy',
         lastUpdated: 'Last updated: 10 January 2026',
         welcome: {
-            title: 'Welcome to Webbly Media',
-            text: 'This Cookies Policy explains how Webbly Media uses cookies and similar technologies on our website. It helps you understand what cookies are, how we use them, and how you can manage your preferences. By continuing to browse or use our website, you agree to the use of cookies as described in this policy.',
+            title: 'Welcome to Zephlo Tech',
+            text: 'This Cookies Policy explains how Zephlo Tech uses cookies and similar technologies on our website. It helps you understand what cookies are, how we use them, and how you can manage your preferences. By continuing to browse or use our website, you agree to the use of cookies as described in this policy.',
         },
     },
     toc: [
@@ -30,7 +30,7 @@ export const cookiePolicyContent = {
             id: 'how-we-use',
             title: '2. How We Use Cookies',
             content: [
-                'Webbly Media uses cookies to:',
+                'Zephlo Tech uses cookies to:',
                 '- Ensure the website functions properly',
                 '- Improve website performance and speed',
                 '- Understand user behavior and interaction',
@@ -58,7 +58,7 @@ export const cookiePolicyContent = {
             title: '4. Third-Party Cookies',
             content: [
                 'We may allow trusted third-party services, such as analytics or marketing tools, to place cookies on your device. These third parties may collect information according to their own privacy and cookie policies.',
-                'Webbly Media does not control third-party cookies, and we recommend reviewing their policies for more information.',
+                'Zephlo Tech does not control third-party cookies, and we recommend reviewing their policies for more information.',
             ],
         },
         {
@@ -93,9 +93,9 @@ export const cookiePolicyContent = {
             title: '8. Contact Us',
             content: [
                 'If you have any questions about this Cookie Policy or our use of cookies, please contact us:',
-                'Webbly Media',
-                'Email: info@webblymedia.com',
-                'Website: https://www.webblymedia.com',
+                'Zephlo Tech',
+                'Email: info@zephlotech.com',
+                'Website: https://www.zephlotech.com',
                 'By using our website, you acknowledge that you have read and understood this Cookie Policy.',
             ],
         },

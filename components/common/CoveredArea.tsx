@@ -1,4 +1,4 @@
-"use client"
+﻿"use client"
 
 import Image from "@/components/common/SeoImage";
 import CounterUp from "./CounterUp";
@@ -34,7 +34,7 @@ export default function CoveredArea({ contentPath, content }: CoveredAreaProps) 
                 <div className="relative w-full max-w-[1100px] overflow-hidden">
                     <Image
                         src="/assets/images/about-us/about-us-map.svg"
-                        alt="Map of Webbly Media client locations"
+                        alt="Map of Zephlo Tech client locations"
                         width={1100}
                         height={650}
                         className="h-auto w-full"

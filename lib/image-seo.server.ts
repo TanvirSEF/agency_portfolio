@@ -30,8 +30,8 @@ export function getImageSeoSchemaGraph(baseUrl: string, _locale?: string): Image
     },
     {
       fileUrl: '/hero-image1.png',
-      altText: 'Webbly Media Digital Solutions',
-      title: 'Webbly Media',
+      altText: 'Zephlo Tech Digital Solutions',
+      title: 'Zephlo Tech',
     },
   ];
 

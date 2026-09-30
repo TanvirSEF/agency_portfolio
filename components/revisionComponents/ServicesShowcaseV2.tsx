@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 
 import { useEffect, useRef, useState } from "react";
 import Image from "next/image";
@@ -154,7 +154,7 @@ export default function ServicesShowcaseV2() {
             className="mt-5 text-[28px] font-semibold leading-[1.2] text-[#f3f6ff] sm:text-[32px] md:text-[36px] lg:text-[42px]"
             style={anim(100)}
           >
-            Webbly Media&apos;s SEO Services Include
+            Zephlo Tech&apos;s SEO Services Include
           </h2>
 
           <p

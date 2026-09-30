@@ -263,7 +263,7 @@ export default function WebAgencyWhyChooseUs({ content }: { content: WebDevConte
               style={{ animationDelay: "0.17s" }}
             >
               <div className="flex items-start justify-between gap-4">
-                <Image src={content.webblyIconSrc} alt="Webbly icon" width={48} height={48} className="h-10 w-10 md:h-11 md:w-11" />
+                <Image src={content.webblyIconSrc} alt="Zephlo icon" width={48} height={48} className="h-10 w-10 md:h-11 md:w-11" />
                 <div className="text-right">
                   <p className="text-[3rem] font-semibold leading-none text-white md:text-[3.35rem]">{content.conversionValue}</p>
                   <p className="mt-1 text-[0.95rem] leading-[1.2] text-[#d8deea] md:text-[1rem]">
@@ -320,9 +320,7 @@ export default function WebAgencyWhyChooseUs({ content }: { content: WebDevConte
 
                     <div className="relative mt-auto flex items-end justify-end">
                       <Link
-                        href="https://webblyhosting.com/"
-                        target="_blank"
-                        rel="noopener noreferrer"
+                        href="/domain-hosting"
                         className="absolute bottom-2 left-0 z-30 inline-flex items-center gap-3 whitespace-nowrap rounded-full bg-white px-6 py-3 text-[1rem] font-medium text-[#1f2533] md:bottom-6 md:py-3 md:text-[1rem]"
                       >
                         {content.hostingButtonText}
@@ -335,7 +333,7 @@ export default function WebAgencyWhyChooseUs({ content }: { content: WebDevConte
                         <div className="relative h-full w-full overflow-hidden rounded-full">
                           <Image
                             src={content.hostingImageSrc}
-                            alt="Webbly host support specialist"
+                            alt="Zephlo host support specialist"
                             fill
                             className="object-cover"
                             sizes="220px"
@@ -367,9 +365,7 @@ export default function WebAgencyWhyChooseUs({ content }: { content: WebDevConte
                     </p>
 
                     <Link
-                      href="https://webblyhosting.com/"
-                      target="_blank"
-                      rel="noopener noreferrer"
+                      href="/domain-hosting"
                       className="mt-auto inline-flex w-fit items-center gap-3 whitespace-nowrap rounded-full bg-white px-6 py-3 text-[1rem] font-medium text-[#1f2533] md:py-3 md:text-[1rem]"
                     >
                       {content.hostingButtonText}

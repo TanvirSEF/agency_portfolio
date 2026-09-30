@@ -1,4 +1,4 @@
-import { ArrowUpRight } from "lucide-react";
+﻿import { ArrowUpRight } from "lucide-react";
 
 export const otherHeroContentPPC = {
     backgroundDecoration: {
@@ -12,7 +12,7 @@ export const otherHeroContentPPC = {
     pageName: 'Top-rated PPC Agency',
     title: 'Achieve 35%+ ROI From Google Ads Services',
     description:
-        'Maximize your conversions, reduce wasted ad spend, and generate qualified leads with the professional PPC services from Webbly Media. Whether you want higher ROI, more sales-ready customers, or a scalable paid advertising strategy, our expert PPC agency is here to help you grow faster. Get your custom PPC strategy today and see how quickly we can improve your results with data-driven Google Ads management!',
+        'Maximize your conversions, reduce wasted ad spend, and generate qualified leads with the professional PPC services from Zephlo Tech. Whether you want higher ROI, more sales-ready customers, or a scalable paid advertising strategy, our expert PPC agency is here to help you grow faster. Get your custom PPC strategy today and see how quickly we can improve your results with data-driven Google Ads management!',
     button: {
         text: 'Schedule a call',
         href: '/contact',
@@ -50,10 +50,10 @@ export const CompanyIntroSectionPPC = {
         },
     },
     content: {
-        brandName: 'Webbly Media',
+        brandName: 'Zephlo Tech',
         title: 'Your Trusted Partner for PPC Services',
         description:
-            'At Webbly Media, we create PPC campaigns that focus on improving your return on investment (ROI). As a reliable PPC agency, we use advanced Google Ads techniques and customized bidding strategies to bring targeted traffic to your website. We optimize every campaign to boost your click-through rates (CTR) and reduce cost-per-click (CPC). This means your business will see better results in generating leads, increasing conversions, and improving overall campaign performance. So, contact us for a free consultation today!',
+            'At Zephlo Tech, we create PPC campaigns that focus on improving your return on investment (ROI). As a reliable PPC agency, we use advanced Google Ads techniques and customized bidding strategies to bring targeted traffic to your website. We optimize every campaign to boost your click-through rates (CTR) and reduce cost-per-click (CPC). This means your business will see better results in generating leads, increasing conversions, and improving overall campaign performance. So, contact us for a free consultation today!',
         button: {
             text: 'Learn more About us',
             href: '/about-us',
@@ -66,10 +66,10 @@ export const contentImageSplitPPCContent = {
     title: "Stop Wasting Money on PPC Campaigns That Don’t Convert!",
     paragraphs: [
         "Are your paid ads failing to bring leads, sales, or consistent results? It’s time to stop using unoptimized campaigns that waste your budget without providing real growth.",
-        "Today, Google cares more about user intent than just specific keywords. That's why you need to give Google strong signals, like your own data and effective landing pages. At Webbly Media, we focus on these important factors.",
+        "Today, Google cares more about user intent than just specific keywords. That's why you need to give Google strong signals, like your own data and effective landing pages. At Zephlo Tech, we focus on these important factors.",
         "We analyze search intent, refine targeting, adjust bidding, and create ads that match your customers’ needs. Every step we take aims to increase conversions, lower acquisition costs, and boost your overall ROI.",
         "We create high-performing campaigns using audience insights, structured testing, and ongoing optimization. Our experts monitor performance, review user behavior, and update campaigns for steady improvement. No guesswork, only proven steps that push your business forward. This ensures steady improvement and long-term profitability.",
-        "Ready to get more from your ad spend? Contact us today and let Webbly Media turn your paid traffic into consistent leads and scalable revenue!",
+        "Ready to get more from your ad spend? Contact us today and let Zephlo Tech turn your paid traffic into consistent leads and scalable revenue!",
     ],
     image: {
         src: '/assets/images/seo-question-image.png',
@@ -80,7 +80,7 @@ export const contentImageSplitPPCContent = {
 // --------------------------------------------------------------------------------------------
 
 export const landingDigitalServicesPPCContent = {
-    mainTitle: "Webbly Media's PPC Services Include",
+    mainTitle: "Zephlo Tech's PPC Services Include",
     mainDescription:
         "As a professional PPC agency, we offer complete paid advertising solutions for businesses of all sizes. Learn how we can help you achieve better results across Google Ads and other platforms.",
     subtitle: '',
@@ -261,7 +261,7 @@ export const cardSliderRightToLeftPPCContent = {
 export const workProcessSectionContentPPC = {
     title: "Our Paid Advertising Process",
     description:
-        'At Webbly Media, we have a clear paid advertising process to help your business achieve profitable and measurable results. Our clear workflow keeps everything transparent and efficient, allowing you to track progress at every stage. Here’s how our PPC process works:',
+        'At Zephlo Tech, we have a clear paid advertising process to help your business achieve profitable and measurable results. Our clear workflow keeps everything transparent and efficient, allowing you to track progress at every stage. Here’s how our PPC process works:',
     steps: [
         {
             id: 1,
@@ -354,8 +354,8 @@ export const landingMarketingAgencyContentPPC = {
 
 
 export const landingChooseContentPPC = {
-    title: 'Why Choose Webbly Media For Google Ads Services',
-    subtitle: 'At Webbly Media, we create effective ad campaigns that deliver real results. Our team combines data, strategy, and creativity to help businesses grow.',
+    title: 'Why Choose Zephlo Tech For Google Ads Services',
+    subtitle: 'At Zephlo Tech, we create effective ad campaigns that deliver real results. Our team combines data, strategy, and creativity to help businesses grow.',
     benefits: [
         {
             title: '7+ Years of Proven Expertise',
@@ -492,11 +492,11 @@ export const landingAdditionalServices2ContentPPC = {
         title: "Don’t Let Slow Servers Kill Your PPC ROI (Fast Hosting = Higher Conversions)",
         paragraphs: [
             "Did you know that even perfectly optimized PPC campaigns can fail if your website loads slowly? Yes, many businesses pay for high-cost clicks, but lose potential customers simply because their hosting can’t handle the traffic. When someone clicks your ad and your site takes too long to load, you lose money with every second of delay.",
-            "But we don’t want your ad budget to go to waste. This is where WebblyHosting comes in. WebblyHosting is our premium hosting solution built to support high-speed performance for PPC campaigns. It ensures your landing pages load quickly, keeping users engaged.",
-            "With lightning-fast servers, high uptime, and optimized infrastructure, WebblyHosting helps your landing pages convert more visitors into leads and sales. Our strong security, stable performance, and scalable options give your PPC campaigns the support they need to achieve higher ROI and deliver a smooth, reliable experience for your audience.",
+            "But we don’t want your ad budget to go to waste. This is where ZEPHLO HOSTING comes in. ZEPHLO HOSTING is our premium hosting solution built to support high-speed performance for PPC campaigns. It ensures your landing pages load quickly, keeping users engaged.",
+            "With lightning-fast servers, high uptime, and optimized infrastructure, ZEPHLO HOSTING helps your landing pages convert more visitors into leads and sales. Our strong security, stable performance, and scalable options give your PPC campaigns the support they need to achieve higher ROI and deliver a smooth, reliable experience for your audience.",
         ],
-        buttonText: 'DISCOVER WEBBLYHOSTING',
-        buttonLink: 'https://webblyhosting.com/',
+        buttonText: 'DISCOVER ZEPHLO HOSTING',
+        buttonLink: '/domain-hosting',
     },
     rightSection: {
         title: 'We Offer More Than Just PPC Services',
@@ -530,15 +530,15 @@ export const landingAdditionalServices2ContentPPC = {
 
 
 export const contactSectionContentPPC = {
-    title: 'Maximize PPC Results and Boost Conversions with Webbly Media',
+    title: 'Maximize PPC Results and Boost Conversions with Zephlo Tech',
     description:
         'Want to improve your Google Ads performance? We are here to take on the duty. Contact us today for professional PPC marketing and management services!',
     contactInfo: {
         title: 'Contact Info',
         email: {
             label: 'Email:',
-            value: 'Webblymedia@gmail.se',
-            href: 'mailto:Webblymedia@gmail.se',
+            value: 'info@zephlotech.com',
+            href: 'mailto:info@zephlotech.com',
         },
         phone: {
             label: 'Phone:',
@@ -578,9 +578,9 @@ export const landingFaqContentPPC = {
         {
             id: 1,
             question:
-                'What Makes Webbly Media Stand Out From Other PPC Agencies?',
+                'What Makes Zephlo Tech Stand Out From Other PPC Agencies?',
             answer:
-                "At Webbly Media, we stand out because we focus on data-driven PPC campaigns that actually convert. Our team uses audience insights, bidding strategies, and conversion optimization to get the best results for your ad spend. We don't just manage clicks, we generate leads and sales that grow your business.",
+                "At Zephlo Tech, we stand out because we focus on data-driven PPC campaigns that actually convert. Our team uses audience insights, bidding strategies, and conversion optimization to get the best results for your ad spend. We don't just manage clicks, we generate leads and sales that grow your business.",
         },
         {
             id: 2,

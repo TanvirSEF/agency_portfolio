@@ -1,4 +1,4 @@
-import { ArrowUpRight } from "lucide-react";
+﻿import { ArrowUpRight } from "lucide-react";
 
 export const otherHeroContentSMMS = {
     backgroundDecoration: {
@@ -12,7 +12,7 @@ export const otherHeroContentSMMS = {
     pageName: 'Social Media Marketing Services',
     title: 'Achieve 20% More ROI',
     description:
-        'Boost your online presence, engage your customers, and increase your sales with the social media marketing services from Webbly Media. If you want to advertise on social media or need help managing your posts, our social media marketing agency is here to take on the task. Get a custom strategy proposal and see how we can help you achieve your goals!',
+        'Boost your online presence, engage your customers, and increase your sales with the social media marketing services from Zephlo Tech. If you want to advertise on social media or need help managing your posts, our social media marketing agency is here to take on the task. Get a custom strategy proposal and see how we can help you achieve your goals!',
     button: {
         text: 'Schedule a call',
         href: '/contact',
@@ -50,10 +50,10 @@ export const CompanyIntroSectionSMMS = {
         },
     },
     content: {
-        brandName: 'Webbly Media',
+        brandName: 'Zephlo Tech',
         title: 'An Award-winning Social Media Marketing Agency',
         description:
-            'At Webbly Media, we understand the global market and offer expert social media marketing services. As an award-winning social media management company, we follow a result-driven approach to paid social media campaigns. We value open communication and ongoing support, so you can have a smooth and satisfying experience. Our certified experts develop a complete social media strategy to help your brand grow. They use data to make smart decisions for better ROI and run effective ads to boost conversions. Our clients stay with us because we deliver the results they want. So, trust us to take your brand to the next level. Contact us today and get a free consultation!',
+            'At Zephlo Tech, we understand the global market and offer expert social media marketing services. As an award-winning social media management company, we follow a result-driven approach to paid social media campaigns. We value open communication and ongoing support, so you can have a smooth and satisfying experience. Our certified experts develop a complete social media strategy to help your brand grow. They use data to make smart decisions for better ROI and run effective ads to boost conversions. Our clients stay with us because we deliver the results they want. So, trust us to take your brand to the next level. Contact us today and get a free consultation!',
         button: {
             text: 'Learn more About us',
             href: '/about-us',
@@ -66,7 +66,7 @@ export const contentImageSplitSMMSContent = {
     title: "Stop Spending On The Ineffective Social Media Campaigns!",
     paragraphs: [
         "Are your social media campaigns not working and wasting your budget? Stop spending on strategies that don’t bring results.",
-        "At Webbly Media, we create targeted ads that reach your ideal audience. We analyze data, optimize ads, and develop strategies that align with your business goals. Every piece of content and ad we create touches your audience's emotions and encourages them to purchase from you.",
+        "At Zephlo Tech, we create targeted ads that reach your ideal audience. We analyze data, optimize ads, and develop strategies that align with your business goals. Every piece of content and ad we create touches your audience's emotions and encourages them to purchase from you.",
         "We build top-performing social media advertising campaigns that maximize your ROI. Our team uses advanced analytics tools to track performance. So, stop the guesswork, and let us help you get the most out of every dollar you invest.",
         "Ready for real results? Contact us today and start making your social media budget work best for you!",
     ],
@@ -96,7 +96,7 @@ export const digitalServiceCard1ContentSMMS = {
             icon: ArrowUpRight,
             title: 'Facebook Marketing',
             description:
-                'Boost your business with Facebook marketing through Webbly Media, your certified Meta Business Partner. With over 2 billion active users, Facebook offers incredible opportunities to grow your brand. Our team creates customized Facebook ad campaigns that target the right audience, increase engagement, and drive conversions. Let us help you maximize your reach and achieve real results on Facebook.',
+                'Boost your business with Facebook marketing through Zephlo Tech, your certified Meta Business Partner. With over 2 billion active users, Facebook offers incredible opportunities to grow your brand. Our team creates customized Facebook ad campaigns that target the right audience, increase engagement, and drive conversions. Let us help you maximize your reach and achieve real results on Facebook.',
             iconBg: 'bg-[#06457F]',
             iconColor: 'text-white',
             href: '/services/social-media-marketing-services',
@@ -106,7 +106,7 @@ export const digitalServiceCard1ContentSMMS = {
             icon: ArrowUpRight,
             title: 'Instagram Marketing',
             description:
-                "Improve your Instagram presence and increase engagement with our Instagram advertising services. Instagram is a strong platform to reach a large audience, and at Webbly Media, we’ll help you turn interactions into real results. Our team creates special Instagram marketing plans that boost your visibility and give you an edge over competitors. With our clear approach and continuous support, you'll stay ahead in social media.",
+                "Improve your Instagram presence and increase engagement with our Instagram advertising services. Instagram is a strong platform to reach a large audience, and at Zephlo Tech, we’ll help you turn interactions into real results. Our team creates special Instagram marketing plans that boost your visibility and give you an edge over competitors. With our clear approach and continuous support, you'll stay ahead in social media.",
             iconBg: 'bg-white',
             iconColor: 'text-[#1E1F21]',
             href: '/services/social-media-marketing-services',
@@ -116,7 +116,7 @@ export const digitalServiceCard1ContentSMMS = {
             icon: ArrowUpRight,
             title: 'Twitter Marketing',
             description:
-                "Create effective Twitter ad campaigns that boost brand awareness and engagement with Webbly Media's expert help. Working with a skilled social media marketing agency gives you valuable insights, making your Twitter campaign stand out. We develop personalized strategies that fit your business and deliver measurable results. With our experience and dedication, your Twitter marketing will reach its full potential.",
+                "Create effective Twitter ad campaigns that boost brand awareness and engagement with Zephlo Tech's expert help. Working with a skilled social media marketing agency gives you valuable insights, making your Twitter campaign stand out. We develop personalized strategies that fit your business and deliver measurable results. With our experience and dedication, your Twitter marketing will reach its full potential.",
             iconBg: 'bg-white',
             iconColor: 'text-[#1E1F21]',
             href: '/services/social-media-marketing-services',
@@ -132,7 +132,7 @@ export const digitalServiceCard2ContentSMMS = {
             icon: ArrowUpRight,
             title: 'LinkedIn Marketing',
             description:
-                'Maximize your LinkedIn results with targeted ads that help you find leads and recruit talent. At Webbly Media, our team creates LinkedIn advertising strategies that fit your business needs. We keep up with the latest platform features to ensure your campaign follows best practices. With clear reporting, transparent pricing, and ongoing support, we’ll help you succeed on LinkedIn.',
+                'Maximize your LinkedIn results with targeted ads that help you find leads and recruit talent. At Zephlo Tech, our team creates LinkedIn advertising strategies that fit your business needs. We keep up with the latest platform features to ensure your campaign follows best practices. With clear reporting, transparent pricing, and ongoing support, we’ll help you succeed on LinkedIn.',
             iconBg: 'bg-[#06457F]',
             iconColor: 'text-white',
             href: '/services/social-media-marketing-services',
@@ -142,7 +142,7 @@ export const digitalServiceCard2ContentSMMS = {
             icon: ArrowUpRight,
             title: 'TikTok Marketing',
             description:
-                "Grab your audience's attention with creative TikTok ads through Webbly Media. We create customized TikTok marketing strategies to help your brand shine on this lively platform. Our experts take care of everything from making ads to tracking results, making sure your campaign runs smoothly. Work with us to make your TikTok marketing successful!",
+                "Grab your audience's attention with creative TikTok ads through Zephlo Tech. We create customized TikTok marketing strategies to help your brand shine on this lively platform. Our experts take care of everything from making ads to tracking results, making sure your campaign runs smoothly. Work with us to make your TikTok marketing successful!",
             iconBg: 'bg-white',
             iconColor: 'text-[#1E1F21]',
             href: '/services/social-media-marketing-services',
@@ -152,7 +152,7 @@ export const digitalServiceCard2ContentSMMS = {
             icon: ArrowUpRight,
             title: 'YouTube Marketing',
             description:
-                'Boost your brand with our YouTube marketing strategies at Webbly Media. We create video ads that connect with your audience and achieve results. Our team handles everything in your YouTube campaign, from making ads to improving your campaign’s performance. Let us help increase your brand’s visibility and reach your marketing goals on YouTube.',
+                'Boost your brand with our YouTube marketing strategies at Zephlo Tech. We create video ads that connect with your audience and achieve results. Our team handles everything in your YouTube campaign, from making ads to improving your campaign’s performance. Let us help increase your brand’s visibility and reach your marketing goals on YouTube.',
             iconBg: 'bg-white',
             iconColor: 'text-[#1E1F21]',
             href: '/services/social-media-marketing-services',
@@ -229,9 +229,9 @@ export const cardSliderRightToLeftSMMSContent = {
 
 
 export const workProcessSectionContentSMMS = {
-    title: "Webbly Media's Social Media Marketing Workflow Process",
+    title: "Zephlo Tech's Social Media Marketing Workflow Process",
     description:
-        'At Webbly Media, we’ve developed a clear process for executing our social media marketing services smoothly. From initial consultation to ongoing optimizations, each step ensures clarity, consistency, and measurable growth. Here\'s how our process works:',
+        'At Zephlo Tech, we’ve developed a clear process for executing our social media marketing services smoothly. From initial consultation to ongoing optimizations, each step ensures clarity, consistency, and measurable growth. Here\'s how our process works:',
     steps: [
         {
             id: 1,
@@ -330,7 +330,7 @@ export const landingMarketingAgencyContentSMMS = {
 
 export const landingChooseContentSMMS = {
     title: 'Why Choose Us As Your Social Media Marketing Agency',
-    subtitle: 'At Webbly Media, we don’t just create social media campaigns; we build strong, engaging online communities and elevate your brand’s presence. Our social media marketing experts use strategy, creativity, and data to help your business thrive in the digital world.',
+    subtitle: 'At Zephlo Tech, we don’t just create social media campaigns; we build strong, engaging online communities and elevate your brand’s presence. Our social media marketing experts use strategy, creativity, and data to help your business thrive in the digital world.',
     benefits: [
         {
             title: '7+ Years of Proven Experience',
@@ -467,11 +467,11 @@ export const landingAdditionalServices2ContentSMMS = {
         title: "Say Goodbye To Your Slow Website That Is Hurting Your Traffic Campaigns",
         paragraphs: [
             "Did you know that traffic from your social media campaigns can divert away from your website if it takes more than 2 seconds to load? Yes, many businesses are constantly spending money on their social media campaigns, but not getting results due to this type of problem.",
-            "But we don't want this to happen to you. This is where WebblyHosting works for you. WebblyHosting is our exclusive hosting solution designed to accelerate your website’s performance.",
-            "From faster load times to better uptime, WebblyHosting ensures your website runs smoothly and reduces bounce rates. With optimized servers, reliable security, and scalable resources, WebblyHosting provides the technical foundation your site needs to maximize traffic and improve user experience.",
+            "But we don't want this to happen to you. This is where ZEPHLO HOSTING works for you. ZEPHLO HOSTING is our exclusive hosting solution designed to accelerate your website’s performance.",
+            "From faster load times to better uptime, ZEPHLO HOSTING ensures your website runs smoothly and reduces bounce rates. With optimized servers, reliable security, and scalable resources, ZEPHLO HOSTING provides the technical foundation your site needs to maximize traffic and improve user experience.",
         ],
-        buttonText: 'DISCOVER WEBBLYHOSTING',
-        buttonLink: 'https://webblyhosting.com/',
+        buttonText: 'DISCOVER ZEPHLO HOSTING',
+        buttonLink: '/domain-hosting',
     },
     rightSection: {
         title: 'We Offer More Than Just Social Media Services',
@@ -505,15 +505,15 @@ export const landingAdditionalServices2ContentSMMS = {
 
 
 export const contactSectionContentSMMS = {
-    title: 'Contact Webbly Media Today!',
+    title: 'Contact Zephlo Tech Today!',
     description:
         'Want to take your business to the next level? We are here to take on the duty. Contact us today for professional Social media advertisement and management services!',
     contactInfo: {
         title: 'Contact Info',
         email: {
             label: 'Email:',
-            value: 'Webblymedia@gmail.se',
-            href: 'mailto:Webblymedia@gmail.se',
+            value: 'info@zephlotech.com',
+            href: 'mailto:info@zephlotech.com',
         },
         phone: {
             label: 'Phone:',
@@ -553,9 +553,9 @@ export const landingFaqContentSMMS = {
         {
             id: 1,
             question:
-                'What Makes Webbly Media Stand Out From Other Social Media Marketing Agencies?',
+                'What Makes Zephlo Tech Stand Out From Other Social Media Marketing Agencies?',
             answer:
-                'At Webbly Media, we stand out for our smart marketing strategy and expert service that delivers results. Our team focuses on ROI and customer satisfaction. We use data, not guesses, to grow your brand fast.',
+                'At Zephlo Tech, we stand out for our smart marketing strategy and expert service that delivers results. Our team focuses on ROI and customer satisfaction. We use data, not guesses, to grow your brand fast.',
         },
         {
             id: 2,

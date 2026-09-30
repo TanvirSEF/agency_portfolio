@@ -1,4 +1,4 @@
-import { ArrowUpRight } from "lucide-react";
+﻿import { ArrowUpRight } from "lucide-react";
 
 export const otherHeroContentDMS = {
     backgroundDecoration: {
@@ -12,7 +12,7 @@ export const otherHeroContentDMS = {
     pageName: 'Digital Marketing Services',
     title: 'Achieve 20% More ROI',
     description:
-        'Boost your online growth, reach your ideal audience, and convert clicks into revenue with the expert digital marketing services from Webbly Media. Whether you want higher engagement, stronger brand visibility, or fully optimized multi-channel campaigns, our digital marketing agency is ready to assist you. Get your custom strategy proposal today and see how fast we can help you scale your results!',
+        'Boost your online growth, reach your ideal audience, and convert clicks into revenue with the expert digital marketing services from Zephlo Tech. Whether you want higher engagement, stronger brand visibility, or fully optimized multi-channel campaigns, our digital marketing agency is ready to assist you. Get your custom strategy proposal today and see how fast we can help you scale your results!',
     button: {
         text: 'Schedule a call',
         href: '/contact',
@@ -50,10 +50,10 @@ export const CompanyIntroSectionDMS = {
         },
     },
     content: {
-        brandName: 'Webbly Media',
+        brandName: 'Zephlo Tech',
         title: 'An Award-winning Digital Marketing Agency',
         description:
-            'At Webbly Media, we understand the ever-changing digital landscape and empower brands with data-driven marketing solutions. As a top-rated digital marketing company, we create strategies that improve visibility, increase engagement, and drive measurable business growth. Our certified digital marketing experts focus on high-impact campaigns, SMART goals, and ROI-driven methods that help you reach the right audience at the right time. Whether you need targeted SEO, effective social media campaigns, or a complete online strategy, we are here to help you succeed. Clients trust us because we deliver results that matter. Contact us today for a free consultation!',
+            'At Zephlo Tech, we understand the ever-changing digital landscape and empower brands with data-driven marketing solutions. As a top-rated digital marketing company, we create strategies that improve visibility, increase engagement, and drive measurable business growth. Our certified digital marketing experts focus on high-impact campaigns, SMART goals, and ROI-driven methods that help you reach the right audience at the right time. Whether you need targeted SEO, effective social media campaigns, or a complete online strategy, we are here to help you succeed. Clients trust us because we deliver results that matter. Contact us today for a free consultation!',
         button: {
             text: 'LEARN MORE ABOUT US',
             href: '/about-us',
@@ -65,7 +65,7 @@ export const CompanyIntroSectionDMS = {
 export const contentImageSplitDMSContent = {
     title: "How an Agency Can Help in Internet Marketing Services",
     paragraphs: [
-        `When it comes to getting professional digital marketing services, an agency like Webbly Media can help you in the right way. We work as your online growth partner.
+        `When it comes to getting professional digital marketing services, an agency like Zephlo Tech can help you in the right way. We work as your online growth partner.
 Our team helps you plan, manage, and run marketing campaigns that fit your goals. From creating strategies to publishing content, we keep everything organized and professional.
 `,
         "Moreover, we also take care of technical tasks that can be complicated for most businesses. Our expert marketers manage SEO, social media, ads, and content schedules so you can focus on running your business. Plus, they use marketing analytics tools to track performance and improve results over time.",
@@ -80,7 +80,7 @@ Our team helps you plan, manage, and run marketing campaigns that fit your goals
 // --------------------------------------------------------------------------------------------
 
 export const landingDigitalServicesDMSContent = {
-    mainTitle: "Webbly Media's Digital Marketing Services Include",
+    mainTitle: "Zephlo Tech's Digital Marketing Services Include",
     mainDescription:
         "As a professional online marketing agency, we offer complete multi-channel marketing solutions for all types of businesses. See how we help you grow faster in the digital space.",
     subtitle: '',
@@ -131,7 +131,7 @@ export const digitalServiceCard1ContentDMS = {
 export const cardSliderRightToLeftDMSContent = {
     title: 'How We Help You as an Expert Digital Marketing Company',
     description:
-        `Digital marketing is all about choosing the right channels, the right audience, and delivering the right message. At Webbly Media, we analyze your business, market, and competitors before creating any campaign. We find your strengths, gaps, and growth opportunities. Based on these insights, we build a strategic digital marketing plan. Whether you're looking to enhance your online presence, engage your audience, or drive conversions, our complete internet marketing services are designed to help you succeed in a competitive digital landscape.`,
+        `Digital marketing is all about choosing the right channels, the right audience, and delivering the right message. At Zephlo Tech, we analyze your business, market, and competitors before creating any campaign. We find your strengths, gaps, and growth opportunities. Based on these insights, we build a strategic digital marketing plan. Whether you're looking to enhance your online presence, engage your audience, or drive conversions, our complete internet marketing services are designed to help you succeed in a competitive digital landscape.`,
     cards: [
         {
             id: 1,
@@ -247,7 +247,7 @@ export const landingMarketingAgencyContentDMS = {
     title: 'Why Digital Marketing Matters for Your Online Business',
     description:
         `"According to Statista, digital advertising spending was expected to reach an estimated $650 billion by the end of 2025."`,
-    description2: [`This data shows how quickly businesses are moving online to reach customers. Companies are realizing that the key to staying visible in today's market is a digital presence. And that's where digital marketing comes in.`, `It helps your business appear in places where people spend a lot of their time. This includes Google, Facebook, Instagram, Twitter, and more. In today's digital marketing landscape, where competition grows daily, maintaining visibility is crucial. It builds trust, improves visibility, and keeps your brand top of mind with the right audience.`, `With smart SEO, SEM, paid ads, and social media campaigns, businesses can reach more people. This helps them get quality leads and grow faster than ever before. In fine, for modern businesses, digital marketing is no longer optional; it's essential.`, `At Webbly Media, our professional digital marketing solutions ensure all of these benefits for your business. We focus on SMART goals, address issues and fix them, and create marketing plans that deliver real results. Our digital marketing experts make sure your brand reaches the right audience.`],
+    description2: [`This data shows how quickly businesses are moving online to reach customers. Companies are realizing that the key to staying visible in today's market is a digital presence. And that's where digital marketing comes in.`, `It helps your business appear in places where people spend a lot of their time. This includes Google, Facebook, Instagram, Twitter, and more. In today's digital marketing landscape, where competition grows daily, maintaining visibility is crucial. It builds trust, improves visibility, and keeps your brand top of mind with the right audience.`, `With smart SEO, SEM, paid ads, and social media campaigns, businesses can reach more people. This helps them get quality leads and grow faster than ever before. In fine, for modern businesses, digital marketing is no longer optional; it's essential.`, `At Zephlo Tech, our professional digital marketing solutions ensure all of these benefits for your business. We focus on SMART goals, address issues and fix them, and create marketing plans that deliver real results. Our digital marketing experts make sure your brand reaches the right audience.`],
 
     image: {
         src: '/assets/images/PPC/business-discussion.jpg',
@@ -260,7 +260,7 @@ export const landingMarketingAgencyContentDMS = {
 
 export const landingChooseContentDMS = {
     title: 'Why Choose Us As Your Digital Marketing Agency',
-    subtitle: `At Webbly Media, we don't just create campaigns; we build long-term digital growth. Our expert team uses innovative strategies, data insights, and creative digital marketing solutions to help businesses succeed online and achieve consistent growth.`,
+    subtitle: `At Zephlo Tech, we don't just create campaigns; we build long-term digital growth. Our expert team uses innovative strategies, data insights, and creative digital marketing solutions to help businesses succeed online and achieve consistent growth.`,
     benefits: [
         {
             title: '7+ Years of Proven Experience',
@@ -397,12 +397,12 @@ export const landingAdditionalServices2ContentDMS = {
         title: "Better Hosting Today, Better Marketing Results Tomorrow",
         paragraphs: [
             "Did you know that slow hosting can hurt your digital marketing performance? Even the best campaigns lose effectiveness if your website is slow or unreliable. Poor speed leads to higher bounce rates, lower conversions, and wasted ad spend.",
-            `This is where WebblyHost comes in. WebblyHost is our top hosting solution that boosts your website's performance and supports your marketing campaigns.
-With fast loading speeds and a 99.9% uptime guarantee, WebblyHost ensures your website runs smoothly and reliably. Our strong servers, advanced security features, and scalable infrastructure provide the foundation for a smooth user experience.`,
-            `When your hosting is optimized, your marketing results improve. Faster websites rank better on Google, keep visitors on your page longer, and drive higher conversion rates. So, choose WebblyHost today and set your website up for long-term marketing success.`,
+            `This is where ZephloHost comes in. ZephloHost is our top hosting solution that boosts your website's performance and supports your marketing campaigns.
+With fast loading speeds and a 99.9% uptime guarantee, ZephloHost ensures your website runs smoothly and reliably. Our strong servers, advanced security features, and scalable infrastructure provide the foundation for a smooth user experience.`,
+            `When your hosting is optimized, your marketing results improve. Faster websites rank better on Google, keep visitors on your page longer, and drive higher conversion rates. So, choose ZephloHost today and set your website up for long-term marketing success.`,
         ],
-        buttonText: 'DISCOVER WEBBLYHOSTING',
-        buttonLink: 'https://webblyhosting.com/',
+        buttonText: 'DISCOVER ZEPHLO HOSTING',
+        buttonLink: '/domain-hosting',
     },
     rightSection: {
         title: 'We Offer More Than Just Digital Marketing Services',
@@ -436,15 +436,15 @@ With fast loading speeds and a 99.9% uptime guarantee, WebblyHost ensures your w
 
 
 export const contactSectionContentDMS = {
-    title: 'Boost Your Digital Reach and Maximize Your ROI With Webbly Media',
+    title: 'Boost Your Digital Reach and Maximize Your ROI With Zephlo Tech',
     description:
         'Want to improve your online presence? We are here to take on the duty. Contact us today for a free digital marketing consultation and professional help!',
     contactInfo: {
         title: 'Contact Info',
         email: {
             label: 'Email:',
-            value: 'Webblymedia@gmail.se',
-            href: 'mailto:Webblymedia@gmail.se',
+            value: 'info@zephlotech.com',
+            href: 'mailto:info@zephlotech.com',
         },
         phone: {
             label: 'Phone:',
@@ -483,9 +483,9 @@ export const landingFaqContentDMS = {
     faqs: [
         {
             id: 1,
-            question: 'What Makes Webbly Media Stand Out From Other Digital Marketing Agencies?',
+            question: 'What Makes Zephlo Tech Stand Out From Other Digital Marketing Agencies?',
             answer:
-                "At Webbly Media, we stand out because of our strategic, results-driven approach. We combine creativity with data to create customized digital marketing campaigns that grow your brand's online presence. Our team focuses on understanding your audience's needs and aligning that with the right marketing channels to achieve measurable results.",
+                "At Zephlo Tech, we stand out because of our strategic, results-driven approach. We combine creativity with data to create customized digital marketing campaigns that grow your brand's online presence. Our team focuses on understanding your audience's needs and aligning that with the right marketing channels to achieve measurable results.",
         },
         {
             id: 2,

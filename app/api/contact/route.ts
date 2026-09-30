@@ -1,4 +1,4 @@
-import { NextRequest, NextResponse } from 'next/server';
+﻿import { NextRequest, NextResponse } from 'next/server';
 
 export async function POST(req: NextRequest) {
   try {
@@ -64,7 +64,7 @@ export async function POST(req: NextRequest) {
         },
       ],
       footer: {
-        text: `Webbly Media Contact System • ${submittedAt}`,
+        text: `Zephlo Tech Contact System • ${submittedAt}`,
       },
     };
 
@@ -72,7 +72,7 @@ export async function POST(req: NextRequest) {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
-        username: 'Webbly Media Contact Bot',
+        username: 'Zephlo Tech Contact Bot',
         embeds: [embed],
       }),
     });

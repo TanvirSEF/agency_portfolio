@@ -1,14 +1,14 @@
-export const termsAndConditionsContent = {
+﻿export const termsAndConditionsContent = {
     header: {
         title: 'Terms & Conditions',
         lastUpdated: 'Last updated: 10 January 2026',
         welcome: {
-            title: 'Welcome to Webbly Media',
+            title: 'Welcome to Zephlo Tech',
             text: 'These Terms & Conditions govern your access to and use of our website, services, and content. By visiting our website or using our services, you agree to comply with and be bound by these terms. If you do not agree, please do not use our website or services.',
         },
     },
     toc: [
-        { id: 'about', label: '1. About Webbly Media' },
+        { id: 'about', label: '1. About Zephlo Tech' },
         { id: 'use-of-website', label: '2. Use of Our Website' },
         { id: 'intellectual-property', label: '3. Intellectual Property Rights' },
         { id: 'services-engagement', label: '4. Services & Project Engagement' },
@@ -27,9 +27,9 @@ export const termsAndConditionsContent = {
     sections: [
         {
             id: 'about',
-            title: '1. About Webbly Media',
+            title: '1. About Zephlo Tech',
             content: [
-                'Webbly Media is a digital agency providing services including web design, web development, app development, graphic design, digital marketing, and related digital solutions.',
+                'Zephlo Tech is a digital agency providing services including web design, web development, app development, graphic design, digital marketing, and related digital solutions.',
                 'All services are offered subject to these Terms & Conditions.',
             ],
         },
@@ -48,8 +48,8 @@ export const termsAndConditionsContent = {
             id: 'intellectual-property',
             title: '3. Intellectual Property Rights',
             content: [
-                'All content on this website, including text, graphics, logos, designs, images, icons, and code, is the intellectual property of Webbly Media unless otherwise stated.',
-                'You may not reproduce, modify, distribute, or use any content without prior written consent from Webbly Media.',
+                'All content on this website, including text, graphics, logos, designs, images, icons, and code, is the intellectual property of Zephlo Tech unless otherwise stated.',
+                'You may not reproduce, modify, distribute, or use any content without prior written consent from Zephlo Tech.',
             ],
         },
         {
@@ -100,7 +100,7 @@ export const termsAndConditionsContent = {
             id: 'third-party',
             title: '9. Third-Party Tools & Services',
             content: [
-                'Webbly Media may use third-party tools, platforms, or services to deliver projects. We are not responsible for the terms, performance, or policies of third-party providers.',
+                'Zephlo Tech may use third-party tools, platforms, or services to deliver projects. We are not responsible for the terms, performance, or policies of third-party providers.',
                 'Clients are encouraged to review third-party terms separately.',
             ],
         },
@@ -108,7 +108,7 @@ export const termsAndConditionsContent = {
             id: 'limitation-liability',
             title: '10. Limitation of Liability',
             content: [
-                'Webbly Media shall not be liable for:',
+                'Zephlo Tech shall not be liable for:',
                 '- Indirect, incidental, or consequential damages',
                 '- Loss of data, revenue, or business opportunities',
                 '- Issues caused by third-party services or client-provided materials',
@@ -141,7 +141,7 @@ export const termsAndConditionsContent = {
             id: 'changes',
             title: '14. Changes to These Terms',
             content: [
-                'Webbly Media may update these Terms & Conditions at any time. Changes will be posted on this page with an updated date.',
+                'Zephlo Tech may update these Terms & Conditions at any time. Changes will be posted on this page with an updated date.',
                 'Continued use of the website after changes means acceptance of the updated terms.',
             ],
         },
@@ -150,9 +150,9 @@ export const termsAndConditionsContent = {
             title: '15. Contact Information',
             content: [
                 'If you have any questions about these Terms & Conditions, please contact us:',
-                'Webbly Media',
-                'Email: info@webblymedia.com',
-                'Website: https://www.webblymedia.com',
+                'Zephlo Tech',
+                'Email: info@zephlotech.com',
+                'Website: https://www.zephlotech.com',
                 'By using our website or services, you confirm that you have read, understood, and agreed to these Terms & Conditions.',
             ],
         },
