@@ -1,6 +1,6 @@
 export const otherHeroContentAboutUs = {
   backgroundDecoration: {
-    src: '/assets/images/top-assets.png',
+    src: '/assets/images/top-assets-blue.png',
     alt: 'Side blur decoration',
     width: 500,
     height: 500,

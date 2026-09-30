@@ -73,7 +73,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
     <div className="bg-[#F2F3F6]">
       {/* Hero */}
       <ScrollReveal>
-        <div className="relative bg-[#06010E] px-4 py-12 sm:px-6 lg:py-16">
+        <div className="relative bg-[#0A192F] px-4 py-12 sm:px-6 lg:py-16">
           <div className="container mx-auto max-w-3xl">
             <nav aria-label="Breadcrumb" className="mb-6 flex items-center gap-2 text-sm text-[#F0F5FA]/85">
               <Link

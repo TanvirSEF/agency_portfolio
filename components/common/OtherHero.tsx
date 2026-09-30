@@ -59,7 +59,7 @@ export default function OtherHero({
 
   return (
     <motion.div
-      className="relative lg:h-[650px] bg-[#06010E] overflow-hidden"
+      className="relative lg:h-[650px] bg-[#0A192F] overflow-hidden"
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       transition={{ duration: 0.55, ease: easeOut }}

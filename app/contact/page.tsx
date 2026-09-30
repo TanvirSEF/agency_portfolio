@@ -37,14 +37,14 @@ export default function ContactPage() {
     <div className="bg-[#F2F3F6]">
       {/* Dark Hero Section */}
       <motion.section
-        className="relative overflow-hidden bg-[#06010E]"
+        className="relative overflow-hidden bg-[#0A192F]"
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ duration: 0.55, ease: easeOut }}
       >
         {/* Background decorative asset */}
         <Image
-          src="/assets/images/top-assets.png"
+          src="/assets/images/top-assets-blue.png"
           alt=""
           width={500}
           height={500}

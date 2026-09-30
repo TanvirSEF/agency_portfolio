@@ -46,7 +46,7 @@ export default function BookConsultant({ contentPath }: BookConsultantProps = {}
   };
 
   const cardStyle = {
-    backgroundColor: '#060010',
+    backgroundColor: '#0A192F',
     borderColor: 'rgba(6, 69, 127,    0.2)',
     '--glow-x': '50%',
     '--glow-y': '50%',
@@ -79,7 +79,7 @@ export default function BookConsultant({ contentPath }: BookConsultantProps = {}
   };
 
   return (
-    <div className="relative bg-[#06010E]">
+    <div className="relative bg-[#0A192F]">
         <div className="absolute inset-0 h-full w-full opacity-40 md:opacity-40">
             <DarkVeil 
               speed={2} 
@@ -96,7 +96,7 @@ export default function BookConsultant({ contentPath }: BookConsultantProps = {}
             --glow-radius: 200px;
             --glow-color: ${glowColor};
             --border-color: rgba(6, 69, 127,    0.2);
-            --background-dark: #060010;
+            --background-dark: #0A192F;
             --white: hsl(0, 0%, 100%);
             --blue-primary: rgba(6, 69, 127,    1);
             --blue-glow: rgba(6, 69, 127,    0.2);

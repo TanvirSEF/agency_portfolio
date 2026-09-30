@@ -20,7 +20,7 @@ export default function BlogsPage() {
     <div className="bg-[#F2F3F6]">
       {/* Hero - matches OtherHero dark style */}
       <ScrollReveal>
-        <div className="relative bg-[#06010E] px-4 py-12 sm:px-6 lg:py-16">
+        <div className="relative bg-[#0A192F] px-4 py-12 sm:px-6 lg:py-16">
           <div className="container mx-auto max-w-4xl text-center">
             <p
               className="mb-2 text-2xl font-semibold tracking-widest text-[#F0F5FA] uppercase"

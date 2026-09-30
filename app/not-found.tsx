@@ -1,4 +1,4 @@
-﻿import type { Metadata } from 'next';
+import type { Metadata } from 'next';
 import NotFoundContent from '@/components/NotFoundContent';
 
 export const metadata: Metadata = {
@@ -8,7 +8,7 @@ export const metadata: Metadata = {
 
 export default function NotFound() {
   return (
-    <div className="min-h-screen bg-[#06010E]">
+    <div className="min-h-screen bg-[#0A192F]">
       <NotFoundContent />
     </div>
   );

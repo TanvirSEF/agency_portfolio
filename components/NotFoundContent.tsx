@@ -21,12 +21,12 @@ export default function NotFoundContent({ homeHref = '/' }: NotFoundContentProps
   const router = useRouter();
 
   return (
-    <section className="relative min-h-screen w-full overflow-hidden bg-[#06010E] px-6 py-24 sm:py-32">
+    <section className="relative min-h-screen w-full overflow-hidden bg-[#0A192F] px-6 py-24 sm:py-32">
       {/* MagicRings background */}
       <div className="absolute inset-0 z-0">
         <MagicRings
-          color="#fc42ff"
-          colorTwo="#42fcff"
+          color="#0474C4"
+          colorTwo="#00D2FF"
           ringCount={6}
           speed={1}
           attenuation={10}
@@ -63,11 +63,11 @@ export default function NotFoundContent({ homeHref = '/' }: NotFoundContentProps
             className="text-8xl font-bold uppercase tracking-tighter sm:text-9xl md:text-[10rem]"
             style={{
               fontFamily: 'var(--font-poppins)',
-              background: 'linear-gradient(135deg, #fc42ff 0%, #42fcff 100%)',
+              background: 'linear-gradient(135deg, #0474C4 0%, #00D2FF 100%)',
               backgroundClip: 'text',
               WebkitBackgroundClip: 'text',
               color: 'transparent',
-              filter: 'drop-shadow(0 0 30px rgba(252, 66, 255, 0.4))',
+              filter: 'drop-shadow(0 0 30px rgba(4, 116, 196, 0.4))',
             }}
           >
             404

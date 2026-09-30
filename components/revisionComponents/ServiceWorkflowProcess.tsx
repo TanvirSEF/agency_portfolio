@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 
 import { useEffect, useRef, useState } from "react";
 import { TbAnalyze, TbFileTextSpark } from "react-icons/tb";
@@ -120,7 +120,7 @@ export default function ServiceWorkflowProcess() {
                     ["#06457F", "#38BDF8", "#38bdf8"],
                     ["#0A2B52", "#0474C4", "#00D2FF"],
                     ["#38bdf8", "#22d3ee", "#0A2B52"],
-                    ["#38BDF8", "#f472b6", "#38bdf8"],
+                    ["#38BDF8", "#0474C4", "#38bdf8"],
                     ["#00D2FF", "#0A2B52", "#22d3ee"],
                   ][i]}
                 >

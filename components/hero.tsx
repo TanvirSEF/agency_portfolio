@@ -80,7 +80,7 @@ export default function Hero({
 
   return (
     <motion.section
-      className="relative h-[max-content] bg-[#06010E] pb-[3rem]"
+      className="relative h-[max-content] bg-[#0A192F] pb-[3rem]"
       initial={false}
       animate={{ opacity: 1 }}
       transition={{ duration: 0.55, ease: easeOut }}

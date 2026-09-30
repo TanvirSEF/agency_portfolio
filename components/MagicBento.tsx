@@ -31,37 +31,37 @@ export const MOBILE_BREAKPOINT = 768;
 
 const cardData: BentoCardProps[] = [
   {
-    color: '#060010',
+    color: '#0A192F',
     title: 'Analytics',
     description: 'Track user behavior',
     label: 'Insights'
   },
   {
-    color: '#060010',
+    color: '#0A192F',
     title: 'Dashboard',
     description: 'Centralized data view',
     label: 'Overview'
   },
   {
-    color: '#060010',
+    color: '#0A192F',
     title: 'Collaboration',
     description: 'Work together seamlessly',
     label: 'Teamwork'
   },
   {
-    color: '#060010',
+    color: '#0A192F',
     title: 'Automation',
     description: 'Streamline workflows',
     label: 'Efficiency'
   },
   {
-    color: '#060010',
+    color: '#0A192F',
     title: 'Integration',
     description: 'Connect favorite tools',
     label: 'Connectivity'
   },
   {
-    color: '#060010',
+    color: '#0A192F',
     title: 'Security',
     description: 'Enterprise-grade protection',
     label: 'Protection'
@@ -542,8 +542,8 @@ const MagicBento: React.FC<BentoProps> = ({
             --glow-intensity: 0;
             --glow-radius: 200px;
             --glow-color: ${glowColor};
-            --border-color: #392e4e;
-            --background-dark: #060010;
+            --border-color: rgba(6, 69, 127, 0.2);
+            --background-dark: #0A192F;
             --white: hsl(0, 0%, 100%);
             --blue-primary: rgba(6, 69, 127,    1);
             --blue-glow: rgba(6, 69, 127,    0.2);
