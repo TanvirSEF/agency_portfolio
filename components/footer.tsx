@@ -36,7 +36,7 @@ export default function Footer() {
           <div className="shrink-0 md:w-[200px] lg:w-[240px]">
             <Link href="/">
               <Image
-                src="/logo-zephlo.png"
+                src="/logo-zephlo-white.png"
                 alt="Zephlo Tech Logo"
                 width={220}
                 height={40}

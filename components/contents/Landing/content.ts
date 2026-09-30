@@ -150,7 +150,7 @@ export const customWebDevContent = {
     description:
         'As an expert web development agency, we build modern websites, apps, and plugins for businesses. We focus on quality, speed, and results, so you get smart solutions and lasting success. From the initial idea to the final launch, we ensure everything meets your needs.',
     curveImage: {
-        src: '/curve-asset.png',
+        src: '/curve-asset-ocean.png',
         alt: 'Curve decoration',
         width: 1920,
         height: 200,

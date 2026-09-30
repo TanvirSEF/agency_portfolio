@@ -1,4 +1,4 @@
-﻿'use client';
+'use client';
 
 import Image from '@/components/common/SeoImage';
 import { motion } from 'framer-motion';
@@ -53,7 +53,7 @@ export default function ContactPage() {
           aria-hidden="true"
         />
 
-        {/* Purple radial glow */}
+        {/* Sapphire blue radial glow */}
         <div
           className="pointer-events-none absolute left-1/2 top-[30%] z-0 h-[500px] w-[700px] -translate-x-1/2 -translate-y-1/2 rounded-full opacity-[0.12]"
           style={{

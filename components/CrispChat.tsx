@@ -21,10 +21,18 @@ export default function CrispChat() {
 
       window.$crisp = [];
       window.CRISP_WEBSITE_ID = crispWebsiteId;
+      // Force blue theme (Crisp only supports predefined themes, not hex)
+      window.$crisp.push(['do', 'setColorTheme', ['blue']]);
 
       const script = document.createElement('script');
       script.src = 'https://client.crisp.chat/l.js';
       script.async = true;
+      script.onload = () => {
+        // Re-apply after script loads to override any dashboard setting
+        if (window.$crisp) {
+          window.$crisp.push(['do', 'setColorTheme', ['blue']]);
+        }
+      };
       document.head.appendChild(script);
     };
 

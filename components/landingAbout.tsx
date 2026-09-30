@@ -72,16 +72,9 @@ export default function LandingAbout({
         {/* Right section: services card */}
         <div
           className="relative flex w-full min-h-[320px] min-w-0 flex-1 flex-col items-center overflow-hidden rounded-xl p-4 py-6 sm:min-h-[360px] sm:p-5 sm:py-8 md:min-h-0 min-[1250px]:max-w-[650px]"
+          style={{ background: 'linear-gradient(135deg, #06457F 0%, #0474C4 50%, #0A192F 100%)' }}
         >
-          <Image
-            src={finalContent.rightSection.backgroundImage}
-            seo={(finalContent.rightSection as any).backgroundImageSeo}
-            alt=""
-            fill
-            aria-hidden
-            className="object-cover object-center"
-            sizes="(max-width: 640px) 100vw, (max-width: 1250px) 90vw, 650px"
-          />
+
           <div className="relative z-10 flex w-full max-w-full flex-col items-center gap-4 sm:gap-6 md:gap-6">
             <RichTextBlock
               as="div"

@@ -5,7 +5,6 @@ import Navbar from '@/components/navbar';
 import Footer from '@/components/footer';
 import ClickSparkProvider from '@/components/common/ClickSparkProvider';
 import CrispChat from '@/components/CrispChat';
-import GrowthBlockingPopupController from '@/components/GrowthBlockingPopup';
 import { getRouteMetadata } from '@/lib/canonical';
 import { getImageSeoSchemaGraph } from '@/lib/image-seo.server';
 
@@ -47,8 +46,12 @@ export async function generateMetadata(): Promise<Metadata> {
     title: metadata.title,
     description: metadata.description,
     icons: {
-      icon: [{ url: '/assets/icons/favicon.svg', type: 'image/svg+xml' }],
+      icon: [
+        { url: '/assets/icons/favicon.svg', type: 'image/svg+xml' },
+        { url: '/assets/icons/favicon.png', type: 'image/png' },
+      ],
       shortcut: ['/assets/icons/favicon.svg'],
+      apple: ['/assets/icons/favicon.png'],
     },
   };
 }
@@ -85,7 +88,6 @@ export default function RootLayout({
         <main className="flex-1">
           <ClickSparkProvider>
             {children}
-            <GrowthBlockingPopupController />
           </ClickSparkProvider>
         </main>
         <Footer />

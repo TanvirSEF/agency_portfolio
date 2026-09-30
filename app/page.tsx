@@ -13,21 +13,10 @@ import LandingMarketingAgency from '@/components/landingMarketingAgency';
 // import LandingTestimonialCarousel from '@/components/landingTestimonialCarousel';
 import LandingUpdates from '@/components/landingUpdates';
 import WorkProcessSection from '@/components/workProcessSection';
-import Image from '@/components/common/SeoImage';
 
 export default function Home() {
   return (
     <div className="bg-[#F2F3F6]">
-      {/* Preload growth popup background image so it’s cached before popup opens */}
-      <Image
-        src="/assets/images/popup-images/popup-2-gradienat-background.webp"
-        alt=""
-        width={1}
-        height={1}
-        priority
-        className="pointer-events-none absolute h-px w-px opacity-0"
-        aria-hidden
-      />
       <Hero contentPath="hero" />
       {/* <LandingLogoScroller contentPath="landingLogoScroller" /> */}
       <ScrollReveal><LandingAbout contentPath="landingAbout" /></ScrollReveal>

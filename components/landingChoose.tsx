@@ -47,7 +47,7 @@ export default function LandingChoose({
         <div className="mb-14 grid grid-cols-1 gap-6 md:grid-cols-2 md:gap-8 lg:mb-12 lg:gap-10">
           {finalContent.benefits.map((benefit, index) => (
             <div key={index} className="flex gap-4 sm:gap-5">
-              {/* Purple Checkmark Icon */}
+              {/* Sapphire Blue Checkmark Icon */}
               <div className="flex h-6 w-6 flex-shrink-0 items-center justify-center rounded-full bg-[#06457F]">
                 <svg
                   className="h-[1rem] w-[1rem] text-white"

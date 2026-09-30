@@ -13,7 +13,7 @@ interface CounterUpProps {
   stats: CounterStat[];
   color?: string;
   className?: string;
-  /** Gradient colors for value and label text. Defaults to a purple/pink gradient. */
+  /** Gradient colors for value and label text. Defaults to an ocean blue gradient. */
   gradientColors?: string[];
 }
 

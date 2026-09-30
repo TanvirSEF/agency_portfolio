@@ -34,7 +34,7 @@ export default function CustomWebDev({
         />
       </div>
 
-      {/* Top Purple Section with Diagonal Bottom */}
+      {/* Top Ocean Blue Section with Diagonal Bottom */}
       <div className="relative z-5  py-8">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="mx-auto max-w-6xl text-center">
