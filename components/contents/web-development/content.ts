@@ -1,4 +1,4 @@
-﻿import { ArrowUpRight } from "lucide-react";
+import { ArrowUpRight } from "lucide-react";
 
 export const otherHeroContentWebDevelopment = {
     backgroundDecoration: {
@@ -20,6 +20,37 @@ export const otherHeroContentWebDevelopment = {
     mainImage: {
         src: '/assets/images/all-hero/Web-Development-hero.jpg',
         alt: 'Web Development hero image',
+    },
+    floatingImage: {
+        src: '/assets/images/seo-hero-float.svg',
+        alt: 'Side blur decoration',
+        width: 90,
+        height: 90,
+        className:
+            'absolute right-0 bottom-[-40px] z-0 pointer-events-none lg:w-[110px] lg:h-[110px] xl:w-[130px] xl:h-[130px]',
+    },
+};
+
+export const otherHeroContentHostingConsultation = {
+    backgroundDecoration: {
+        src: '/assets/images/top-assets.png',
+        alt: 'Side blur decoration',
+        width: 500,
+        height: 500,
+        className:
+            'absolute top-[-100px] right-1/2 z-0 pointer-events-none lg:left-[-130px] lg:right-auto',
+    },
+    pageName: 'Hosting Consultation',
+    title: 'Get the Right Hosting Setup for Your Website',
+    description:
+        "Not sure which hosting plan fits your website? Zephlo Tech helps you find, set up, and manage the perfect hosting solution — so your site stays fast, secure, and always online. We evaluate your project's needs and recommend trusted providers that match your budget and goals.",
+    button: {
+        text: 'Get a Free Consultation',
+        href: '/contact',
+    },
+    mainImage: {
+        src: '/assets/images/all-hero/Web-Development-hero.jpg',
+        alt: 'Hosting Consultation hero image',
     },
     floatingImage: {
         src: '/assets/images/seo-hero-float.svg',
@@ -599,6 +630,47 @@ export const landingAdditionalServices2ContentWebDevelopment = {
                 title: 'Digital Marketing',
                 description:
                     'Our digital marketing services help increase visibility, engagement, and leads through SEO, social media, and paid campaigns.',
+                link: '/services/digital-marketing-services',
+            },
+        ],
+        buttonText: 'GET A FREE QUOTE',
+        buttonLink: '/contact',
+    },
+};
+
+export const landingAdditionalServices2ContentHostingConsultation = {
+    leftSection: {
+        title: 'Choosing the Right Hosting Makes a Big Difference',
+        paragraphs: [
+            'Many websites go live on the wrong hosting plan. The result is slow page speeds, unexpected downtime, and frustrated visitors who leave before they even see what you offer.',
+            'At Zephlo Tech, we help you pick a hosting solution that actually fits your website. We look at your traffic, your content, and your goals, then recommend the plan that gives you the best performance for your budget.',
+            'Whether you need shared hosting for a small business site, a VPS for a growing platform, or cloud hosting for heavy traffic, we handle the setup from start to finish. We also connect your domain, configure your DNS, and make sure everything runs smoothly before your site goes live.',
+        ],
+        buttonText: 'BOOK A FREE CONSULTATION',
+        buttonLink: '/contact',
+    },
+    rightSection: {
+        title: 'We Offer More Than Just Hosting Consultation',
+        quote: '"We also help with web development, design, and marketing so your business grows online on every front."',
+        services: [
+            {
+                id: 1,
+                title: 'Web Design',
+                description:
+                    'We design clean, modern websites that look great on all devices and guide visitors toward taking action.',
+                link: '/services/web-design',
+            },
+            {
+                id: 2,
+                title: 'Web Development',
+                description: 'We build fast, scalable websites using modern technologies that support your business as it grows.',
+                link: '/services/web-development',
+            },
+            {
+                id: 3,
+                title: 'Digital Marketing',
+                description:
+                    'We run SEO, paid ads, and social media campaigns that bring real traffic and qualified leads to your website.',
                 link: '/services/digital-marketing-services',
             },
         ],

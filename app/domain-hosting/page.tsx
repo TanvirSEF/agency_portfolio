@@ -20,7 +20,7 @@ import WorkProcessSection from "@/components/workProcessSection";
 export default function Page() {
     return (
         <div>
-            <OtherHero contentPath="otherHeroWebDevelopment" />
+            <OtherHero contentPath="otherHeroHostingConsultation" />
             <ScrollReveal><CompanyIntroSection contentPath="CompanyIntroSectionWebDevelopment" /></ScrollReveal>
             <ScrollReveal><ContentImageSplit contentPath="ContentImageSplitWebDevelopment" /></ScrollReveal>
             <ScrollReveal><LandingDigitalServices
@@ -35,7 +35,7 @@ export default function Page() {
             {/* <ScrollReveal><LandingTestimonialCarousel contentPath="landingTestimonialCarouselWebDevelopment" /></ScrollReveal> */}
             {/* <ScrollReveal><PartnersLogo contentPath="partnersLogoWebDevelopment" /></ScrollReveal> */}
             {/* <ScrollReveal><LandingCaseStudies contentPath="landingCaseStudies2WebDevelopment" /></ScrollReveal> */}
-            <ScrollReveal><LandingAdditionalServices contentPath="landingAdditionalServices2WebDevelopment" /></ScrollReveal>
+            <ScrollReveal><LandingAdditionalServices contentPath="landingAdditionalServices2HostingConsultation" /></ScrollReveal>
             <ScrollReveal><ContactSection contentPath="contactSectionWebDevelopment" /></ScrollReveal>
             <LandingFaq contentPath="landingFaqWebDevelopment" />
         </div>

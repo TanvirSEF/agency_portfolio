@@ -170,6 +170,7 @@ import {
 } from './app-development/content';
 import {
   otherHeroContentWebDevelopment,
+  otherHeroContentHostingConsultation,
   CompanyIntroSectionWebDevelopment,
   contentImageSplitWebDevelopmentContent,
   landingDigitalServicesWebDevelopmentContent,
@@ -182,6 +183,7 @@ import {
   partnersLogoContentWebDevelopment,
   landingCaseStudies2WebDevelopment,
   landingAdditionalServices2ContentWebDevelopment,
+  landingAdditionalServices2ContentHostingConsultation,
   contactSectionContentWebDevelopment,
   landingFaqContentWebDevelopment,
   companyPotentialsSectionContentWebDevelopment,
@@ -345,6 +347,7 @@ export type ContentPath =
   | 'comparisonBetweenCardsAPPDEV'
   | 'companyPotentialsSectionAPPDEV'
   | 'otherHeroWebDevelopment'
+  | 'otherHeroHostingConsultation'
   | 'CompanyIntroSectionWebDevelopment'
   | 'ContentImageSplitWebDevelopment'
   | 'landingDigitalServicesWebDevelopment'
@@ -357,6 +360,7 @@ export type ContentPath =
   | 'partnersLogoWebDevelopment'
   | 'landingCaseStudies2WebDevelopment'
   | 'landingAdditionalServices2WebDevelopment'
+  | 'landingAdditionalServices2HostingConsultation'
   | 'contactSectionWebDevelopment'
   | 'landingFaqWebDevelopment'
   | 'companyPotentialsSectionWebDevelopment'
@@ -555,6 +559,7 @@ export const contentRegistry: Record<ContentPath, any> = {
   comparisonBetweenCardsAPPDEV: comparisonBetweenCardsContentAPPDEV,
   companyPotentialsSectionAPPDEV: companyPotentialsSectionContentAPPDEV,
   otherHeroWebDevelopment: otherHeroContentWebDevelopment,
+  otherHeroHostingConsultation: otherHeroContentHostingConsultation,
   CompanyIntroSectionWebDevelopment: CompanyIntroSectionWebDevelopment,
   ContentImageSplitWebDevelopment: contentImageSplitWebDevelopmentContent,
   landingDigitalServicesWebDevelopment: landingDigitalServicesWebDevelopmentContent,
@@ -567,6 +572,7 @@ export const contentRegistry: Record<ContentPath, any> = {
   partnersLogoWebDevelopment: partnersLogoContentWebDevelopment,
   landingCaseStudies2WebDevelopment: landingCaseStudies2WebDevelopment,
   landingAdditionalServices2WebDevelopment: landingAdditionalServices2ContentWebDevelopment,
+  landingAdditionalServices2HostingConsultation: landingAdditionalServices2ContentHostingConsultation,
   contactSectionWebDevelopment: contactSectionContentWebDevelopment,
   landingFaqWebDevelopment: landingFaqContentWebDevelopment,
   companyPotentialsSectionWebDevelopment: companyPotentialsSectionContentWebDevelopment,

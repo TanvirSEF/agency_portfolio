@@ -52,7 +52,7 @@ export default function Footer() {
               <h3 className={headingClass}>Company</h3>
               <ul>
                 {[
-                  { href: '/domain-hosting', label: 'Domain & Hosting' },
+                  { href: '/domain-hosting', label: 'Hosting Consultation' },
                   { href: '/blogs', label: 'Blogs & Insights' },
                   { href: '/about-us', label: 'About Us' },
                   { href: '/pay-it-forward', label: 'Pay It Forward' },

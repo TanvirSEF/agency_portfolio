@@ -262,7 +262,7 @@ export default function Navbar() {
                 lineHeight: '160%',
               }}
             >
-              Domain & Hosting
+              Hosting Consultation
             </Link>
             <Link
               href="/pay-it-forward"
@@ -388,7 +388,7 @@ export default function Navbar() {
 
                   {/* Nav Links — staggered */}
                   {[
-                    { label: 'Domain & Hosting', href: '/domain-hosting' },
+                    { label: 'Hosting Consultation', href: '/domain-hosting' },
                     { label: 'Pay It Forward', href: '/pay-it-forward' },
                     { label: 'About Us', href: '/about-us' },
                     { label: 'Blogs', href: '/blogs' },
