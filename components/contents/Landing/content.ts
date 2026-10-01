@@ -11,10 +11,10 @@ export const heroContent = {
     },
     buttonText: 'START SCALING TODAY',
     images: {
-        heroImage1: '/assets/images/hero-software-team.jpg',
+        heroImage1: '/assets/images/hero-software-team-v2.jpg',
         heroImage1Seo: {
-            altText: 'Zephlo Tech software engineering and design team collaborating in modern office',
-            title: 'Zephlo Tech Software Engineering Team',
+            altText: 'Zephlo Tech software engineering and design team collaborating in a modern warm loft office',
+            title: 'Zephlo Tech Software Engineering & Design Team',
         },
         heroImage2: '/assets/images/hero-digital-strategy.jpg',
         heroImage2Seo: {
