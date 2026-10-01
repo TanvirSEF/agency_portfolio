@@ -97,8 +97,8 @@ export const wePayItForwardContentPayItForward = {
 export const videoSectionContentPayItForward = {
   title: 'More Than Just a Digital Agency',
   description:
-    'Zephlo Tech offers more than just marketing and development. We also provide secure and reliable hosting solutions through our platform, ZEPHLO HOSTING. ZEPHLO HOSTING is built for performance and stability, giving you peace of mind. It provides your business with a strong digital foundation and a trusted ecosystem for your entire online presence.',
-  buttonText: 'Discover ZephloHost',
+    'Zephlo Tech offers more than just marketing and development. We provide expert hosting and cloud infrastructure consultation to help you choose, configure, and optimize the perfect hosting environment tailored to your business needs, ensuring high performance, 99.9% uptime, and complete peace of mind.',
+  buttonText: 'Hosting Consultation',
   buttonLink: '/domain-hosting',
   videoPath: '/videos/about-us/ZEPHLO HOSTING-video.mp4',
 };

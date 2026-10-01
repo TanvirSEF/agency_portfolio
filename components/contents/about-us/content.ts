@@ -181,7 +181,7 @@ export const whatWeDoContentAboutUs = {
 export const digitalPercentageContentAboutUs = {
   title: 'All Parts of Your Digital Presence in One Place',
   description:
-    'Zephlo Tech offers a complete solution that brings together all parts of your digital presence in one place. Our vision, which began 7 years ago, was to create a platform where you, as a customer, do not have to deal with multiple contacts and suppliers. Instead of spending time coordinating different services, you can focus fully on what you do best – running and developing your business. We provide a full range of services, from basic web hosting and web design to advanced web development. We also offer marketing services and graphic design to ensure your brand is well-represented. We take time to understand your vision, challenges, and audience so every digital decision supports your growth.',
+    'Zephlo Tech offers a complete solution that brings together all parts of your digital presence in one place. Our vision, which began in 2020, was to create a platform where you, as a customer, do not have to deal with multiple contacts and suppliers. Instead of spending time coordinating different services, you can focus fully on what you do best – running and developing your business. We provide a full range of services, from basic web hosting and web design to advanced web development. We also offer marketing services and graphic design to ensure your brand is well-represented. We take time to understand your vision, challenges, and audience so every digital decision supports your growth.',
   services: [
     'Digital Marketing',
     'Search Engine Optimization',
@@ -226,8 +226,8 @@ export const conceptAndVisionContentAboutUs = {
 export const videoSectionContentAboutUs = {
   title: 'More Than Just a Digital Agency',
   description:
-    'Zephlo Tech offers more than just marketing and development. We also provide secure and reliable hosting solutions through our platform, ZEPHLO HOSTING. ZEPHLO HOSTING is built for performance and stability, giving you peace of mind. It provides your business with a strong digital foundation and a trusted ecosystem for your entire online presence.',
-  buttonText: 'Discover ZephloHost',
+    'Zephlo Tech offers more than just marketing and development. We provide expert hosting and cloud infrastructure consultation to help you choose, configure, and optimize the perfect hosting environment tailored to your business needs, ensuring high performance, 99.9% uptime, and complete peace of mind.',
+  buttonText: 'Hosting Consultation',
   buttonLink: '/domain-hosting',
   videoPath: '/videos/about-us/ZEPHLO HOSTING-video.mp4',
 };

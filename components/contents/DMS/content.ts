@@ -397,11 +397,10 @@ export const landingAdditionalServices2ContentDMS = {
         title: "Better Hosting Today, Better Marketing Results Tomorrow",
         paragraphs: [
             "Did you know that slow hosting can hurt your digital marketing performance? Even the best campaigns lose effectiveness if your website is slow or unreliable. Poor speed leads to higher bounce rates, lower conversions, and wasted ad spend.",
-            `This is where ZephloHost comes in. ZephloHost is our top hosting solution that boosts your website's performance and supports your marketing campaigns.
-With fast loading speeds and a 99.9% uptime guarantee, ZephloHost ensures your website runs smoothly and reliably. Our strong servers, advanced security features, and scalable infrastructure provide the foundation for a smooth user experience.`,
-            `When your hosting is optimized, your marketing results improve. Faster websites rank better on Google, keep visitors on your page longer, and drive higher conversion rates. So, choose ZephloHost today and set your website up for long-term marketing success.`,
-        ],
-        buttonText: 'DISCOVER ZEPHLO HOSTING',
+            "This is where Zephlo Tech Hosting Consultation comes in. We analyze your website architecture, eliminate server bottlenecks, and help you deploy on world-class cloud platforms configured for lightning-fast speeds and 99.9% uptime.",
+            "When your hosting and cloud infrastructure are properly optimized, your marketing ROI multiplies. Faster pages lower bounce rates, boost Google Quality Scores, and convert high-intent visitors into paying clients.",
+        ],
+        buttonText: 'GET HOSTING CONSULTATION',
         buttonLink: '/domain-hosting',
     },
     rightSection: {

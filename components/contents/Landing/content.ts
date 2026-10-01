@@ -29,7 +29,7 @@ export const heroContent = {
         alt: 'Hero decoration',
     },
     stats: [
-        { value: '2018', label: 'Founded' },
+        { value: '2020', label: 'Founded' },
         { value: '$1.5M+', label: 'Revenue Generated' },
         { value: '300+', label: 'Happy Clients' },
         { value: '500+', label: 'Projects Completed' },
@@ -50,7 +50,7 @@ export const landingAboutContent = {
         title: 'About Zephlo Tech',
         subtitle: 'Zephlo Tech is Your Online Growth Partner',
         description:
-            "Zephlo Tech is an award-winning digital agency that started in 2018 in Sweden but now serves clients all over Europe. In the last 7 years, we've helped thousands of startups and brands across many countries. Clients love us for our professionalism, quality services, and dedication.",
+            "Founded in 2020 in Bangladesh, Zephlo Tech is a fast-growing software and digital agency delivering world-class technology, creative media, and performance marketing to clients worldwide. Over the years, we have empowered hundreds of startups, businesses, and global brands with scalable custom software, high-converting web solutions, and impactful digital campaigns built for real growth.",
         buttonText: 'LEARN MORE ABOUT US',
     },
     rightSection: {
@@ -90,7 +90,7 @@ export const digitalServiceCardContent = {
             icon: ArrowUpRight,
             title: 'SEARCH ENGINE OPTIMIZATION',
             description:
-                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.',
+                'Boost your organic visibility and dominate search rankings with data-driven SEO. We optimize technical site health, target high-converting keywords, and build authoritative backlinks to drive consistent, qualified traffic and sustainable growth.',
             iconBg: 'bg-[#06457F]',
             iconColor: 'text-white',
             href: '/services/seo',
@@ -100,7 +100,7 @@ export const digitalServiceCardContent = {
             icon: ArrowUpRight,
             title: 'SOCIAL MEDIA MARKETING',
             description:
-                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.',
+                'Amplify your brand presence and connect with your ideal audience across social channels. We craft compelling visual content, viral short-form videos, and strategic organic campaigns that spark engagement, build loyalty, and turn followers into customers.',
             iconBg: 'bg-white',
             iconColor: 'text-[#1E1F21]',
             href: '/services/social-media-marketing-services',
@@ -110,7 +110,7 @@ export const digitalServiceCardContent = {
             icon: ArrowUpRight,
             title: 'GOOGLE ADS SERVICES',
             description:
-                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.',
+                'Capture high-intent buyers ready to convert with laser-focused Google Ads campaigns. From high-converting Search ads to Performance Max and retargeting, we optimize every dollar to maximize your ROAS and deliver scalable revenue.',
             iconBg: 'bg-white',
             iconColor: 'text-[#1E1F21]',
             href: '/services/ppc-google-ads-management',
@@ -125,7 +125,7 @@ export const digitalServiceCard1Content = {
             icon: ArrowUpRight,
             title: 'SEARCH ENGINE OPTIMIZATION',
             description:
-                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.',
+                'Boost your organic visibility and dominate search rankings with data-driven SEO. We optimize technical site health, target high-converting keywords, and build authoritative backlinks to drive consistent, qualified traffic and sustainable growth.',
             iconBg: 'bg-[#06457F]',
             iconColor: 'text-white',
             href: '/services/seo',
@@ -135,7 +135,7 @@ export const digitalServiceCard1Content = {
             icon: ArrowUpRight,
             title: 'SOCIAL MEDIA MARKETING',
             description:
-                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.',
+                'Amplify your brand presence and connect with your ideal audience across social channels. We craft compelling visual content, viral short-form videos, and strategic organic campaigns that spark engagement, build loyalty, and turn followers into customers.',
             iconBg: 'bg-white',
             iconColor: 'text-[#1E1F21]',
             href: '/services/social-media-marketing-services',
@@ -145,7 +145,7 @@ export const digitalServiceCard1Content = {
             icon: ArrowUpRight,
             title: 'GOOGLE ADS SERVICES',
             description:
-                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.',
+                'Capture high-intent buyers ready to convert with laser-focused Google Ads campaigns. From high-converting Search ads to Performance Max and retargeting, we optimize every dollar to maximize your ROAS and deliver scalable revenue.',
             iconBg: 'bg-white',
             iconColor: 'text-[#1E1F21]',
             href: '/services/ppc-google-ads-management',
@@ -198,13 +198,13 @@ export const customWebDevContent = {
 
 export const landingAdditionalServicesContent = {
     leftSection: {
-        title: "Is Your Site Losing Traffic Because It's Down When They Visit?",
+        title: "Is Poor Hosting & Slow Speed Costing You Customers and Revenue?",
         paragraphs: [
-            "Did you know that even a 2-second delay can push your web traffic away before your website fully loads? Yes, countless businesses lose potential customers every day simply because their sites aren't fast enough.",
-            "But we don't want you to face the same problem. That's why we built ZephloHost, a premium hosting solution created to significantly boost your website's speed and stability.",
-            'ZephloHost keeps your site fast, accessible, and performing at its best. With optimized servers, strong security, and scalable power, it helps you reduce bounce rates, improve user experience, and make the most of every visitor who lands on your site.',
+            "Did you know that even a 2-second delay or sudden server downtime pushes potential customers straight to your competitors? Countless businesses lose high-value leads every single day simply because their site is hosted on the wrong platform or poorly configured servers.",
+            "You don't need another generic hosting plan — you need the right architecture. At Zephlo Tech, we provide expert Hosting Consultation to help you select, configure, and optimize the perfect hosting environment tailored to your traffic, security needs, and budget.",
+            "From cloud platforms (AWS, Google Cloud, DigitalOcean) and high-speed VPS to CDN caching, SSL hardening, and seamless migrations, we ensure your website stays blazing fast, ultra-secure, and 99.9% online 24/7.",
         ],
-        buttonText: 'DISCOVER ZEPHLO HOSTING',
+        buttonText: 'GET HOSTING CONSULTATION',
         buttonLink: '/domain-hosting',
     },
     rightSection: {

@@ -401,10 +401,10 @@ export const landingAdditionalServicesContent2 = {
         title: "Say Goodbye to Slow Hosting That's Killing Your Google Rankings",
         paragraphs: [
             "Did you know that a slow website can drop your Google rankings even if your SEO strategy is strong? Yes, many businesses invest heavily in SEO but fail to see results simply because their hosting slows down their site's performance.",
-            "But we don't want you to face the same problem. That's why we built ZephloHost, a premium hosting solution created to significantly boost your website's speed and stability.",
-            "With fast loading times and high uptime, ZephloHost helps your website work well and keeps users interested. Our optimized servers, strong security features, and flexible infrastructure give your site the boost it needs to rank higher and provide a smooth, reliable experience for visitors.",
+            "That's why we provide expert Hosting and Infrastructure Consultation — helping you identify server bottlenecks, migrate to high-performance cloud hosting, and configure optimal caching for top-tier Google rankings.",
+            "With lightning-fast load times and 99.9% uptime, we help your website deliver exceptional Core Web Vitals. Our consultation ensures your infrastructure fully supports your SEO efforts, keeping visitors engaged and rankings climbing.",
         ],
-        buttonText: 'DISCOVER ZEPHLO HOSTING',
+        buttonText: 'GET HOSTING CONSULTATION',
         buttonLink: '/domain-hosting',
     },
     rightSection: {
