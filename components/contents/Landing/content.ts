@@ -2,12 +2,12 @@ import { ArrowUpRight } from 'lucide-react';
 
 export const heroContent = {
     mainTitle: 'Zephlo Tech',
-    subtitle: 'A Web & Digital Marketing Agency',
+    subtitle: 'Custom Software & End-to-End Digital Solutions',
     description: {
         desktop:
-            "Zephlo Tech is a full-service web and digital marketing agency that helps businesses grow online with a strong digital presence. From custom web development to effective digital marketing services, we offer everything you need to dominate the market. Don't let your competitors get ahead of you. Go ahead of them!",
+            "Zephlo Tech is a full-cycle software and digital solutions agency engineered for modern business growth. From custom software and high-performance web development to creative video editing, UI/UX design, and data-driven marketing, we deliver end-to-end solutions that help ambitious brands scale and stay ahead of the competition.",
         mobile:
-            'Empower students to achieve their dreams effortlessly with cutting-edge technology, diverse study programs, and industry-leading application success rates.',
+            "Zephlo Tech is a full-cycle software and digital agency delivering custom software, high-performance websites, creative video editing, and data-driven marketing.",
     },
     buttonText: 'START SCALING TODAY',
     images: {
