@@ -5,14 +5,22 @@ export const heroContent = {
     subtitle: 'Custom Software & End-to-End Digital Solutions',
     description: {
         desktop:
-            "Zephlo Tech is a full-cycle software and digital solutions agency engineered for modern business growth. From custom software and high-performance web development to creative video editing, UI/UX design, and data-driven marketing, we deliver end-to-end solutions that help ambitious brands scale and stay ahead of the competition.",
+            "Zephlo Tech is a full-cycle software and digital solutions agency. From custom software and high-performance web development to creative video editing and data-driven marketing, we deliver end-to-end solutions built to scale your business.",
         mobile:
             "Zephlo Tech is a full-cycle software and digital agency delivering custom software, high-performance websites, creative video editing, and data-driven marketing.",
     },
     buttonText: 'START SCALING TODAY',
     images: {
-        heroImage1: '/hero-image1.png',
-        heroImage2: '/hero-image2.png',
+        heroImage1: '/assets/images/hero-software-team.jpg',
+        heroImage1Seo: {
+            altText: 'Zephlo Tech software engineering and design team collaborating in modern office',
+            title: 'Zephlo Tech Software Engineering Team',
+        },
+        heroImage2: '/assets/images/hero-digital-strategy.jpg',
+        heroImage2Seo: {
+            altText: 'Zephlo Tech digital strategy presentation and software growth analytics display',
+            title: 'Zephlo Tech Digital Strategy & Growth Analytics',
+        },
         heroAsset: '/assets/images/hero-asset.png',
     },
     heroAsset: {

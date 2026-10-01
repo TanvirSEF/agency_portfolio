@@ -85,8 +85,8 @@ export default function Hero({
       animate={{ opacity: 1 }}
       transition={{ duration: 0.55, ease: easeOut }}
     >
-      <div className="relative z-10 container mx-auto flex flex-col gap-18 px-6 pt-16">
-        <div className="flex w-full flex-col gap-4 lg:h-[550px] lg:flex-row">
+      <div className="relative z-10 container mx-auto flex flex-col gap-18 px-6 pt-8 sm:pt-10 lg:pt-12">
+        <div className="flex w-full flex-col items-center justify-between gap-8 lg:flex-row lg:items-center">
           <motion.div
             className="flex flex-1 flex-col items-center gap-4 lg:items-start xl:flex-5"
             initial={{ y: 28, opacity: 0 }}
@@ -112,13 +112,13 @@ export default function Hero({
                   as="div"
                   content={finalContent.subtitle}
                   defaultTag={subtitleTag}
-                  className="w-[330px] text-center font-semibold text-white uppercase min-[420px]:text-[1.8rem] md:text-[2rem] lg:w-full lg:text-left [&_h1]:m-0 [&_h1]:text-[1.5rem] [&_h1]:leading-10 [&_h2]:m-0 [&_h2]:text-[1.5rem] [&_h2]:leading-10 [&_h3]:m-0 [&_h3]:text-[1.5rem] [&_h3]:leading-10 [&_h4]:m-0 [&_h4]:text-[1.5rem] [&_h4]:leading-10 [&_p]:m-0 [&_p]:text-[1.5rem] [&_p]:leading-10"
+                  className="w-[330px] text-center font-semibold text-white uppercase min-[420px]:text-[1.6rem] md:text-[1.85rem] lg:w-full lg:text-left [&_h1]:m-0 [&_h1]:text-[1.4rem] [&_h1]:leading-8 lg:[&_h1]:leading-9 [&_h2]:m-0 [&_h2]:text-[1.4rem] [&_h2]:leading-8 lg:[&_h2]:leading-9 [&_h3]:m-0 [&_h3]:text-[1.4rem] [&_h3]:leading-8 lg:[&_h3]:leading-9 [&_h4]:m-0 [&_h4]:text-[1.4rem] [&_h4]:leading-8 lg:[&_h4]:leading-9 [&_p]:m-0 [&_p]:text-[1.4rem] [&_p]:leading-8 lg:[&_p]:leading-9"
                 />
               )}
             </motion.div>
             {finalContent.description.desktop && (
               <motion.div
-                className="my-6 hidden text-center leading-8 text-white sm:block md:w-[490px] lg:w-full lg:text-left xl:text-[1.2rem]"
+                className="my-3.5 hidden text-center leading-7 text-white sm:block md:w-[490px] lg:w-full lg:text-left lg:leading-relaxed xl:text-[1.15rem]"
                 initial={{ y: 16, opacity: 0 }}
                 animate={{ y: 0, opacity: 1 }}
                 transition={{ delay: 0.2, duration: 0.55, ease: easeOut }}
@@ -127,7 +127,7 @@ export default function Hero({
                   as="div"
                   content={finalContent.description.desktop}
                   defaultTag="p"
-                  className="[&_p]:m-0 [&_p]:leading-8"
+                  className="[&_p]:m-0 [&_p]:leading-relaxed"
                 />
               </motion.div>
             )}
@@ -158,45 +158,30 @@ export default function Hero({
             </motion.div>
           </motion.div>
           <motion.div
-            className="relative hidden flex-1 lg:max-h-[600px] lg:flex lg:flex-col xl:flex-4"
+            className="relative hidden flex-1 items-center justify-center lg:flex xl:flex-4"
             initial={{ x: 36, opacity: 0 }}
             animate={{ x: 0, opacity: 1 }}
             transition={{ delay: 0.22, duration: 0.75, ease: easeOut }}
           >
             <motion.div
-              className="absolute top-0 left-3 h-[55%] w-[70%] overflow-hidden rounded-md"
-              initial={{ y: 24, opacity: 0 }}
+              className="group relative aspect-[3/2] w-full max-w-[540px] overflow-hidden rounded-2xl border border-white/10 bg-white/5 p-1.5 shadow-2xl shadow-black/40 backdrop-blur-sm transition-all duration-300 hover:border-[#0474C4]/50"
+              initial={{ y: 20, opacity: 0 }}
               animate={{ y: 0, opacity: 1 }}
               transition={{ delay: 0.3, duration: 0.6, ease: easeOut }}
             >
-              {finalContent.images.heroImage1 && (
-                <Image
-                  src={finalContent.images.heroImage1}
-                  seo={((finalContent.images as any).heroImage1Seo)}
-                  alt={((finalContent.images as any).heroImage1Seo?.altText as string) || ''}
-                  fill
-                  className="object-cover"
-                  sizes="(max-width: 1280px) 45vw, 420px"
-                />
-              )}
-            </motion.div>
-
-            <motion.div
-              className="absolute right-3 bottom-5 h-[55%] w-[70%] overflow-hidden rounded-md"
-              initial={{ y: -24, opacity: 0 }}
-              animate={{ y: 0, opacity: 1 }}
-              transition={{ delay: 0.38, duration: 0.6, ease: easeOut }}
-            >
-              {finalContent.images.heroImage2 && (
-                <Image
-                  src={finalContent.images.heroImage2}
-                  seo={((finalContent.images as any).heroImage2Seo)}
-                  alt={((finalContent.images as any).heroImage2Seo?.altText as string) || ''}
-                  fill
-                  className="object-cover"
-                  sizes="(max-width: 1280px) 45vw, 420px"
-                />
-              )}
+              <div className="relative h-full w-full overflow-hidden rounded-xl">
+                {finalContent.images.heroImage1 && (
+                  <Image
+                    src={finalContent.images.heroImage1}
+                    seo={((finalContent.images as any).heroImage1Seo)}
+                    alt={((finalContent.images as any).heroImage1Seo?.altText as string) || ''}
+                    fill
+                    priority
+                    className="object-cover transition-transform duration-500 group-hover:scale-105"
+                    sizes="(max-width: 1024px) 100vw, (max-width: 1280px) 45vw, 540px"
+                  />
+                )}
+              </div>
             </motion.div>
           </motion.div>
         </div>
