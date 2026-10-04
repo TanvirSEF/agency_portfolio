@@ -99,10 +99,10 @@ export default function Footer() {
                     Phone:
                   </span>
                   <Link
-                    href="tel:+18001234567"
+                    href="tel:+8801953332460"
                     className={linkClass}
                   >
-                    +1-800-123-4567
+                    01953332460
                   </Link>
                 </li>
                 <li className="flex items-baseline gap-2">

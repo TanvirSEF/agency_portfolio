@@ -27,8 +27,8 @@ const hero = {
 
 const highlights = [
   { title: 'Email Us', description: 'Drop us a line anytime', value: 'info@zephlotech.com', icon: Mail, href: 'mailto:info@zephlotech.com' },
-  { title: 'Call Us', description: 'Speak with our team', value: '+1-800-123-4567', icon: Phone, href: 'tel:+18001234567' },
-  { title: 'Visit Us', description: 'Come say hello', value: '123 Digital Avenue, Tech City, 10011', icon: MapPin, href: null },
+  { title: 'Call Us', description: 'Speak with our team', value: '01953332460', icon: Phone, href: 'tel:+8801953332460' },
+  { title: 'Visit Us', description: 'Come say hello', value: 'Dhaka, Bangladesh', icon: MapPin, href: null },
   { title: 'Business Hours', description: 'We are available', value: 'Mon – Fri: 9 AM – 6 PM', icon: Clock, href: null },
 ];
 

@@ -542,8 +542,8 @@ export const contactSectionContentPPC = {
         },
         phone: {
             label: 'Phone:',
-            value: '+1-800-123-4567',
-            href: 'tel:+1-800-123-4567',
+            value: '01953332460',
+            href: 'tel:+8801953332460',
         },
         socialLinks: [
             {
