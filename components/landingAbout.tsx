@@ -29,7 +29,7 @@ export default function LandingAbout({
   };
 
   return (
-    <div className="relative w-full overflow-x-hidden overflow-y-visible">
+    <div className="relative w-full overflow-hidden">
       {/* Blur decoration: hidden on small screens, visible from md with responsive positioning */}
       <div
         aria-hidden="true"
@@ -48,13 +48,13 @@ export default function LandingAbout({
             as="div"
             content={finalContent.leftSection.subtitle}
             defaultTag="h3"
-            className="mb-2 w-full max-w-[20rem] text-center font-semibold text-[#1E1F21] sm:max-w-none min-[1250px]:mb-4 min-[1250px]:w-[640px] min-[1250px]:text-left [&_h2]:m-0 [&_h2]:text-[clamp(1.25rem,3vw,2rem)] [&_h2]:leading-[1.3] [&_h3]:m-0 [&_h3]:text-[clamp(1.25rem,3vw,2rem)] [&_h3]:leading-[1.3] [&_p]:m-0 [&_p]:text-[clamp(1.25rem,3vw,2rem)] [&_p]:leading-[1.3]"
+            className="mb-2 w-full max-w-[20rem] text-center font-semibold text-[#1E1F21] sm:max-w-none min-[1250px]:mb-4 min-[1250px]:max-w-[640px] min-[1250px]:text-left [&_h2]:m-0 [&_h2]:text-[clamp(1.25rem,3vw,2rem)] [&_h2]:leading-[1.3] [&_h3]:m-0 [&_h3]:text-[clamp(1.25rem,3vw,2rem)] [&_h3]:leading-[1.3] [&_p]:m-0 [&_p]:text-[clamp(1.25rem,3vw,2rem)] [&_p]:leading-[1.3]"
           />
           <RichTextBlock
             as="div"
             content={finalContent.leftSection.description}
             defaultTag="p"
-            className="mt-4 mb-5 max-w-88 text-center text-[#667085] sm:mb-6 sm:max-w-md min-[1250px]:mt-0 min-[1250px]:min-w-150 min-[1250px]:text-left min-[1250px]:leading-relaxed [&_p]:m-0 [&_p]:text-[clamp(0.8125rem,1.8vw,1.125rem)] [&_p]:leading-[1.8]"
+            className="mt-4 mb-5 max-w-88 text-center text-[#667085] sm:mb-6 sm:max-w-md min-[1250px]:mt-0 min-[1250px]:max-w-[600px] min-[1250px]:text-left min-[1250px]:leading-relaxed [&_p]:m-0 [&_p]:text-[clamp(0.8125rem,1.8vw,1.125rem)] [&_p]:leading-[1.8]"
           />
 
           <Button asChild className="w-full rounded-full bg-[#06457F] px-6 py-4 text-white sm:w-auto sm:px-8 sm:py-5 min-[1250px]:py-6">

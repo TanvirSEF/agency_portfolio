@@ -5,6 +5,7 @@ import Image from '@/components/common/SeoImage';
 import { Button } from '@/components/ui/button';
 import { ChevronDown } from 'lucide-react';
 import { useState, useEffect, useRef, type HTMLAttributes, type ReactNode } from 'react';
+import { sisterConcerns } from '@/lib/ventures-data';
 
 type MotionLikeProps<T> = T & {
   initial?: unknown;
@@ -71,6 +72,7 @@ const NAV_LOCK_EVENT = 'sticky-section-navbar-lock';
 export default function Navbar() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [isServicesOpen, setIsServicesOpen] = useState(false);
+  const [isVenturesOpen, setIsVenturesOpen] = useState(false);
   const [navHidden, setNavHidden] = useState(false);
   const [isStickyNavLocked, setIsStickyNavLocked] = useState(false);
   const lastScrollY = useRef(0);
@@ -297,6 +299,45 @@ export default function Navbar() {
             >
               Blogs
             </Link>
+
+            {/* Our Ventures Dropdown (inline with nav links) */}
+            <div className="group relative flex cursor-pointer items-center gap-1">
+              <span
+                className="text-sm leading-[160%] font-medium whitespace-nowrap text-[#1E1F21] transition-opacity hover:opacity-80 xl:text-base"
+                style={{
+                  fontFamily: 'var(--font-poppins)',
+                  fontWeight: 500,
+                  lineHeight: '160%',
+                }}
+              >
+                Our Ventures
+              </span>
+              <ChevronDown className="h-4 w-4 shrink-0 text-[#1E1F21] transition-opacity group-hover:opacity-80" />
+
+              {/* Dropdown Menu */}
+              <div className="absolute top-full left-0 z-50 hidden pt-2 group-hover:block w-56">
+                <div className="rounded-lg border bg-white p-2 shadow-lg">
+                  {sisterConcerns.map((venture) => (
+                    <a
+                      key={venture.id}
+                      href={venture.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex items-center gap-2.5 rounded-md px-3 py-2 text-sm text-[#1E1F21] hover:bg-gray-50 hover:text-[#06457F]"
+                    >
+                      <Image
+                        src={venture.logo}
+                        alt={venture.name}
+                        width={22}
+                        height={22}
+                        className="h-5.5 w-5.5 shrink-0 object-contain"
+                      />
+                      <span>{venture.name}</span>
+                    </a>
+                  ))}
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -379,6 +420,68 @@ export default function Navbar() {
                                   {service.label}
                                 </Link>
                               </motion.div>
+                            ))}
+                          </div>
+                        </motion.div>
+                      )}
+                    </AnimatePresence>
+                  </motion.div>
+
+                  {/* Ventures Accordion (Mobile) */}
+                  <motion.div
+                    className="border-b border-gray-100"
+                    initial={{ opacity: 0, y: 8 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ delay: 0.08, duration: 0.3, ease: [0.22, 1, 0.36, 1] }}
+                  >
+                    <button
+                      className="flex w-full cursor-pointer items-center justify-between py-4"
+                      onClick={() => setIsVenturesOpen(!isVenturesOpen)}
+                    >
+                      <span
+                        className="text-[15px] font-semibold text-[#1E1F21]"
+                        style={{ fontFamily: 'var(--font-poppins)' }}
+                      >
+                        Our Ventures
+                      </span>
+                      <motion.div
+                        className={isVenturesOpen ? 'rotate-180 transition-transform duration-300 ease-[cubic-bezier(0.22,1,0.36,1)]' : 'rotate-0 transition-transform duration-300 ease-[cubic-bezier(0.22,1,0.36,1)]'}
+                        animate={{ rotate: isVenturesOpen ? 180 : 0 }}
+                        transition={{ duration: 0.3, ease: [0.22, 1, 0.36, 1] }}
+                      >
+                        <ChevronDown className="h-5 w-5 text-[#667085]" />
+                      </motion.div>
+                    </button>
+
+                    <AnimatePresence initial={false}>
+                      {isVenturesOpen && (
+                        <motion.div
+                          initial={{ height: 0, opacity: 0 }}
+                          animate={{ height: 'auto', opacity: 1 }}
+                          exit={{ height: 0, opacity: 0 }}
+                          transition={{ duration: 0.3, ease: [0.22, 1, 0.36, 1] }}
+                          className="overflow-hidden"
+                        >
+                          <div className="flex flex-col gap-0.5 pb-3 pl-3">
+                            {sisterConcerns.map((venture) => (
+                              <a
+                                key={venture.id}
+                                href={venture.url}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                onClick={() => setIsMobileMenuOpen(false)}
+                                className="flex items-center gap-2.5 rounded-lg px-3 py-2.5 text-sm text-[#475467] transition-colors hover:bg-[#F0F5FA] hover:text-[#06457F]"
+                                style={{ fontFamily: 'var(--font-poppins)' }}
+                              >
+                                <Image
+                                  src={venture.logo}
+                                  alt={venture.name}
+                                  width={22}
+                                  height={22}
+                                  className="h-5.5 w-5.5 shrink-0 object-contain"
+                                />
+                                <span>{venture.name}</span>
+                              </a>
                             ))}
                           </div>
                         </motion.div>
