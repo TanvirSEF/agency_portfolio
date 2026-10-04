@@ -229,7 +229,7 @@ export default function Navbar() {
           <div className="flex items-center gap-4 xl:gap-8">
             <div className="group relative flex cursor-pointer items-center gap-1">
               <span
-                className="text-sm leading-[160%] font-medium whitespace-nowrap text-[#1E1F21] transition-opacity hover:opacity-80 xl:text-base"
+                className="cursor-pointer text-sm leading-[160%] font-medium whitespace-nowrap text-[#1E1F21] transition-opacity hover:opacity-80 xl:text-base"
                 style={{
                   fontFamily: 'var(--font-poppins)',
                   fontWeight: 500,
@@ -238,7 +238,7 @@ export default function Navbar() {
               >
                 Our Services
               </span>
-              <ChevronDown className="h-4 w-4 shrink-0 text-[#1E1F21] transition-opacity group-hover:opacity-80" />
+              <ChevronDown className="cursor-pointer h-4 w-4 shrink-0 text-[#1E1F21] transition-opacity group-hover:opacity-80" />
               
               {/* Dropdown Menu */}
               <div className="absolute top-full left-0 z-50 hidden pt-2 group-hover:block w-64">
@@ -303,7 +303,7 @@ export default function Navbar() {
             {/* Our Ventures Dropdown (inline with nav links) */}
             <div className="group relative flex cursor-pointer items-center gap-1">
               <span
-                className="text-sm leading-[160%] font-medium whitespace-nowrap text-[#1E1F21] transition-opacity hover:opacity-80 xl:text-base"
+                className="cursor-pointer text-sm leading-[160%] font-medium whitespace-nowrap text-[#1E1F21] transition-opacity hover:opacity-80 xl:text-base"
                 style={{
                   fontFamily: 'var(--font-poppins)',
                   fontWeight: 500,
@@ -312,7 +312,7 @@ export default function Navbar() {
               >
                 Our Ventures
               </span>
-              <ChevronDown className="h-4 w-4 shrink-0 text-[#1E1F21] transition-opacity group-hover:opacity-80" />
+              <ChevronDown className="cursor-pointer h-4 w-4 shrink-0 text-[#1E1F21] transition-opacity group-hover:opacity-80" />
 
               {/* Dropdown Menu */}
               <div className="absolute top-full left-0 z-50 hidden pt-2 group-hover:block w-56">
@@ -323,16 +323,16 @@ export default function Navbar() {
                       href={venture.url}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="flex items-center gap-2.5 rounded-md px-3 py-2 text-sm text-[#1E1F21] hover:bg-gray-50 hover:text-[#06457F]"
+                      className="cursor-pointer flex items-center gap-2.5 rounded-md px-3 py-2 text-sm text-[#1E1F21] hover:bg-gray-50 hover:text-[#06457F]"
                     >
                       <Image
                         src={venture.logo}
                         alt={venture.name}
                         width={22}
                         height={22}
-                        className="h-5.5 w-5.5 shrink-0 object-contain"
+                        className="pointer-events-none h-5.5 w-5.5 shrink-0 object-contain"
                       />
-                      <span>{venture.name}</span>
+                      <span className="cursor-pointer">{venture.name}</span>
                     </a>
                   ))}
                 </div>

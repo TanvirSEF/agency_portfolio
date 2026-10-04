@@ -123,15 +123,19 @@
   }
 
   a,
+  a *,
   button,
+  button *,
   [role='button'],
+  [role='button'] *,
   summary,
   select,
   input[type='button'],
   input[type='submit'],
   input[type='reset'],
-  .cursor-pointer {
-    cursor: pointer;
+  .cursor-pointer,
+  .cursor-pointer * {
+    cursor: pointer !important;
   }
 
   body {
