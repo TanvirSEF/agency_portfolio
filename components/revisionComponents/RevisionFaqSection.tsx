@@ -16,7 +16,7 @@ const SOCIAL_LINKS = [
     icon: FaInstagram,
   },
   {
-    href: "https://facebook.com",
+    href: "https://www.facebook.com/zephlotech",
     label: "Facebook",
     icon: FaFacebookF,
   },

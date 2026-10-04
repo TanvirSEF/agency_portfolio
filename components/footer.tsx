@@ -124,7 +124,7 @@ export default function Footer() {
               <h3 className={headingClass}>Follow Us</h3>
               <div className="flex items-center gap-3">
                 {[
-                  { href: 'https://facebook.com', icon: Facebook, label: 'Facebook' },
+                  { href: 'https://www.facebook.com/zephlotech', icon: Facebook, label: 'Facebook' },
                   { href: 'https://instagram.com', icon: Instagram, label: 'Instagram' },
                   {
                     href: 'https://x.com',

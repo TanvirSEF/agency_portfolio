@@ -528,7 +528,7 @@ export const contactSectionContentSMMS = {
             },
             {
                 name: 'Facebook',
-                href: 'https://facebook.com',
+                href: 'https://www.facebook.com/zephlotech',
                 ariaLabel: 'Facebook',
             },
             {
