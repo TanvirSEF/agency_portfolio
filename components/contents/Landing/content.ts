@@ -491,39 +491,49 @@ export const contactSectionContent = {
 export const landingFaqContent = {
     title: 'Frequently Asked Questions',
     subtitle:
-        'If you have questions about our web and digital marketing services, look at our FAQs. You can learn about our plans.',
+        'Answers to the questions clients ask us most before starting a project.',
     faqs: [
         {
             id: 1,
-            question:
-                'What Makes Zephlo Tech the Best Web and Digital Marketing Agency?',
+            question: 'What services does Zephlo Tech offer?',
             answer:
-                'Zephlo Tech stands out for expert service, proven results, and dedicated support. Our creative team combines innovation, strategy, and technology to help businesses grow successfully online.',
+                'We build custom websites, web apps and mobile apps, WordPress sites and e-commerce stores. We also do UI/UX and graphic design, SEO, social media marketing and paid ads. You can work with us on a single service or hand us the full project from design to launch and marketing.',
         },
         {
             id: 2,
-            question: 'Can Zephlo Tech Develop Custom Websites and Apps?',
+            question: 'Can I see websites you have built for other clients?',
             answer:
-                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+                'Yes. Check the Live Client Projects section above. Every project there links to the real, live website, including eTenderBD, BCNS, Excel Insider, WebblyHosting, OmniStreams and more. You can open them and see the work for yourself.',
         },
         {
             id: 3,
-            question:
-                'Does Zephlo Tech Provide Tailored Digital Marketing Strategies?',
+            question: 'How long does it take to build a website?',
             answer:
-                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+                'A standard business or WordPress website usually takes 2 to 4 weeks. E-commerce stores and custom web apps take longer, depending on features and integrations. After our first discussion, we give you a clear timeline with milestones so you always know what is happening.',
         },
         {
             id: 4,
-            question: 'How Do You Work From Discovery To Project Launch?',
+            question: 'How much does a project cost?',
             answer:
-                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+                'It depends on what you need: the number of pages, features, integrations and design work. We do not sell fixed packages that force you to pay for things you do not use. Tell us about your project and we will send you a detailed quote, free of charge.',
         },
         {
             id: 5,
-            question: 'How Do You Ensure The Success of Marketing Campaigns?',
+            question: 'What does your process look like from start to launch?',
             answer:
-                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+                'We start with a call to understand your business and goals. Then we plan the structure, design the pages and share them with you for feedback. Once you approve the design, we develop, test on all devices and launch. You get updates at every stage, not just at the end.',
+        },
+        {
+            id: 6,
+            question: 'Do you provide support after the website goes live?',
+            answer:
+                'Yes. Every project includes free support for bug fixes after launch. We also offer ongoing maintenance plans for updates, backups, security, hosting management and new features, so your website keeps running smoothly.',
+        },
+        {
+            id: 7,
+            question: 'Do you work with clients outside Bangladesh?',
+            answer:
+                'Yes. We work with clients in Bangladesh and abroad, including Canada and other countries. We communicate over email, WhatsApp, Zoom or Google Meet and adjust meeting times to your time zone.',
         },
     ],
 };
