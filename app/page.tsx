@@ -13,6 +13,7 @@ import LandingMarketingAgency from '@/components/landingMarketingAgency';
 // import LandingTestimonialCarousel from '@/components/landingTestimonialCarousel';
 import LandingUpdates from '@/components/landingUpdates';
 import WorkProcessSection from '@/components/workProcessSection';
+import LiveClientShowcase from '@/components/LiveClientShowcase';
 
 export default function Home() {
   return (
@@ -27,6 +28,9 @@ export default function Home() {
       <ScrollReveal><LandingChoose contentPath="landingChoose" /></ScrollReveal>
       <ScrollReveal>
         <WorkProcessSection contentPath="workProcessSection" />
+      </ScrollReveal>
+      <ScrollReveal>
+        <LiveClientShowcase />
       </ScrollReveal>
       {/* <ScrollReveal><LandingCaseStudies contentPath="landingCaseStudies" /></ScrollReveal> */}
       {/* <ScrollReveal><LandingTestimonialCarousel contentPath="landingTestimonialCarousel" /></ScrollReveal> */}
