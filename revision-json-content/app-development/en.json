@@ -5,7 +5,7 @@
     "headingDesktop": "Build Apps That Scale Globally",
     "description": "Build fast, secure, and scalable mobile and web applications with Zephlo Tech's professional app development services. We create custom apps that deliver seamless experiences across all devices and platforms.",
     "buttonText": "Build Your App",
-    "videoSrc": "/revision-images/web-development/ServiceHero/hero-video.mp4",
+    "videoSrc": "/service_hero.mp4",
     "splineUrl": "https://prod.spline.design/uEXBpVuveykV70S5/scene.splinecode",
     "splineFilter": "hue-rotate(-65deg) saturate(1.2)"
   },
@@ -91,7 +91,7 @@
     "description": "At Zephlo Tech, we follow a clear and structured app development process to build applications that support real business growth. First, we learn about your goals and who will use your app.",
     "videoOverlayTitle": "Redefining Digital Possibilities",
     "videoOverlayDescription": "We design, build, and scale technology for the next generation.",
-    "videoSrc": "/revision-images/web-development/videos/ZEPHLO HOSTING-video.mp4",
+    "videoSrc": "/option1.mp4",
     "featureCards": [
       {
         "title": "Fully Responsive App",
@@ -172,7 +172,7 @@
     "headingLine1": "Why Choose Us As Your",
     "headingLine2": "App Development Agency",
     "description": "At Zephlo Tech, we don't just build apps; we create reliable digital products that support long-term business growth and success. Our expert developers combine strategy, clean code, and modern design to deliver applications that perform and scale with confidence.",
-    "videoSrc": "/revision-images/web-development/videos/ZEPHLO HOSTING-video.mp4",
+    "videoSrc": "/whychoose.mp4",
     "experienceTitle": "Experience we've\nachieved",
     "awardItems": [
       "7+ Years of Experience",
@@ -223,7 +223,7 @@
     "headingLine1": "Key Facts to Know About",
     "headingLine2": "App Development",
     "subtitle": "App development helps businesses reach users on mobile and web platforms. Here are some key facts to understand:",
-    "videoSrc": "/revision-images/web-development/videos/ZEPHLO HOSTING-video.mp4",
+    "videoSrc": "/keyfact.mp4",
     "keyFacts": [
       {
         "id": "types-of-app-development-services",
