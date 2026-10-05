@@ -2,11 +2,9 @@
 
 import Link from 'next/link';
 import {
-  Instagram,
   Facebook,
   Twitter,
   Linkedin,
-  Youtube,
   Mail,
   Phone,
 } from 'lucide-react';
@@ -116,15 +114,11 @@ export default function ContactSection({
                 <div className="flex items-center gap-4">
                   {finalContent.contactInfo.socialLinks.map((social) => {
                     const IconComponent =
-                      social.name === 'Instagram'
-                        ? Instagram
-                        : social.name === 'Facebook'
-                          ? Facebook
-                          : social.name === 'Twitter'
-                            ? Twitter
-                            : social.name === 'LinkedIn'
-                              ? Linkedin
-                              : Youtube;
+                      social.name === 'Facebook'
+                        ? Facebook
+                        : social.name === 'Twitter'
+                          ? Twitter
+                          : Linkedin;
                     return (
                       <Link
                         key={social.name}

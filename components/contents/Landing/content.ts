@@ -465,24 +465,14 @@ export const contactSectionContent = {
         },
         socialLinks: [
             {
-                name: 'Instagram',
-                href: 'https://instagram.com',
-                ariaLabel: 'Instagram',
-            },
-            {
                 name: 'Facebook',
                 href: 'https://www.facebook.com/zephlotech',
                 ariaLabel: 'Facebook',
             },
             {
                 name: 'Twitter',
-                href: 'https://twitter.com',
+                href: 'https://x.com/zephlotech',
                 ariaLabel: 'Twitter',
-            },
-            {
-                name: 'YouTube',
-                href: 'https://youtube.com',
-                ariaLabel: 'YouTube',
             },
             {
                 name: 'LinkedIn',

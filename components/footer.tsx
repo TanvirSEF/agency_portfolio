@@ -2,8 +2,6 @@ import Link from 'next/link';
 import Image from 'next/image';
 import {
   Facebook,
-  Instagram,
-  Youtube,
   Linkedin,
 } from 'lucide-react';
 
@@ -125,9 +123,8 @@ export default function Footer() {
               <div className="flex items-center gap-3">
                 {[
                   { href: 'https://www.facebook.com/zephlotech', icon: Facebook, label: 'Facebook' },
-                  { href: 'https://instagram.com', icon: Instagram, label: 'Instagram' },
                   {
-                    href: 'https://x.com',
+                    href: 'https://x.com/zephlotech',
                     label: 'X',
                     customIcon: (
                       <svg viewBox="0 0 24 24" className="h-[14px] w-[14px] fill-current">
@@ -135,7 +132,6 @@ export default function Footer() {
                       </svg>
                     ),
                   },
-                  { href: 'https://youtube.com', icon: Youtube, label: 'YouTube' },
                   { href: 'https://www.linkedin.com/company/zephlo-tech', icon: Linkedin, label: 'LinkedIn' },
                 ].map((item) => (
                   <Link

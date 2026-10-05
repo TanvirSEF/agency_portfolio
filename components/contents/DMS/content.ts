@@ -450,27 +450,22 @@ export const contactSectionContentDMS = {
             value: '01953332460',
             href: 'tel:+8801953332460',
         },
-        socialLinks: [
-            {
-                name: 'Instagram',
-                href: 'https://instagram.com',
-                ariaLabel: 'Instagram',
-            },
-            {
-                name: 'Facebook',
-                href: 'https://www.facebook.com/zephlotech',
-                ariaLabel: 'Facebook',
-            },
-            {
-                name: 'Twitter',
-                href: 'https://twitter.com',
-                ariaLabel: 'Twitter',
-            },
-            {
-                name: 'YouTube',
-                href: 'https://youtube.com',
-                ariaLabel: 'YouTube',
-            },
+        socialLinks: [
+            {
+                name: 'Facebook',
+                href: 'https://www.facebook.com/zephlotech',
+                ariaLabel: 'Facebook',
+            },
+            {
+                name: 'Twitter',
+                href: 'https://x.com/zephlotech',
+                ariaLabel: 'Twitter',
+            },
+            {
+                name: 'LinkedIn',
+                href: 'https://www.linkedin.com/company/zephlo-tech',
+                ariaLabel: 'LinkedIn',
+            },
         ],
     },
 };
