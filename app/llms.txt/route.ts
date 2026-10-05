@@ -1,9 +1,10 @@
-﻿import { NextResponse } from 'next/server';
+import { NextResponse } from 'next/server';
 
 const LLMS_TEXT = `# Zephlo Tech
-> Digital Marketing & Web Development Agency
+> Digital Marketing, UI/UX Design & Web Development Agency
+> Full documentation: https://zephlotech.com/llms-full.txt
 
-Zephlo Tech helps brands grow with web design, web development, SEO, PPC, social media, and creative digital marketing built for results.
+Zephlo Tech helps brands grow with web design, full-stack web development, mobile apps, SEO, PPC, social media, and creative digital marketing built for results.
 
 ## Key Services
 - Web Design & UI/UX: https://zephlotech.com/services/web-design
@@ -14,11 +15,19 @@ Zephlo Tech helps brands grow with web design, web development, SEO, PPC, social
 - PPC & Google Ads: https://zephlotech.com/services/ppc-google-ads-management
 - Social Media Marketing: https://zephlotech.com/services/social-media-marketing-services
 - Creative Graphic Design: https://zephlotech.com/services/graphic-design
+- Domain & Hosting Consultation: https://zephlotech.com/domain-hosting
 
-## Pages
+## Key Pages
 - About Us: https://zephlotech.com/about-us
+- Portfolio: https://zephlotech.com/portfolio
 - Blog & Insights: https://zephlotech.com/blogs
+- Pay It Forward: https://zephlotech.com/pay-it-forward
 - Contact: https://zephlotech.com/contact
+
+## Social Profiles
+- Facebook: https://www.facebook.com/zephlotech
+- X: https://x.com/zephlotech
+- LinkedIn: https://www.linkedin.com/company/zephlo-tech
 `;
 
 export function GET() {

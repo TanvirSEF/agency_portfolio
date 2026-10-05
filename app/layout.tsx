@@ -7,6 +7,7 @@ import ClickSparkProvider from '@/components/common/ClickSparkProvider';
 import CrispChat from '@/components/CrispChat';
 import { getRouteMetadata } from '@/lib/canonical';
 import { getImageSeoSchemaGraph } from '@/lib/image-seo.server';
+import { getOrganizationSchema } from '@/lib/organization-seo';
 
 const geistSans = Geist({
   variable: '--font-geist-sans',
@@ -62,6 +63,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   const baseUrl = (process.env.NEXT_PUBLIC_SITE_URL ?? 'https://zephlotech.com').replace(/\/$/, '');
+  const organizationSchema = getOrganizationSchema(baseUrl);
+  const organizationJsonLd = JSON.stringify(organizationSchema);
   const imageSeoGraph = getImageSeoSchemaGraph(baseUrl, 'en');
   const imageSeoJsonLd = imageSeoGraph.length > 0
     ? JSON.stringify({ '@context': 'https://schema.org', '@graph': imageSeoGraph })
@@ -78,6 +81,10 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} ${poppins.variable} ${dmSans.variable} ${nunito.variable} flex min-h-screen flex-col antialiased`}
         suppressHydrationWarning
       >
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: organizationJsonLd }}
+        />
         {imageSeoJsonLd && (
           <script
             type="application/ld+json"
