@@ -5,7 +5,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { IoChevronDown } from "react-icons/io5";
 import { HiArrowUpRight } from "react-icons/hi2";
-import { FaFacebookF, FaInstagram, FaYoutube } from "react-icons/fa";
+import { FaFacebookF, FaInstagram, FaLinkedinIn, FaYoutube } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 import type { WebDevContent } from "@/revision-json-content/web-development/useWebDevContent";
 
@@ -29,6 +29,11 @@ const SOCIAL_LINKS = [
     href: "https://youtube.com",
     label: "YouTube",
     icon: FaYoutube,
+  },
+  {
+    href: "https://www.linkedin.com/company/zephlo-tech",
+    label: "LinkedIn",
+    icon: FaLinkedinIn,
   },
 ] as const;
 

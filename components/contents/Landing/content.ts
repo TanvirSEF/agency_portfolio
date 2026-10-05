@@ -484,6 +484,11 @@ export const contactSectionContent = {
                 href: 'https://youtube.com',
                 ariaLabel: 'YouTube',
             },
+            {
+                name: 'LinkedIn',
+                href: 'https://www.linkedin.com/company/zephlo-tech',
+                ariaLabel: 'LinkedIn',
+            },
         ],
     },
 };

@@ -5,6 +5,7 @@ import {
   Instagram,
   Facebook,
   Twitter,
+  Linkedin,
   Youtube,
   Mail,
   Phone,
@@ -121,7 +122,9 @@ export default function ContactSection({
                           ? Facebook
                           : social.name === 'Twitter'
                             ? Twitter
-                            : Youtube;
+                            : social.name === 'LinkedIn'
+                              ? Linkedin
+                              : Youtube;
                     return (
                       <Link
                         key={social.name}

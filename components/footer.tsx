@@ -136,7 +136,7 @@ export default function Footer() {
                     ),
                   },
                   { href: 'https://youtube.com', icon: Youtube, label: 'YouTube' },
-                  { href: 'https://linkedin.com', icon: Linkedin, label: 'LinkedIn' },
+                  { href: 'https://www.linkedin.com/company/zephlo-tech', icon: Linkedin, label: 'LinkedIn' },
                 ].map((item) => (
                   <Link
                     key={item.label}
