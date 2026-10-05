@@ -5,7 +5,7 @@
     "headingDesktop": "Build Custom Websites That Drive Growth",
     "description": "Get a modern, easy-to-use website design with Zephlo Tech's professional web design services. We design custom layouts that deliver smooth navigation and consistent experiences across all devices. Whether you need a design for your business site, landing page, or e-commerce store, our web design agency can help you. Grab your plan today, and launch a website that attracts users.",
     "buttonText": "Build Your Website",
-    "videoSrc": "/revision-images/web-development/ServiceHero/hero-video.mp4",
+    "videoSrc": "/service_hero.mp4",
     "splineUrl": "https://prod.spline.design/uEXBpVuveykV70S5/scene.splinecode"
   },
   "twoColumnSection": {
@@ -90,7 +90,7 @@
     "description": "At Zephlo Tech, we follow a clear and structured web design process to build websites that support real business growth. First, we learn about your goals and who will use your site.",
     "videoOverlayTitle": "Redefining Digital Possibilities",
     "videoOverlayDescription": "We design, build, and scale technology for the next generation.",
-    "videoSrc": "/revision-images/web-development/videos/ZEPHLO HOSTING-video.mp4",
+    "videoSrc": "/option2.mp4",
     "featureCards": [
       {
         "title": "Mobile-First & Responsive Layouts",
@@ -167,7 +167,7 @@
     "headingLine1": "Why Choose Us As Your",
     "headingLine2": "Web Design Company",
     "description": "At Zephlo Tech, we design websites that help businesses stand out and convert visitors into customers. Our expert web designers focus on user experience, visual clarity, and brand consistency to create websites that look great, feel intuitive, and perform across all devices.",
-    "videoSrc": "/revision-images/web-development/videos/ZEPHLO HOSTING-video.mp4",
+    "videoSrc": "/whychoose.mp4",
     "experienceTitle": "Experience we've\nachieved",
     "awardItems": [
       "7+ Years of Experience",
@@ -218,7 +218,7 @@
     "headingLine1": "Key Facts to Know About",
     "headingLine2": "Web Design Services",
     "subtitle": "Web design plays a key role in how users experience your brand online. Here are some important facts about professional web design:",
-    "videoSrc": "/revision-images/web-development/videos/ZEPHLO HOSTING-video.mp4",
+    "videoSrc": "/keyfact.mp4",
     "keyFacts": [
       {
         "id": "types-of-website-design-services",

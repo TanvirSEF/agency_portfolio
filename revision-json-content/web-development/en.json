@@ -5,7 +5,7 @@
     "headingDesktop": "Build Custom Websites That Drive Growth",
     "description": "Build fast, secure, and scalable websites with Zephlo Tech's professional web development services. We create custom websites that look great and work well on all devices.",
     "buttonText": "Build Your Website",
-    "videoSrc": "/revision-images/web-development/ServiceHero/hero-video.mp4",
+    "videoSrc": "/service_hero.mp4",
     "splineUrl": "https://prod.spline.design/uEXBpVuveykV70S5/scene.splinecode"
   },
   "twoColumnSection": {
@@ -90,7 +90,7 @@
     "description": "At Zephlo Tech, we follow a clear and structured web development process to build websites that support real business growth. First, we learn about your goals and who will use your site.",
     "videoOverlayTitle": "Redefining Digital Possibilities",
     "videoOverlayDescription": "We design, build, and scale technology for the next generation.",
-    "videoSrc": "/revision-images/web-development/videos/ZEPHLO HOSTING-video.mp4",
+    "videoSrc": "/option2.mp4",
     "featureCards": [
       {
         "title": "Full Responsive Website",
@@ -171,7 +171,7 @@
     "headingLine1": "Why Choose Us As Your",
     "headingLine2": "Web Agency",
     "description": "At Zephlo Tech, we don't just build websites; we create reliable digital platforms that support long-term business growth and success. Our expert developers combine strategy, clean code, and modern design to deliver websites that perform and scale with confidence.",
-    "videoSrc": "/revision-images/web-development/videos/ZEPHLO HOSTING-video.mp4",
+    "videoSrc": "/whychoose.mp4",
     "experienceTitle": "Experience we've\nachieved",
     "awardItems": [
       "7+ Years of Experienceest",
@@ -222,7 +222,7 @@
     "headingLine1": "Key Facts to Know About",
     "headingLine2": "Web Development",
     "subtitle": "Pay-Per-Click (PPC) marketing helps businesses quickly increase visibility and drive sales. Here are some key benefits:",
-    "videoSrc": "/revision-images/web-development/videos/ZEPHLO HOSTING-video.mp4",
+    "videoSrc": "/keyfact.mp4",
     "keyFacts": [
       {
         "id": "types-of-website-development-services",
