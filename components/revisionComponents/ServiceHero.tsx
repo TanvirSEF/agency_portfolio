@@ -44,7 +44,15 @@ class SplineErrorBoundary extends React.Component<
   }
 }
 
-function LazySpline({ className, sceneUrl }: { className?: string; sceneUrl: string }) {
+function LazySpline({
+  className,
+  sceneUrl,
+  filter,
+}: {
+  className?: string;
+  sceneUrl: string;
+  filter?: string;
+}) {
   const containerRef = useRef<HTMLDivElement>(null);
   const splineRef = useRef<any>(null);
   const [isVisible, setIsVisible] = useState(false);
@@ -82,7 +90,10 @@ function LazySpline({ className, sceneUrl }: { className?: string; sceneUrl: str
     <div
       ref={containerRef}
       className={`pointer-events-none ${className ?? ""}`}
-      style={{ willChange: "transform" }}
+      style={{
+        willChange: "transform",
+        ...(filter ? { filter } : {}),
+      }}
     >
       {shouldMount && (
         <SplineErrorBoundary>
@@ -297,9 +308,29 @@ const heroAnimStyle = (delay: number): React.CSSProperties => ({
   animation: `heroFadeUp 0.7s cubic-bezier(0.25, 1, 0.5, 1) ${delay}ms forwards`,
 });
 
-export default function ServiceHero({ content }: { content: WebDevContent["serviceHero"] }) {
+export interface ServiceHeroContent {
+  badge: string;
+  headingMobile: string[];
+  headingDesktop: string;
+  description: string;
+  buttonText: string;
+  videoSrc: string;
+  splineUrl: string;
+  splineFilter?: string;
+}
+
+export interface ServiceHeroProps {
+  content: ServiceHeroContent | WebDevContent["serviceHero"];
+  splineFilter?: string;
+}
+
+export default function ServiceHero({
+  content,
+  splineFilter = "hue-rotate(-65deg) saturate(1.2)",
+}: ServiceHeroProps) {
   const isDesktop = useIsDesktop();
   const [webglKey, setWebglKey] = useState(0);
+  const activeSplineFilter = (content as any)?.splineFilter ?? splineFilter;
 
   useEffect(() => {
     const bump = () => setWebglKey((k) => k + 1);
@@ -371,7 +402,12 @@ export default function ServiceHero({ content }: { content: WebDevContent["servi
 
           <div className="relative mx-auto mt-8 w-full max-w-[390px]" style={heroAnimStyle(350)}>
             {!isDesktop && (
-              <LazySpline key={`spline-mobile-${webglKey}`} sceneUrl={content.splineUrl} className="pointer-events-none absolute -right-[48%] top-[-250px] z-10 h-[520px] w-[520px]" />
+              <LazySpline
+                key={`spline-mobile-${webglKey}`}
+                sceneUrl={content.splineUrl}
+                filter={activeSplineFilter}
+                className="pointer-events-none absolute -right-[48%] top-[-250px] z-10 h-[520px] w-[520px]"
+              />
             )}
 
             <HeroVideoPlayer containerClassName="relative z-20 mx-auto mt-[136px] w-[calc(100%-0.35rem)]" videoSrc={content.videoSrc} />
@@ -423,7 +459,12 @@ export default function ServiceHero({ content }: { content: WebDevContent["servi
           <div className="relative mx-auto w-full max-w-[1060px]" style={heroAnimStyle(400)}>
             <div className="relative ml-auto aspect-[1/0.75] w-full max-w-[820px] overflow-visible">
               {isDesktop && (
-                <LazySpline key={`spline-desktop-${webglKey}`} sceneUrl={content.splineUrl} className="absolute -inset-[35%] -top-[55%]" />
+                <LazySpline
+                  key={`spline-desktop-${webglKey}`}
+                  sceneUrl={content.splineUrl}
+                  filter={activeSplineFilter}
+                  className="absolute -inset-[35%] -top-[55%]"
+                />
               )}
 
               <HeroVideoPlayer containerClassName="absolute left-[75%] top-[68%] z-30 w-[43%] min-w-[270px] max-w-[330px] -translate-x-1/2 -translate-y-1/2 rounded-[16px]" videoSrc={content.videoSrc} />

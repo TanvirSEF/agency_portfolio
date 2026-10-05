@@ -6,7 +6,8 @@
     "description": "Build fast, secure, and scalable mobile and web applications with Zephlo Tech's professional app development services. We create custom apps that deliver seamless experiences across all devices and platforms.",
     "buttonText": "Build Your App",
     "videoSrc": "/revision-images/web-development/ServiceHero/hero-video.mp4",
-    "splineUrl": "https://prod.spline.design/uEXBpVuveykV70S5/scene.splinecode"
+    "splineUrl": "https://prod.spline.design/uEXBpVuveykV70S5/scene.splinecode",
+    "splineFilter": "hue-rotate(-65deg) saturate(1.2)"
   },
   "twoColumnSection": {
     "badge": "A Reliable App Development Company",
