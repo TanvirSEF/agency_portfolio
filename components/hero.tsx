@@ -80,13 +80,13 @@ export default function Hero({
 
   return (
     <motion.section
-      className="relative h-[max-content] bg-[#0A192F] pb-[3rem]"
+      className="relative flex min-h-[58vh] lg:min-h-[68vh] items-center bg-[#0A192F] py-10 sm:py-14 lg:py-16"
       initial={false}
       animate={{ opacity: 1 }}
       transition={{ duration: 0.55, ease: easeOut }}
     >
-      <div className="relative z-10 container mx-auto flex flex-col gap-18 px-6 pt-8 sm:pt-10 lg:pt-12">
-        <div className="flex w-full flex-col items-center justify-between gap-8 lg:flex-row lg:items-center">
+      <div className="container relative z-10 mx-auto flex w-full flex-col px-6 sm:px-8 lg:px-12">
+        <div className="flex w-full flex-col items-center justify-between gap-10 lg:flex-row lg:items-center xl:gap-14">
           <motion.div
             className="flex flex-1 flex-col items-center gap-4 lg:items-start xl:flex-5"
             initial={{ y: 28, opacity: 0 }}
@@ -164,7 +164,7 @@ export default function Hero({
             transition={{ delay: 0.22, duration: 0.75, ease: easeOut }}
           >
             <motion.div
-              className="group relative aspect-[3/2] w-full max-w-[540px] overflow-hidden rounded-2xl border border-white/10 bg-white/5 p-1.5 shadow-2xl shadow-black/40 backdrop-blur-sm transition-all duration-300 hover:border-[#0474C4]/50"
+              className="group relative aspect-[3/2] w-full max-w-[520px] overflow-hidden rounded-2xl border border-white/10 bg-white/5 p-1.5 shadow-2xl shadow-black/40 backdrop-blur-sm transition-all duration-300 hover:border-[#0474C4]/50"
               initial={{ y: 20, opacity: 0 }}
               animate={{ y: 0, opacity: 1 }}
               transition={{ delay: 0.3, duration: 0.6, ease: easeOut }}
