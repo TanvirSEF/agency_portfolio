@@ -100,7 +100,7 @@ export const videoSectionContentPayItForward = {
     'Zephlo Tech offers more than just marketing and development. We provide expert hosting and cloud infrastructure consultation to help you choose, configure, and optimize the perfect hosting environment tailored to your business needs, ensuring high performance, 99.9% uptime, and complete peace of mind.',
   buttonText: 'Hosting Consultation',
   buttonLink: '/domain-hosting',
-  videoPath: '/whychoose.mp4',
+  videoPath: '/about_agency.mp4',
 };
 
 export const bookConsultantContentPayItForward = {
